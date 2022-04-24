@@ -1,0 +1,4 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+110919,ED479624B90476FF,docked_bike,2021-02-27 14:21:49,2021-02-27 15:03:10,44 St & 2 Ave,3356,44 St & 2 Ave,3356,40.652502,-74.013587,40.652502,-74.013587,member
+112331,3EEE23FB3A04CB7F,docked_bike,2021-02-26 10:41:29,2021-02-26 11:07:25,Eastern Pkwy & Washington Ave,3928,44 St & 2 Ave,3356,40.671649,-73.963114,40.652502,-74.013587,member
+223918,98F72FE93B0032BA,docked_bike,2021-02-26 15:39:50,2021-02-26 15:46:27,44 St & 2 Ave,3356,44 St & 6 Ave,3233,40.652502,-74.013587,40.647105,-74.004483,member
