@@ -1,0 +1,299 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+26600,79F0D2A121ED6FA1,classic_bike,2021-06-23 10:12:24,2021-06-23 10:24:19,Van Buren St & Broadway,4568,Metropolitan Ave & Vandervoort Ave,5241,40.692,-73.92617,40.71429,-73.93323,casual
+26714,4D29C6E2757646FB,docked_bike,2021-06-07 16:25:10,2021-06-07 16:40:47,Banker St & Meserole Ave,5633,Metropolitan Ave & Vandervoort Ave,5241,40.72606,-73.95621,40.71429,-73.93323,member
+26860,B402A7F5798CF9D6,docked_bike,2021-06-21 08:47:21,2021-06-21 08:56:23,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+26880,8EBDB7ADB903FFA0,classic_bike,2021-06-26 14:42:35,2021-06-26 14:53:58,Division Ave & Hooper St,5045,Metropolitan Ave & Vandervoort Ave,5241,40.70684203101325,-73.9544353965357,40.71429,-73.93323,member
+27570,7B8777EC7829F7FC,electric_bike,2021-06-03 19:37:12,2021-06-03 20:18:06,Bushwick Ave & Harman St,4640,Metropolitan Ave & Vandervoort Ave,5241,40.69356,-73.92524,40.71429,-73.93323,casual
+27589,3842634BE8D04CC6,electric_bike,2021-06-04 07:50:41,2021-06-04 07:55:03,Montrose Ave & Bushwick Ave,5068,Metropolitan Ave & Vandervoort Ave,5241,40.707677,-73.940161,40.71429,-73.93323,casual
+28144,F372C094DDE825D2,electric_bike,2021-06-19 20:04:22,2021-06-19 20:30:09,St Marks Pl & 1 Ave,5626,Metropolitan Ave & Vandervoort Ave,5241,40.72779126,-73.98564945,40.71429,-73.93323,casual
+67321,67FFC75D5CE56D35,docked_bike,2021-06-11 19:36:05,2021-06-11 19:52:30,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Harman St,4856,40.71429,-73.93323,40.70108,-73.9179,casual
+67354,74C8DF493CE44AE8,electric_bike,2021-06-18 23:38:34,2021-06-18 23:48:09,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Harman St,4856,40.71429,-73.93323,40.70108,-73.9179,member
+93036,FD8D8B90F9D61695,electric_bike,2021-06-23 16:51:05,2021-06-23 16:55:31,Metropolitan Ave & Vandervoort Ave,5241,Powers St & Olive St,5210,40.71429,-73.93323,40.71323,-73.93894,casual
+139619,703F16FBB52EC131,docked_bike,2021-06-10 17:15:27,2021-06-10 17:24:20,Metropolitan Ave & Vandervoort Ave,5241,Driggs Ave & N Henry St,5542,40.71429,-73.93323,40.72325,-73.94308,member
+140039,557A591FD548281A,docked_bike,2021-06-15 17:03:46,2021-06-15 17:45:52,62 St & Northern Blvd,6536,Metropolitan Ave & Vandervoort Ave,5241,40.754176,-73.900318,40.71429,-73.93323,member
+140674,CDAA5CA114BF9E71,classic_bike,2021-06-23 14:13:13,2021-06-23 14:34:40,Monroe St & Bedford Ave,4368,Metropolitan Ave & Vandervoort Ave,5241,40.6851443,-73.95380904,40.71429,-73.93323,casual
+140732,DAFAEB39A2BFDF8B,docked_bike,2021-06-18 15:09:41,2021-06-18 15:12:22,Devoe St & Morgan Ave,5282,Metropolitan Ave & Vandervoort Ave,5241,40.713811,-73.93515,40.71429,-73.93323,member
+140978,9D591C5AA8A08C91,electric_bike,2021-06-20 17:22:06,2021-06-20 17:49:57,34 Ave & 31 St,6720,Metropolitan Ave & Vandervoort Ave,5241,40.759604,-73.927144,40.71429,-73.93323,member
+141250,D5E8861688AEC459,classic_bike,2021-06-27 18:57:27,2021-06-27 19:04:13,Leonard St & Maujer St,5148,Metropolitan Ave & Vandervoort Ave,5241,40.7103685423523,-73.94705951213837,40.71429,-73.93323,member
+141251,4265BFDCE861F97E,classic_bike,2021-06-27 08:43:18,2021-06-27 08:48:30,Leonard St & Maujer St,5148,Metropolitan Ave & Vandervoort Ave,5241,40.7103685423523,-73.94705951213837,40.71429,-73.93323,member
+141267,BBE62572EFA4A8B0,docked_bike,2021-06-15 09:25:29,2021-06-15 09:35:41,Fairview Ave & Linden St,5066,Metropolitan Ave & Vandervoort Ave,5241,40.70694,-73.90632,40.71429,-73.93323,member
+141327,9EE39B4F84084E0C,classic_bike,2021-06-17 17:42:47,2021-06-17 18:09:38,Nassau Ave & Newell St,5623,Metropolitan Ave & Vandervoort Ave,5241,40.724812564400175,-73.94752621650696,40.71429,-73.93323,member
+141498,250A0A41532528E8,electric_bike,2021-06-24 07:38:19,2021-06-24 07:48:20,Hope St & Union Ave,5187,Metropolitan Ave & Vandervoort Ave,5241,40.71167351,-73.95141312,40.71429,-73.93323,member
+142011,BDED28363E25A51A,docked_bike,2021-06-13 12:00:44,2021-06-13 12:16:04,Madison St & Woodward Ave,4954,Metropolitan Ave & Vandervoort Ave,5241,40.70408,-73.90408,40.71429,-73.93323,casual
+142038,9DC841C8F033B5C1,electric_bike,2021-06-01 18:07:11,2021-06-01 18:24:45,Calyer St & Jewel St,5743,Metropolitan Ave & Vandervoort Ave,5241,40.72984,-73.94839,40.71429,-73.93323,casual
+142268,B2F90D9E78D9EF61,electric_bike,2021-06-18 16:05:03,2021-06-18 16:20:25,Graham Ave & Withers St,5403,Metropolitan Ave & Vandervoort Ave,5241,40.716981,-73.944859,40.71429,-73.93323,casual
+168353,EF7379EE03CEB13A,docked_bike,2021-06-06 19:35:10,2021-06-06 19:40:23,Metropolitan Ave & Vandervoort Ave,5241,Powers St & Olive St,5210,40.71429,-73.93323,40.71323,-73.93894,member
+188306,96546C4BE6721235,docked_bike,2021-06-17 17:13:23,2021-06-17 18:38:37,Metropolitan Ave & Vandervoort Ave,5241,Cypress Ave & Palmetto St,4921,40.71429,-73.93323,40.70157340873792,-73.90876293182373,casual
+211919,77EBB4063F199003,classic_bike,2021-06-21 14:16:30,2021-06-21 14:23:28,Metropolitan Ave & Vandervoort Ave,5241,Stewart Ave & Johnson Ave,5123,40.71429,-73.93323,40.70869,-73.92587,casual
+211934,F43AEFC6B1370F5A,docked_bike,2021-06-15 13:26:35,2021-06-15 13:36:39,Metropolitan Ave & Vandervoort Ave,5241,Grand St & Havemeyer St,5267,40.71429,-73.93323,40.71286844,-73.95698119,casual
+227066,F162AFBA0D634872,docked_bike,2021-06-15 18:07:48,2021-06-15 18:58:00,Metropolitan Ave & Vandervoort Ave,5241,Prospect Park SW & 16 St,3498,40.71429,-73.93323,40.657265,-73.974165,member
+282880,ED276B6FCEB78AEA,docked_bike,2021-06-03 14:26:55,2021-06-03 14:38:31,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+322307,B5D544ACC6DBC9EB,classic_bike,2021-06-24 17:16:50,2021-06-24 17:27:26,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+323497,C8D3C0CEF6D61E9D,classic_bike,2021-06-22 17:25:10,2021-06-22 17:35:16,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+346757,376083712E7B030B,docked_bike,2021-06-15 01:51:45,2021-06-15 01:58:49,Metropolitan Ave & Vandervoort Ave,5241,Powers St & Olive St,5210,40.71429,-73.93323,40.71323,-73.93894,casual
+346759,C9E29FF12A411160,classic_bike,2021-06-25 14:24:34,2021-06-25 14:28:57,Metropolitan Ave & Vandervoort Ave,5241,Powers St & Olive St,5210,40.71429,-73.93323,40.71323,-73.93894,member
+383724,2182FDC058FA9471,docked_bike,2021-06-04 15:39:56,2021-06-04 15:50:01,Metropolitan Ave & Vandervoort Ave,5241,Grand St & Havemeyer St,5267,40.71429,-73.93323,40.71286844,-73.95698119,casual
+385936,83B765C673E44823,docked_bike,2021-06-12 20:23:06,2021-06-12 20:28:44,Metropolitan Ave & Vandervoort Ave,5241,Stewart Ave & Johnson Ave,5123,40.71429,-73.93323,40.70869,-73.92587,casual
+386061,536EC6E350C04D02,docked_bike,2021-06-18 14:54:02,2021-06-18 15:00:23,Metropolitan Ave & Vandervoort Ave,5241,Stewart Ave & Johnson Ave,5123,40.71429,-73.93323,40.70869,-73.92587,casual
+422196,602EBC9C90A8D9BF,docked_bike,2021-06-01 09:22:27,2021-06-01 09:28:10,Metropolitan Ave & Vandervoort Ave,5241,Devoe St & Lorimer St,5259,40.71429,-73.93323,40.71335226222875,-73.9491033554077,casual
+483503,7DD1FBD3F2E5C011,classic_bike,2021-06-30 18:42:27,2021-06-30 18:47:14,Metropolitan Ave & Vandervoort Ave,5241,Stagg St & Morgan Ave,5170,40.71429,-73.93323,40.710681,-73.93372,member
+485226,DFFC150A92AD514F,classic_bike,2021-06-30 19:42:29,2021-06-30 19:45:48,Metropolitan Ave & Vandervoort Ave,5241,Stagg St & Morgan Ave,5170,40.71429,-73.93323,40.710681,-73.93372,casual
+522158,2C700583CB0B8A1E,electric_bike,2021-06-21 18:41:26,2021-06-21 19:16:08,Metropolitan Ave & Vandervoort Ave,5241,7 St & 3 Ave,3996,40.71429,-73.93323,40.67260298150126,-73.98983001708984,member
+522168,686956E651A341E9,electric_bike,2021-06-30 11:15:45,2021-06-30 11:39:29,Metropolitan Ave & Vandervoort Ave,5241,Park Pl & Franklin Ave,4033,40.71429,-73.93323,40.6741806,-73.9564947,member
+549084,457EC1FCF23B92A9,docked_bike,2021-06-07 19:00:26,2021-06-07 19:13:09,Metropolitan Ave & Vandervoort Ave,5241,Van Buren St & Broadway,4568,40.71429,-73.93323,40.692,-73.92617,casual
+549101,C142C1FD30330412,docked_bike,2021-06-14 20:16:09,2021-06-14 20:28:39,Metropolitan Ave & Vandervoort Ave,5241,Van Buren St & Broadway,4568,40.71429,-73.93323,40.692,-73.92617,casual
+555869,42D5EB8392C51B0B,classic_bike,2021-06-30 17:46:01,2021-06-30 18:00:55,Metropolitan Ave & Vandervoort Ave,5241,Van Buren St & Broadway,4568,40.71429,-73.93323,40.692,-73.92617,casual
+555912,650F8899E222C701,classic_bike,2021-06-23 17:42:10,2021-06-23 17:58:17,Metropolitan Ave & Vandervoort Ave,5241,Van Buren St & Broadway,4568,40.71429,-73.93323,40.692,-73.92617,casual
+557117,BCCAC19DAF315878,classic_bike,2021-06-28 17:43:00,2021-06-28 17:57:40,Metropolitan Ave & Vandervoort Ave,5241,Van Buren St & Broadway,4568,40.71429,-73.93323,40.692,-73.92617,casual
+571596,4E270B05F78BD376,electric_bike,2021-06-26 09:35:12,2021-06-26 09:42:43,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Forrest St,4914,40.71429,-73.93323,40.70076,-73.93641,casual
+582221,241A762E0351C1CE,classic_bike,2021-06-24 19:01:24,2021-06-24 19:11:53,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Forrest St,4914,40.71429,-73.93323,40.70076,-73.93641,member
+589294,4B8142F54704AFC3,docked_bike,2021-06-08 17:22:52,2021-06-08 17:32:05,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+589295,198F96E84FC89939,docked_bike,2021-06-10 17:22:08,2021-06-10 17:32:11,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+589296,374257D8011BF67B,docked_bike,2021-06-07 17:27:18,2021-06-07 17:37:06,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+589297,B397305B2206D8A5,docked_bike,2021-06-11 17:07:27,2021-06-11 17:16:45,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+592436,1CFE18BBE67F074D,classic_bike,2021-06-21 17:07:35,2021-06-21 17:17:44,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+592450,A34B3409C42AE1FE,electric_bike,2021-06-20 17:51:41,2021-06-20 18:02:52,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+597056,373B69EA530F4C4F,classic_bike,2021-06-23 17:15:53,2021-06-23 17:26:35,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+597057,B55F9906055F965B,classic_bike,2021-06-25 18:25:12,2021-06-25 18:36:09,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+597908,CDC5D9A1B0B6B0C5,docked_bike,2021-06-03 17:15:25,2021-06-03 17:24:49,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+597909,DBF35086BC89F8ED,docked_bike,2021-06-09 17:12:04,2021-06-09 17:22:32,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+602743,C2FB61585766757A,docked_bike,2021-06-04 17:28:57,2021-06-04 17:38:12,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+602745,F91DA614ACDDD276,docked_bike,2021-06-02 17:26:54,2021-06-02 17:36:24,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+603055,AE81A27FE5DD9293,classic_bike,2021-06-28 17:21:19,2021-06-28 17:31:30,Metropolitan Ave & Vandervoort Ave,5241,Putnam Ave & Knickerbocker Ave,4663,40.71429,-73.93323,40.69545,-73.91164,member
+618375,7C943B653C733067,docked_bike,2021-06-11 20:09:41,2021-06-11 20:24:19,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Flushing Ave,4947,40.71429,-73.93323,40.702831,-73.9333,member
+621391,C70C6C7E5D5C2C9C,docked_bike,2021-06-07 14:52:06,2021-06-07 15:00:12,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Flushing Ave,4947,40.71429,-73.93323,40.702831,-73.9333,member
+644488,CABA4E96DA47F291,docked_bike,2021-06-13 11:50:17,2021-06-13 12:04:01,Metropolitan Ave & Vandervoort Ave,5241,Myrtle Ave & Grove St,4816,40.71429,-73.93323,40.69905,-73.91516,member
+679795,796BE244C4EE8ADD,docked_bike,2021-06-15 12:47:48,2021-06-15 12:53:12,Metropolitan Ave & Vandervoort Ave,5241,Graham Ave & Grand St,5178,40.71429,-73.93323,40.711863,-73.944024,member
+679808,EF246F87DDECE0CF,classic_bike,2021-06-26 16:02:06,2021-06-26 16:09:14,Metropolitan Ave & Vandervoort Ave,5241,McKibbin St & Bogart St,5059,40.71429,-73.93323,40.706237,-73.933871,casual
+679838,B6ED7E1D9AA26E9D,electric_bike,2021-06-04 16:13:58,2021-06-04 16:19:58,Metropolitan Ave & Vandervoort Ave,5241,McKibbin St & Bogart St,5059,40.71429,-73.93323,40.706237,-73.933871,member
+687174,B351D9DE270FE950,docked_bike,2021-06-19 19:36:43,2021-06-19 19:47:30,Metropolitan Ave & Vandervoort Ave,5241,Graham Ave & Grand St,5178,40.71429,-73.93323,40.711863,-73.944024,member
+687192,DE398B3785DDCE24,docked_bike,2021-06-07 19:09:44,2021-06-07 19:15:19,Metropolitan Ave & Vandervoort Ave,5241,Morgan Ave & Lombardy St,5503,40.71429,-73.93323,40.72226,-73.93889,member
+688580,CF02556212ECD818,electric_bike,2021-06-12 15:07:16,2021-06-12 15:14:59,Metropolitan Ave & Vandervoort Ave,5241,Morgan Ave & Lombardy St,5503,40.71429,-73.93323,40.72226,-73.93889,casual
+689328,E681D9772CCA0E52,docked_bike,2021-06-15 09:36:21,2021-06-15 09:40:36,Metropolitan Ave & Vandervoort Ave,5241,Graham Ave & Grand St,5178,40.71429,-73.93323,40.711863,-73.944024,member
+724837,A7DC5231FF2F9853,classic_bike,2021-06-22 11:21:38,2021-06-22 11:32:18,Metropolitan Ave & Vandervoort Ave,5241,Flushing Ave & Woodward Ave,5225,40.71429,-73.93323,40.71246,-73.91873,casual
+724857,334A5CD5F28ECD75,classic_bike,2021-06-27 18:39:03,2021-06-27 18:42:11,Metropolitan Ave & Vandervoort Ave,5241,Sharon St & Olive St,5323,40.71429,-73.93323,40.715353,-73.93856,member
+724930,7750D207C5A78CB9,docked_bike,2021-06-07 16:27:25,2021-06-07 16:33:53,Metropolitan Ave & Vandervoort Ave,5241,Flushing Ave & Woodward Ave,5225,40.71429,-73.93323,40.71246,-73.91873,casual
+726460,5302F715C1734A18,classic_bike,2021-06-21 13:50:10,2021-06-21 13:56:28,Metropolitan Ave & Vandervoort Ave,5241,Flushing Ave & Woodward Ave,5225,40.71429,-73.93323,40.71246,-73.91873,casual
+734856,00989E3E622FB11E,electric_bike,2021-06-24 13:25:11,2021-06-24 13:34:48,Metropolitan Ave & Vandervoort Ave,5241,Flushing Ave & Woodward Ave,5225,40.71429,-73.93323,40.71246,-73.91873,casual
+736055,9232487139CDFB45,docked_bike,2021-06-17 12:36:34,2021-06-17 12:54:31,Roebling St & N 4 St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.71469,-73.95739,40.71429,-73.93323,casual
+736064,D8A6CDB4BBEF6706,docked_bike,2021-06-16 12:00:43,2021-06-16 12:16:38,Roebling St & N 4 St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.71469,-73.95739,40.71429,-73.93323,casual
+736758,8A9C982DE36C0737,electric_bike,2021-06-12 13:57:04,2021-06-12 14:03:52,McKibbin St & Manhattan Ave,4996,Metropolitan Ave & Vandervoort Ave,5241,40.705109,-73.944072,40.71429,-73.93323,member
+736805,DCF70EB9DF6EA45F,docked_bike,2021-06-18 15:07:37,2021-06-18 15:24:51,Suydam St & Broadway,4689,Metropolitan Ave & Vandervoort Ave,5241,40.69544,-73.93223,40.71429,-73.93323,member
+737573,9956E3EB22ABF88C,electric_bike,2021-06-18 14:57:51,2021-06-18 15:02:06,Graham Ave & Conselyea St,5291,Metropolitan Ave & Vandervoort Ave,5241,40.715143,-73.944507,40.71429,-73.93323,member
+737652,5791F6FB9903A441,classic_bike,2021-06-21 12:18:57,2021-06-21 12:28:03,Graham Ave & Conselyea St,5291,Metropolitan Ave & Vandervoort Ave,5241,40.715143,-73.944507,40.71429,-73.93323,casual
+737660,CD9C5C19C4618CCD,docked_bike,2021-06-01 15:11:54,2021-06-01 15:20:28,Irving Ave & Jefferson St,5051,Metropolitan Ave & Vandervoort Ave,5241,40.70538,-73.92535,40.71429,-73.93323,casual
+737781,368CE2D5F67FC542,electric_bike,2021-06-11 17:08:37,2021-06-11 17:21:24,Green St & McGuinness Blvd,5860,Metropolitan Ave & Vandervoort Ave,5241,40.73396,-73.95204,40.71429,-73.93323,member
+737965,678AE730E1EF0D8C,classic_bike,2021-06-25 22:35:02,2021-06-25 22:40:45,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,member
+737980,38CD60AF9CCF8396,classic_bike,2021-06-29 18:10:14,2021-06-29 18:15:20,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,member
+737994,D1C68856DF661468,classic_bike,2021-06-25 20:36:34,2021-06-25 21:06:54,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,member
+738275,51A11010DA08128F,docked_bike,2021-06-17 16:50:14,2021-06-17 17:12:34,Madison St & Seneca Ave,4880,Metropolitan Ave & Vandervoort Ave,5241,40.70183,-73.90625,40.71429,-73.93323,casual
+738536,86ADEE77EBCB2CB6,docked_bike,2021-06-06 17:11:02,2021-06-06 17:23:34,Madison St & Seneca Ave,4880,Metropolitan Ave & Vandervoort Ave,5241,40.70183,-73.90625,40.71429,-73.93323,casual
+738670,9F732E69E0A5D661,classic_bike,2021-06-22 12:09:42,2021-06-22 12:49:09,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Vandervoort Ave,5241,40.71429,-73.93323,40.71429,-73.93323,casual
+738774,B6CF4A61656DE03F,classic_bike,2021-06-29 17:31:16,2021-06-29 17:47:57,Calyer St & Jewel St,5743,Metropolitan Ave & Vandervoort Ave,5241,40.72984,-73.94839,40.71429,-73.93323,member
+738821,E56BAAB15CC267B2,docked_bike,2021-06-08 10:16:10,2021-06-08 10:26:46,N 6 St & Bedford Ave,5379,Metropolitan Ave & Vandervoort Ave,5241,40.717451,-73.958509,40.71429,-73.93323,member
+738940,8A32C330FE467480,classic_bike,2021-06-19 09:12:12,2021-06-19 09:31:21,43 St & Broadway,6670,Metropolitan Ave & Vandervoort Ave,5241,40.7577284,-73.9166368,40.71429,-73.93323,member
+739338,C61D8D0FDECADE47,classic_bike,2021-06-24 18:23:12,2021-06-24 19:01:01,Steinway St & 28 Ave,6915,Metropolitan Ave & Vandervoort Ave,5241,40.7656251,-73.9136695,40.71429,-73.93323,member
+739852,4C7AE08BB3034AFF,docked_bike,2021-06-01 09:13:34,2021-06-01 09:40:14,Willoughby St & Fleet St,4628,Metropolitan Ave & Vandervoort Ave,5241,40.691965,-73.981301,40.71429,-73.93323,casual
+740110,80C6FA0593160ECB,classic_bike,2021-06-28 15:51:18,2021-06-28 16:17:51,Wythe Ave & Metropolitan Ave,5348,Metropolitan Ave & Vandervoort Ave,5241,40.716887,-73.963198,40.71429,-73.93323,member
+740179,2948397A1B94DD9A,electric_bike,2021-06-24 11:45:03,2021-06-24 12:25:45,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Vandervoort Ave,5241,40.71429,-73.93323,40.71429,-73.93323,casual
+740180,97DF8583CF1391BC,electric_bike,2021-06-23 12:46:39,2021-06-23 13:25:22,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Vandervoort Ave,5241,40.71429,-73.93323,40.71429,-73.93323,casual
+740529,FD4ED00EE8287506,classic_bike,2021-06-27 06:15:08,2021-06-27 06:20:11,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,member
+740919,0026764F683CE340,docked_bike,2021-06-07 10:54:30,2021-06-07 11:07:24,Van Buren St & Broadway,4568,Metropolitan Ave & Vandervoort Ave,5241,40.692,-73.92617,40.71429,-73.93323,casual
+741068,54D10242F54A7B69,classic_bike,2021-06-27 12:16:31,2021-06-27 12:21:00,Bushwick Ave & Powers St,5250,Metropolitan Ave & Vandervoort Ave,5241,40.71247661,-73.94100005,40.71429,-73.93323,member
+741123,6689772DB296C9FB,docked_bike,2021-06-18 15:10:17,2021-06-18 15:12:13,Devoe St & Morgan Ave,5282,Metropolitan Ave & Vandervoort Ave,5241,40.713811,-73.93515,40.71429,-73.93323,member
+741641,9CAB3719932757BB,electric_bike,2021-06-11 13:25:41,2021-06-11 13:48:45,Hanson Pl & Ashland Pl,4395,Metropolitan Ave & Vandervoort Ave,5241,40.685068,-73.977907,40.71429,-73.93323,casual
+741936,622BE4675D692C33,classic_bike,2021-06-16 16:45:23,2021-06-16 16:55:50,Fairview Ave & Linden St,5066,Metropolitan Ave & Vandervoort Ave,5241,40.70694,-73.90632,40.71429,-73.93323,casual
+742417,DE55C2308695E040,electric_bike,2021-06-26 21:35:02,2021-06-26 22:02:15,Berry St & N 8 St,5379,Metropolitan Ave & Vandervoort Ave,5241,40.7190095,-73.95852515,40.71429,-73.93323,casual
+742467,39BE757E1F6A8DE7,docked_bike,2021-06-26 21:40:15,2021-06-26 22:01:58,Berry St & N 8 St,5379,Metropolitan Ave & Vandervoort Ave,5241,40.71901,-73.958525,40.71429,-73.93323,casual
+742807,DC16EDE7DC2C53C5,electric_bike,2021-06-22 12:40:53,2021-06-22 12:46:54,Driggs Ave & N Henry St,5542,Metropolitan Ave & Vandervoort Ave,5241,40.72325,-73.94308,40.71429,-73.93323,casual
+742844,B150432C35ADD6B2,docked_bike,2021-06-15 10:44:55,2021-06-15 10:54:31,Scholes St & Manhattan Ave,5108,Metropolitan Ave & Vandervoort Ave,5241,40.708703,-73.944862,40.71429,-73.93323,casual
+743081,BB0AE02448EC96E3,electric_bike,2021-06-13 00:26:04,2021-06-13 00:42:22,Putnam Ave & Throop Ave,4392,Metropolitan Ave & Vandervoort Ave,5241,40.685153,-73.94111,40.71429,-73.93323,casual
+743641,07A491BF578E8EA7,docked_bike,2021-06-04 14:06:36,2021-06-04 14:16:19,McKibbin St & Bogart St,5059,Metropolitan Ave & Vandervoort Ave,5241,40.706237,-73.933871,40.71429,-73.93323,member
+743653,90953DBB437D7484,classic_bike,2021-06-26 15:46:20,2021-06-26 15:51:53,McKibbin St & Bogart St,5059,Metropolitan Ave & Vandervoort Ave,5241,40.706237,-73.933871,40.71429,-73.93323,casual
+743676,9C8BBA5E78AD978D,electric_bike,2021-06-21 17:58:38,2021-06-21 18:03:09,McKibbin St & Bogart St,5059,Metropolitan Ave & Vandervoort Ave,5241,40.706237,-73.933871,40.71429,-73.93323,member
+743763,1D41CCCD8AB4ED99,docked_bike,2021-06-17 13:13:16,2021-06-17 13:23:14,White St & Moore St,4987,Metropolitan Ave & Vandervoort Ave,5241,40.704508,-73.9351,40.71429,-73.93323,member
+744063,093B849BDA4025E2,classic_bike,2021-06-17 18:09:52,2021-06-17 18:26:22,Madison St & Evergreen Ave,4560,Metropolitan Ave & Vandervoort Ave,5241,40.69122,-73.91693,40.71429,-73.93323,casual
+744593,7A11401464C78545,electric_bike,2021-06-17 17:05:28,2021-06-17 17:10:28,Devoe St & Lorimer St,5259,Metropolitan Ave & Vandervoort Ave,5241,40.713352,-73.949103,40.71429,-73.93323,member
+744808,DC973609F04B8528,docked_bike,2021-06-06 09:18:45,2021-06-06 09:27:29,McKibbin St & Bogart St,5059,Metropolitan Ave & Vandervoort Ave,5241,40.706237,-73.933871,40.71429,-73.93323,member
+745546,EA1CF7BB5D87B30F,electric_bike,2021-06-18 13:40:48,2021-06-18 14:45:28,E 2 St & Avenue B,5515,Metropolitan Ave & Vandervoort Ave,5241,40.722174,-73.983687,40.71429,-73.93323,member
+745822,193DBF4D483AD053,docked_bike,2021-06-09 10:32:45,2021-06-09 10:49:35,Kingston Ave & Herkimer St,4205,Metropolitan Ave & Vandervoort Ave,5241,40.678906,-73.941427,40.71429,-73.93323,casual
+746209,7B08770E6FD0E121,docked_bike,2021-06-15 14:36:04,2021-06-15 15:18:02,Bushwick Ave & Stagg St,5140,Metropolitan Ave & Vandervoort Ave,5241,40.709897,-73.94008,40.71429,-73.93323,member
+746239,C2E27070541CBAE8,classic_bike,2021-06-30 19:28:56,2021-06-30 19:32:45,Graham Ave & Conselyea St,5291,Metropolitan Ave & Vandervoort Ave,5241,40.715143,-73.944507,40.71429,-73.93323,member
+746256,3314CE8296494610,electric_bike,2021-06-27 14:55:57,2021-06-27 14:59:32,Graham Ave & Conselyea St,5291,Metropolitan Ave & Vandervoort Ave,5241,40.715143,-73.944507,40.71429,-73.93323,member
+746696,A845BE69EAB1A1CE,classic_bike,2021-06-30 14:07:49,2021-06-30 14:39:10,Hicks St & Montague St,4645,Metropolitan Ave & Vandervoort Ave,5241,40.69512845,-73.99595065,40.71429,-73.93323,member
+746883,5338081C967846F0,docked_bike,2021-06-05 18:56:35,2021-06-05 19:26:01,Hicks St & Montague St,4645,Metropolitan Ave & Vandervoort Ave,5241,40.695128,-73.99595,40.71429,-73.93323,member
+746888,27DA349A80F025F4,docked_bike,2021-06-13 15:36:52,2021-06-13 16:03:00,34 Ave & 48 St,6554,Metropolitan Ave & Vandervoort Ave,5241,40.75388,-73.914952,40.71429,-73.93323,casual
+746980,CC159D806284100C,electric_bike,2021-06-26 19:20:28,2021-06-26 19:25:36,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,member
+747067,5F652EC5ECDF2D24,docked_bike,2021-06-06 11:27:58,2021-06-06 11:35:54,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,casual
+747138,99B7DBB1CA539BA2,docked_bike,2021-06-17 19:37:25,2021-06-17 19:45:43,Beaver St & Fayette St,4840,Metropolitan Ave & Vandervoort Ave,5241,40.70099,-73.93921,40.71429,-73.93323,member
+747178,A60DE39E8FC85E64,classic_bike,2021-06-29 08:49:33,2021-06-29 08:59:54,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+747199,EB615FAD79A899CD,classic_bike,2021-06-30 21:29:15,2021-06-30 21:43:21,Greene Ave & Grandview Ave,5106,Metropolitan Ave & Vandervoort Ave,5241,40.709697,-73.907856,40.71429,-73.93323,member
+747346,9455A686B4807045,docked_bike,2021-06-02 08:48:12,2021-06-02 08:56:14,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+747410,E49282CF600CC4D6,electric_bike,2021-06-03 15:20:47,2021-06-03 15:35:45,Green St & McGuinness Blvd,5860,Metropolitan Ave & Vandervoort Ave,5241,40.73396,-73.95204,40.71429,-73.93323,member
+747726,523463510485322F,classic_bike,2021-06-22 11:09:25,2021-06-22 11:19:57,Roebling St & N 4 St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.71469,-73.95739,40.71429,-73.93323,casual
+747787,3448DE36FB28D373,electric_bike,2021-06-23 16:31:07,2021-06-23 16:41:11,Roebling St & N 4 St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.71469,-73.95739,40.71429,-73.93323,casual
+747804,3EC11DFC97645206,classic_bike,2021-06-27 13:30:16,2021-06-27 15:44:32,Forest Ave & Summerfield St,4798,Metropolitan Ave & Vandervoort Ave,5241,40.69922,-73.89795,40.71429,-73.93323,member
+748202,26DF4934A5AC87CF,electric_bike,2021-06-29 18:03:33,2021-06-29 18:13:03,Madison St & Forest Ave,5025,Metropolitan Ave & Vandervoort Ave,5241,40.70555,-73.90245,40.71429,-73.93323,casual
+748207,19B7539CA98828D2,classic_bike,2021-06-23 13:37:30,2021-06-23 14:16:42,Fulton St & Pearl St,5024,Metropolitan Ave & Vandervoort Ave,5241,40.70772198491691,-74.00438636541367,40.71429,-73.93323,member
+748240,6D5CF475FBCA986C,docked_bike,2021-06-13 01:52:30,2021-06-13 13:49:37,Grand St & Havemeyer St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.712868,-73.956981,40.71429,-73.93323,casual
+748283,8087B6C6BCF5329C,docked_bike,2021-06-12 14:53:25,2021-06-12 15:07:02,Grand St & Havemeyer St,5267,Metropolitan Ave & Vandervoort Ave,5241,40.712868,-73.956981,40.71429,-73.93323,casual
+748923,670D432E978E89A2,docked_bike,2021-06-11 08:49:45,2021-06-11 08:58:28,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+748965,3537E3118ADAE751,docked_bike,2021-06-04 08:42:46,2021-06-04 08:52:03,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+748966,88D93A7AB6687754,docked_bike,2021-06-08 08:46:08,2021-06-08 08:54:28,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+748967,1011B4F3817A53E3,docked_bike,2021-06-10 08:48:08,2021-06-10 08:56:32,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+749056,314BC017E93708DF,electric_bike,2021-06-17 12:02:19,2021-06-17 12:16:52,Stagg St & Morgan Ave,5170,Metropolitan Ave & Vandervoort Ave,5241,40.710681,-73.93372,40.71429,-73.93323,casual
+749077,AEB172375B12F781,docked_bike,2021-06-02 17:53:41,2021-06-02 18:12:34,Franklin Ave & Myrtle Ave,4715,Metropolitan Ave & Vandervoort Ave,5241,40.694546,-73.958013,40.71429,-73.93323,member
+749367,7891F2846CB202E5,docked_bike,2021-06-13 12:00:57,2021-06-13 12:16:01,Madison St & Woodward Ave,4954,Metropolitan Ave & Vandervoort Ave,5241,40.70408,-73.90408,40.71429,-73.93323,casual
+749675,D279AD59CB177A95,classic_bike,2021-06-28 08:46:44,2021-06-28 08:58:05,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+749996,A67FBF7111C50FEF,electric_bike,2021-06-16 17:05:18,2021-06-16 17:30:54,Central Ave & Decatur St,4432,Metropolitan Ave & Vandervoort Ave,5241,40.6882,-73.90798,40.71429,-73.93323,casual
+750644,F3F2BF2771AD1A0C,docked_bike,2021-06-07 14:42:08,2021-06-07 15:22:52,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Vandervoort Ave,5241,40.71429,-73.93323,40.71429,-73.93323,member
+750867,0BC115ADF507E773,electric_bike,2021-06-24 15:31:02,2021-06-24 15:32:02,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Vandervoort Ave,5241,40.71429,-73.93323,40.71429,-73.93323,casual
+751603,E0C6E2C907850733,electric_bike,2021-06-22 20:43:41,2021-06-22 20:55:54,Wyckoff Av & Jefferson St,5051,Metropolitan Ave & Vandervoort Ave,5241,40.707165,-73.923711,40.71429,-73.93323,casual
+751944,88CA988927E162C6,docked_bike,2021-06-13 11:13:39,2021-06-13 11:49:51,37 St & 24 Ave,6981,Metropolitan Ave & Vandervoort Ave,5241,40.770147,-73.912093,40.71429,-73.93323,member
+751952,5F4B95ED54308A7D,docked_bike,2021-06-17 12:45:27,2021-06-17 13:01:13,Leonard St & Nassau Ave,5550,Metropolitan Ave & Vandervoort Ave,5241,40.723956,-73.949843,40.71429,-73.93323,casual
+752567,A4D8FD65B97240EE,docked_bike,2021-06-16 14:10:44,2021-06-16 14:21:50,Kent St & McGuinness Blvd,5785,Metropolitan Ave & Vandervoort Ave,5241,40.73124,-73.95161,40.71429,-73.93323,member
+752663,ABE6787F641BACA4,electric_bike,2021-06-16 15:19:30,2021-06-16 15:33:41,Kent St & McGuinness Blvd,5785,Metropolitan Ave & Vandervoort Ave,5241,40.73124,-73.95161,40.71429,-73.93323,member
+752902,2658F6EA4CA50708,docked_bike,2021-06-10 13:24:56,2021-06-10 13:35:17,Willoughby Ave & Myrtle Ave,4759,Metropolitan Ave & Vandervoort Ave,5241,40.69757,-73.93098,40.71429,-73.93323,casual
+753656,AF26FE5B9103CFDE,docked_bike,2021-06-09 15:24:37,2021-06-09 15:39:44,Devoe St & Morgan Ave,5282,Metropolitan Ave & Vandervoort Ave,5241,40.713811,-73.93515,40.71429,-73.93323,member
+753699,D22CF879CA6B4E3C,docked_bike,2021-06-05 11:46:00,2021-06-05 11:51:07,Bushwick Ave & Powers St,5250,Metropolitan Ave & Vandervoort Ave,5241,40.712476,-73.941,40.71429,-73.93323,casual
+753958,0ECEE16B02995E02,classic_bike,2021-06-25 10:01:49,2021-06-25 10:04:07,Powers St & Olive St,5210,Metropolitan Ave & Vandervoort Ave,5241,40.71323,-73.93894,40.71429,-73.93323,member
+754111,939246E238BCF3A6,classic_bike,2021-06-30 10:56:17,2021-06-30 11:07:26,Van Buren St & Broadway,4568,Metropolitan Ave & Vandervoort Ave,5241,40.692,-73.92617,40.71429,-73.93323,casual
+754369,796044315D406002,docked_bike,2021-06-11 18:07:19,2021-06-11 18:13:01,McKibbin St & Bogart St,5059,Metropolitan Ave & Vandervoort Ave,5241,40.706237,-73.933871,40.71429,-73.93323,member
+754766,80FC73F3CDB9D7B7,classic_bike,2021-06-23 16:55:39,2021-06-23 17:26:32,Clinton St & Joralemon St,4605,Metropolitan Ave & Vandervoort Ave,5241,40.69239502,-73.99337909,40.71429,-73.93323,member
+754859,CB9C330DDFB0D873,electric_bike,2021-06-26 08:09:53,2021-06-26 08:31:05,Union St & Bedford Ave,3879,Metropolitan Ave & Vandervoort Ave,5241,40.6691783,-73.9554162,40.71429,-73.93323,casual
+755936,D714E5165603003C,electric_bike,2021-06-30 07:45:17,2021-06-30 08:05:15,Stanton St & Norfolk St,5445,Metropolitan Ave & Vandervoort Ave,5241,40.720747,-73.986274,40.71429,-73.93323,casual
+755942,6452223D1E3B6B81,electric_bike,2021-06-10 08:26:21,2021-06-10 08:40:42,Myrtle Ave & Lewis Ave,4729,Metropolitan Ave & Vandervoort Ave,5241,40.696819,-73.937569,40.71429,-73.93323,casual
+756927,6563D57C6989A99F,electric_bike,2021-06-24 13:19:35,2021-06-24 13:24:18,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Vandervoort Ave,5241,40.71246,-73.91873,40.71429,-73.93323,casual
+756954,57AEC693D614C300,docked_bike,2021-06-17 09:06:04,2021-06-17 09:08:11,Sharon St & Olive St,5323,Metropolitan Ave & Vandervoort Ave,5241,40.715353,-73.93856,40.71429,-73.93323,casual
+757215,CC0DF0E5D372293E,electric_bike,2021-06-18 22:20:23,2021-06-18 22:31:26,Beaver St & Fayette St,4840,Metropolitan Ave & Vandervoort Ave,5241,40.70099,-73.93921,40.71429,-73.93323,casual
+757291,33DCF6558925BE72,docked_bike,2021-06-10 19:28:00,2021-06-10 19:43:36,Kent Ave & S 11 St,5062,Metropolitan Ave & Vandervoort Ave,5241,40.707644,-73.968415,40.71429,-73.93323,casual
+757342,DAA79D333B054183,electric_bike,2021-06-01 08:40:34,2021-06-01 08:50:18,Stephen St & Seneca Ave,4798,Metropolitan Ave & Vandervoort Ave,5241,40.6988,-73.9007,40.71429,-73.93323,member
+757351,0FE21415671F3831,docked_bike,2021-06-03 08:46:39,2021-06-03 08:57:32,Stephen St & Seneca Ave,4798,Metropolitan Ave & Vandervoort Ave,5241,40.6988,-73.9007,40.71429,-73.93323,member
+757397,084B986B45EE88E4,classic_bike,2021-06-22 08:32:51,2021-06-22 09:00:28,Putnam Ave & Knickerbocker Ave,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69545,-73.91164,40.71429,-73.93323,member
+757451,DB3D847834E6C290,electric_bike,2021-06-30 08:49:43,2021-06-30 08:59:00,Stephen St & Seneca Ave,4798,Metropolitan Ave & Vandervoort Ave,5241,40.6988,-73.9007,40.71429,-73.93323,member
+757597,B76EE28D64ED5AFE,electric_bike,2021-06-24 08:56:24,2021-06-24 09:03:13,Madison St & Woodward Ave,4954,Metropolitan Ave & Vandervoort Ave,5241,40.70408,-73.90408,40.71429,-73.93323,member
+757940,F6076EF74997CC74,electric_bike,2021-06-30 07:47:18,2021-06-30 08:00:05,Lewis Ave & Decatur St,4237,Metropolitan Ave & Vandervoort Ave,5241,40.6814598,-73.934903,40.71429,-73.93323,casual
+758239,E2B9E2ECC463DF89,classic_bike,2021-06-30 11:06:53,2021-06-30 11:09:13,Morgan Ave & Maspeth Ave,5354,Metropolitan Ave & Vandervoort Ave,5241,40.716657,-73.93637,40.71429,-73.93323,member
+758718,70C3E74EF64CE6AF,electric_bike,2021-06-18 13:40:36,2021-06-18 14:45:25,E 2 St & Avenue B,5515,Metropolitan Ave & Vandervoort Ave,5241,40.72217444,-73.98368779,40.71429,-73.93323,member
+759334,54265DC04C428A21,docked_bike,2021-06-05 16:57:23,2021-06-05 17:07:30,Berry St & N 8 St,5379,Metropolitan Ave & Vandervoort Ave,5241,40.719009,-73.958525,40.71429,-73.93323,member
+760009,D290D7000F080082,docked_bike,2021-06-08 10:00:17,2021-06-08 10:12:30,Willoughby Ave & Onderdonk Ave,5115,Metropolitan Ave & Vandervoort Ave,5241,40.7098,-73.91727,40.71429,-73.93323,member
+760028,D4E6C092B85EE956,docked_bike,2021-06-18 10:44:35,2021-06-18 10:54:38,Stockholm St & Wilson Ave,4824,Metropolitan Ave & Vandervoort Ave,5241,40.699304,-73.923044,40.71429,-73.93323,member
+760030,DA84BBA0BC13416B,electric_bike,2021-06-02 10:22:49,2021-06-02 10:34:13,Stockholm St & Wilson Ave,4824,Metropolitan Ave & Vandervoort Ave,5241,40.699304,-73.923044,40.71429,-73.93323,member
+760072,9E4B46CB9F02FCE0,classic_bike,2021-06-27 13:46:01,2021-06-27 14:21:58,35 St & Broadway,6750,Metropolitan Ave & Vandervoort Ave,5241,40.760339,-73.9222427,40.71429,-73.93323,member
+760120,99CB8F060AC87CDB,docked_bike,2021-06-17 14:11:29,2021-06-17 14:13:35,Metropolitan Ave & Stewart Ave,5273,Metropolitan Ave & Vandervoort Ave,5241,40.71401,-73.92793,40.71429,-73.93323,member
+760155,4EEDE7A4C0A4F91E,docked_bike,2021-06-11 18:03:30,2021-06-11 18:12:32,Stockholm St & Wilson Ave,4824,Metropolitan Ave & Vandervoort Ave,5241,40.699304,-73.923044,40.71429,-73.93323,member
+760227,B6E4A5F1EEF07AC5,electric_bike,2021-06-11 04:42:19,2021-06-11 04:51:54,Stockholm St & Wilson Ave,4824,Metropolitan Ave & Vandervoort Ave,5241,40.699304,-73.923044,40.71429,-73.93323,casual
+760411,AB43A6F13320A3F2,docked_bike,2021-06-15 18:31:14,2021-06-15 18:57:36,Wall St & South St,4953,Metropolitan Ave & Vandervoort Ave,5241,40.70437,-74.00637,40.71429,-73.93323,member
+760747,56491E0A36D49ECA,docked_bike,2021-06-02 17:58:12,2021-06-02 18:02:53,Bushwick Ave & Powers St,5250,Metropolitan Ave & Vandervoort Ave,5241,40.712476,-73.941,40.71429,-73.93323,member
+760958,02BBD818A20271AE,docked_bike,2021-06-06 18:30:17,2021-06-06 18:44:28,Bayard St & Leonard St,5442,Metropolitan Ave & Vandervoort Ave,5241,40.719155,-73.948853,40.71429,-73.93323,member
+761413,9098FE7A15B793BA,docked_bike,2021-06-17 20:18:05,2021-06-17 20:34:58,McKibbin St & Manhattan Ave,4996,Metropolitan Ave & Vandervoort Ave,5241,40.705109,-73.944072,40.71429,-73.93323,casual
+761516,A14294AF8C570176,electric_bike,2021-06-02 18:50:51,2021-06-02 19:19:17,Queens Plaza North & Crescent St,6429,Metropolitan Ave & Vandervoort Ave,5241,40.751101,-73.940737,40.71429,-73.93323,member
+761640,63231494A8F55695,docked_bike,2021-06-16 17:32:53,2021-06-16 17:39:15,Scholes St & Manhattan Ave,5108,Metropolitan Ave & Vandervoort Ave,5241,40.708703,-73.944862,40.71429,-73.93323,member
+761846,147C7FE38E48E1C8,electric_bike,2021-06-09 08:49:59,2021-06-09 08:58:49,Centre St & Seneca Ave,4837,Metropolitan Ave & Vandervoort Ave,5241,40.69969,-73.9022,40.71429,-73.93323,member
+761908,60364DC725738FE5,electric_bike,2021-06-23 08:49:58,2021-06-23 08:59:04,Centre St & Seneca Ave,4837,Metropolitan Ave & Vandervoort Ave,5241,40.69969,-73.9022,40.71429,-73.93323,member
+761909,5072115E8F45A95D,electric_bike,2021-06-25 08:52:42,2021-06-25 09:01:46,Centre St & Seneca Ave,4837,Metropolitan Ave & Vandervoort Ave,5241,40.69969,-73.9022,40.71429,-73.93323,member
+762396,C68D383EA4321F65,docked_bike,2021-06-17 16:54:10,2021-06-17 17:00:15,Graham Ave & Conselyea St,5291,Metropolitan Ave & Vandervoort Ave,5241,40.715143,-73.944507,40.71429,-73.93323,member
+763003,99002F2D6172A51B,classic_bike,2021-06-21 13:30:47,2021-06-21 13:42:01,Fairview Ave & Linden St,5066,Metropolitan Ave & Vandervoort Ave,5241,40.70694,-73.90632,40.71429,-73.93323,casual
+763648,9E703E6FDF64AF6B,docked_bike,2021-06-17 10:31:14,2021-06-17 10:44:09,Suydam St & Knickerbocker Ave,4939,Metropolitan Ave & Vandervoort Ave,5241,40.702013,-73.923769,40.71429,-73.93323,member
+763678,03F34322B539AD71,docked_bike,2021-06-09 14:02:56,2021-06-09 14:06:32,Frost St & Debevoise Ave,5433,Metropolitan Ave & Vandervoort Ave,5241,40.71882,-73.93948,40.71429,-73.93323,member
+763680,E84C6FD7ED5EF971,electric_bike,2021-06-01 14:39:53,2021-06-01 14:49:29,Suydam St & Knickerbocker Ave,4939,Metropolitan Ave & Vandervoort Ave,5241,40.702013,-73.923769,40.71429,-73.93323,member
+763703,D55769FEB2EBE1AC,docked_bike,2021-06-26 21:39:16,2021-06-26 22:02:36,Berry St & N 8 St,5379,Metropolitan Ave & Vandervoort Ave,5241,40.71901,-73.958525,40.71429,-73.93323,casual
+764188,AE1E27506C43908F,docked_bike,2021-06-04 14:22:17,2021-06-04 14:26:18,Knickerbocker Ave & Thames St,5018,Metropolitan Ave & Vandervoort Ave,5241,40.70539,-73.92976,40.71429,-73.93323,casual
+764847,F1CFB6FC7D0ADA3B,docked_bike,2021-06-17 17:04:46,2021-06-17 17:22:52,Dock 72 Way & Market St,4804,Metropolitan Ave & Vandervoort Ave,5241,40.69985,-73.97141,40.71429,-73.93323,member
+764935,DA3ACC0369658120,docked_bike,2021-06-15 12:16:51,2021-06-15 12:28:09,Wythe Ave & Metropolitan Ave,5348,Metropolitan Ave & Vandervoort Ave,5241,40.716887,-73.963198,40.71429,-73.93323,member
+766262,5172835F7E5F9458,docked_bike,2021-06-13 08:48:41,2021-06-13 08:50:53,Powers St & Olive St,5210,Metropolitan Ave & Vandervoort Ave,5241,40.71323,-73.93894,40.71429,-73.93323,member
+777977,95FB4B052A8F23DE,classic_bike,2021-06-26 21:04:20,2021-06-26 21:20:07,Metropolitan Ave & Vandervoort Ave,5241,Waterbury St & Stagg St,5099,40.71429,-73.93323,40.71019,-73.93734,casual
+794791,5D1BCD28DDADE118,classic_bike,2021-06-29 17:48:31,2021-06-29 18:03:06,Metropolitan Ave & Vandervoort Ave,5241,Willoughby Ave & Myrtle Ave,4759,40.71429,-73.93323,40.69757,-73.93098,member
+803198,D3459FE5EB0FA5EE,electric_bike,2021-06-26 20:55:54,2021-06-26 21:19:58,Metropolitan Ave & Vandervoort Ave,5241,Waterbury St & Stagg St,5099,40.71429,-73.93323,40.71019,-73.93734,casual
+865913,0568CA175A68D933,docked_bike,2021-06-15 17:46:19,2021-06-15 18:16:16,Metropolitan Ave & Vandervoort Ave,5241,Forsyth St & Canal St,5270,40.71429,-73.93323,40.7158155,-73.99422366,member
+865914,C63D36C5FCCBDA92,electric_bike,2021-06-27 15:45:29,2021-06-27 16:35:14,Metropolitan Ave & Vandervoort Ave,5241,Avenue D & E 10 St,5575,40.71429,-73.93323,40.72506551015475,-73.97515833377838,member
+882325,3644E52E46F59D0B,electric_bike,2021-06-23 13:38:33,2021-06-23 14:09:55,Metropolitan Ave & Vandervoort Ave,5241,Stanhope St & Fairview Ave,5146,40.71429,-73.93323,40.70998,-73.91116,member
+958160,0E505E7A461E3506,docked_bike,2021-06-11 18:29:56,2021-06-11 18:53:41,Metropolitan Ave & Vandervoort Ave,5241,46 Ave & 5 St,6286,40.71429,-73.93323,40.74731,-73.95451,member
+958172,EB3F1297749CC8B0,classic_bike,2021-06-28 12:24:24,2021-06-28 12:33:24,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+963388,1C5BA17B874AC733,classic_bike,2021-06-23 12:09:33,2021-06-23 12:18:30,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+963389,26E2C64ED7C6613D,docked_bike,2021-06-17 11:58:19,2021-06-17 12:16:45,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+963401,5EB9A5689F58FC0F,classic_bike,2021-06-22 11:52:26,2021-06-22 12:01:09,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+963402,0F260DD755B092EE,classic_bike,2021-06-25 16:55:27,2021-06-25 17:25:52,Metropolitan Ave & Vandervoort Ave,5241,Madison St & Forest Ave,5025,40.71429,-73.93323,40.70555,-73.90245,casual
+963559,7D54E63776BBB309,electric_bike,2021-06-04 14:06:14,2021-06-04 14:18:59,Metropolitan Ave & Vandervoort Ave,5241,Madison St & Forest Ave,5025,40.71429,-73.93323,40.70555,-73.90245,casual
+970086,6D6B4D6ADC8F77EB,docked_bike,2021-06-16 11:20:39,2021-06-16 11:36:44,Metropolitan Ave & Vandervoort Ave,5241,Roebling St & N 4 St,5267,40.71429,-73.93323,40.71469,-73.95739,casual
+974905,D2B97CBBBAFF95BC,classic_bike,2021-06-25 16:56:20,2021-06-25 17:26:07,Metropolitan Ave & Vandervoort Ave,5241,Madison St & Forest Ave,5025,40.71429,-73.93323,40.70555,-73.90245,casual
+1042104,D6B9FC710FEB0DA3,classic_bike,2021-06-27 14:22:20,2021-06-27 14:38:52,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Dekalb Ave,4680,40.71429,-73.93323,40.69502,-73.92825,member
+1163144,D2C69CC247289894,classic_bike,2021-06-21 17:17:40,2021-06-21 17:31:53,Metropolitan Ave & Vandervoort Ave,5241,Broadway & Kosciuszko St,4608,40.71429,-73.93323,40.69329,-73.92852,member
+1234652,E99872C0A67228D7,docked_bike,2021-06-11 19:35:17,2021-06-11 19:50:30,Metropolitan Ave & Vandervoort Ave,5241,Wyckoff Av & Stanhope St,4931,40.71429,-73.93323,40.703545,-73.917775,member
+1262245,EAAD4D3B5E95CD10,electric_bike,2021-06-18 15:58:56,2021-06-18 16:19:51,Metropolitan Ave & Vandervoort Ave,5241,Cleveland Pl & Spring St,5492,40.71429,-73.93323,40.722103786686034,-73.99724900722504,member
+1298926,5EC02E2F7F47E2AE,docked_bike,2021-06-11 16:38:27,2021-06-11 16:50:06,Metropolitan Ave & Vandervoort Ave,5241,Stockholm St & Wilson Ave,4824,40.71429,-73.93323,40.699304,-73.923044,member
+1314255,4F87AFFB0EE53526,classic_bike,2021-06-27 03:54:00,2021-06-27 04:47:46,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Woodbine St,4632,40.71429,-73.93323,40.69296,-73.91605,casual
+1370435,B0E9C02BCEDB0EE9,electric_bike,2021-06-11 11:46:45,2021-06-11 11:57:12,Metropolitan Ave & Vandervoort Ave,5241,Greenpoint Ave & Manhattan Ave,5785,40.71429,-73.93323,40.73026,-73.95394,member
+1391020,DE1086C2F2580792,docked_bike,2021-06-06 19:21:25,2021-06-06 19:32:07,Metropolitan Ave & Vandervoort Ave,5241,Suydam St & Knickerbocker Ave,4939,40.71429,-73.93323,40.702013,-73.923769,casual
+1435392,D7A1C7976BAFE3C8,docked_bike,2021-06-26 20:20:33,2021-06-26 20:43:41,Metropolitan Ave & Vandervoort Ave,5241,Berry St & N 8 St,5379,40.71429,-73.93323,40.71901,-73.958525,casual
+1460954,7406ECDDC8BEE5A1,docked_bike,2021-06-26 20:18:36,2021-06-26 21:30:46,Metropolitan Ave & Vandervoort Ave,5241,Berry St & N 8 St,5379,40.71429,-73.93323,40.71901,-73.958525,casual
+1461440,786F3B2ED21DEB3E,docked_bike,2021-06-26 20:19:22,2021-06-26 20:44:02,Metropolitan Ave & Vandervoort Ave,5241,Berry St & N 8 St,5379,40.71429,-73.93323,40.71901,-73.958525,casual
+1481098,D4CE7D9503EA3A4B,docked_bike,2021-06-06 11:40:19,2021-06-06 11:49:01,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Starr Street,4792,40.71429,-73.93323,40.700003,-73.92834,member
+1543640,565E629C27416F02,classic_bike,2021-06-27 03:53:00,2021-06-27 04:43:49,Metropolitan Ave & Vandervoort Ave,5241,Jefferson St & Cypress Ave,5082,40.71429,-73.93323,40.70907,-73.92157,casual
+1565165,705E2D9107084B29,classic_bike,2021-06-28 17:38:41,2021-06-28 17:45:36,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Powers St,5250,40.71429,-73.93323,40.71247661,-73.94100005,member
+1565233,B967AC18B2665AB0,docked_bike,2021-06-03 14:40:40,2021-06-03 15:05:57,Metropolitan Ave & Vandervoort Ave,5241,Devoe St & Morgan Ave,5282,40.71429,-73.93323,40.713811,-73.93515,member
+1565407,AE375C1785002610,classic_bike,2021-06-27 17:16:07,2021-06-27 17:17:58,Metropolitan Ave & Vandervoort Ave,5241,Devoe St & Morgan Ave,5282,40.71429,-73.93323,40.713811,-73.93515,member
+1565807,AB67991F56F3269C,docked_bike,2021-06-02 18:24:23,2021-06-02 18:30:15,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Powers St,5250,40.71429,-73.93323,40.71247661,-73.94100005,member
+1576841,AE4752000550B90F,classic_bike,2021-06-25 21:32:00,2021-06-25 21:41:59,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Powers St,5250,40.71429,-73.93323,40.71247661,-73.94100005,member
+1751711,C3CB81799D47CED9,electric_bike,2021-06-18 20:24:38,2021-06-18 20:44:34,Metropolitan Ave & Vandervoort Ave,5241,Lafayette Ave & St James Pl,4494,40.71429,-73.93323,40.68851534,-73.9647628,casual
+1751883,3F786372CBDDCE63,classic_bike,2021-06-26 14:54:57,2021-06-26 15:28:25,Metropolitan Ave & Vandervoort Ave,5241,Boerum St & Broadway,5004,40.71429,-73.93323,40.70538077,-73.94976519,member
+1803338,51F333F816CA3917,electric_bike,2021-06-30 17:57:45,2021-06-30 18:29:39,Metropolitan Ave & Vandervoort Ave,5241,Wyckoff Av & Jefferson St,5051,40.71429,-73.93323,40.707165,-73.923711,member
+1808976,3CFCCCF1E6653452,classic_bike,2021-06-16 21:41:18,2021-06-16 21:51:21,Metropolitan Ave & Vandervoort Ave,5241,Union Ave & Jackson St,5300,40.71429,-73.93323,40.7160751,-73.952029,casual
+1809009,D12EDFD496DF504F,docked_bike,2021-06-08 23:20:57,2021-06-08 23:28:04,Metropolitan Ave & Vandervoort Ave,5241,Wyckoff Av & Jefferson St,5051,40.71429,-73.93323,40.707165,-73.923711,casual
+2009989,A36C4F96C6BE852F,electric_bike,2021-06-30 11:10:11,2021-06-30 11:35:07,Metropolitan Ave & Vandervoort Ave,5241,43 St & Broadway,6670,40.71429,-73.93323,40.7577284,-73.9166368,member
+2011878,4194AD745F94676D,docked_bike,2021-06-16 03:33:52,2021-06-16 03:41:55,Metropolitan Ave & Vandervoort Ave,5241,Jackson St & Leonard St,5332,40.71429,-73.93323,40.71638031973561,-73.94821286201477,casual
+2053698,56F81EA53B29AB90,electric_bike,2021-06-25 16:40:57,2021-06-25 17:06:29,Metropolitan Ave & Vandervoort Ave,5241,Lispenard St & Broadway,5391,40.71429,-73.93323,40.71939226,-74.00247214,member
+2086597,2D4746665761A404,classic_bike,2021-06-23 19:26:40,2021-06-23 20:14:25,Metropolitan Ave & Vandervoort Ave,5241,Rogers Ave & Sterling St,3696,40.71429,-73.93323,40.6630619,-73.9538746,member
+2086684,64D183578B2172F8,electric_bike,2021-06-10 13:13:08,2021-06-10 13:32:35,Metropolitan Ave & Vandervoort Ave,5241,Meserole Ave & Manhattan Ave,5666,40.71429,-73.93323,40.72708584,-73.95299117,member
+2086708,99D94E52DD61957B,classic_bike,2021-06-28 03:06:57,2021-06-28 03:18:49,Metropolitan Ave & Vandervoort Ave,5241,Meserole Ave & Manhattan Ave,5666,40.71429,-73.93323,40.72708584,-73.95299117,casual
+2086750,7EC81A8F50C2AF88,classic_bike,2021-06-22 19:07:47,2021-06-22 19:51:01,Metropolitan Ave & Vandervoort Ave,5241,Rogers Ave & Sterling St,3696,40.71429,-73.93323,40.6630619,-73.9538746,member
+2238943,D1C4A36CBEB3711F,electric_bike,2021-06-18 15:12:46,2021-06-18 15:50:19,Metropolitan Ave & Vandervoort Ave,5241,E 2 St & Avenue C,5476,40.71429,-73.93323,40.7208736,-73.98085795,member
+2272475,B561547A41AFDF37,electric_bike,2021-06-27 01:14:51,2021-06-27 01:52:27,Metropolitan Ave & Vandervoort Ave,5241,31 Ave & 34 St,6819,40.71429,-73.93323,40.763154,-73.920827,member
+2305862,D0E488E047E999EC,electric_bike,2021-06-01 21:38:23,2021-06-01 21:50:40,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Covert St,4550,40.71429,-73.93323,40.68929,-73.90951,member
+2384487,2A0913074517ABFA,electric_bike,2021-06-18 15:12:44,2021-06-18 15:24:44,Metropolitan Ave & Vandervoort Ave,5241,S 5 Pl & S 5 St,5125,40.71429,-73.93323,40.710451,-73.960876,member
+2384525,B8357805238F8302,electric_bike,2021-06-09 14:13:15,2021-06-09 14:23:20,Metropolitan Ave & Vandervoort Ave,5241,S 5 Pl & S 5 St,5125,40.71429,-73.93323,40.710451,-73.960876,member
+2399314,C5501702FC96135F,docked_bike,2021-06-02 18:56:48,2021-06-02 19:06:29,Metropolitan Ave & Vandervoort Ave,5241,Graham Ave & Conselyea St,5291,40.71429,-73.93323,40.715143,-73.944507,casual
+2399404,B5B3B03E244BF483,docked_bike,2021-06-15 15:26:01,2021-06-15 15:32:00,Metropolitan Ave & Vandervoort Ave,5241,Bushwick Ave & Stagg St,5140,40.71429,-73.93323,40.709897,-73.94008,member
+2399440,238CCF6118C28519,electric_bike,2021-06-17 17:29:56,2021-06-17 17:41:01,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Melrose St,4832,40.71429,-73.93323,40.70112,-73.93039,casual
+2399460,EB707ED15558E790,electric_bike,2021-06-16 18:35:41,2021-06-16 18:41:44,Metropolitan Ave & Vandervoort Ave,5241,Graham Ave & Conselyea St,5291,40.71429,-73.93323,40.715143,-73.944507,member
+2400841,79D1087D4BE8A301,docked_bike,2021-06-08 12:47:57,2021-06-08 13:05:14,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Jefferson St,5051,40.71429,-73.93323,40.70538,-73.92535,casual
+2407543,90AD1C518490455D,electric_bike,2021-06-16 18:03:48,2021-06-16 18:15:19,Metropolitan Ave & Vandervoort Ave,5241,Central Ave & Melrose St,4832,40.71429,-73.93323,40.70112,-73.93039,casual
+2408041,C1C9B04F60D5E196,electric_bike,2021-06-01 19:36:26,2021-06-01 19:42:00,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Jefferson St,5051,40.71429,-73.93323,40.70538,-73.92535,casual
+2418028,36AB6E9FE9410748,docked_bike,2021-06-07 15:49:36,2021-06-07 15:52:02,Metropolitan Ave & Vandervoort Ave,5241,Morgan Ave & Maspeth Ave,5354,40.71429,-73.93323,40.716657,-73.93637,member
+2427625,806254A980B527B2,docked_bike,2021-06-04 18:16:36,2021-06-04 18:25:06,Metropolitan Ave & Vandervoort Ave,5241,Montrose Ave & Bushwick Ave,5068,40.71429,-73.93323,40.70767788,-73.94016171,casual
+2448396,5EDE379386AFFBB5,electric_bike,2021-06-02 11:58:47,2021-06-02 12:41:30,Metropolitan Ave & Vandervoort Ave,5241,N 6 St & Bedford Ave,5379,40.71429,-73.93323,40.71745169,-73.95850939,casual
+2522856,C91BBCE7D6E8A601,electric_bike,2021-06-03 18:12:39,2021-06-03 19:01:14,Metropolitan Ave & Vandervoort Ave,5241,Church Ave & McDonald Ave,3090,40.71429,-73.93323,40.642809,-73.979239,member
+2522987,D2C3E589A8140D72,electric_bike,2021-06-29 18:15:38,2021-06-29 18:44:33,Metropolitan Ave & Vandervoort Ave,5241,Gansevoort St & Hudson St,6072,40.71429,-73.93323,40.73944820130404,-74.00507032871246,member
+2526837,93C0D511BF672092,classic_bike,2021-06-21 19:43:26,2021-06-21 19:51:40,Metropolitan Ave & Vandervoort Ave,5241,White St & Moore St,4987,40.71429,-73.93323,40.704508,-73.9351,member
+2540787,26906310A5C52A66,classic_bike,2021-06-26 19:27:16,2021-06-26 19:37:10,Metropolitan Ave & Vandervoort Ave,5241,Nassau Ave & Russell St,5581,40.71429,-73.93323,40.72557,-73.94434,member
+2540821,2E90BA0C1955352D,electric_bike,2021-06-22 13:30:56,2021-06-22 14:00:32,Metropolitan Ave & Vandervoort Ave,5241,Nassau Ave & Russell St,5581,40.71429,-73.93323,40.72557,-73.94434,casual
+2545228,D1A9949A9280B8D1,classic_bike,2021-06-30 21:44:15,2021-06-30 21:55:12,Metropolitan Ave & Vandervoort Ave,5241,Nassau Ave & Russell St,5581,40.71429,-73.93323,40.72557,-73.94434,member
+2613033,208B3080028D294C,docked_bike,2021-06-15 18:58:27,2021-06-15 19:30:09,Metropolitan Ave & Vandervoort Ave,5241,9 St & 44 Rd,6361,40.71429,-73.93323,40.74966,-73.9521,member
+2667491,775DEE719CD50CDC,docked_bike,2021-06-07 20:14:57,2021-06-07 20:23:46,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Meeker Ave,5300,40.71429,-73.93323,40.71413311,-73.95234386,member
+2667496,1FE59C4B881EBF0C,docked_bike,2021-06-07 20:15:00,2021-06-07 20:23:39,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Meeker Ave,5300,40.71429,-73.93323,40.71413311,-73.95234386,casual
+2667502,BCB9119812FAB2EB,electric_bike,2021-06-17 15:42:34,2021-06-17 15:48:50,Metropolitan Ave & Vandervoort Ave,5241,Metropolitan Ave & Meeker Ave,5300,40.71429,-73.93323,40.71413311,-73.95234386,casual
+2727777,DBA459127898A179,docked_bike,2021-06-17 18:10:44,2021-06-17 18:24:59,Metropolitan Ave & Vandervoort Ave,5241,Fairview Ave & Linden St,5066,40.71429,-73.93323,40.70694,-73.90632,member
+2727793,E001A09E6BCC219A,docked_bike,2021-06-12 13:59:02,2021-06-12 14:05:56,Metropolitan Ave & Vandervoort Ave,5241,Driggs Ave & N Henry St,5542,40.71429,-73.93323,40.72325,-73.94308,member
+2727816,C2691792877BAB67,electric_bike,2021-06-24 15:33:18,2021-06-24 15:42:42,Metropolitan Ave & Vandervoort Ave,5241,Leonard St & Maujer St,5148,40.71429,-73.93323,40.7103685423523,-73.94705951213837,casual
+2729328,C08B47FF721A57B3,classic_bike,2021-06-15 12:35:20,2021-06-15 12:44:25,Metropolitan Ave & Vandervoort Ave,5241,Leonard St & Maujer St,5148,40.71429,-73.93323,40.7103685423523,-73.94705951213837,casual
+2732226,B77B1A58C5EE8B8D,docked_bike,2021-06-03 14:31:11,2021-06-03 14:42:59,Metropolitan Ave & Vandervoort Ave,5241,Fairview Ave & Linden St,5066,40.71429,-73.93323,40.70694,-73.90632,casual
+2733323,B0BA49107A7EB912,classic_bike,2021-06-24 18:56:25,2021-06-24 19:08:38,Metropolitan Ave & Vandervoort Ave,5241,Leonard St & Maujer St,5148,40.71429,-73.93323,40.7103685423523,-73.94705951213837,member
+2761609,435DC5C5C183CEFA,electric_bike,2021-06-24 17:55:41,2021-06-25 14:20:36,Metropolitan Ave & Vandervoort Ave,5241,,nan,40.71429,-73.93323,40.71,-73.94,casual
+2761703,8E737457FCECF1C0,docked_bike,2021-06-10 00:19:24,2021-06-10 00:30:36,Metropolitan Ave & Vandervoort Ave,5241,Hart St & Wyckoff Ave,4971,40.71429,-73.93323,40.704876,-73.919911,casual
+2762821,83B89FB50DEB2B71,docked_bike,2021-06-21 02:17:08,2021-06-22 03:17:03,Metropolitan Ave & Vandervoort Ave,5241,,nan,40.71429,-73.93323,,,casual
+2790594,C867B8A496281FDB,electric_bike,2021-06-13 17:51:20,2021-06-13 18:04:08,Metropolitan Ave & Vandervoort Ave,5241,Menahan St & Central Ave,4672,40.71429,-73.93323,40.69543,-73.9196,casual
+2815591,E8C55D310907BF2F,docked_bike,2021-06-16 21:40:11,2021-06-16 21:55:09,Metropolitan Ave & Vandervoort Ave,5241,Union Ave & N 12 St,5411,40.71429,-73.93323,40.71924,-73.95242,member
+2828691,8C5BF8C32C5049FD,docked_bike,2021-06-07 17:52:50,2021-06-07 18:16:42,Metropolitan Ave & Vandervoort Ave,5241,Union Ave & N 12 St,5411,40.71429,-73.93323,40.71924,-73.95242,casual
+2828719,872ED010E69584DC,docked_bike,2021-06-07 17:53:14,2021-06-07 18:21:12,Metropolitan Ave & Vandervoort Ave,5241,Union Ave & N 12 St,5411,40.71429,-73.93323,40.71924,-73.95242,casual
+2840101,73B8D10291119A3B,electric_bike,2021-06-20 15:49:33,2021-06-20 16:17:30,Metropolitan Ave & Vandervoort Ave,5241,E 68 St & 3 Ave,6896,40.71429,-73.93323,40.76712840349542,-73.96224617958069,member
+2876838,015DFB7A21138366,docked_bike,2021-06-06 00:00:40,2021-06-06 00:37:52,Metropolitan Ave & Vandervoort Ave,5241,Henry St & Remsen St,4645,40.71429,-73.93323,40.69400964865994,-73.99465128779411,member
+2933926,14C38E2D0B2E15A8,electric_bike,2021-06-11 16:06:45,2021-06-11 16:52:18,Metropolitan Ave & Vandervoort Ave,5241,Pacific St & Nevins St,4362,40.71429,-73.93323,40.6853761,-73.98302136,casual
+2963384,726B177FDC29789C,electric_bike,2021-06-11 18:49:56,2021-06-11 19:08:08,Metropolitan Ave & Vandervoort Ave,5241,E 6 St & Avenue B,5584,40.71429,-73.93323,40.72453734,-73.98185424,casual
+2963398,83B2C664A378F5ED,docked_bike,2021-06-17 18:19:12,2021-06-17 19:20:51,Metropolitan Ave & Vandervoort Ave,5241,Ocean Pkwy & Church Ave,3125,40.71429,-73.93323,40.64471895763575,-73.97451460361481,member
+2978918,A711F53AF84144E8,docked_bike,2021-06-16 18:17:05,2021-06-16 19:19:11,Metropolitan Ave & Vandervoort Ave,5241,Ocean Pkwy & Church Ave,3125,40.71429,-73.93323,40.64471895763575,-73.97451460361481,member
+2978919,0D58C6836C2CBCB4,classic_bike,2021-06-24 18:06:18,2021-06-24 19:06:49,Metropolitan Ave & Vandervoort Ave,5241,Ocean Pkwy & Church Ave,3125,40.71429,-73.93323,40.64471895763575,-73.97451460361481,member
+2978934,7EEB35E63CBA8170,classic_bike,2021-06-23 18:07:21,2021-06-23 19:04:52,Metropolitan Ave & Vandervoort Ave,5241,Ocean Pkwy & Church Ave,3125,40.71429,-73.93323,40.64471895763575,-73.97451460361481,member
+2993708,1793FFB248EC03CE,electric_bike,2021-06-01 18:24:30,2021-06-01 19:13:10,Metropolitan Ave & Vandervoort Ave,5241,Ocean Pkwy & Church Ave,3125,40.71429,-73.93323,40.64471895763575,-73.97451460361481,member
+3008162,658E8513D6CBE86A,electric_bike,2021-06-23 15:13:40,2021-06-23 15:36:28,Metropolitan Ave & Vandervoort Ave,5241,S 3 St & Bedford Ave,5235,40.71429,-73.93323,40.71260486,-73.96264403,casual
+3044510,FB6D7870EA4BEE6A,docked_bike,2021-06-11 19:37:45,2021-06-11 19:52:17,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Harman St,4856,40.71429,-73.93323,40.70108,-73.9179,casual
+3054216,82FD2CAD3AA8F225,electric_bike,2021-06-06 04:37:28,2021-06-06 04:52:30,Metropolitan Ave & Vandervoort Ave,5241,Irving Ave & Harman St,4856,40.71429,-73.93323,40.70108,-73.9179,member

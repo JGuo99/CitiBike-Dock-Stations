@@ -1,0 +1,9 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+73984,77551B7CA590E978,docked_bike,2021-05-31 15:11:47,2021-05-31 15:43:38,Grand Concourse & E 203 St,8734,Riverside Dr & W 145 St,8018,40.87382,-73.88661,40.827305,-73.951989,casual
+371123,90AB00A67219CB38,docked_bike,2021-05-31 15:13:39,2021-05-31 16:07:55,Grand Concourse & E 203 St,8734,Tiebout Ave & E Fordham Road,8546,40.87382,-73.88661,40.861915,-73.894831,casual
+1371203,3C76BCFE50A6770E,docked_bike,2021-05-31 20:51:24,2021-05-31 21:21:09,Riverside Dr & W 148 St,8054,Grand Concourse & E 203 St,8734,40.829114,-73.950426,40.87382,-73.88661,casual
+1371473,85EFDF6DBBDA2DAE,docked_bike,2021-05-31 02:05:20,2021-05-31 02:22:38,3 Ave & E 174 St - Bathgate Vaccination Site,8241,Grand Concourse & E 203 St,8734,40.84224,-73.8985,40.87382,-73.88661,casual
+1373999,CA0980BF7A07CD40,docked_bike,2021-05-28 14:20:30,2021-05-28 15:42:06,Concourse Village East & E 158 St,8000,Grand Concourse & E 203 St,8734,40.823732,-73.919379,40.87382,-73.88661,casual
+1628765,5D3149CE9E15F966,docked_bike,2021-05-31 17:36:22,2021-05-31 19:05:34,Marion Ave & Mosholu Pkwy,8699,Grand Concourse & E 203 St,8734,40.870495,-73.881875,40.87382,-73.88661,member
+1628778,B4E526C8B75CE783,docked_bike,2021-05-31 17:36:42,2021-05-31 19:05:52,Marion Ave & Mosholu Pkwy,8699,Grand Concourse & E 203 St,8734,40.870495,-73.881875,40.87382,-73.88661,member
+1630291,DD9D32D5287EAFDB,docked_bike,2021-05-31 13:52:31,2021-05-31 14:03:26,Tiebout Ave & E Fordham Road,8546,Grand Concourse & E 203 St,8734,40.861915,-73.894831,40.87382,-73.88661,member

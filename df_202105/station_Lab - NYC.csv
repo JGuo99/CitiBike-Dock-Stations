@@ -1,0 +1,6 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+399576,ABDFFCE68FF95CBC,electric_bike,2021-05-06 12:53:28,2021-05-06 13:44:35,,nan,Prototype Lab,Lab - NYC,40.74,-74.01,40.75427471666666,-73.99644338333333,casual
+638772,812394E3106CE69F,electric_bike,2021-05-03 10:19:07,2021-05-03 10:24:19,,nan,Prototype Lab,Lab - NYC,40.75,-74.0,40.75453018333333,-73.99635993333334,casual
+842125,BA63BBE4344D3D42,electric_bike,2021-05-06 14:51:26,2021-05-06 14:51:31,Prototype Lab,Lab - NYC,,nan,40.75427471666666,-73.99644338333333,40.75,-74.0,casual
+842128,0879751E487983A6,electric_bike,2021-05-04 11:23:59,2021-05-04 11:24:18,Prototype Lab,Lab - NYC,,nan,40.75453018333333,-73.99635993333334,40.75,-74.0,casual
+842129,5DC3A5262DD2E03F,electric_bike,2021-05-04 11:14:29,2021-05-04 11:14:33,Prototype Lab,Lab - NYC,,nan,40.75453018333333,-73.99635993333334,40.75,-74.0,casual
