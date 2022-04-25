@@ -1,4 +1,0 @@
-,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
-190555,97F2DEA46776B81F,docked_bike,2021-04-29 16:28:11,2021-04-29 17:19:23,Soissons Landing,4590,Soissons Landing,4590,40.692316,-74.014865,40.69231660719192,-74.01486575603485,member
-476564,8E1166A8ABCC6605,docked_bike,2021-04-29 17:16:25,2021-04-29 17:35:33,Soissons Landing,4590,Soissons Landing,4590,40.692316,-74.014865,40.69231660719192,-74.01486575603485,member
-476594,4C28D1F71D5643B3,docked_bike,2021-04-29 16:12:02,2021-04-29 17:01:27,Soissons Landing,4590,Soissons Landing,4590,40.692316,-74.014865,40.69231660719192,-74.01486575603485,member
