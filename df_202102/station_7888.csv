@@ -1,0 +1,19 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+141936,5ACE0D306AAC7AE9,docked_bike,2021-02-28 11:34:43,2021-02-28 12:06:57,Dawson St & Intervale Ave,7888,12 Ave & W 125 St,7886,40.819999,-73.897263,40.818299,-73.960405,casual
+141938,5B5502CE2288016F,docked_bike,2021-02-26 15:59:49,2021-02-26 16:30:41,Dawson St & Intervale Ave,7888,12 Ave & W 125 St,7886,40.819999,-73.897263,40.818299,-73.960405,casual
+184155,D9BCD448A60B70F1,docked_bike,2021-02-18 00:59:47,2021-02-18 01:31:20,Dawson St & Intervale Ave,7888,Central Park North & Adam Clayton Powell Blvd,7617,40.819999,-73.897263,40.799484,-73.955613,casual
+222037,ED03EE0907FB41A3,docked_bike,2021-02-26 13:35:43,2021-02-26 15:40:31,Columbus Ave & W 103 St,7595,Dawson St & Intervale Ave,7888,40.796934,-73.964341,40.819999,-73.897263,casual
+223180,BF728749640A9972,docked_bike,2021-02-19 14:05:43,2021-02-19 14:24:43,W 135 St & Lenox Terrace Pl,7832,Dawson St & Intervale Ave,7888,40.813619,-73.939336,40.819999,-73.897263,casual
+223880,8D20762CCD03DDFD,docked_bike,2021-02-17 17:13:30,2021-02-17 18:02:29,W 90 St & Amsterdam Ave,7432,Dawson St & Intervale Ave,7888,40.790179,-73.972889,40.819999,-73.897263,casual
+224065,3B195D2EA312A07F,docked_bike,2021-02-17 17:19:36,2021-02-17 18:02:30,W 87 St & Amsterdam Ave,7458,Dawson St & Intervale Ave,7888,40.78839,-73.9747,40.819999,-73.897263,casual
+224718,90AC1EA54D470435,docked_bike,2021-02-24 08:25:04,2021-02-24 08:27:58,Southern Blvd & Tiffany St,7867,Dawson St & Intervale Ave,7888,40.818185,-73.894143,40.819999,-73.897263,member
+225169,135B0F125AE39022,docked_bike,2021-02-25 09:00:50,2021-02-25 09:02:57,E 163 St & Tiffany St,7927,Dawson St & Intervale Ave,7888,40.821075,-73.895069,40.819999,-73.897263,member
+226093,ADEA3182D933FA5F,docked_bike,2021-02-27 01:40:12,2021-02-27 01:59:13,Prospect Ave & E 151 St,7830,Dawson St & Intervale Ave,7888,40.814232,-73.903927,40.819999,-73.897263,member
+226583,99E9E7A0DB83D9AB,docked_bike,2021-02-21 17:48:19,2021-02-21 17:52:50,Lafayette Ave & Hunts Point Ave,7883,Dawson St & Intervale Ave,7888,40.816567,-73.888161,40.819999,-73.897263,casual
+227789,61A645E437F28B34,docked_bike,2021-02-26 14:24:21,2021-02-26 14:42:18,Intervale Ave & Westchester Ave,7948,Dawson St & Intervale Ave,7888,40.821967,-73.896752,40.819999,-73.897263,member
+470183,4DB8DBEF83D5577B,docked_bike,2021-02-20 21:03:42,2021-02-20 21:16:27,Dawson St & Intervale Ave,7888,Crotona Park North & Prospect Ave,8236,40.819999,-73.897263,40.841092,-73.892317,casual
+470206,3DAE0CC993188EAE,docked_bike,2021-02-25 21:06:22,2021-02-25 21:20:09,Dawson St & Intervale Ave,7888,Crotona Park North & Prospect Ave,8236,40.819999,-73.897263,40.841092,-73.892317,casual
+490598,40357DE36480481A,docked_bike,2021-02-27 22:57:41,2021-02-27 23:01:02,Dawson St & Intervale Ave,7888,Westchester Ave & Longwood Ave,7909,40.819999,-73.897263,40.819701,-73.901311,member
+497377,49A66BEA380E82D9,docked_bike,2021-02-20 11:28:38,2021-02-20 11:30:26,Dawson St & Intervale Ave,7888,Longwood Ave & Southern Blvd,7849,40.819999,-73.897263,40.816343,-73.896447,member
+497386,2A5CF7A7E5D5022E,docked_bike,2021-02-25 09:04:09,2021-02-25 09:06:39,Dawson St & Intervale Ave,7888,Southern Blvd & Tiffany St,7867,40.819999,-73.897263,40.818185,-73.894143,member
+499012,6105AE8A4E8A8299,docked_bike,2021-02-24 08:28:38,2021-02-24 08:31:19,Dawson St & Intervale Ave,7888,Longwood Ave & Southern Blvd,7849,40.819999,-73.897263,40.816343,-73.896447,member

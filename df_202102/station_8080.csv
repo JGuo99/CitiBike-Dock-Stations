@@ -1,0 +1,40 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+14196,1A88D964B4BD0AED,docked_bike,2021-02-04 15:08:19,2021-02-04 15:10:00,Freeman St & Southern Blvd,8060,Freeman St & Reverend James A Polite Ave,8080,40.830051,-73.892103,40.830529,-73.894717,member
+14203,9A1AD0E956531E82,docked_bike,2021-02-17 16:41:27,2021-02-17 16:42:47,Freeman St & Southern Blvd,8060,Freeman St & Reverend James A Polite Ave,8080,40.830051,-73.892103,40.830529,-73.894717,member
+14241,DC4FD8F416127A50,docked_bike,2021-02-25 19:19:52,2021-02-25 19:22:01,Louis Nine Blvd & Intervale Ave,8114,Freeman St & Reverend James A Polite Ave,8080,40.831998,-73.892686,40.830529,-73.894717,member
+15698,C7951703BFBB3C43,docked_bike,2021-02-23 23:40:59,2021-02-24 00:17:49,W 163 St & Edgecombe Ave,8153,Freeman St & Reverend James A Polite Ave,8080,40.835798,-73.937496,40.830529,-73.894717,casual
+15794,A9361C55C1A9D788,docked_bike,2021-02-23 23:35:40,2021-02-24 00:17:57,W 163 St & Edgecombe Ave,8153,Freeman St & Reverend James A Polite Ave,8080,40.835798,-73.937496,40.830529,-73.894717,casual
+17077,63E72B57B3E10161,docked_bike,2021-02-27 22:33:26,2021-02-27 22:34:44,Freeman St & Southern Blvd,8060,Freeman St & Reverend James A Polite Ave,8080,40.830051,-73.892103,40.830529,-73.894717,member
+17610,3FAF9BE0694445F8,docked_bike,2021-02-10 12:20:57,2021-02-10 12:28:30,E 174 St & Longfellow Ave,8144,Freeman St & Reverend James A Polite Ave,8080,40.836274,-73.884308,40.830529,-73.894717,member
+17630,2DB4054C350AD244,docked_bike,2021-02-17 19:00:16,2021-02-17 19:05:54,E 174 St & Longfellow Ave,8144,Freeman St & Reverend James A Polite Ave,8080,40.836274,-73.884308,40.830529,-73.894717,member
+17631,41A16AD7740B932B,docked_bike,2021-02-13 18:20:31,2021-02-13 18:27:20,E 174 St & Longfellow Ave,8144,Freeman St & Reverend James A Polite Ave,8080,40.836274,-73.884308,40.830529,-73.894717,member
+18950,ED38B381E7707772,docked_bike,2021-02-11 23:31:59,2021-02-11 23:49:32,Boston Rd & Prospect Ave,8133,Freeman St & Reverend James A Polite Ave,8080,40.833246,-73.896599,40.830529,-73.894717,member
+19566,369393194EBD2B97,docked_bike,2021-02-24 20:17:21,2021-02-24 20:20:08,Freeman St & Reverend James A Polite Ave,8080,Freeman St & Reverend James A Polite Ave,8080,40.830529,-73.894717,40.830529,-73.894717,member
+20898,386DA9863D0A7E42,docked_bike,2021-02-24 10:10:55,2021-02-24 10:20:06,Mount Eden Pkwy & Eastburn Ave,8245,Freeman St & Reverend James A Polite Ave,8080,40.842675,-73.908544,40.830529,-73.894717,member
+21177,CA77D688508EB9A9,docked_bike,2021-02-26 08:50:07,2021-02-26 08:52:00,Louis Nine Blvd & Intervale Ave,8114,Freeman St & Reverend James A Polite Ave,8080,40.831998,-73.892686,40.830529,-73.894717,member
+21591,8F4F948D489CF870,docked_bike,2021-02-10 11:06:07,2021-02-10 11:07:36,Louis Nine Blvd & Intervale Ave,8114,Freeman St & Reverend James A Polite Ave,8080,40.831998,-73.892686,40.830529,-73.894717,member
+21877,71ACB93F5CA4A513,docked_bike,2021-02-24 14:07:59,2021-02-24 14:13:37,Prospect Ave & E 167 St,8008,Freeman St & Reverend James A Polite Ave,8080,40.826303,-73.898751,40.830529,-73.894717,casual
+22912,9A9BD208C3A975DE,docked_bike,2021-02-24 15:21:17,2021-02-24 15:25:11,Southern Blvd & E 174 St,8163,Freeman St & Reverend James A Polite Ave,8080,40.836733,-73.887931,40.830529,-73.894717,casual
+23942,6032A8CD59711946,docked_bike,2021-02-20 15:58:49,2021-02-20 16:04:42,Fulton Ave & E 168 St,8084,Freeman St & Reverend James A Polite Ave,8080,40.830471,-73.904556,40.830529,-73.894717,member
+24003,7C8516E83D49272B,docked_bike,2021-02-16 17:51:41,2021-02-16 17:59:55,Grand Concourse & East Mount Eden Ave,8265,Freeman St & Reverend James A Polite Ave,8080,40.84301,-73.91172,40.830529,-73.894717,member
+24488,28797799D9DAE53D,docked_bike,2021-02-23 20:34:42,2021-02-23 20:42:21,Southern Blvd & Avenue St. John,7767,Freeman St & Reverend James A Polite Ave,8080,40.812769,-73.901583,40.830529,-73.894717,member
+46103,4EBC4980F2D56C29,docked_bike,2021-02-17 13:42:02,2021-02-17 13:57:49,Freeman St & Reverend James A Polite Ave,8080,Edgecombe Ave & W 145 St,7976,40.830529,-73.894717,40.823498,-73.94386,casual
+130196,685794789EDE145B,docked_bike,2021-02-04 14:58:15,2021-02-04 15:00:05,Freeman St & Reverend James A Polite Ave,8080,Freeman St & Southern Blvd,8060,40.830529,-73.894717,40.830051,-73.892103,member
+130197,CFA800E71E4706AF,docked_bike,2021-02-06 18:42:07,2021-02-06 18:43:32,Freeman St & Reverend James A Polite Ave,8080,Freeman St & Southern Blvd,8060,40.830529,-73.894717,40.830051,-73.892103,member
+178079,264B3878DD61B1FA,docked_bike,2021-02-27 22:35:13,2021-02-27 22:37:51,Freeman St & Reverend James A Polite Ave,8080,Franklin Ave & E 169 St,8118,40.830529,-73.894717,40.83171,-73.90208,member
+265218,E9E21F85793EF989,docked_bike,2021-02-03 15:10:18,2021-02-03 15:30:05,Freeman St & Reverend James A Polite Ave,8080,Fulton Ave & E 168 St,8084,40.830529,-73.894717,40.830471,-73.904556,member
+277009,C3BFCEDB3A341351,docked_bike,2021-02-24 10:26:47,2021-02-24 10:35:46,Freeman St & Reverend James A Polite Ave,8080,Mount Eden Pkwy & Eastburn Ave,8245,40.830529,-73.894717,40.842675,-73.908544,member
+277010,0F6BA67081D8B1A9,docked_bike,2021-02-24 09:29:20,2021-02-24 09:41:20,Freeman St & Reverend James A Polite Ave,8080,Mount Eden Pkwy & Eastburn Ave,8245,40.830529,-73.894717,40.842675,-73.908544,member
+318943,E36BED6137F55FA9,docked_bike,2021-02-04 15:25:36,2021-02-04 15:34:25,Freeman St & Reverend James A Polite Ave,8080,Washington Ave & E 167 St,8068,40.830529,-73.894717,40.829896,-73.907618,member
+331790,3E57E81E946133D3,docked_bike,2021-02-26 08:52:45,2021-02-26 08:54:41,Freeman St & Reverend James A Polite Ave,8080,Prospect Ave & Jennings St,8099,40.830529,-73.894717,40.831762,-73.896853,member
+347170,C110C41C207BEDF2,docked_bike,2021-02-20 13:54:13,2021-02-20 14:32:23,Freeman St & Reverend James A Polite Ave,8080,Lenox Ave & W 117 St,7655,40.830529,-73.894717,40.8025566,-73.9490782,member
+405322,0E67F4A0B3726DE8,docked_bike,2021-02-22 11:31:29,2021-02-22 11:59:33,Freeman St & Reverend James A Polite Ave,8080,Louis Nine Blvd & Intervale Ave,8114,40.830529,-73.894717,40.831998,-73.892686,casual
+472159,B169552EB9A7482A,docked_bike,2021-02-13 21:55:59,2021-02-13 22:01:48,Freeman St & Reverend James A Polite Ave,8080,Crotona Park North & Prospect Ave,8236,40.830529,-73.894717,40.841092,-73.892317,member
+472160,542553A55E1760DB,docked_bike,2021-02-25 00:36:29,2021-02-25 00:41:40,Freeman St & Reverend James A Polite Ave,8080,Crotona Park North & Prospect Ave,8236,40.830529,-73.894717,40.841092,-73.892317,member
+486550,5C7B8C1943836019,docked_bike,2021-02-10 11:13:38,2021-02-10 11:21:10,Freeman St & Reverend James A Polite Ave,8080,E 174 St & Longfellow Ave,8144,40.830529,-73.894717,40.836274,-73.884308,member
+496874,292C5F80AAA01430,docked_bike,2021-02-24 13:01:41,2021-02-24 13:07:47,Freeman St & Reverend James A Polite Ave,8080,Westchester Ave & Southern Blvd,8004,40.830529,-73.894717,40.824956,-73.891677,casual
+569931,4BF6EFB297C660F5,docked_bike,2021-02-06 18:19:30,2021-02-06 18:24:34,3 Ave & E 169 St,8103,Freeman St & Reverend James A Polite Ave,8080,40.832678,-73.905158,40.830529,-73.894717,member
+570111,8EB77FAC4BA60801,docked_bike,2021-02-26 19:39:27,2021-02-26 19:44:34,3 Ave & E 169 St,8103,Freeman St & Reverend James A Polite Ave,8080,40.832678,-73.905158,40.830529,-73.894717,member
+631504,F9719F8950675522,docked_bike,2021-02-10 21:52:54,2021-02-10 21:59:55,Freeman St & Reverend James A Polite Ave,8080,E 169 St & Webster Ave,8122,40.830529,-73.894717,40.834015,-73.908863,casual
+631601,B4D0BF6352877A3C,docked_bike,2021-02-17 16:46:06,2021-02-17 16:51:20,Freeman St & Reverend James A Polite Ave,8080,3 Ave & E 169 St,8103,40.830529,-73.894717,40.832678,-73.905158,member
+631620,977CEA4DE92BAA34,docked_bike,2021-02-12 16:11:09,2021-02-12 16:16:00,Freeman St & Reverend James A Polite Ave,8080,3 Ave & E 169 St,8103,40.830529,-73.894717,40.832678,-73.905158,member

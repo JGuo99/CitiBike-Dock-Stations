@@ -1,0 +1,8 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+104134,7888C84D6FEFB3A7,docked_bike,2021-02-05 10:57:48,2021-02-05 11:20:17,Longwood Ave & Southern Blvd,7849,E 155 St & Courtlandt Ave,7940,40.816343,-73.896447,40.82057,-73.917579,casual
+106027,131114EF2E118F2B,docked_bike,2021-02-05 18:10:11,2021-02-05 18:48:01,Amsterdam Ave & W 162 St,8172,E 155 St & Courtlandt Ave,7940,40.83618,-73.939789,40.82057,-73.917579,casual
+106361,6765C15B46E28041,docked_bike,2021-02-24 23:18:35,2021-02-24 23:19:23,E 155 St & Courtlandt Ave,7940,E 155 St & Courtlandt Ave,7940,40.82057,-73.917579,40.82057,-73.917579,member
+106959,77ED151544C18556,docked_bike,2021-02-08 20:31:44,2021-02-08 20:51:59,Sheridan Ave & E 168 St,8160,E 155 St & Courtlandt Ave,7940,40.835334,-73.9154,40.82057,-73.917579,member
+244480,0D261EDC609B58FA,docked_bike,2021-02-10 23:33:25,2021-02-10 23:38:35,E 155 St & Courtlandt Ave,7940,Brook Ave & E 148 St,7816,40.82057,-73.917579,40.814383,-73.915368,member
+303105,DB3E56C2662A409F,docked_bike,2021-02-12 21:52:09,2021-02-12 21:58:56,E 155 St & Courtlandt Ave,7940,Sherman Ave & E 166 St,8072,40.82057,-73.917579,40.83130549267296,-73.91744792461395,casual
+372985,9334AABEE5AA1400,docked_bike,2021-02-08 20:53:11,2021-02-08 21:28:12,E 155 St & Courtlandt Ave,7940,E 106 St & 1 Ave,7456,40.82057,-73.917579,40.7892529,-73.93956237,member

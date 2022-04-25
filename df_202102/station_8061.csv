@@ -1,0 +1,10 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+536546,AB378B2CFF782DF7,docked_bike,2021-02-16 10:34:30,2021-02-16 10:37:25,Jerome Ave & Anderson Ave,8061,Ogden Ave & W 165 St,8149,40.830179,-73.928747,40.834457,-73.928381,member
+581888,643EF9E6099A4885,docked_bike,2021-02-26 08:59:26,2021-02-26 09:17:56,Jerome Ave & Anderson Ave,8061,River Ave & E 151 St,7967,40.830179,-73.928747,40.822217,-73.928939,member
+620871,82E03842A2D2C0D3,docked_bike,2021-02-28 11:11:09,2021-02-28 11:21:39,Jerome Ave & Anderson Ave,8061,Courtlandt Ave & E 149 St,7840,40.830179,-73.928747,40.816402,-73.919549,member
+629432,997DF660E5F351DF,docked_bike,2021-02-06 13:33:47,2021-02-06 13:40:11,Jerome Ave & Anderson Ave,8061,Inwood Ave & W 170 St,8233,40.830179,-73.928747,40.840536,-73.919228,casual
+647796,5E7308E180516576,docked_bike,2021-02-17 12:08:13,2021-02-17 12:12:05,Ogden Ave & W 165 St,8149,Jerome Ave & Anderson Ave,8061,40.834457,-73.928381,40.830179,-73.928747,member
+648401,C0F9EFBB8A4D7448,docked_bike,2021-02-23 17:02:14,2021-02-23 17:11:32,Washington Ave & E 163 St,7995,Jerome Ave & Anderson Ave,8061,40.824,-73.91089,40.830179,-73.928747,member
+649235,411952824378EE82,docked_bike,2021-02-04 18:53:34,2021-02-04 19:00:33,W 155 St & Frederick Douglass Blvd,8065,Jerome Ave & Anderson Ave,8061,40.82923,-73.936996,40.830179,-73.928747,casual
+649613,24AE5480956AA21C,docked_bike,2021-02-06 16:05:23,2021-02-06 16:27:38,Bruckner Blvd & Bryant Ave,7944,Jerome Ave & Anderson Ave,8061,40.821952,-73.888546,40.830179,-73.928747,casual
+649817,74E1CA7B0BC62DB4,docked_bike,2021-02-05 17:01:18,2021-02-05 17:04:20,E 161 St & River Ave,8041,Jerome Ave & Anderson Ave,8061,40.827883,-73.927111,40.830179,-73.928747,member

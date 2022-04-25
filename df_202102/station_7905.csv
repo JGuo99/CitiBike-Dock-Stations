@@ -1,0 +1,10 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+108946,1651526E11140C94,docked_bike,2021-02-25 16:25:03,2021-02-25 16:31:36,Garrison Ave & Manida St,7905,Intervale Ave & Westchester Ave,7948,40.818743,-73.890247,40.821967,-73.896752,casual
+108947,81F433FEA6B9BB8D,docked_bike,2021-02-15 17:21:07,2021-02-15 17:25:46,Garrison Ave & Manida St,7905,Intervale Ave & Westchester Ave,7948,40.818743,-73.890247,40.821967,-73.896752,casual
+108969,3C5310910463CF20,docked_bike,2021-02-13 15:55:15,2021-02-13 16:01:25,Garrison Ave & Manida St,7905,Intervale Ave & Westchester Ave,7948,40.818743,-73.890247,40.821967,-73.896752,casual
+215814,64E72EC4CCD1B128,docked_bike,2021-02-14 16:07:24,2021-02-14 16:47:54,Willis Ave & E 137 St,7726,Garrison Ave & Manida St,7905,40.808384,-73.923604,40.818743,-73.890247,member
+216004,54B3F1013B274C25,docked_bike,2021-02-14 16:31:39,2021-02-14 16:39:47,Westchester Ave & Longwood Ave,7909,Garrison Ave & Manida St,7905,40.819701,-73.901311,40.818743,-73.890247,casual
+556730,6B162068D25D1446,docked_bike,2021-02-05 15:13:49,2021-02-05 15:26:32,Morris Ave & E 163 St,8036,Garrison Ave & Manida St,7905,40.82723,-73.917656,40.818743,-73.890247,casual
+560549,06C279B85DACAAFA,docked_bike,2021-02-17 17:41:33,2021-02-17 18:17:07,Seneca Ave & Irvine St,7883,Garrison Ave & Manida St,7905,40.818725,-73.888624,40.818743,-73.890247,casual
+561768,B851AE6FBBCCB4DD,docked_bike,2021-02-26 15:13:22,2021-02-26 15:24:16,Park Ave & E 162 St,8016,Garrison Ave & Manida St,7905,40.825716,-73.915585,40.818743,-73.890247,casual
+590057,36492315B543F67F,docked_bike,2021-02-14 16:48:22,2021-02-14 17:00:11,Garrison Ave & Manida St,7905,Willis Ave & E 141 St,7759,40.818743,-73.890247,40.81093,-73.921606,member
