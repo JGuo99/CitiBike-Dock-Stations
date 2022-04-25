@@ -1,0 +1,61 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+12472,1209A9E832E82755,electric_bike,2022-02-09 04:43:03,2022-02-09 04:48:56,Jerome Ave & W 195 St,8653,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86874,-73.89657,40.87656,-73.88366,casual
+12492,7B2F351E4561AE4C,classic_bike,2022-02-04 03:55:26,2022-02-04 04:03:21,Jerome Ave & W 195 St,8653,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86874,-73.89657,40.87656,-73.88366,casual
+23835,FC2E35A507B48FF2,electric_bike,2022-02-17 13:37:08,2022-02-17 13:38:30,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Grand Concourse & E Mosholu Pkwy S,8795,40.87656,-73.88366,40.877964,-73.8847550291,member
+41041,14FCAC3E8EBA5E12,electric_bike,2022-02-12 17:51:00,2022-02-12 17:52:32,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Grand Concourse & E Mosholu Pkwy S,8795,40.87656,-73.88366,40.877964,-73.8847550291,member
+93589,9838049CBFD2AF27,classic_bike,2022-02-28 17:42:03,2022-02-28 17:59:34,Anthony Ave & E Tremont Ave,8356,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.848793,-73.903178,40.87656,-73.88366,member
+93790,EF65A9060184B685,electric_bike,2022-02-17 15:16:05,2022-02-17 15:36:30,Fulton Ave & St. Paul's Pl,8152,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.83545,-73.90153,40.87656,-73.88366,casual
+94507,F1E6F1B267108D08,electric_bike,2022-02-11 03:33:09,2022-02-11 14:58:02,Jerome Ave & W 193 St,8619,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86659,-73.89794,40.87656,-73.88366,casual
+94510,91A7635FDEA6E253,electric_bike,2022-02-17 04:22:05,2022-02-17 04:31:54,Jerome Ave & W 193 St,8619,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86659,-73.89794,40.87656,-73.88366,casual
+97155,7770D3923E72F3A5,electric_bike,2022-02-01 13:37:57,2022-02-01 14:40:46,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E 51 St & 2 Ave,6575,40.87656,-73.88366,40.755293,-73.967641,member
+112457,D460CA523EC00E74,electric_bike,2022-02-24 04:00:24,2022-02-24 04:10:00,Aqueduct Ave & W 190 St,8605,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.8649213,-73.9024238,40.87656,-73.88366,casual
+139445,FDDA5D841646231E,electric_bike,2022-02-19 18:55:39,2022-02-19 19:20:06,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Webster Ave & Ford St,8472,40.87656,-73.88366,40.85556,-73.89615,casual
+157011,EC816681C2C9A71B,electric_bike,2022-02-17 17:03:34,2022-02-17 17:36:45,E Mosholu Pkwy & Van Cortlandt Ave E,8778,W 144 St & Adam Clayton Powell Blvd,7932,40.87656,-73.88366,40.820877,-73.939249,casual
+179857,364AE27725F8E33F,electric_bike,2022-02-11 15:24:06,2022-02-11 15:47:01,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Audubon Ave & Fort George Ave,8491,40.87656,-73.88366,40.85715781391904,-73.92717361450195,casual
+227856,94349369AA4B675F,electric_bike,2022-02-12 13:22:59,2022-02-12 15:30:37,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & E Mosholu Parkway S,8795,40.87656,-73.88366,40.87935,-73.88534,casual
+227907,5BAB3301E82AE61C,electric_bike,2022-02-13 14:32:37,2022-02-13 15:36:43,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & E Mosholu Parkway S,8795,40.87656,-73.88366,40.87935,-73.88534,member
+249005,E86C5BFDC8D335B4,electric_bike,2022-02-16 04:43:56,2022-02-16 04:49:17,Jerome Ave & Bedford Park Blvd E,8734,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.87307,-73.88971,40.87656,-73.88366,casual
+249968,56AFE71C5BA1E3C3,classic_bike,2022-02-12 12:42:39,2022-02-12 12:47:50,Grand Concourse & E 197 St,8667,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86945,-73.89148,40.87656,-73.88366,member
+251275,BD5F0257A652D9DD,electric_bike,2022-02-25 03:27:16,2022-02-25 03:36:19,W 192 St & University Ave,8639,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.866899,-73.901942,40.87656,-73.88366,casual
+252090,29A708993F1E8725,electric_bike,2022-02-22 04:17:52,2022-02-22 04:26:24,Jerome Ave & W 193 St,8619,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86659,-73.89794,40.87656,-73.88366,casual
+252401,6E41780FF86434A9,electric_bike,2022-02-08 15:20:07,2022-02-08 15:47:05,Franklin Ave & E 169 St,8118,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.83171,-73.90208,40.87656,-73.88366,casual
+252759,DF2C22982CCAC95A,classic_bike,2022-02-13 17:19:05,2022-02-13 17:21:38,E Mosholu Pkwy & E 204 St,8748,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.8740704,-73.8833650931,40.87656,-73.88366,member
+262445,4343ED54FDD423FF,electric_bike,2022-02-11 11:34:21,2022-02-11 11:37:40,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Bainbridge Ave & Bedford Park Blvd,8682,40.87656,-73.88366,40.87002,-73.88565,member
+299700,D69145AAEEC6722E,electric_bike,2022-02-24 15:22:41,2022-02-24 15:25:05,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E 201 St & Briggs Ave,8717,40.87656,-73.88366,40.87207,-73.88459,casual
+299701,05E8EB9C48C5D462,electric_bike,2022-02-09 21:50:23,2022-02-09 21:52:11,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E 201 St & Briggs Ave,8717,40.87656,-73.88366,40.87207,-73.88459,casual
+315719,03AC727509822473,electric_bike,2022-02-18 17:03:50,2022-02-18 17:38:21,E Mosholu Pkwy & Van Cortlandt Ave E,8778,W 144 St & Adam Clayton Powell Blvd,7932,40.87656,-73.88366,40.820877,-73.939249,casual
+316786,81280EB391015D4B,electric_bike,2022-02-11 17:03:13,2022-02-11 17:35:09,E Mosholu Pkwy & Van Cortlandt Ave E,8778,W 144 St & Adam Clayton Powell Blvd,7932,40.87656,-73.88366,40.820877,-73.939249,casual
+318723,6DD7B0B38C31D363,electric_bike,2022-02-11 11:40:49,2022-02-11 11:57:44,Bainbridge Ave & Bedford Park Blvd,8682,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.87002,-73.88565,40.87656,-73.88366,member
+319434,81FA375569D74A87,classic_bike,2022-02-16 12:42:37,2022-02-16 12:52:12,Bainbridge Ave & E 193 St,8582,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86389,-73.89246,40.87656,-73.88366,casual
+319565,89C497EE367DB856,electric_bike,2022-02-09 17:25:32,2022-02-09 17:35:03,E Fordham Rd & Webster Ave,8582,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.861748,-73.89105,40.87656,-73.88366,casual
+320107,FD42226D64239EF6,electric_bike,2022-02-28 04:14:20,2022-02-28 04:25:49,W 192 St & University Ave,8639,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.866899,-73.901942,40.87656,-73.88366,casual
+320127,32EE05AFDBBB7A17,electric_bike,2022-02-11 15:49:08,2022-02-11 18:00:55,Jerome Ave & E Mosholu Parkway S,8795,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.87935,-73.88534,40.87656,-73.88366,casual
+321995,854FE3AA555C8602,electric_bike,2022-02-17 17:56:57,2022-02-17 18:03:47,E Fordham Rd & Webster Ave,8582,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.861748,-73.89105,40.87656,-73.88366,casual
+322661,98D02C05583E4E3C,classic_bike,2022-02-10 13:58:11,2022-02-10 14:07:01,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.87656,-73.88366,40.87656,-73.88366,casual
+326226,2DC263987EEEFCB8,electric_bike,2022-02-12 15:27:26,2022-02-12 15:33:31,Grand Concourse & E 192 St,8601,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.86448,-73.89522,40.87656,-73.88366,casual
+327201,568FDE9962922D3A,electric_bike,2022-02-11 18:23:01,2022-02-11 18:32:20,Goulden Ave & W 197 St,8707,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.87156,-73.89714,40.87656,-73.88366,casual
+327742,45BD8AE769E394AE,electric_bike,2022-02-11 11:31:31,2022-02-11 11:32:46,Grand Concourse & E Mosholu Pkwy S,8795,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.877964,-73.8847550291,40.87656,-73.88366,member
+327754,BE94AEC0D8567F23,electric_bike,2022-02-17 13:39:00,2022-02-17 13:54:30,Grand Concourse & E Mosholu Pkwy S,8795,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.877964,-73.8847550291,40.87656,-73.88366,member
+327976,9306FDCC2E424C75,electric_bike,2022-02-28 15:37:45,2022-02-28 16:33:44,W 145 St & Amsterdam Ave,7997,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.825244,-73.947257,40.87656,-73.88366,casual
+328060,E59435433D8644FC,electric_bike,2022-02-11 16:01:13,2022-02-11 16:07:51,Marion Ave & Mosholu Pkwy,8699,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.8704956,-73.8818756582,40.87656,-73.88366,casual
+328128,D8EAA02BF5CB01C8,electric_bike,2022-02-12 17:52:55,2022-02-12 18:00:11,Grand Concourse & E Mosholu Pkwy S,8795,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.877964,-73.8847550291,40.87656,-73.88366,member
+329879,FDC37BF64A42A4A6,classic_bike,2022-02-22 10:47:00,2022-02-22 10:51:03,Marion Ave & Mosholu Pkwy,8699,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.8704956,-73.8818756582,40.87656,-73.88366,member
+450392,FF3A83C11C201029,classic_bike,2022-02-14 16:52:50,2022-02-14 18:20:51,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Bruckner Blvd & Bryant Ave,7944,40.87656,-73.88366,40.821952,-73.888546,member
+463015,2704A26CF26B1929,classic_bike,2022-02-19 11:00:51,2022-02-19 11:10:09,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E Fordham Rd & Webster Ave,8582,40.87656,-73.88366,40.861748,-73.89105,member
+463192,EF59F27600AFD5C2,electric_bike,2022-02-26 21:40:48,2022-02-26 21:47:18,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E Fordham Rd & Webster Ave,8582,40.87656,-73.88366,40.861748,-73.89105,casual
+564563,5D36FE6730EB9212,classic_bike,2022-02-01 12:06:23,2022-02-01 12:17:06,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & Bedford Park Blvd E,8734,40.87656,-73.88366,40.87307,-73.88971,member
+564981,DB94F0B8B6C80377,docked_bike,2022-02-10 17:11:47,2022-02-10 17:17:52,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & Bedford Park Blvd E,8734,40.87656,-73.88366,40.87307,-73.88971,casual
+589341,1F7DFA526E73C6AD,classic_bike,2022-02-13 16:54:21,2022-02-13 16:55:55,E Mosholu Pkwy & Van Cortlandt Ave E,8778,E Mosholu Pkwy & E 204 St,8748,40.87656,-73.88366,40.8740704,-73.8833650931,member
+611979,3730D719BB9C7CFA,classic_bike,2022-02-02 18:12:01,2022-02-02 18:17:17,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Bedford Park Blvd & Paul Ave,8752,40.87656,-73.88366,40.87444,-73.89186,member
+621829,3DDB1A2927AB1CBA,electric_bike,2022-02-13 21:12:55,2022-02-13 21:24:28,E Mosholu Pkwy & Van Cortlandt Ave E,8778,W 225 St & Exterior St,8711,40.87656,-73.88366,40.873265,-73.906646,member
+836193,2570EAEEB9729501,electric_bike,2022-02-02 17:13:40,2022-02-02 17:23:15,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & W Fordham Rd,8586,40.87656,-73.88366,40.86294,-73.90108,member
+894869,EC59ED7C072B6891,electric_bike,2022-02-22 10:51:38,2022-02-22 10:53:12,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Jerome Ave & E Mosholu Parkway S,8795,40.87656,-73.88366,40.87935,-73.88534,member
+938247,47179EB5B3C79BB0,electric_bike,2022-02-04 05:03:30,2022-02-04 05:07:44,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Grand Concourse & E 199 St,8703,40.87656,-73.88366,40.87142,-73.88839,member
+977868,A2A3CAEC5BAFF8CA,electric_bike,2022-02-12 19:05:00,2022-02-12 19:32:07,E Mosholu Pkwy & Van Cortlandt Ave E,8778,W 176 St & Montgomery Ave,8366,40.87656,-73.88366,40.849629,-73.919205,casual
+993424,80B1DD8291465737,electric_bike,2022-02-09 17:14:56,2022-02-09 17:18:32,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Decatur Ave & Bedford Park Blvd,8664,40.87656,-73.88366,40.86813,-73.88412,casual
+1007224,EA698CD4B4A0A63E,classic_bike,2022-02-10 03:29:26,2022-02-10 03:32:29,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Marion Ave & Mosholu Pkwy,8699,40.87656,-73.88366,40.8704956,-73.8818756582,member
+1118982,4AC1F94DBB328249,classic_bike,2022-02-01 14:38:38,2022-02-01 14:42:03,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Botanical Sq & Webster Ave,8646,40.87656,-73.88366,40.86814,-73.88145,casual
+1119116,03E11F602C2A1502,electric_bike,2022-02-19 11:56:03,2022-02-19 11:59:37,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Botanical Sq & Webster Ave,8646,40.87656,-73.88366,40.86814,-73.88145,casual
+1159550,001C8473A65DF25B,electric_bike,2022-02-12 13:35:58,2022-02-12 13:43:40,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Tiebout Ave & E Fordham Road,8546,40.87656,-73.88366,40.861915,-73.894831,member
+1161679,6ECC03272442041C,electric_bike,2022-02-09 13:23:08,2022-02-09 13:30:46,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Tiebout Ave & E Fordham Road,8546,40.87656,-73.88366,40.861915,-73.894831,member
+1185528,9813F7C23BAAF655,electric_bike,2022-02-12 16:14:17,2022-02-12 16:57:21,Plaza Dr & W 170 St,8213,E Mosholu Pkwy & Van Cortlandt Ave E,8778,40.840484,-73.917946,40.87656,-73.88366,casual

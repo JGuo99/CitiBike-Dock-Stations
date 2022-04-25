@@ -1,0 +1,8 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+70773,E325C33306110044,classic_bike,2022-03-23 09:02:09,2022-03-23 09:50:58,Manhattan Av & Leonard St,5442,Morgan WH station,SYS032,40.72084,-73.94844,40.7098733,-73.9315939,member
+164521,5A7EC75925501D97,electric_bike,2022-03-11 10:39:08,2022-03-11 10:42:15,Knickerbocker Ave & Thames St,5018,Morgan WH station,SYS032,40.70539,-73.92976,40.70327577818653,-73.93183530424722,member
+1570848,6E2A8B025336E9FF,classic_bike,2022-03-23 18:07:40,2022-03-23 18:15:14,Morgan WH station,SYS032,Bushwick Ave & Powers St,5250,40.7098733,-73.9315939,40.71247661,-73.94100005,member
+1609702,9BC3F81C43F11C32,classic_bike,2022-03-02 10:21:41,2022-03-02 11:04:44,Stagg St & Morgan Ave,5170,Morgan WH station,SYS032,40.710681,-73.93372,40.70327577818653,-73.93183530424722,member
+1615090,68A32B6BFE7D3BE0,classic_bike,2022-03-25 08:26:39,2022-03-25 08:40:46,Meserole Ave & Manhattan Ave,5666,Morgan WH station,SYS032,40.72708584,-73.95299117,40.7098733,-73.9315939,member
+1617664,FE4E74544D755302,classic_bike,2022-03-25 07:39:39,2022-03-25 07:46:24,Beaver St & Fayette St,4840,Morgan WH station,SYS032,40.70099,-73.93921,40.7098733,-73.9315939,member
+1639592,21FEE330FF9DFDEF,electric_bike,2022-03-24 13:58:16,2022-03-24 14:02:31,Morgan WH station,SYS032,Bushwick Ave & Forrest St,4914,40.7098733,-73.9315939,40.70076,-73.93641,member

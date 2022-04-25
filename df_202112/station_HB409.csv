@@ -1,0 +1,4 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+161995,72924222F1EB3EC7,docked_bike,2021-12-04 14:26:01,2021-12-07 16:42:15,Clinton St & Newark St,HB409,Hoboken Terminal - River St & Hudson Pl,HB102,40.73743,-74.03571,40.736068,-74.029127,casual
+407446,8C62D356CA1723E4,docked_bike,2021-12-04 17:01:15,2021-12-04 17:06:07,Clinton St & Newark St,HB409,Hoboken Ave at Monmouth St,JC105,40.73743,-74.03571,40.735208,-74.046964,casual
+653064,714ABFF7C0B83AF4,docked_bike,2021-12-02 17:44:06,2021-12-02 17:47:07,Clinton St & Newark St,HB409,Clinton St & 7 St,HB303,40.73743,-74.03571,40.74542,-74.03332,casual

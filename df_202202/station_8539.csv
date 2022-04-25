@@ -1,0 +1,5 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+63974,358E59EB843E3250,electric_bike,2022-02-26 16:39:16,2022-02-26 16:59:31,Sedgwick Ave & Hall of Fame Tce,8539,Crotona Park North & Prospect Ave,8236,40.859532,-73.913303,40.841092,-73.892317,member
+219438,6374CDB05BA65E34,electric_bike,2022-02-28 12:00:57,2022-02-28 12:03:27,W Fordham Rd & Loring Pl N,8590,Sedgwick Ave & Hall of Fame Tce,8539,40.86295,-73.90741,40.859532,-73.913303,member
+294960,8E57D9E2BE30B182,electric_bike,2022-02-28 14:43:28,2022-02-28 14:52:41,Sedgwick Ave & Hall of Fame Tce,8539,Bailey Ave & W 193 St,8676,40.859532,-73.913303,40.87069,-73.90678,casual
+460471,594FB2917F7299AC,electric_bike,2022-02-26 16:04:10,2022-02-26 16:38:46,Broadway & W 153 St,8089,Sedgwick Ave & Hall of Fame Tce,8539,40.831327,-73.946665,40.859532,-73.913303,member

@@ -1,0 +1,104 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+22150,2F90ECC572208588,electric_bike,2022-01-19 12:27:58,2022-01-20 13:27:40,Bainbridge Ave & Bedford Park Blvd,8682,,nan,40.87002,-73.88565,,,casual
+22368,1756BF6E56AC42C3,electric_bike,2022-01-12 06:33:55,2022-01-13 07:33:50,Bainbridge Ave & Bedford Park Blvd,8682,,nan,40.87002,-73.88565,,,casual
+22371,3979779FA8D21E83,electric_bike,2022-01-12 19:26:37,2022-01-13 20:26:32,Bainbridge Ave & Bedford Park Blvd,8682,,nan,40.87002,-73.88565,,,casual
+22693,DFE03C73CEB44133,electric_bike,2022-01-13 15:50:33,2022-01-14 15:56:19,Bainbridge Ave & Bedford Park Blvd,8682,,nan,40.87002,-73.88565,40.87,-73.9,member
+24622,F149B0C351D3055C,electric_bike,2022-01-12 14:57:56,2022-01-13 15:57:50,Bainbridge Ave & Bedford Park Blvd,8682,,nan,40.87002,-73.88565,,,member
+25189,24397280A9E88C13,electric_bike,2022-01-27 10:05:25,2022-01-27 10:13:59,Bainbridge Ave & Bedford Park Blvd,8682,Goulden Ave & W 197 St,8707,40.87002,-73.88565,40.87156,-73.89714,member
+35485,CEEC9A95793DB42C,electric_bike,2022-01-26 14:21:15,2022-01-26 14:23:13,Bainbridge Ave & Bedford Park Blvd,8682,Marion Ave & Mosholu Pkwy,8699,40.87002,-73.88565,40.8704956,-73.8818756582,member
+35860,53B1E85BF4B143DA,electric_bike,2022-01-05 14:12:08,2022-01-05 14:14:29,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+36201,8B6CEC1013B545C4,electric_bike,2022-01-18 20:23:51,2022-01-18 20:25:03,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+36669,FD8E233119308F46,electric_bike,2022-01-14 17:12:45,2022-01-14 17:14:00,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+36673,DB8CF175B4C29BC0,electric_bike,2022-01-09 09:29:39,2022-01-09 09:30:27,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+36691,D62111644446577A,classic_bike,2022-01-11 07:45:12,2022-01-11 07:46:18,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+39087,8BA87ACAAE3F836D,electric_bike,2022-01-05 19:13:38,2022-01-05 19:37:12,Bainbridge Ave & Bedford Park Blvd,8682,Wilkins Ave & Crotona Park E,8167,40.87002,-73.88565,40.835302,-73.895133,casual
+47380,D8588D02AD46994F,electric_bike,2022-01-18 22:22:52,2022-01-18 22:24:55,Bainbridge Ave & Bedford Park Blvd,8682,Botanical Sq & Webster Ave,8646,40.87002,-73.88565,40.86814,-73.88145,casual
+76075,495C546EDE75086C,electric_bike,2022-01-23 09:02:07,2022-01-23 09:05:15,Bainbridge Ave & Bedford Park Blvd,8682,Bedford Park Blvd & Paul Ave,8752,40.87002,-73.88565,40.87444,-73.89186,member
+76788,C0985C65829E5F52,electric_bike,2022-01-23 23:58:43,2022-01-24 00:01:47,Bainbridge Ave & Bedford Park Blvd,8682,Bedford Park Blvd & Paul Ave,8752,40.87002,-73.88565,40.87444,-73.89186,casual
+76789,8BA1BC2931B658FE,electric_bike,2022-01-23 23:58:24,2022-01-24 00:01:37,Bainbridge Ave & Bedford Park Blvd,8682,Bedford Park Blvd & Paul Ave,8752,40.87002,-73.88565,40.87444,-73.89186,casual
+92051,8F762C517A8DB99A,electric_bike,2022-01-14 07:38:31,2022-01-14 07:51:34,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+92052,C9CB9F62EFAD3B59,electric_bike,2022-01-21 07:38:12,2022-01-21 07:51:58,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+92339,65AFDF6121C7529E,electric_bike,2022-01-13 07:40:32,2022-01-13 07:54:03,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+92345,DFCEF3ECA6DB08F0,electric_bike,2022-01-27 07:45:04,2022-01-27 07:58:54,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+93027,52E320375D4633AE,electric_bike,2022-01-18 07:40:34,2022-01-18 07:55:51,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+93225,2EC5E9A43ED80E05,electric_bike,2022-01-06 07:41:33,2022-01-06 07:54:57,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+98974,DF9300B381896AC8,electric_bike,2022-01-20 07:46:15,2022-01-20 08:02:26,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+102489,3181BCC2313320F0,electric_bike,2022-01-24 20:59:29,2022-01-24 21:21:27,Bainbridge Ave & Bedford Park Blvd,8682,Grand Concourse & E 197 St,8667,40.87002,-73.88565,40.86945,-73.89148,casual
+108147,AC6DC1D0B1A24F81,electric_bike,2022-01-19 08:07:27,2022-01-19 08:14:17,Goulden Ave & W 197 St,8707,Bainbridge Ave & Bedford Park Blvd,8682,40.87156,-73.89714,40.87002,-73.88565,member
+108445,478A0AE0111126AF,electric_bike,2022-01-11 23:52:50,2022-01-11 23:55:33,Bedford Park Blvd & Paul Ave,8752,Bainbridge Ave & Bedford Park Blvd,8682,40.87444,-73.89186,40.87002,-73.88565,casual
+108461,F8B1E6164D1800B9,electric_bike,2022-01-23 19:33:05,2022-01-23 19:39:30,Bedford Park Blvd & Paul Ave,8752,Bainbridge Ave & Bedford Park Blvd,8682,40.87444,-73.89186,40.87002,-73.88565,casual
+108462,BF091C637200A5ED,electric_bike,2022-01-23 19:32:32,2022-01-23 19:39:08,Bedford Park Blvd & Paul Ave,8752,Bainbridge Ave & Bedford Park Blvd,8682,40.87444,-73.89186,40.87002,-73.88565,casual
+109104,B147EEF7B112C994,electric_bike,2022-01-18 15:45:53,2022-01-18 15:59:17,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+109121,8673C6B035D6B19C,electric_bike,2022-01-07 15:58:27,2022-01-07 16:12:12,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+109122,37A0CA289864C6F1,electric_bike,2022-01-26 15:48:46,2022-01-26 16:04:23,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+109123,AF58DF7E55B5B866,electric_bike,2022-01-05 15:44:33,2022-01-05 15:58:24,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+109125,D645F18D11C473CB,electric_bike,2022-01-20 16:30:29,2022-01-20 16:46:17,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+109288,F47FC2BFE41372BC,electric_bike,2022-01-23 19:33:55,2022-01-23 19:39:27,Bedford Park Blvd & Paul Ave,8752,Bainbridge Ave & Bedford Park Blvd,8682,40.87444,-73.89186,40.87002,-73.88565,casual
+109637,A1F34EDCD0939FA2,electric_bike,2022-01-16 20:37:25,2022-01-16 21:05:48,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & Bedford Park Blvd,8682,40.87002,-73.88565,40.87002,-73.88565,member
+111247,72D1DADC64AD00F3,electric_bike,2022-01-05 15:28:53,2022-01-05 15:31:51,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+111726,3B013C9C4A4D6C9E,electric_bike,2022-01-02 09:46:35,2022-01-02 09:47:39,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+111732,E1F0852CB361C8EC,electric_bike,2022-01-23 17:37:04,2022-01-23 17:38:31,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+111734,90DF8D4230716F7B,electric_bike,2022-01-14 17:29:32,2022-01-14 17:31:09,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+112076,32455BBE740F4653,electric_bike,2022-01-12 14:03:53,2022-01-12 15:28:47,E Burnside Ave & Ryer Ave,8397,Bainbridge Ave & Bedford Park Blvd,8682,40.850535,-73.901318,40.87002,-73.88565,casual
+112091,C038DAF5F3314C02,classic_bike,2022-01-03 16:18:58,2022-01-03 16:23:52,Paul Ave & W 205 St,8782,Bainbridge Ave & Bedford Park Blvd,8682,40.87704,-73.88943,40.87002,-73.88565,casual
+112239,BDAA8D587982880C,electric_bike,2022-01-19 16:14:35,2022-01-19 16:15:48,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+112335,7E6981A68078ED29,electric_bike,2022-01-26 23:58:08,2022-01-27 00:25:01,Marion Ave & Mosholu Pkwy,8699,Bainbridge Ave & Bedford Park Blvd,8682,40.8704956,-73.8818756582,40.87002,-73.88565,casual
+112527,BD80FB15ABAC1AC1,electric_bike,2022-01-17 23:02:40,2022-01-17 23:05:55,Paul Ave & W 205 St,8782,Bainbridge Ave & Bedford Park Blvd,8682,40.87704,-73.88943,40.87002,-73.88565,casual
+112534,13FEB7C61D1F2767,electric_bike,2022-01-25 22:37:42,2022-01-25 22:40:50,Bedford Park Blvd & Paul Ave,8752,Bainbridge Ave & Bedford Park Blvd,8682,40.87444,-73.89186,40.87002,-73.88565,member
+112572,17085D3BA96DCB01,electric_bike,2022-01-19 15:33:12,2022-01-19 15:46:23,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112573,50494D31A8167542,electric_bike,2022-01-06 15:51:51,2022-01-06 16:04:19,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112574,F8FB32EA344F85A3,electric_bike,2022-01-25 15:40:17,2022-01-25 15:53:57,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112575,B3F1D63DDA00089C,electric_bike,2022-01-14 15:31:16,2022-01-14 15:46:31,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112578,64CC2B4F2A0E6A1B,electric_bike,2022-01-24 15:51:52,2022-01-24 16:06:19,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112579,D17D6BBFCE344757,electric_bike,2022-01-27 16:07:12,2022-01-27 16:22:20,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112632,79193C3842D42FF1,electric_bike,2022-01-01 19:44:02,2022-01-01 19:49:16,Jerome Ave & E Mosholu Parkway S,8795,Bainbridge Ave & Bedford Park Blvd,8682,40.87935,-73.88534,40.87002,-73.88565,casual
+112740,CE28CB4F9AC85051,electric_bike,2022-01-13 12:50:10,2022-01-13 12:55:18,Paul Ave & W 205 St,8782,Bainbridge Ave & Bedford Park Blvd,8682,40.87704,-73.88943,40.87002,-73.88565,member
+112974,DF90B46DABF8E2EA,electric_bike,2022-01-12 15:46:03,2022-01-12 15:59:26,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112976,4ECC0020738D39AC,electric_bike,2022-01-10 15:38:04,2022-01-10 16:18:17,E 174 St & Longfellow Ave,8144,Bainbridge Ave & Bedford Park Blvd,8682,40.836274,-73.884308,40.87002,-73.88565,member
+112990,F44BA03B34C1D875,electric_bike,2022-01-18 20:34:31,2022-01-18 20:36:55,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+113519,8551CF3FDBA9C689,electric_bike,2022-01-27 16:52:43,2022-01-27 17:03:42,Bainbridge Ave & Bedford Park Blvd,8682,E Tremont Ave & E 176 St,8356,40.87002,-73.88565,40.847798,-73.901883,casual
+148160,FFE38C2549AFA395,electric_bike,2022-01-19 15:50:56,2022-01-19 15:52:01,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+148166,5B603F0F250E1D6D,electric_bike,2022-01-15 11:27:36,2022-01-15 11:33:28,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+149386,CEE4C0C439ACE30E,electric_bike,2022-01-10 20:24:14,2022-01-10 20:25:44,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,casual
+154505,77998B4D8F5759EB,classic_bike,2022-01-22 11:49:04,2022-01-22 11:56:35,Bainbridge Ave & Bedford Park Blvd,8682,Webster Ave & Ford St,8472,40.87002,-73.88565,40.85556,-73.89615,casual
+162599,67EB82DE2720E58C,electric_bike,2022-01-26 14:19:27,2022-01-26 14:23:38,Bainbridge Ave & Bedford Park Blvd,8682,Grand Concourse & E 205 St,8766,40.87002,-73.88565,40.875531,-73.8863864831,member
+174215,C5FF4ED5FE347A39,electric_bike,2022-01-06 17:54:28,2022-01-06 18:00:54,Bainbridge Ave & Bedford Park Blvd,8682,Jerome Ave & E Mosholu Parkway S,8795,40.87002,-73.88565,40.87935,-73.88534,casual
+229407,D8F693872C8372DF,electric_bike,2022-01-26 07:42:15,2022-01-26 07:55:54,Bainbridge Ave & Bedford Park Blvd,8682,E 174 St & Longfellow Ave,8144,40.87002,-73.88565,40.836274,-73.884308,member
+234731,AD3C05324B53657D,electric_bike,2022-01-02 23:50:40,2022-01-02 23:54:48,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & Bedford Park Blvd,8682,40.87002,-73.88565,40.87002,-73.88565,casual
+234737,ACC8D6A400CAC9D3,electric_bike,2022-01-13 14:48:30,2022-01-13 15:09:25,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & Bedford Park Blvd,8682,40.87002,-73.88565,40.87002,-73.88565,casual
+242820,8D7B097AE7E87401,classic_bike,2022-01-15 16:01:23,2022-01-15 16:02:58,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & E 198 St,8649,40.87002,-73.88565,40.8684871,-73.8884559781,member
+244798,B1E4AF2A5B80E633,electric_bike,2022-01-17 08:53:11,2022-01-17 08:54:42,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & E 198 St,8649,40.87002,-73.88565,40.8684871,-73.8884559781,member
+244980,B3DA0DB5E5AF4F33,electric_bike,2022-01-20 17:27:49,2022-01-20 17:29:45,Bainbridge Ave & Bedford Park Blvd,8682,Bainbridge Ave & E 198 St,8649,40.87002,-73.88565,40.8684871,-73.8884559781,member
+275822,C0F0AB0CEA82F136,electric_bike,2022-01-13 17:58:37,2022-01-13 18:09:24,Bainbridge Ave & Bedford Park Blvd,8682,E Tremont Ave & E 176 St,8356,40.87002,-73.88565,40.847798,-73.901883,casual
+281559,4C45B6E326A6DA4E,electric_bike,2022-01-18 06:31:55,2022-01-18 06:36:32,Bainbridge Ave & Bedford Park Blvd,8682,Paul Ave & W 205 St,8782,40.87002,-73.88565,40.87704,-73.88943,casual
+307016,B98A5FBD1A831C64,classic_bike,2022-01-25 07:43:40,2022-01-25 07:45:45,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+339392,6282F933B93AFCD1,electric_bike,2022-01-26 18:26:07,2022-01-26 18:31:38,Bainbridge Ave & Bedford Park Blvd,8682,Tiebout Ave & E Fordham Road,8546,40.87002,-73.88565,40.861915,-73.894831,member
+375791,D44C235AE98AD144,electric_bike,2022-01-23 21:05:10,2022-01-23 21:30:28,Bainbridge Ave & Bedford Park Blvd,8682,Grand Concourse & E 199 St,8703,40.87002,-73.88565,40.87142,-73.88839,member
+691850,635DF3CF818CE747,electric_bike,2022-01-08 13:03:21,2022-01-08 13:21:10,Bainbridge Ave & Bedford Park Blvd,8682,Southern Blvd & E 172 St,8129,40.87002,-73.88565,40.834124,-73.88955,casual
+727476,28A8CEE23E2C2557,classic_bike,2022-01-10 19:30:55,2022-01-10 19:34:07,E Mosholu Pkwy & E 204 St,8748,Bainbridge Ave & Bedford Park Blvd,8682,40.8740704,-73.8833650931,40.87002,-73.88565,member
+727929,55DA127ADDC66D74,electric_bike,2022-01-12 07:49:52,2022-01-12 07:56:58,Goulden Ave & Bedford Park Blvd W,8738,Bainbridge Ave & Bedford Park Blvd,8682,40.87387,-73.89533,40.87002,-73.88565,member
+728481,FA000D41DD0160EC,electric_bike,2022-01-22 19:40:22,2022-01-22 19:42:15,E Mosholu Pkwy & E 204 St,8748,Bainbridge Ave & Bedford Park Blvd,8682,40.8740704,-73.8833650931,40.87002,-73.88565,casual
+729939,15E7E62FCF022FBC,electric_bike,2022-01-13 09:25:57,2022-01-13 09:32:25,Goulden Ave & Bedford Park Blvd W,8738,Bainbridge Ave & Bedford Park Blvd,8682,40.87387,-73.89533,40.87002,-73.88565,member
+730016,11EA720065B09156,electric_bike,2022-01-15 20:40:17,2022-01-15 20:43:10,Bainbridge Ave & E 193 St,8582,Bainbridge Ave & Bedford Park Blvd,8682,40.86389,-73.89246,40.87002,-73.88565,member
+730259,FDAE5564CD347BB8,electric_bike,2022-01-19 20:34:39,2022-01-19 20:37:22,E Mosholu Pkwy & E 204 St,8748,Bainbridge Ave & Bedford Park Blvd,8682,40.8740704,-73.8833650931,40.87002,-73.88565,casual
+730499,93934C804C14EED7,electric_bike,2022-01-17 18:48:52,2022-01-17 19:02:45,W 204 St & Nagle Ave,8579,Bainbridge Ave & Bedford Park Blvd,8682,40.863211,-73.920827,40.87002,-73.88565,casual
+730895,AC7CF5371775F8CD,electric_bike,2022-01-03 10:55:07,2022-01-03 10:57:37,Grand Concourse & E 205 St,8766,Bainbridge Ave & Bedford Park Blvd,8682,40.875531,-73.8863864831,40.87002,-73.88565,member
+733699,737F42316259768F,electric_bike,2022-01-06 01:32:20,2022-01-06 01:40:05,Ryer Ave & E 182 St,8494,Bainbridge Ave & Bedford Park Blvd,8682,40.8558,-73.89956,40.87002,-73.88565,casual
+734933,CAF15947B6032E8D,electric_bike,2022-01-12 19:39:35,2022-01-12 19:43:59,E Fordham Rd & Webster Ave,8582,Bainbridge Ave & Bedford Park Blvd,8682,40.861748,-73.89105,40.87002,-73.88565,member
+736305,77043AF0A117AC0F,classic_bike,2022-01-27 20:29:49,2022-01-27 20:36:57,Goulden Ave & W 205 St,8799,Bainbridge Ave & Bedford Park Blvd,8682,40.87812,-73.89192,40.87002,-73.88565,casual
+736362,2B73282FC4941013,electric_bike,2022-01-25 19:59:12,2022-01-25 20:01:41,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736448,216128CAC1B4B2B5,electric_bike,2022-01-08 19:54:53,2022-01-08 19:58:55,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736471,E4991D5F0802C1EA,classic_bike,2022-01-24 20:21:37,2022-01-24 20:23:59,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736482,88206917315B16BF,classic_bike,2022-01-21 20:40:40,2022-01-21 20:42:44,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736502,AC749117211E8C1A,classic_bike,2022-01-12 21:00:08,2022-01-12 21:06:30,Goulden Ave & W 205 St,8799,Bainbridge Ave & Bedford Park Blvd,8682,40.87812,-73.89192,40.87002,-73.88565,casual
+736539,ED174B85E4323B98,classic_bike,2022-01-26 20:04:59,2022-01-26 20:12:23,Goulden Ave & W 205 St,8799,Bainbridge Ave & Bedford Park Blvd,8682,40.87812,-73.89192,40.87002,-73.88565,casual
+736751,D7D15BBFA5F8407B,classic_bike,2022-01-26 20:02:08,2022-01-26 20:06:23,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736753,910ADF212BA81C1A,electric_bike,2022-01-04 19:42:13,2022-01-04 19:46:28,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736759,7F0E658D0357CCFE,electric_bike,2022-01-27 00:37:03,2022-01-27 00:39:18,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+736764,37C11BE995D2CC91,electric_bike,2022-01-02 17:38:31,2022-01-02 17:44:18,Jerome Ave & Bedford Park Blvd E,8734,Bainbridge Ave & Bedford Park Blvd,8682,40.87307,-73.88971,40.87002,-73.88565,member
+799537,592E98AC55DEE8EF,electric_bike,2022-01-03 06:46:36,2022-01-03 06:50:05,Bainbridge Ave & Bedford Park Blvd,8682,Grand Concourse & E Mosholu Pkwy S,8795,40.87002,-73.88565,40.877964,-73.8847550291,member
+801371,41679A336ED01D25,electric_bike,2022-01-02 07:50:20,2022-01-02 07:54:28,Bainbridge Ave & Bedford Park Blvd,8682,Grand Concourse & E Mosholu Pkwy S,8795,40.87002,-73.88565,40.877964,-73.8847550291,member
+986885,865FE301E36AB649,electric_bike,2022-01-04 08:57:34,2022-01-04 08:59:46,Bainbridge Ave & Bedford Park Blvd,8682,Jerome Ave & Bedford Park Blvd E,8734,40.87002,-73.88565,40.87307,-73.88971,member
+1016048,FE18B3143791B0E2,classic_bike,2022-01-06 09:55:41,2022-01-06 10:19:12,Bainbridge Ave & Bedford Park Blvd,8682,E Fordham Rd & Webster Ave,8582,40.87002,-73.88565,40.861748,-73.89105,casual
+1016067,DC95580E628FDD4E,electric_bike,2022-01-24 16:11:10,2022-01-24 16:16:47,Bainbridge Ave & Bedford Park Blvd,8682,E Fordham Rd & Webster Ave,8582,40.87002,-73.88565,40.861748,-73.89105,member
+1016077,9FBD902D1BDCEAAF,electric_bike,2022-01-03 15:39:58,2022-01-03 15:45:54,Bainbridge Ave & Bedford Park Blvd,8682,E Fordham Rd & Webster Ave,8582,40.87002,-73.88565,40.861748,-73.89105,member

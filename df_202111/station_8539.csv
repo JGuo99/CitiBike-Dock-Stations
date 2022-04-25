@@ -1,0 +1,9 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+233342,C1DB84D4EBCFF387,electric_bike,2021-11-05 14:41:59,2021-11-05 14:44:16,Sedgwick Ave & Hall of Fame Tce,8539,Loring Pl North & W 183 St,8555,40.859532,-73.913303,40.8604244,-73.9093359997,member
+253010,BE7A1693F4BFFF6F,classic_bike,2021-11-08 18:36:42,2021-11-08 18:39:42,Sedgwick Ave & Hall of Fame Tce,8539,Sedgwick Ave & W Burnside Ave,8465,40.859532,-73.913303,40.854947,-73.916661,member
+881900,ECA54653F4591644,classic_bike,2021-11-18 21:18:05,2021-11-18 21:23:29,Sedgwick Ave & Hall of Fame Tce,8539,Andrews Ave S & W 179 St,8483,40.859532,-73.913303,40.855156,-73.91278,casual
+1054150,4CDB788D068EB21F,classic_bike,2021-11-30 11:27:51,2021-11-30 16:49:36,Sedgwick Ave & Hall of Fame Tce,8539,,nan,40.859532,-73.913303,40.86,-73.92,member
+1430399,6DC119FC046DCB3E,electric_bike,2021-11-05 14:36:09,2021-11-05 14:39:45,Sedgwick Ave & W Burnside Ave,8465,Sedgwick Ave & Hall of Fame Tce,8539,40.854947,-73.916661,40.859532,-73.913303,member
+1433906,1A541423DE0ECE16,classic_bike,2021-11-08 18:10:22,2021-11-08 18:15:39,Grand Ave & W 181 St,8500,Sedgwick Ave & Hall of Fame Tce,8539,40.856302,-73.907302,40.859532,-73.913303,casual
+1448703,1B513EA614A1B424,classic_bike,2021-11-01 22:15:17,2021-11-01 22:21:59,Sedgwick Ave & W Burnside Ave,8465,Sedgwick Ave & Hall of Fame Tce,8539,40.854947,-73.916661,40.859532,-73.913303,casual
+1477145,A67C03CC13F627FA,classic_bike,2021-11-23 09:46:07,2021-11-23 09:51:50,Sedgwick Ave & Hall of Fame Tce,8539,10 Ave & W 207 St,8613,40.859532,-73.913303,40.864632,-73.918598,member

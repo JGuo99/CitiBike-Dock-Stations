@@ -1,0 +1,9 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+403621,E2DB2FECF1535D9A,electric_bike,2022-01-16 01:56:59,2022-01-16 02:00:09,Sedgwick Ave & Hall of Fame Tce,8539,Andrews Ave S & W 179 St,8483,40.859532,-73.913303,40.855156,-73.91278,casual
+487138,1B1233AA729049D2,electric_bike,2022-01-23 23:25:52,2022-01-23 23:49:24,Sedgwick Ave & Hall of Fame Tce,8539,Grand Concourse & E 192 St,8601,40.859532,-73.913303,40.86448,-73.89522,member
+563348,93B4747791CCB4BB,electric_bike,2022-01-13 14:18:16,2022-01-13 14:37:58,Sedgwick Ave & Hall of Fame Tce,8539,Amsterdam Ave & W 175 St,8278,40.859532,-73.913303,40.844044,-73.933651,member
+637047,F0FFAB1CF8411E6A,electric_bike,2022-01-14 13:01:17,2022-01-14 13:04:25,Sedgwick Ave & Hall of Fame Tce,8539,Cedar Ave & W Fordham Rd,8575,40.859532,-73.913303,40.86156,-73.91219,member
+1013966,CE08EA513C6E51C7,electric_bike,2022-01-14 12:57:53,2022-01-14 12:59:12,Andrew Ave N & Hall of Fame Tce,8520,Sedgwick Ave & Hall of Fame Tce,8539,40.85834,-73.91008,40.859532,-73.913303,member
+1019501,6C95BB3F717DABB4,electric_bike,2022-01-11 15:12:31,2022-01-11 15:16:12,Andrews Ave S & W 179 St,8483,Sedgwick Ave & Hall of Fame Tce,8539,40.855156,-73.91278,40.859532,-73.913303,casual
+1019575,6DF2B488CB253AE3,electric_bike,2022-01-16 14:18:21,2022-01-16 14:21:53,Andrews Ave S & W 179 St,8483,Sedgwick Ave & Hall of Fame Tce,8539,40.855156,-73.91278,40.859532,-73.913303,casual
+1024557,17E126E90EEE37A2,electric_bike,2022-01-14 09:49:24,2022-01-14 09:51:45,Sedgwick Ave & W Burnside Ave,8465,Sedgwick Ave & Hall of Fame Tce,8539,40.854947,-73.916661,40.859532,-73.913303,casual

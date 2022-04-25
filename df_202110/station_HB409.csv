@@ -1,0 +1,7 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+512843,931EAC0E55F007CC,docked_bike,2021-10-16 17:43:17,2021-10-16 17:48:48,Clinton St & Newark St,HB409,City Hall - Washington St & 1 St,HB105,40.73743,-74.03571,40.73736,-74.03097,casual
+513183,07085505409E4B5E,docked_bike,2021-10-16 17:43:08,2021-10-16 17:48:13,Clinton St & Newark St,HB409,City Hall - Washington St & 1 St,HB105,40.73743,-74.03571,40.73736,-74.03097,casual
+1303102,BDC0362A34E58A38,docked_bike,2021-10-16 11:18:36,2021-10-16 11:29:57,Clinton St & Newark St,HB409,Columbus Park - Clinton St & 9 St,HB501,40.73743,-74.03571,40.748161,-74.032453,casual
+1457704,D14A610212E00AA3,docked_bike,2021-10-16 13:41:12,2021-10-16 14:22:31,Clinton St & Newark St,HB409,South Waterfront Walkway - Sinatra Dr & 1 St,HB103,40.73743,-74.03571,40.736982,-74.027781,casual
+2323374,DF663E19D359BCE5,docked_bike,2021-10-11 01:26:57,2021-10-11 03:24:07,Clinton St & Newark St,HB409,5 Corners Library,JC018,40.73743,-74.03571,40.734961,-74.059503,casual
+2323618,F6E5EDD73475BDD3,docked_bike,2021-10-11 01:27:02,2021-10-11 03:24:28,Clinton St & Newark St,HB409,5 Corners Library,JC018,40.73743,-74.03571,40.734961,-74.059503,casual

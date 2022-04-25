@@ -1,0 +1,63 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+161971,34B609857409078F,electric_bike,2022-01-21 11:50:00,2022-01-21 11:51:33,Goulden Ave & W 197 St,8707,Goulden Ave & Bedford Park Blvd W,8738,40.87156,-73.89714,40.87387,-73.89533,member
+162006,20C4469ABD6A8124,electric_bike,2022-01-03 20:32:42,2022-01-03 20:35:41,Goulden Ave & W 197 St,8707,Goulden Ave & Bedford Park Blvd W,8738,40.87156,-73.89714,40.87387,-73.89533,casual
+162161,B6A973678F4D9F4F,classic_bike,2022-01-18 14:58:18,2022-01-18 15:02:11,Bedford Park Blvd & Paul Ave,8752,Goulden Ave & Bedford Park Blvd W,8738,40.87444,-73.89186,40.87387,-73.89533,member
+162511,3B7EE3A900E7C482,classic_bike,2022-01-03 14:32:18,2022-01-03 14:47:12,Jerome Ave & W Fordham Rd,8586,Goulden Ave & Bedford Park Blvd W,8738,40.86294,-73.90108,40.87387,-73.89533,member
+162589,9673A7D915062616,classic_bike,2022-01-19 14:53:37,2022-01-19 15:12:06,Decatur Ave & Bedford Park Blvd,8664,Goulden Ave & Bedford Park Blvd W,8738,40.86813,-73.88412,40.87387,-73.89533,member
+301367,850152D67362BDEE,classic_bike,2022-01-13 14:22:40,2022-01-13 14:33:41,Goulden Ave & Bedford Park Blvd W,8738,W 192 St & University Ave,8639,40.87387,-73.89533,40.866899,-73.901942,member
+356136,9F03679B0E945DEE,electric_bike,2022-01-27 14:57:18,2022-01-27 14:58:41,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & W 197 St,8707,40.87387,-73.89533,40.87156,-73.89714,member
+362453,F7204FB0D3ACF517,electric_bike,2022-01-13 18:00:35,2022-01-13 18:08:14,Goulden Ave & Bedford Park Blvd W,8738,W 225 St & Exterior St,8711,40.87387,-73.89533,40.873265,-73.906646,casual
+388961,7F69282A3C67DEA9,classic_bike,2022-01-18 15:03:00,2022-01-18 15:19:11,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & E 181 St,8478,40.87387,-73.89533,40.855653,-73.905528,member
+392440,AAC7437CCC291C28,classic_bike,2022-01-20 16:11:38,2022-01-20 16:31:36,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & E Mosholu Parkway S,8795,40.87387,-73.89533,40.87935,-73.88534,casual
+393662,53C28225A717C73E,classic_bike,2022-01-20 16:12:08,2022-01-20 16:31:03,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & E Mosholu Parkway S,8795,40.87387,-73.89533,40.87935,-73.88534,casual
+401825,88DE3503DC2C4690,classic_bike,2022-01-18 16:23:43,2022-01-18 17:01:46,Goulden Ave & Bedford Park Blvd W,8738,W Fordham Rd & Loring Pl N,8590,40.87387,-73.89533,40.86295,-73.90741,member
+417939,507B3705E89BC847,classic_bike,2022-01-28 12:54:40,2022-01-28 14:36:23,Goulden Ave & Bedford Park Blvd W,8738,Paul Ave & Mosholu Pkwy,8811,40.87387,-73.89533,40.8802945,-73.8860653648,member
+437902,22E2060922A82356,electric_bike,2022-01-28 18:07:48,2022-01-28 18:22:18,Goulden Ave & Bedford Park Blvd W,8738,Botanical Sq & Webster Ave,8646,40.87387,-73.89533,40.86814,-73.88145,member
+494888,FA1E83A9EBF7904A,classic_bike,2022-01-13 18:41:40,2022-01-13 19:14:47,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & W 193 St,8619,40.87387,-73.89533,40.86659,-73.89794,member
+535266,49E99E953712FE12,electric_bike,2022-01-13 21:02:01,2022-01-13 21:09:13,Goulden Ave & Bedford Park Blvd W,8738,Marion Ave & Mosholu Pkwy,8699,40.87387,-73.89533,40.8704956,-73.8818756582,member
+561201,552B3D1DDE2D58E2,classic_bike,2022-01-04 20:30:55,2022-01-04 21:02:37,W 225 St & Exterior St,8711,Goulden Ave & Bedford Park Blvd W,8738,40.873265,-73.906646,40.87387,-73.89533,casual
+561397,F76AE28A7E99FE9B,classic_bike,2022-01-13 17:47:39,2022-01-13 18:20:11,W Fordham Rd & Loring Pl N,8590,Goulden Ave & Bedford Park Blvd W,8738,40.86295,-73.90741,40.87387,-73.89533,member
+561399,6FEE73EE9DEE4AEB,classic_bike,2022-01-18 14:31:15,2022-01-18 15:04:33,W Fordham Rd & Loring Pl N,8590,Goulden Ave & Bedford Park Blvd W,8738,40.86295,-73.90741,40.87387,-73.89533,member
+561400,BD563E268A1F347D,classic_bike,2022-01-20 17:49:26,2022-01-20 18:18:25,W Fordham Rd & Loring Pl N,8590,Goulden Ave & Bedford Park Blvd W,8738,40.86295,-73.90741,40.87387,-73.89533,member
+561593,230F172F74B467A3,classic_bike,2022-01-28 12:32:23,2022-01-28 12:45:41,Grand Ave & W Fordham Rd,8571,Goulden Ave & Bedford Park Blvd W,8738,40.86288,-73.90316,40.87387,-73.89533,member
+561700,E87291EFF5D35A3E,electric_bike,2022-01-13 20:59:58,2022-01-13 21:01:10,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,member
+561702,FA0BA242122C0C4F,electric_bike,2022-01-14 08:24:30,2022-01-14 08:26:00,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,member
+561754,279DF058CCEBFD1F,electric_bike,2022-01-12 15:07:26,2022-01-12 15:51:15,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,casual
+561755,29E45558DBBC88A7,electric_bike,2022-01-12 15:06:06,2022-01-12 15:06:40,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,casual
+561791,6F0C864FD478FAC0,electric_bike,2022-01-12 19:24:30,2022-01-12 19:25:18,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,casual
+561885,1DCD30724852AD87,electric_bike,2022-01-28 09:11:21,2022-01-28 09:23:17,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,member
+561950,CF4098619B206584,classic_bike,2022-01-18 15:22:44,2022-01-18 15:35:06,Jerome Ave & E 181 St,8478,Goulden Ave & Bedford Park Blvd W,8738,40.855653,-73.905528,40.87387,-73.89533,member
+561975,AC6099CC8D513DB6,classic_bike,2022-01-03 09:10:41,2022-01-03 09:23:59,Grand Ave & W Fordham Rd,8571,Goulden Ave & Bedford Park Blvd W,8738,40.86288,-73.90316,40.87387,-73.89533,member
+562043,D44C6E8C9F3FDE96,electric_bike,2022-01-06 17:46:49,2022-01-06 17:59:23,Grand Ave & W Fordham Rd,8571,Goulden Ave & Bedford Park Blvd W,8738,40.86288,-73.90316,40.87387,-73.89533,member
+562233,D438A64828AED755,electric_bike,2022-01-14 12:44:38,2022-01-14 12:44:51,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,member
+562234,CAD98BE3274B2D1C,electric_bike,2022-01-14 12:42:57,2022-01-14 12:43:08,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,member
+562259,42FA8CE13CF2C50B,electric_bike,2022-01-06 17:22:22,2022-01-06 17:32:47,Botanical Sq & Webster Ave,8646,Goulden Ave & Bedford Park Blvd W,8738,40.86814,-73.88145,40.87387,-73.89533,casual
+562493,7CC7757AB4830676,classic_bike,2022-01-03 16:23:01,2022-01-03 16:44:53,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & Bedford Park Blvd W,8738,40.87387,-73.89533,40.87387,-73.89533,casual
+562759,FCF7F99348146D9A,classic_bike,2022-01-28 08:57:03,2022-01-28 09:08:07,Botanical Sq & Webster Ave,8646,Goulden Ave & Bedford Park Blvd W,8738,40.86814,-73.88145,40.87387,-73.89533,member
+562909,9412F225F4A96D0A,classic_bike,2022-01-10 09:14:08,2022-01-10 09:28:31,Aqueduct Ave & W 190 St,8605,Goulden Ave & Bedford Park Blvd W,8738,40.8649213,-73.9024238,40.87387,-73.89533,member
+563542,24C2D14884AE18AB,classic_bike,2022-01-04 14:46:23,2022-01-04 14:50:00,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,casual
+563543,3CB0DE0BE7AD3A63,electric_bike,2022-01-19 19:08:04,2022-01-19 19:10:51,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,member
+563546,3EDA7CBF5CAF06A3,electric_bike,2022-01-13 12:08:52,2022-01-13 12:19:01,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,casual
+563573,68C378A6DBCBC450,classic_bike,2022-01-13 17:16:02,2022-01-13 17:19:27,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,member
+563575,0CCF17727BBC6B64,electric_bike,2022-01-27 08:02:16,2022-01-27 08:05:09,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,member
+563577,DE939C2E7C1A9DC2,electric_bike,2022-01-06 08:02:25,2022-01-06 08:05:26,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,member
+563584,719BBD6575395774,electric_bike,2022-01-13 05:59:34,2022-01-13 06:02:05,Jerome Ave & Bedford Park Blvd E,8734,Goulden Ave & Bedford Park Blvd W,8738,40.87307,-73.88971,40.87387,-73.89533,member
+563704,61DC3A4E7D775E25,electric_bike,2022-01-27 14:53:21,2022-01-27 14:56:48,Goulden Ave & W 205 St,8799,Goulden Ave & Bedford Park Blvd W,8738,40.87812,-73.89192,40.87387,-73.89533,member
+565501,0E6D5AD6E6E5D5CC,classic_bike,2022-01-14 08:26:24,2022-01-14 16:36:03,Goulden Ave & Bedford Park Blvd W,8738,,nan,40.87387,-73.89533,40.87,-73.89,member
+566372,7A4329916C0A52C3,classic_bike,2022-01-14 14:31:22,2022-01-14 14:41:49,W 192 St & University Ave,8639,Goulden Ave & Bedford Park Blvd W,8738,40.866899,-73.901942,40.87387,-73.89533,member
+575016,2A34ADA786809E47,electric_bike,2022-01-12 19:26:05,2022-01-12 19:29:57,Goulden Ave & Bedford Park Blvd W,8738,W Mosholu Pkwy S & Sedgwick Ave,8841,40.87387,-73.89533,40.88226,-73.88702,casual
+575521,92002C4B30C51578,classic_bike,2022-01-10 15:50:47,2022-01-10 16:35:38,Goulden Ave & Bedford Park Blvd W,8738,Bailey Ave & Sedgwick Ave,8643,40.87387,-73.89533,40.86571,-73.90857,member
+665769,FAFCEED20572F88B,electric_bike,2022-01-27 18:41:00,2022-01-27 18:47:53,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & W Fordham Rd,8586,40.87387,-73.89533,40.86294,-73.90108,member
+666805,FC1DE84FD69C7078,classic_bike,2022-01-03 13:56:22,2022-01-03 14:09:37,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & W Fordham Rd,8586,40.87387,-73.89533,40.86294,-73.90108,member
+720147,C3F93FF6B38C1D0F,classic_bike,2022-01-18 15:36:04,2022-01-18 15:40:12,Goulden Ave & Bedford Park Blvd W,8738,Bedford Park Blvd & Paul Ave,8752,40.87387,-73.89533,40.87444,-73.89186,member
+721245,BEF9BB2ABE20BF2F,classic_bike,2022-01-02 20:49:15,2022-01-02 20:58:43,Goulden Ave & Bedford Park Blvd W,8738,Bedford Park Blvd & Paul Ave,8752,40.87387,-73.89533,40.87444,-73.89186,casual
+727929,55DA127ADDC66D74,electric_bike,2022-01-12 07:49:52,2022-01-12 07:56:58,Goulden Ave & Bedford Park Blvd W,8738,Bainbridge Ave & Bedford Park Blvd,8682,40.87387,-73.89533,40.87002,-73.88565,member
+729939,15E7E62FCF022FBC,electric_bike,2022-01-13 09:25:57,2022-01-13 09:32:25,Goulden Ave & Bedford Park Blvd W,8738,Bainbridge Ave & Bedford Park Blvd,8682,40.87387,-73.89533,40.87002,-73.88565,member
+749905,1CE89D64777FE5E8,electric_bike,2022-01-03 20:36:48,2022-01-03 20:39:22,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & W 205 St,8799,40.87387,-73.89533,40.87812,-73.89192,casual
+752962,ED08342A0C0182C3,electric_bike,2022-01-21 11:52:32,2022-01-21 11:55:17,Goulden Ave & Bedford Park Blvd W,8738,Goulden Ave & W 205 St,8799,40.87387,-73.89533,40.87812,-73.89192,member
+845949,A2763903E04AB1D8,electric_bike,2022-01-04 13:49:50,2022-01-04 13:55:04,Goulden Ave & Bedford Park Blvd W,8738,Grand Ave & W Fordham Rd,8571,40.87387,-73.89533,40.86288,-73.90316,member
+846106,C5CE21940C3FC494,classic_bike,2022-01-06 18:16:05,2022-01-06 18:27:07,Goulden Ave & Bedford Park Blvd W,8738,Grand Ave & W Fordham Rd,8571,40.87387,-73.89533,40.86288,-73.90316,member
+874715,1110D2D1A33E843D,classic_bike,2022-01-14 12:45:21,2022-01-14 13:11:52,Goulden Ave & Bedford Park Blvd W,8738,Adam Clayton Powell Blvd & W 151 St,8009,40.87387,-73.89533,40.825289,-73.936232,member
+991256,60B522C9C5FEB53A,electric_bike,2022-01-13 04:52:14,2022-01-13 04:56:51,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & Bedford Park Blvd E,8734,40.87387,-73.89533,40.87307,-73.88971,member
+1028651,028F24B8023F3F0A,classic_bike,2022-01-20 18:34:03,2022-01-20 18:48:38,Goulden Ave & Bedford Park Blvd W,8738,Jerome Ave & W 195 St,8653,40.87387,-73.89533,40.86874,-73.89657,member
+1051030,31F129F12B14AEBE,electric_bike,2022-01-04 13:47:07,2022-01-04 13:49:27,Goulden Ave & W 205 St,8799,Goulden Ave & Bedford Park Blvd W,8738,40.87812,-73.89192,40.87387,-73.89533,member

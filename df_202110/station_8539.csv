@@ -1,0 +1,22 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+28538,C2AA6689AF0C28A1,classic_bike,2021-10-06 17:21:41,2021-10-06 17:30:21,Sedgwick Ave & Hall of Fame Tce,8539,E Tremont Ave & Jerome Ave,8403,40.859532,-73.913303,40.851747,-73.908964,member
+301555,931ADC10F9F29160,classic_bike,2021-10-15 14:12:46,2021-10-15 14:17:54,Sedgwick Ave & Hall of Fame Tce,8539,W Burnside Ave & University Ave,8425,40.859532,-73.913303,40.853686,-73.912498,member
+325512,F3703C1026F0B901,classic_bike,2021-10-14 20:26:13,2021-10-14 20:31:30,Sedgwick Ave & Hall of Fame Tce,8539,Loring Pl North & W 183 St,8555,40.859532,-73.913303,40.8604244,-73.9093359997,member
+330682,9A8D5AC281E8677E,electric_bike,2021-10-18 15:36:56,2021-10-18 15:39:08,Sedgwick Ave & Hall of Fame Tce,8539,Loring Pl North & W 183 St,8555,40.859532,-73.913303,40.8604244,-73.9093359997,member
+712625,6C5762E388D9BFFC,electric_bike,2021-10-04 16:37:28,2021-10-04 17:19:05,Sedgwick Ave & Hall of Fame Tce,8539,St Nicholas Ave & W 134 St,7837,40.859532,-73.913303,40.816234,-73.948222,member
+812477,1B67E040A1E16C52,electric_bike,2021-10-02 13:49:11,2021-10-02 14:11:34,E Fordham Rd & Webster Ave,8582,Sedgwick Ave & Hall of Fame Tce,8539,40.861748,-73.89105,40.859532,-73.913303,casual
+816004,890BB7D8030127C9,electric_bike,2021-10-04 14:46:47,2021-10-04 15:12:43,St Nicholas Ave & W 134 St,7837,Sedgwick Ave & Hall of Fame Tce,8539,40.816234,-73.948222,40.859532,-73.913303,member
+1435375,B70329CF30F8A500,classic_bike,2021-10-03 11:17:53,2021-10-03 11:22:08,Sedgwick Ave & Hall of Fame Tce,8539,Cedar Ave & W Fordham Rd,8575,40.859532,-73.913303,40.86156,-73.91219,member
+1435553,28B61ED2261D8974,electric_bike,2021-10-19 15:14:38,2021-10-19 15:19:04,Sedgwick Ave & Hall of Fame Tce,8539,Cedar Ave & W Fordham Rd,8575,40.859532,-73.913303,40.86156,-73.91219,member
+1705602,A707F462D6BDDA8E,electric_bike,2021-10-02 19:31:37,2021-10-02 21:49:44,Sedgwick Ave & Hall of Fame Tce,8539,Sedgwick Ave & W Tremont Ave,8428,40.859532,-73.913303,40.853157,-73.918214,casual
+2283072,7030A8AFF78244A5,electric_bike,2021-10-13 13:09:55,2021-10-13 13:15:06,Sedgwick Ave & Hall of Fame Tce,8539,W Tremont Ave & Montgomery Ave,8407,40.859532,-73.913303,40.851788,-73.916418,casual
+2515933,573DE7B2BB59E4C3,classic_bike,2021-10-19 19:46:44,2021-10-19 19:48:43,Sedgwick Ave & Hall of Fame Tce,8539,Sedgwick Ave & W Burnside Ave,8465,40.859532,-73.913303,40.854947,-73.916661,member
+2728292,2E38E0FEBE4B154C,classic_bike,2021-10-13 16:09:13,2021-10-13 16:16:26,Buchanan Pl & Grand Ave,8535,Sedgwick Ave & Hall of Fame Tce,8539,40.85834,-73.90626,40.859532,-73.913303,member
+2728366,10EC2CE1A93C67C7,electric_bike,2021-10-13 12:30:46,2021-10-13 12:45:06,Buchanan Pl & Grand Ave,8535,Sedgwick Ave & Hall of Fame Tce,8539,40.85834,-73.90626,40.859532,-73.913303,casual
+2730928,498858BF7DF59C31,classic_bike,2021-10-05 18:35:42,2021-10-05 18:40:40,University Ave & W Burnside Ave,8462,Sedgwick Ave & Hall of Fame Tce,8539,40.85501,-73.910751,40.859532,-73.913303,member
+2739560,6DF557B383338EEF,electric_bike,2021-10-18 11:20:18,2021-10-18 11:29:10,Seaman Ave & Beak St,8650,Sedgwick Ave & Hall of Fame Tce,8539,40.867505,-73.926363,40.859532,-73.913303,member
+2739888,C2B2AB318B954B1D,electric_bike,2021-10-25 11:30:59,2021-10-25 11:35:03,Loring Pl North & W 183 St,8555,Sedgwick Ave & Hall of Fame Tce,8539,40.8604244,-73.9093359997,40.859532,-73.913303,member
+2739891,5C202130BC000180,electric_bike,2021-10-19 11:37:06,2021-10-19 11:39:06,Loring Pl North & W 183 St,8555,Sedgwick Ave & Hall of Fame Tce,8539,40.8604244,-73.9093359997,40.859532,-73.913303,member
+2744693,FE4AC27CAF6800B6,classic_bike,2021-10-08 08:53:35,2021-10-08 08:59:42,Sedgwick Ave & W Tremont Ave,8428,Sedgwick Ave & Hall of Fame Tce,8539,40.853157,-73.918214,40.859532,-73.913303,member
+2752945,E7AD83B6D2EE5C5C,classic_bike,2021-10-19 19:42:23,2021-10-19 19:46:32,W Fordham Rd & Loring Pl N,8590,Sedgwick Ave & Hall of Fame Tce,8539,40.86295,-73.90741,40.859532,-73.913303,member
+3029670,9EB4AFCBEEFC8074,electric_bike,2021-10-25 13:01:15,2021-10-25 13:19:38,Sedgwick Ave & Hall of Fame Tce,8539,Edgecombe Ave & W 145 St,7976,40.859532,-73.913303,40.823498,-73.94386,member

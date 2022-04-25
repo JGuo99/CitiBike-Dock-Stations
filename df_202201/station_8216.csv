@@ -1,0 +1,28 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+24294,22391B25A677A544,electric_bike,2022-01-27 07:33:55,2022-01-27 07:40:30,Waterloo Pl & Crotona Park East,8216,3 Ave & E 174 St - Bathgate Vaccination Site,8241,40.839194,-73.888587,40.84224,-73.8985,casual
+41262,9BABD20054F6A200,classic_bike,2022-01-02 20:25:11,2022-01-02 20:44:18,E 174 St & Longfellow Ave,8144,Waterloo Pl & Crotona Park East,8216,40.836274,-73.884308,40.839194,-73.888587,member
+43281,B4282D9525315408,classic_bike,2022-01-08 18:15:29,2022-01-08 18:21:52,Waterloo Pl & Crotona Park East,8216,Waterloo Pl & Crotona Park East,8216,40.839194,-73.888587,40.839194,-73.888587,casual
+92423,C0A80CD1145F883B,classic_bike,2022-01-02 19:18:35,2022-01-02 19:38:31,Waterloo Pl & Crotona Park East,8216,E 174 St & Longfellow Ave,8144,40.839194,-73.888587,40.836274,-73.884308,member
+150442,314F6FCB93A60C44,electric_bike,2022-01-08 08:03:07,2022-01-08 08:17:13,Waterloo Pl & Crotona Park East,8216,Plaza Dr & W 170 St,8213,40.839194,-73.888587,40.840484,-73.917946,member
+166914,9C70517828F7B503,classic_bike,2022-01-24 16:51:32,2022-01-24 17:02:55,Waterloo Pl & Crotona Park East,8216,E Burnside Ave & Ryer Ave,8397,40.839194,-73.888587,40.850535,-73.901318,member
+176471,FCC4AADFD7D7D8D3,electric_bike,2022-01-25 11:16:42,2022-01-25 11:31:56,Waterloo Pl & Crotona Park East,8216,College Ave & E 170 St,8175,40.839194,-73.888587,40.837576,-73.910489,casual
+185190,FF671C6460FF74AA,electric_bike,2022-01-02 15:48:43,2022-01-02 16:17:56,Waterloo Pl & Crotona Park East,8216,Waterloo Pl & Crotona Park East,8216,40.839194,-73.888587,40.839194,-73.888587,member
+187276,0B78FAB81D45C241,classic_bike,2022-01-02 17:20:00,2022-01-02 17:30:53,Waterloo Pl & Crotona Park East,8216,Waterloo Pl & Crotona Park East,8216,40.839194,-73.888587,40.839194,-73.888587,member
+187889,B7890E6183400EF8,classic_bike,2022-01-04 19:06:08,2022-01-04 19:08:52,Southern Blvd & E 175 St,8196,Waterloo Pl & Crotona Park East,8216,40.839335,-73.886445,40.839194,-73.888587,member
+188399,88EE3BE018B8D792,classic_bike,2022-01-04 18:07:59,2022-01-04 18:11:39,Southern Blvd & E 175 St,8196,Waterloo Pl & Crotona Park East,8216,40.839335,-73.886445,40.839194,-73.888587,member
+188456,64F65D977A2387FC,classic_bike,2022-01-02 18:22:29,2022-01-02 18:25:43,Southern Blvd & E 175 St,8196,Waterloo Pl & Crotona Park East,8216,40.839335,-73.886445,40.839194,-73.888587,member
+188557,6DC391520BF51100,electric_bike,2022-01-25 11:13:33,2022-01-25 11:15:32,Southern Blvd & E 175 St,8196,Waterloo Pl & Crotona Park East,8216,40.839335,-73.886445,40.839194,-73.888587,casual
+491035,49DA4273589FE06D,classic_bike,2022-01-02 17:37:41,2022-01-02 18:21:52,Waterloo Pl & Crotona Park East,8216,Southern Blvd & E 175 St,8196,40.839194,-73.888587,40.839335,-73.886445,member
+491764,7465B9B59C1FE9C1,classic_bike,2022-01-04 16:30:57,2022-01-04 16:51:08,Waterloo Pl & Crotona Park East,8216,Southern Blvd & E 175 St,8196,40.839194,-73.888587,40.839335,-73.886445,member
+491765,E072B7AF4101E436,classic_bike,2022-01-04 18:26:25,2022-01-04 19:05:47,Waterloo Pl & Crotona Park East,8216,Southern Blvd & E 175 St,8196,40.839194,-73.888587,40.839335,-73.886445,member
+597925,0195AFB42FD757D7,classic_bike,2022-01-04 16:26:59,2022-01-04 16:37:28,3 Ave & E 174 St - Bathgate Vaccination Site,8241,Waterloo Pl & Crotona Park East,8216,40.84224,-73.8985,40.839194,-73.888587,member
+601826,CE2AD77E7B988E01,electric_bike,2022-01-20 18:19:21,2022-01-20 18:21:13,Crotona Park North & Prospect Ave,8236,Waterloo Pl & Crotona Park East,8216,40.841092,-73.892317,40.839194,-73.888587,member
+605532,251FB51A903317BB,electric_bike,2022-01-31 19:01:37,2022-01-31 19:20:04,Jerome Ave & E 164 St,8096,Waterloo Pl & Crotona Park East,8216,40.831444,-73.926226,40.839194,-73.888587,member
+606418,F1BEF93DBC4626D2,electric_bike,2022-01-09 20:33:11,2022-01-09 20:51:59,Jerome Ave & Ogden Ave,8081,Waterloo Pl & Crotona Park East,8216,40.829797,-73.931015,40.839194,-73.888587,member
+607390,9178225026440098,electric_bike,2022-01-07 18:48:50,2022-01-07 19:11:40,River Ave & E 153 St,8005,Waterloo Pl & Crotona Park East,8216,40.82441,-73.92818,40.839194,-73.888587,member
+607438,E0AD2CE5EFB9DA70,electric_bike,2022-01-19 12:51:49,2022-01-19 12:55:22,Boston Rd & Prospect Ave,8133,Waterloo Pl & Crotona Park East,8216,40.833246,-73.896599,40.839194,-73.888587,casual
+607867,253ABB787FD324F2,classic_bike,2022-01-02 19:00:17,2022-01-02 19:07:55,Boston Rd & Prospect Ave,8133,Waterloo Pl & Crotona Park East,8216,40.833246,-73.896599,40.839194,-73.888587,member
+638205,4F9C6F4AF90EF4A5,electric_bike,2022-01-03 09:25:06,2022-01-03 09:41:13,Waterloo Pl & Crotona Park East,8216,Jerome Ave & Ogden Ave,8081,40.839194,-73.888587,40.829797,-73.931015,member
+638668,07AD475C08D2166F,electric_bike,2022-01-09 22:00:18,2022-01-09 22:40:53,Waterloo Pl & Crotona Park East,8216,Jerome Ave & Ogden Ave,8081,40.839194,-73.888587,40.829797,-73.931015,member
+699172,404138FCB9396E8A,electric_bike,2022-01-20 13:42:59,2022-01-20 13:44:23,Waterloo Pl & Crotona Park East,8216,Crotona Park North & Prospect Ave,8236,40.839194,-73.888587,40.841092,-73.892317,member
+907011,52549832C265944B,classic_bike,2022-01-02 18:33:24,2022-01-02 18:59:57,Waterloo Pl & Crotona Park East,8216,Boston Rd & Prospect Ave,8133,40.839194,-73.888587,40.833246,-73.896599,member

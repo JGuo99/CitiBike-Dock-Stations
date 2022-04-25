@@ -1,0 +1,432 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+278,DBC31FDB0E9B15D2,classic_bike,2021-12-01 15:39:53,2021-12-01 15:41:49,Irving Ave & Halsey St,4695,Knickerbocker Ave & Halsey St,4623,40.69467,-73.90663,40.693,-73.90824,member
+4147,960A1E97775B39E8,electric_bike,2021-12-30 09:34:49,2021-12-30 09:37:26,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+7603,FDD840DC04153FEB,classic_bike,2021-12-15 08:29:41,2021-12-15 08:41:39,Knickerbocker Ave & Halsey St,4623,Stockholm St & Wilson Ave,4824,40.693,-73.90824,40.699304,-73.923044,member
+7965,12DD62A6E78647B1,electric_bike,2021-12-03 14:47:03,2021-12-03 14:53:44,Knickerbocker Ave & Halsey St,4623,Stockholm St & Wilson Ave,4824,40.693,-73.90824,40.699304,-73.923044,member
+11232,E07017449654D0B7,classic_bike,2021-12-16 11:27:16,2021-12-16 11:42:51,Knickerbocker Ave & Halsey St,4623,Sharon St & Olive St,5323,40.693,-73.90824,40.715353,-73.93856,member
+12512,3A14E678348F6994,classic_bike,2021-12-15 11:48:57,2021-12-15 12:02:27,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+14007,88538C33AE8892CC,electric_bike,2021-12-20 16:53:13,2021-12-20 17:03:22,Knickerbocker Ave & Halsey St,4623,Wyckoff Av & Stanhope St,4931,40.693,-73.90824,40.703545,-73.917775,member
+15975,7D936AFDDFEC37CA,classic_bike,2021-12-06 10:23:36,2021-12-06 10:45:19,Knickerbocker Ave & Halsey St,4623,Monroe St & Bedford Ave,4368,40.693,-73.90824,40.6851443,-73.95380904,member
+29117,2C5BC701737A6072,classic_bike,2021-12-23 18:20:30,2021-12-23 18:25:26,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+29120,6BF909BD9902D1B4,electric_bike,2021-12-03 23:43:49,2021-12-03 23:47:17,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+29121,7DA32AEFF0346076,classic_bike,2021-12-02 22:24:50,2021-12-02 22:30:34,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+31359,132DF25A0DA07CF9,classic_bike,2021-12-16 16:00:17,2021-12-16 16:06:51,Knickerbocker Ave & Halsey St,4623,Stockholm St & Wilson Ave,4824,40.693,-73.90824,40.699304,-73.923044,casual
+33787,8FE29C13D30B9AFB,electric_bike,2021-12-10 20:08:01,2021-12-10 20:27:30,Knickerbocker Ave & Halsey St,4623,Manhattan Av & Leonard St,5442,40.693,-73.90824,40.72084,-73.94844,member
+38962,536810356B9101F4,electric_bike,2021-12-15 08:32:35,2021-12-15 08:57:57,Knickerbocker Ave & Halsey St,4623,5 St & Market St,4843,40.693,-73.90824,40.6999974843885,-73.97440128028393,member
+39281,0C9080FC7BA9F927,classic_bike,2021-12-04 00:21:39,2021-12-04 00:22:12,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+39298,41AE935042ECEA39,electric_bike,2021-12-22 23:41:16,2021-12-22 23:42:54,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+42223,CDDF9C641FB9AFD4,classic_bike,2021-12-04 06:07:22,2021-12-04 06:41:03,Knickerbocker Ave & Halsey St,4623,DeKalb Ave & Vanderbilt Ave,4461,40.693,-73.90824,40.68940747,-73.96885458,casual
+45173,C8AB9BFDD43479C3,classic_bike,2021-12-19 12:32:36,2021-12-19 12:38:54,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+45184,DCE57A949CB2A001,electric_bike,2021-12-20 08:48:23,2021-12-20 08:53:33,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,casual
+49851,CFAB3F1FB57AF160,electric_bike,2021-12-02 23:05:24,2021-12-02 23:18:27,Knickerbocker Ave & Halsey St,4623,Macon St & Nostrand Ave,4214,40.693,-73.90824,40.6809833854,-73.9500479759,member
+51099,0ABFDF052922B27C,electric_bike,2021-12-31 18:33:36,2021-12-31 18:43:09,Knickerbocker Ave & Halsey St,4623,Central Ave & Flushing Ave,4947,40.693,-73.90824,40.702831,-73.9333,member
+59426,8D46EDDCBC4B6CB1,electric_bike,2021-12-05 10:12:27,2021-12-05 10:39:10,Knickerbocker Ave & Halsey St,4623,Plaza St East & Flatbush Ave,4010,40.693,-73.90824,40.673134,-73.969106,member
+65360,E7FFDD5DAF2418D4,electric_bike,2021-12-11 17:13:54,2021-12-11 17:47:57,Knickerbocker Ave & Halsey St,4623,Sterling Pl & Bedford Ave,3993,40.693,-73.90824,40.672695,-73.954131,member
+81307,9B1EE0149A7E1581,electric_bike,2021-12-13 22:45:07,2021-12-13 22:48:24,Knickerbocker Ave & Halsey St,4623,Irving Ave & Palmetto St,4775,40.693,-73.90824,40.698,-73.9127,casual
+88032,111B55E7C1F408EB,electric_bike,2021-12-27 19:45:43,2021-12-27 19:51:45,Knickerbocker Ave & Halsey St,4623,Menahan St & Wyckoff Ave,4890,40.693,-73.90824,40.70113,-73.91422,member
+98253,532512A21E6F0F21,classic_bike,2021-12-08 09:58:46,2021-12-08 10:09:22,Knickerbocker Ave & Halsey St,4623,George St & Wilson Ave,4906,40.693,-73.90824,40.702997,-73.92997,casual
+141839,AC88B2F99765416E,electric_bike,2021-12-03 16:05:18,2021-12-03 16:27:26,Knickerbocker Ave & Halsey St,4623,Kosciuszko St & Nostrand Ave,4519,40.693,-73.90824,40.69072549,-73.95133465,member
+150659,73AA3803CD01F367,classic_bike,2021-12-03 21:48:49,2021-12-03 21:58:54,Knickerbocker Ave & Halsey St,4623,George St & Wilson Ave,4906,40.693,-73.90824,40.702997,-73.92997,member
+153909,04BBAC43BD662628,electric_bike,2021-12-10 16:21:11,2021-12-10 16:30:49,Knickerbocker Ave & Halsey St,4623,Madison St & Cypress Ave,4807,40.693,-73.90824,40.70068,-73.90742,casual
+154460,1FA8AEBE67E49170,classic_bike,2021-12-28 19:06:24,2021-12-28 19:25:49,Knickerbocker Ave & Halsey St,4623,Marcy Ave & Lafayette Ave,4476,40.693,-73.90824,40.6900815,-73.947915,casual
+161367,263D47B4004BA847,classic_bike,2021-12-29 11:40:06,2021-12-29 12:11:06,Knickerbocker Ave & Halsey St,4623,Marcus Garvey Blvd & Macon St,4278,40.693,-73.90824,40.682601,-73.938037,casual
+162686,DD9F630FDDA6F561,classic_bike,2021-12-03 19:34:05,2021-12-03 19:46:14,Knickerbocker Ave & Halsey St,4623,Marcus Garvey Blvd & Macon St,4278,40.693,-73.90824,40.682601,-73.938037,casual
+162886,AD38A53CA14116F0,classic_bike,2021-12-04 21:05:56,2021-12-04 21:39:40,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & George St,4979,40.693,-73.90824,40.704425,-73.92836,member
+199375,82E0D04EDCADB87E,electric_bike,2021-12-17 11:22:05,2021-12-17 11:58:58,Knickerbocker Ave & Halsey St,4623,Lafayette St & Jersey St,5561,40.693,-73.90824,40.72456089,-73.99565293,casual
+201450,5475923CE54B2B0F,classic_bike,2021-12-28 07:13:28,2021-12-28 07:19:04,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201451,4B9FE6D7B9605F12,classic_bike,2021-12-29 07:11:48,2021-12-29 07:13:02,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201454,053C949779FA90F5,classic_bike,2021-12-10 07:44:02,2021-12-10 07:45:32,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201455,13B74F893382C641,classic_bike,2021-12-08 07:36:51,2021-12-08 07:43:28,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201500,72150DA22761D067,electric_bike,2021-12-10 10:16:01,2021-12-10 10:21:29,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201507,168558F45ADCE8CD,electric_bike,2021-12-13 07:44:56,2021-12-13 07:45:57,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+201518,CA3DB647098CE8A3,classic_bike,2021-12-21 03:10:26,2021-12-21 03:14:36,Knickerbocker Ave & Halsey St,4623,Central Ave & Woodbine St,4632,40.693,-73.90824,40.69296,-73.91605,casual
+201519,140D603A0DF599C2,classic_bike,2021-12-20 23:03:13,2021-12-20 23:07:09,Knickerbocker Ave & Halsey St,4623,Central Ave & Woodbine St,4632,40.693,-73.90824,40.69296,-73.91605,casual
+205525,CA8AA57E15F30527,electric_bike,2021-12-06 12:28:30,2021-12-06 12:56:56,Knickerbocker Ave & Halsey St,4623,Union St & Bedford Ave,3879,40.693,-73.90824,40.6691783,-73.9554162,casual
+219682,61F2076709AA4FF3,electric_bike,2021-12-10 20:22:16,2021-12-10 20:42:23,Knickerbocker Ave & Halsey St,4623,Kent Ave & N 7 St,5489,40.693,-73.90824,40.72036775298455,-73.96165072917938,member
+237030,5157998EA9C307F6,classic_bike,2021-12-29 12:33:11,2021-12-29 12:48:35,Knickerbocker Ave & Halsey St,4623,McKibbin St & Bogart St,5059,40.693,-73.90824,40.706237,-73.933871,member
+244614,3BF74F851FC99941,classic_bike,2021-12-03 17:48:27,2021-12-03 17:53:57,Knickerbocker Ave & Halsey St,4623,Madison St & Cypress Ave,4807,40.693,-73.90824,40.70068,-73.90742,casual
+246175,A5A390716F5EF91C,electric_bike,2021-12-04 17:33:10,2021-12-04 17:38:42,Knickerbocker Ave & Halsey St,4623,Madison St & Cypress Ave,4807,40.693,-73.90824,40.70068,-73.90742,member
+259059,485B84FBE6CC3082,electric_bike,2021-12-30 22:03:17,2021-12-30 22:49:03,Knickerbocker Ave & Halsey St,4623,6 Ave & W 45 St,6593,40.693,-73.90824,40.756951,-73.982631,member
+266953,00869696EC5EA47F,electric_bike,2021-12-28 19:19:32,2021-12-28 19:21:18,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Knickerbocker Ave,4663,40.693,-73.90824,40.69545,-73.91164,casual
+269516,370C664E102C0B25,classic_bike,2021-12-09 10:49:45,2021-12-09 10:54:25,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+274916,93462D99DB418013,classic_bike,2021-12-02 17:02:56,2021-12-02 17:22:18,Knickerbocker Ave & Halsey St,4623,Albany Ave & Fulton St,4237,40.693,-73.90824,40.6800105,-73.938475,member
+275353,2D273B879C4FB21D,classic_bike,2021-12-23 10:55:29,2021-12-23 11:02:35,Knickerbocker Ave & Halsey St,4623,Suydam St & Knickerbocker Ave,4939,40.693,-73.90824,40.702013,-73.923769,member
+280195,22F0A5B125CA87B2,electric_bike,2021-12-18 00:35:33,2021-12-18 00:50:24,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Throop Ave,4392,40.693,-73.90824,40.6851532,-73.94111,casual
+293460,EFF3E0DDBD6B1BCE,classic_bike,2021-12-02 13:53:16,2021-12-02 13:57:15,Knickerbocker Ave & Halsey St,4623,Jefferson Ave & Evergreen Ave,4517,40.693,-73.90824,40.68989,-73.91458,casual
+293472,55AB7796F39D28AA,electric_bike,2021-12-25 18:04:34,2021-12-25 18:10:47,Knickerbocker Ave & Halsey St,4623,Jefferson Ave & Evergreen Ave,4517,40.693,-73.90824,40.68989,-73.91458,member
+301906,8D6C0E4C18A0DE58,electric_bike,2021-12-09 12:12:25,2021-12-09 12:22:23,Knickerbocker Ave & Halsey St,4623,White St & Moore St,4987,40.693,-73.90824,40.704508,-73.9351,member
+326914,82974C760DEBE830,classic_bike,2021-12-15 11:18:22,2021-12-15 11:26:05,Knickerbocker Ave & Halsey St,4623,Rockaway Ave & Bainbridge St,4285,40.693,-73.90824,40.68319988172761,-73.91166642308235,member
+327779,35DBD81273D13C2A,electric_bike,2021-12-24 19:23:16,2021-12-24 19:29:35,Knickerbocker Ave & Halsey St,4623,Rockaway Ave & Bainbridge St,4285,40.693,-73.90824,40.68319988172761,-73.91166642308235,member
+334402,117D6323D6C2B9D8,classic_bike,2021-12-04 07:56:38,2021-12-04 07:57:23,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,casual
+334411,DFB484ED84DD4B48,classic_bike,2021-12-07 17:05:12,2021-12-07 17:06:10,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334412,94B6B7616B39D1CE,classic_bike,2021-12-07 12:32:43,2021-12-07 12:33:43,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334413,2CB8F192C48154D2,classic_bike,2021-12-03 17:01:26,2021-12-03 17:02:32,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334417,103387778CF501DA,electric_bike,2021-12-05 16:03:47,2021-12-05 16:04:41,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334419,FD6FBE55481ABFB6,electric_bike,2021-12-15 00:15:55,2021-12-15 00:43:58,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334425,82F679B5EE14DF91,classic_bike,2021-12-14 08:43:30,2021-12-14 08:44:22,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+334427,F950CA3D72E0A210,classic_bike,2021-12-22 12:56:53,2021-12-22 12:57:52,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+337498,585A3FD2CA2BB370,electric_bike,2021-12-02 10:48:05,2021-12-02 11:14:55,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,casual
+337499,01B08CF5DE8E9C35,electric_bike,2021-12-02 12:04:55,2021-12-02 12:25:46,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,casual
+338237,51A2406A37730F98,electric_bike,2021-12-28 16:30:37,2021-12-28 17:05:14,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,casual
+345094,2321BEAC2966104D,electric_bike,2021-12-16 20:50:31,2021-12-16 21:20:02,Knickerbocker Ave & Halsey St,4623,Morgan Ave & Lombardy St,5503,40.693,-73.90824,40.72226,-73.93889,member
+400098,6F162FF9DDDD9FC4,electric_bike,2021-12-31 14:52:13,2021-12-31 15:17:26,Knickerbocker Ave & Halsey St,4623,Atlantic Ave & Fort Greene Pl,4354,40.693,-73.90824,40.68382604,-73.97632328,member
+402152,58DAFBA780511738,classic_bike,2021-12-04 10:26:16,2021-12-04 10:53:01,Knickerbocker Ave & Halsey St,4623,Union Ave & N 12 St,5411,40.693,-73.90824,40.71924,-73.95242,casual
+402153,92A48C915D37BA8D,classic_bike,2021-12-04 10:26:51,2021-12-04 10:52:58,Knickerbocker Ave & Halsey St,4623,Union Ave & N 12 St,5411,40.693,-73.90824,40.71924,-73.95242,casual
+418655,5E95A49643F4230C,electric_bike,2021-12-09 21:04:53,2021-12-09 21:08:21,Knickerbocker Ave & Halsey St,4623,Central Ave & Woodbine St,4632,40.693,-73.90824,40.69296,-73.91605,casual
+418743,61B5DFAFDFD8ED64,classic_bike,2021-12-11 23:33:53,2021-12-11 23:37:50,Knickerbocker Ave & Halsey St,4623,Central Ave & Woodbine St,4632,40.693,-73.90824,40.69296,-73.91605,casual
+419816,0AC6975E2C9C0B97,classic_bike,2021-12-09 07:43:49,2021-12-09 07:45:27,Knickerbocker Ave & Halsey St,4623,Irving Ave & Halsey St,4695,40.693,-73.90824,40.69467,-73.90663,member
+419842,5F1A6FE3CE1F58DA,classic_bike,2021-12-09 21:36:43,2021-12-09 21:40:34,Knickerbocker Ave & Halsey St,4623,Central Ave & Woodbine St,4632,40.693,-73.90824,40.69296,-73.91605,casual
+425350,C75F97DCF6E46A01,classic_bike,2021-12-11 19:44:38,2021-12-11 19:58:57,Knickerbocker Ave & Halsey St,4623,Lewis Ave & Kosciuszko St,4617,40.693,-73.90824,40.69237074,-73.93705428,casual
+425639,ECC7EF9FC2491B86,electric_bike,2021-12-13 13:22:10,2021-12-13 13:45:10,Knickerbocker Ave & Halsey St,4623,Lewis Ave & Kosciuszko St,4617,40.693,-73.90824,40.69237074,-73.93705428,casual
+431110,5D03AFC5F7538013,classic_bike,2021-12-11 20:57:24,2021-12-11 21:07:12,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Thames St,5018,40.693,-73.90824,40.70539,-73.92976,casual
+439055,9ECB0445CE90587F,classic_bike,2021-12-10 17:30:20,2021-12-10 17:34:46,Knickerbocker Ave & Halsey St,4623,Madison St & Evergreen Ave,4560,40.693,-73.90824,40.69122,-73.91693,member
+447246,00307427B16938B1,classic_bike,2021-12-06 16:22:52,2021-12-06 16:36:45,Knickerbocker Ave & Halsey St,4623,Albany Ave & Fulton St,4237,40.693,-73.90824,40.6800105,-73.938475,member
+447296,46518B456C489B9F,classic_bike,2021-12-02 16:30:01,2021-12-02 16:48:24,Knickerbocker Ave & Halsey St,4623,Albany Ave & Fulton St,4237,40.693,-73.90824,40.6800105,-73.938475,member
+447300,8BC45D1B01FD8DE5,classic_bike,2021-12-31 14:47:33,2021-12-31 14:49:27,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Cooper St,4582,40.693,-73.90824,40.69081,-73.90448,member
+447309,210B3E13E2B262A2,classic_bike,2021-12-14 11:54:13,2021-12-14 12:01:03,Knickerbocker Ave & Halsey St,4623,Myrtle Ave & Grove St,4816,40.693,-73.90824,40.69905,-73.91516,member
+455314,80310CA6E9C9B751,electric_bike,2021-12-03 10:30:29,2021-12-03 10:49:50,Knickerbocker Ave & Halsey St,4623,Myrtle Ave & Marcy Ave,4707,40.693,-73.90824,40.69539817,-73.94954908,casual
+477379,7B7E85D181FED96A,classic_bike,2021-12-02 14:22:34,2021-12-02 14:31:06,Grove St & Broadway,4526,Knickerbocker Ave & Halsey St,4623,40.69047,-73.923511,40.693,-73.90824,casual
+477386,CC88941BF3F076CA,electric_bike,2021-12-03 17:50:42,2021-12-03 18:01:27,Grove St & Broadway,4526,Knickerbocker Ave & Halsey St,4623,40.69047,-73.923511,40.693,-73.90824,casual
+477389,6CE8E35E7C157A72,classic_bike,2021-12-15 05:17:07,2021-12-15 05:33:44,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & Halsey St,4623,40.70863,-73.91497,40.693,-73.90824,casual
+477512,5A280F944D06EC58,electric_bike,2021-12-11 18:08:47,2021-12-11 18:18:16,Jefferson Ave & Evergreen Ave,4517,Knickerbocker Ave & Halsey St,4623,40.68989,-73.91458,40.693,-73.90824,member
+477668,57C0F59B06A68951,classic_bike,2021-12-04 20:46:18,2021-12-04 20:56:03,Willoughby Ave & Myrtle Ave,4759,Knickerbocker Ave & Halsey St,4623,40.69757,-73.93098,40.693,-73.90824,member
+477904,225475C5384385D5,electric_bike,2021-12-03 15:25:52,2021-12-03 15:36:02,Cypress Ave & George St,4765,Knickerbocker Ave & Halsey St,4623,40.69812,-73.90271,40.693,-73.90824,casual
+477962,EB44946D069BC49A,electric_bike,2021-12-12 18:40:07,2021-12-12 18:44:56,Cypress Ave & George St,4765,Knickerbocker Ave & Halsey St,4623,40.69812,-73.90271,40.693,-73.90824,casual
+478007,C323B95E39907D46,classic_bike,2021-12-07 21:05:18,2021-12-07 21:13:02,Suydam St & Knickerbocker Ave,4939,Knickerbocker Ave & Halsey St,4623,40.702013,-73.923769,40.693,-73.90824,member
+478029,8923ED0890018368,electric_bike,2021-12-15 20:29:21,2021-12-15 20:40:27,Fulton St & Utica Ave,4228,Knickerbocker Ave & Halsey St,4623,40.6794268,-73.9298911,40.693,-73.90824,casual
+478169,CE90FCB0131DDE63,electric_bike,2021-12-07 20:30:51,2021-12-07 20:45:47,Monroe St & Tompkins Ave,4434,Knickerbocker Ave & Halsey St,4623,40.686203,-73.944694,40.693,-73.90824,member
+478204,D4C829050F4D2879,classic_bike,2021-12-03 18:55:43,2021-12-03 19:02:55,Irving Ave & DeKalb Ave,4898,Knickerbocker Ave & Halsey St,4623,40.7027,-73.92095,40.693,-73.90824,member
+478216,6ABC9184EEC76C3D,electric_bike,2021-12-12 20:01:01,2021-12-12 20:09:50,Broadway & Kosciuszko St,4608,Knickerbocker Ave & Halsey St,4623,40.69329,-73.92852,40.693,-73.90824,casual
+478219,6BF3B4FCFFE7DA17,classic_bike,2021-12-04 13:06:01,2021-12-04 13:16:53,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Halsey St,4623,40.704425,-73.92836,40.693,-73.90824,casual
+478326,B724D396C3581D78,electric_bike,2021-12-26 12:18:28,2021-12-26 12:21:14,Cypress Ave & George St,4765,Knickerbocker Ave & Halsey St,4623,40.69812,-73.90271,40.693,-73.90824,member
+478439,F376F2F9FEDCA8D3,electric_bike,2021-12-04 18:52:13,2021-12-04 19:04:48,Lewis Ave & Kosciuszko St,4617,Knickerbocker Ave & Halsey St,4623,40.69237074,-73.93705428,40.693,-73.90824,casual
+478441,D447E8B920E012F8,electric_bike,2021-12-30 22:01:13,2021-12-30 22:02:54,Irving Ave & Halsey St,4695,Knickerbocker Ave & Halsey St,4623,40.69467,-73.90663,40.693,-73.90824,member
+478532,9D933627578E9B80,electric_bike,2021-12-03 10:28:24,2021-12-03 10:30:43,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+478695,974CB342DABB76B2,classic_bike,2021-12-07 14:49:19,2021-12-07 15:11:35,Central Ave & Woodbine St,4632,Knickerbocker Ave & Halsey St,4623,40.69296,-73.91605,40.693,-73.90824,member
+478696,EFA66BFC682C8C29,electric_bike,2021-12-05 19:56:08,2021-12-05 19:58:05,Irving Ave & Halsey St,4695,Knickerbocker Ave & Halsey St,4623,40.69467,-73.90663,40.693,-73.90824,member
+478740,963FE8E85A6433C3,electric_bike,2021-12-12 00:39:14,2021-12-12 00:50:55,Lewis Ave & Kosciuszko St,4617,Knickerbocker Ave & Halsey St,4623,40.69237074,-73.93705428,40.693,-73.90824,casual
+478769,280228A61B3BE071,electric_bike,2021-12-31 10:01:11,2021-12-31 10:02:17,Irving Ave & Halsey St,4695,Knickerbocker Ave & Halsey St,4623,40.69467,-73.90663,40.693,-73.90824,member
+478877,65AEAC900F65559B,electric_bike,2021-12-09 19:42:18,2021-12-09 19:49:57,Willoughby Ave & Myrtle Ave,4759,Knickerbocker Ave & Halsey St,4623,40.69757,-73.93098,40.693,-73.90824,member
+479135,1A274EB5297472E3,electric_bike,2021-12-11 16:18:19,2021-12-11 16:32:43,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,casual
+479163,5825B06239586063,electric_bike,2021-12-17 13:33:27,2021-12-17 13:48:05,Knickerbocker Ave & Halsey St,4623,Waterbury St & Stagg St,5099,40.693,-73.90824,40.71019,-73.93734,member
+479200,47CFD5063A076188,classic_bike,2021-12-08 17:46:32,2021-12-08 18:18:22,Kent St & McGuinness Blvd,5785,Knickerbocker Ave & Halsey St,4623,40.73124,-73.95161,40.693,-73.90824,member
+479435,AA3084BEC4A27667,electric_bike,2021-12-19 20:44:44,2021-12-19 21:11:32,Central Ave & Weirfield St,4591,Knickerbocker Ave & Halsey St,4623,40.69055,-73.91181,40.693,-73.90824,member
+479444,ED048017C7D9F8D4,electric_bike,2021-12-04 15:24:58,2021-12-05 01:15:00,Franklin Ave & St Marks Ave,4107,Knickerbocker Ave & Halsey St,4623,40.6758324,-73.9561677,40.693,-73.90824,casual
+479495,29788933189CC412,electric_bike,2021-12-13 09:49:21,2021-12-13 09:52:16,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+479544,B9F88E13387D0C77,electric_bike,2021-12-06 23:51:04,2021-12-06 23:59:17,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & Halsey St,4623,40.70863,-73.91497,40.693,-73.90824,casual
+479556,584C6845C0062EC3,classic_bike,2021-12-17 18:29:52,2021-12-17 18:55:34,Nassau Ave & Russell St,5581,Knickerbocker Ave & Halsey St,4623,40.72557,-73.94434,40.693,-73.90824,member
+479561,D34DBA9A4C322132,classic_bike,2021-12-11 22:53:45,2021-12-11 23:09:43,Putnam Ave & Nostrand Ave,4327,Knickerbocker Ave & Halsey St,4623,40.68402,-73.94977,40.693,-73.90824,casual
+479605,0A30B42116E3A2B8,electric_bike,2021-12-30 01:49:25,2021-12-30 01:55:08,Suydam St & Knickerbocker Ave,4939,Knickerbocker Ave & Halsey St,4623,40.702013,-73.923769,40.693,-73.90824,member
+479697,7787DAAD2031F059,classic_bike,2021-12-20 17:35:17,2021-12-20 17:41:32,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+479708,DEF96FC388466106,classic_bike,2021-12-18 16:00:04,2021-12-18 16:06:27,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+479724,83401B5D0DBECAB2,electric_bike,2021-12-03 11:04:45,2021-12-03 11:09:49,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+479871,E57B6276E1731DD9,electric_bike,2021-12-22 12:55:28,2021-12-22 12:56:37,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,member
+479906,F276D9A97F8671F0,electric_bike,2021-12-17 21:16:36,2021-12-17 21:27:15,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,member
+479940,431A26A823737357,classic_bike,2021-12-20 20:47:26,2021-12-20 20:56:57,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,casual
+479954,B81EA8E0BFAE7E3F,electric_bike,2021-12-03 15:53:18,2021-12-03 15:57:33,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,casual
+479992,557F43A8C140782C,classic_bike,2021-12-10 17:50:15,2021-12-10 18:26:42,McGuinness Blvd & Eagle St,5977,Knickerbocker Ave & Halsey St,4623,40.73555,-73.95284,40.693,-73.90824,member
+480126,5C7F222A0DB5A0D1,classic_bike,2021-12-22 19:28:35,2021-12-22 19:46:25,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Halsey St,4623,40.704425,-73.92836,40.693,-73.90824,member
+480156,B08972BC6DE109C6,classic_bike,2021-12-09 16:52:01,2021-12-09 16:54:00,Central Ave & Weirfield St,4591,Knickerbocker Ave & Halsey St,4623,40.69055,-73.91181,40.693,-73.90824,member
+480177,A3C5CE30FBD02003,classic_bike,2021-12-11 18:20:45,2021-12-11 18:23:14,Central Ave & Weirfield St,4591,Knickerbocker Ave & Halsey St,4623,40.69055,-73.91181,40.693,-73.90824,member
+480178,A49CA92A548258FD,classic_bike,2021-12-10 20:19:47,2021-12-10 20:21:56,Central Ave & Weirfield St,4591,Knickerbocker Ave & Halsey St,4623,40.69055,-73.91181,40.693,-73.90824,member
+480187,68706A174143C4BF,classic_bike,2021-12-15 20:22:17,2021-12-15 20:24:19,Central Ave & Weirfield St,4591,Knickerbocker Ave & Halsey St,4623,40.69055,-73.91181,40.693,-73.90824,member
+480343,E7B789A2091F7365,classic_bike,2021-12-11 16:36:48,2021-12-11 17:05:32,S 4 St & Rodney St,5156,Knickerbocker Ave & Halsey St,4623,40.70934,-73.95608,40.693,-73.90824,member
+480349,8ECCD8DFBFC216FD,classic_bike,2021-12-11 16:36:28,2021-12-11 17:05:08,S 4 St & Rodney St,5156,Knickerbocker Ave & Halsey St,4623,40.70934,-73.95608,40.693,-73.90824,member
+480488,ED819B1F30CF4836,electric_bike,2021-12-22 17:18:36,2021-12-22 17:56:17,Grand Army Plaza & Plaza St West,4010,Knickerbocker Ave & Halsey St,4623,40.6729679,-73.97087984,40.693,-73.90824,casual
+480728,84FA88129EAB7645,electric_bike,2021-12-02 09:24:52,2021-12-02 09:28:37,Broadway & Hancock St,4441,Knickerbocker Ave & Halsey St,4623,40.68663,-73.9168,40.693,-73.90824,member
+480767,90C12E31911E9ABE,classic_bike,2021-12-19 10:09:15,2021-12-19 10:43:01,Broadway & Hancock St,4441,Knickerbocker Ave & Halsey St,4623,40.68663,-73.9168,40.693,-73.90824,member
+480823,333AEE4F505EB048,classic_bike,2021-12-30 18:19:06,2021-12-30 18:24:34,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+480897,8ECE30D5C5C158AF,classic_bike,2021-12-31 13:57:10,2021-12-31 14:04:23,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+480907,C279A6BEC38E50F6,classic_bike,2021-12-12 11:57:12,2021-12-12 12:03:10,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+480941,DC6D29D6E97B4D54,classic_bike,2021-12-14 20:55:03,2021-12-14 21:02:21,Moffat St & Bushwick,4357,Knickerbocker Ave & Halsey St,4623,40.68458,-73.90925,40.693,-73.90824,casual
+480955,146BEDF090479B3C,classic_bike,2021-12-22 11:43:14,2021-12-22 11:50:21,Moffat St & Bushwick,4357,Knickerbocker Ave & Halsey St,4623,40.68458,-73.90925,40.693,-73.90824,casual
+480964,6C5A1916C153B7DD,electric_bike,2021-12-03 20:40:11,2021-12-03 20:54:00,Graham Ave & Grand St,5178,Knickerbocker Ave & Halsey St,4623,40.711863,-73.944024,40.693,-73.90824,member
+480990,6FD82647DC3D2D7D,electric_bike,2021-12-17 09:38:57,2021-12-17 09:51:09,McKibbin St & Bogart St,5059,Knickerbocker Ave & Halsey St,4623,40.706237,-73.933871,40.693,-73.90824,member
+481044,15B898C15E84EEC3,electric_bike,2021-12-16 09:50:53,2021-12-16 10:07:24,McKibbin St & Bogart St,5059,Knickerbocker Ave & Halsey St,4623,40.706237,-73.933871,40.693,-73.90824,member
+481116,81A398489E1C6B41,electric_bike,2021-12-12 09:44:16,2021-12-12 10:02:19,Graham Ave & Grand St,5178,Knickerbocker Ave & Halsey St,4623,40.711863,-73.944024,40.693,-73.90824,member
+481210,AEC7C773BD24E0E9,electric_bike,2021-12-17 22:16:38,2021-12-17 22:35:34,Putnam Ave & Throop Ave,4392,Knickerbocker Ave & Halsey St,4623,40.6851532,-73.94111,40.693,-73.90824,casual
+481219,2744478F30DBE0D2,classic_bike,2021-12-22 12:47:52,2021-12-22 12:55:09,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+481224,B091843A7578D752,electric_bike,2021-12-05 09:35:18,2021-12-05 09:37:54,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+481225,68FFE6F9B32035F6,electric_bike,2021-12-11 10:09:51,2021-12-11 10:12:44,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+481442,DB465682AE63BCF7,classic_bike,2021-12-15 13:37:54,2021-12-15 13:52:59,Knickerbocker Ave & Halsey St,4623,Waterbury St & Stagg St,5099,40.693,-73.90824,40.71019,-73.93734,member
+481599,058A06E61382AE27,classic_bike,2021-12-20 12:39:33,2021-12-20 12:44:30,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.6972,-73.90674,40.693,-73.90824,casual
+481673,28528295188881C9,classic_bike,2021-12-04 17:27:22,2021-12-04 17:31:23,Central Ave & Covert St,4550,Knickerbocker Ave & Halsey St,4623,40.68929,-73.90951,40.693,-73.90824,member
+481713,234F6C66FD8106C7,electric_bike,2021-12-16 17:53:59,2021-12-16 18:02:52,Bushwick Ave & Linden St,4600,Knickerbocker Ave & Halsey St,4623,40.69146,-73.92146,40.693,-73.90824,member
+481722,52E6591870ECAA5C,electric_bike,2021-12-14 22:20:40,2021-12-14 22:36:56,Driggs Ave & N Henry St,5542,Knickerbocker Ave & Halsey St,4623,40.72325,-73.94308,40.693,-73.90824,casual
+481807,81FD43973507CBE6,classic_bike,2021-12-10 14:32:59,2021-12-10 14:52:49,Irving Ave & Halsey St,4695,Knickerbocker Ave & Halsey St,4623,40.69467,-73.90663,40.693,-73.90824,member
+482151,566CB65EDF569095,classic_bike,2021-12-04 08:37:52,2021-12-04 08:49:19,Jefferson Ave & Evergreen Ave,4517,Knickerbocker Ave & Halsey St,4623,40.68989,-73.91458,40.693,-73.90824,member
+482297,726790DCF67F63F1,classic_bike,2021-12-05 14:53:51,2021-12-05 15:01:36,Grove St & Broadway,4526,Knickerbocker Ave & Halsey St,4623,40.69047,-73.923511,40.693,-73.90824,member
+482382,9EACBBEE9927975E,electric_bike,2021-12-12 15:38:51,2021-12-12 15:46:40,Cedar St & Myrtle Ave,4751,Knickerbocker Ave & Halsey St,4623,40.697842,-73.926241,40.693,-73.90824,member
+482445,484880DC64F57250,electric_bike,2021-12-02 10:54:38,2021-12-02 11:03:40,Central Ave & Melrose St,4832,Knickerbocker Ave & Halsey St,4623,40.70112,-73.93039,40.693,-73.90824,member
+482588,D2B8D63AE10124CD,electric_bike,2021-12-02 18:53:22,2021-12-02 19:11:15,Nassau Ave & Russell St,5581,Knickerbocker Ave & Halsey St,4623,40.72557,-73.94434,40.693,-73.90824,member
+482589,F7302B8304791FE0,classic_bike,2021-12-09 17:49:29,2021-12-09 18:16:04,Nassau Ave & Russell St,5581,Knickerbocker Ave & Halsey St,4623,40.72557,-73.94434,40.693,-73.90824,member
+482623,08E6170C383869C9,classic_bike,2021-12-03 17:43:26,2021-12-03 17:57:32,McKibbin St & Bogart St,5059,Knickerbocker Ave & Halsey St,4623,40.706237,-73.933871,40.693,-73.90824,member
+482624,94275AA741C2B3E0,electric_bike,2021-12-08 15:00:28,2021-12-08 15:11:37,McKibbin St & Bogart St,5059,Knickerbocker Ave & Halsey St,4623,40.706237,-73.933871,40.693,-73.90824,member
+482625,28E389E9D0049A11,electric_bike,2021-12-09 16:01:41,2021-12-09 16:11:18,McKibbin St & Bogart St,5059,Knickerbocker Ave & Halsey St,4623,40.706237,-73.933871,40.693,-73.90824,member
+482688,B8DF6DB93CB58DE7,classic_bike,2021-12-13 20:34:09,2021-12-13 20:44:51,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Halsey St,4623,40.704425,-73.92836,40.693,-73.90824,member
+482702,4600A0B3776A4189,electric_bike,2021-12-04 10:20:33,2021-12-04 10:23:26,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Halsey St,4623,40.68906,-73.90506,40.693,-73.90824,member
+482807,B20D726EE176DEE6,electric_bike,2021-12-10 19:50:11,2021-12-10 20:03:24,Lewis Ave & Decatur St,4237,Knickerbocker Ave & Halsey St,4623,40.6814598,-73.934903,40.693,-73.90824,member
+482876,EAFB6B7595F2C29B,classic_bike,2021-12-10 16:30:47,2021-12-10 16:35:17,Central Ave & Decatur St,4432,Knickerbocker Ave & Halsey St,4623,40.6882,-73.90798,40.693,-73.90824,casual
+482930,489E185ADBC444C6,classic_bike,2021-12-31 17:29:00,2021-12-31 17:39:10,Broadway & Kosciuszko St,4608,Knickerbocker Ave & Halsey St,4623,40.69329,-73.92852,40.693,-73.90824,casual
+482985,B16F3032879131F9,classic_bike,2021-12-18 16:41:11,2021-12-18 17:02:51,Monroe St & Bedford Ave,4368,Knickerbocker Ave & Halsey St,4623,40.6851443,-73.95380904,40.693,-73.90824,casual
+482997,B3DF0AF05AF38F89,electric_bike,2021-12-04 16:17:32,2021-12-04 16:34:23,Leonard St & Maujer St,5148,Knickerbocker Ave & Halsey St,4623,40.7103685423523,-73.94705951213837,40.693,-73.90824,member
+483080,C1D8702AFE234396,classic_bike,2021-12-03 12:07:19,2021-12-03 12:11:36,Central Ave & Decatur St,4432,Knickerbocker Ave & Halsey St,4623,40.6882,-73.90798,40.693,-73.90824,member
+483081,314A5D1D8570A7AC,classic_bike,2021-12-07 14:10:09,2021-12-07 14:13:31,Central Ave & Decatur St,4432,Knickerbocker Ave & Halsey St,4623,40.6882,-73.90798,40.693,-73.90824,member
+483150,FF76104612EDB06F,electric_bike,2021-12-31 10:43:01,2021-12-31 13:07:33,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,casual
+483180,AABA64D08A01F98C,classic_bike,2021-12-06 16:15:27,2021-12-06 16:35:40,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,member
+483181,60693BB5351F82CF,classic_bike,2021-12-06 15:37:55,2021-12-06 16:14:03,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,member
+483203,CFD7642F07D4998D,classic_bike,2021-12-02 11:41:44,2021-12-02 11:48:42,Irving Ave & Harman St,4856,Knickerbocker Ave & Halsey St,4623,40.70108,-73.9179,40.693,-73.90824,casual
+483204,E14B71D5F88C7BEB,classic_bike,2021-12-25 15:08:12,2021-12-25 15:15:30,Irving Ave & Harman St,4856,Knickerbocker Ave & Halsey St,4623,40.70108,-73.9179,40.693,-73.90824,member
+483438,E910A03A2C5101A5,electric_bike,2021-12-05 19:53:26,2021-12-05 20:00:53,Menahan St & Central Ave,4672,Knickerbocker Ave & Halsey St,4623,40.69543,-73.9196,40.693,-73.90824,casual
+483525,6B33CC798A5FBC05,electric_bike,2021-12-12 21:26:27,2021-12-12 22:01:18,Verona Pl & Fulton St,4124,Knickerbocker Ave & Halsey St,4623,40.6803560840434,-73.9476791024208,40.693,-73.90824,member
+483530,7A468BD4630839A2,electric_bike,2021-12-28 16:17:13,2021-12-28 16:20:28,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Halsey St,4623,40.69517,-73.90311,40.693,-73.90824,member
+483628,5FF4F2095629B2CF,electric_bike,2021-12-13 11:46:01,2021-12-13 11:53:05,Myrtle Ave & Linden St,4816,Knickerbocker Ave & Halsey St,4623,40.69943,-73.91337,40.693,-73.90824,casual
+483941,7CC3C82FCD8CA8B9,classic_bike,2021-12-27 17:35:42,2021-12-27 18:16:59,Grand St & Elizabeth St,5382,Knickerbocker Ave & Halsey St,4623,40.718822,-73.99596,40.693,-73.90824,member
+484236,E7DB015BC667E040,classic_bike,2021-12-28 17:19:21,2021-12-28 17:23:02,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.6972,-73.90674,40.693,-73.90824,member
+484270,E11C13BFCB942538,classic_bike,2021-12-28 11:31:32,2021-12-28 11:40:09,Bushwick Ave & Furman Ave,4317,Knickerbocker Ave & Halsey St,4623,40.68281,-73.90623,40.693,-73.90824,casual
+484470,E91EAB7898424D51,electric_bike,2021-12-10 17:45:11,2021-12-10 17:58:31,Jefferson Ave & Evergreen Ave,4517,Knickerbocker Ave & Halsey St,4623,40.68989,-73.91458,40.693,-73.90824,casual
+484481,5A6B9F59CE97C3C2,classic_bike,2021-12-07 19:42:11,2021-12-07 19:48:36,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+484482,4425BFAA026FF4E2,classic_bike,2021-12-16 13:42:58,2021-12-16 13:48:14,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+484506,F49C7C2F2D5921BF,classic_bike,2021-12-03 10:57:35,2021-12-03 11:03:49,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+484537,B254E32872DEAD3A,electric_bike,2021-12-11 12:04:27,2021-12-11 12:21:48,Myrtle Ave & Linden St,4816,Knickerbocker Ave & Halsey St,4623,40.69943,-73.91337,40.693,-73.90824,member
+484606,976F23E91F2FDCB4,electric_bike,2021-12-09 20:11:50,2021-12-09 20:19:59,Madison St & Evergreen Ave,4560,Knickerbocker Ave & Halsey St,4623,40.69122,-73.91693,40.693,-73.90824,casual
+484649,61AF083F02D4CC78,classic_bike,2021-12-16 10:24:55,2021-12-16 10:33:31,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+485060,96B3C36A4FEF08AD,electric_bike,2021-12-24 17:59:59,2021-12-24 18:11:54,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Halsey St,4623,40.693,-73.90824,40.693,-73.90824,member
+485543,F762CD5F280BE22D,electric_bike,2021-12-25 18:37:48,2021-12-25 18:46:05,Jefferson Ave & Evergreen Ave,4517,Knickerbocker Ave & Halsey St,4623,40.68989,-73.91458,40.693,-73.90824,casual
+485603,C1DD5B7C51F48619,electric_bike,2021-12-09 08:54:35,2021-12-09 09:14:22,Stagg St & Union Ave,5117,Knickerbocker Ave & Halsey St,4623,40.70877084,-73.95095259,40.693,-73.90824,member
+485628,C7246A65941475B1,classic_bike,2021-12-16 08:58:59,2021-12-16 09:19:43,Stagg St & Union Ave,5117,Knickerbocker Ave & Halsey St,4623,40.70877084,-73.95095259,40.693,-73.90824,member
+485805,26BC538AADA604E5,electric_bike,2021-12-23 09:53:10,2021-12-23 09:56:13,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Halsey St,4623,40.69517,-73.90311,40.693,-73.90824,member
+485850,EC57A74397928385,classic_bike,2021-12-08 17:15:27,2021-12-08 17:23:27,Broadway & Hancock St,4441,Knickerbocker Ave & Halsey St,4623,40.68663,-73.9168,40.693,-73.90824,casual
+485943,B146971130D8FB34,electric_bike,2021-12-05 16:10:43,2021-12-05 16:11:59,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+486067,66C31626764FE371,electric_bike,2021-12-27 22:26:11,2021-12-27 22:34:05,Broadway & Kosciuszko St,4608,Knickerbocker Ave & Halsey St,4623,40.69329,-73.92852,40.693,-73.90824,casual
+486081,BBB4BA2B001FAC9E,classic_bike,2021-12-02 19:32:05,2021-12-02 19:40:47,Irving Ave & Harman St,4856,Knickerbocker Ave & Halsey St,4623,40.70108,-73.9179,40.693,-73.90824,member
+486171,405F332FFCFDCDA8,classic_bike,2021-12-03 17:07:05,2021-12-03 17:08:09,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+486181,78E6C74C9F308185,classic_bike,2021-12-16 20:03:29,2021-12-16 20:43:47,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+486204,3DFD102F089C550C,electric_bike,2021-12-08 13:11:03,2021-12-08 13:19:52,Stockholm St & Wilson Ave,4824,Knickerbocker Ave & Halsey St,4623,40.699304,-73.923044,40.693,-73.90824,casual
+486491,12870C7AEFEB2B3D,classic_bike,2021-12-10 13:43:03,2021-12-10 14:28:53,Waterbury St & Stagg St,5099,Knickerbocker Ave & Halsey St,4623,40.71019,-73.93734,40.693,-73.90824,casual
+486750,C2A48B04CEB9310D,electric_bike,2021-12-22 05:19:16,2021-12-22 05:22:28,Halsey St & Evergreen Ave,4474,Knickerbocker Ave & Halsey St,4623,40.68858,-73.91227,40.693,-73.90824,casual
+487373,CD122DEF0BB65882,classic_bike,2021-12-03 17:24:47,2021-12-03 18:08:40,45 Ave & 21 St,6319,Knickerbocker Ave & Halsey St,4623,40.74737075646803,-73.94777297973631,40.693,-73.90824,member
+487376,462F7A7D51CBBF15,classic_bike,2021-12-06 17:24:43,2021-12-06 18:10:16,45 Ave & 21 St,6319,Knickerbocker Ave & Halsey St,4623,40.74737075646803,-73.94777297973631,40.693,-73.90824,member
+487377,A22EDCED747DF9FB,classic_bike,2021-12-16 17:48:07,2021-12-16 18:33:57,45 Ave & 21 St,6319,Knickerbocker Ave & Halsey St,4623,40.74737075646803,-73.94777297973631,40.693,-73.90824,member
+487408,7AE36E9449B8CA10,electric_bike,2021-12-28 16:45:12,2021-12-28 18:03:52,3 Ave & E 72 St,7028,Knickerbocker Ave & Halsey St,4623,40.7699426,-73.96060712,40.693,-73.90824,casual
+487847,3152D6E6A4356F52,classic_bike,2021-12-09 14:40:29,2021-12-09 14:46:44,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Halsey St,4623,40.69922,-73.89795,40.693,-73.90824,member
+487902,C1409C507401803A,electric_bike,2021-12-21 18:07:25,2021-12-21 18:26:53,Kingsland Ave & Nassau Ave,5613,Knickerbocker Ave & Halsey St,4623,40.72577,-73.94173,40.693,-73.90824,member
+488118,5696F5B7987CB009,classic_bike,2021-12-01 10:08:31,2021-12-01 10:14:17,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+488192,CD2D2A6127011AC7,electric_bike,2021-12-30 15:05:31,2021-12-30 15:07:07,Central Ave & Covert St,4550,Knickerbocker Ave & Halsey St,4623,40.68929,-73.90951,40.693,-73.90824,member
+488200,F66D68E7E6E6EAB4,classic_bike,2021-12-21 22:33:01,2021-12-21 22:40:05,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Halsey St,4623,40.698568,-73.918877,40.693,-73.90824,member
+489040,3826C7FD53356E95,electric_bike,2021-12-20 16:00:00,2021-12-20 16:14:04,Division Ave & Marcy Ave,5084,Knickerbocker Ave & Halsey St,4623,40.70708701,-73.95796783,40.693,-73.90824,member
+489187,230CD5E618765050,electric_bike,2021-12-03 06:51:58,2021-12-03 07:06:20,Kingston Ave & Herkimer St,4205,Knickerbocker Ave & Halsey St,4623,40.67890679,-73.94142771,40.693,-73.90824,member
+489395,B58CAC49354CA7F3,electric_bike,2021-12-10 18:54:22,2021-12-10 19:06:38,White St & Moore St,4987,Knickerbocker Ave & Halsey St,4623,40.704508,-73.9351,40.693,-73.90824,member
+489427,7A9C7C01B9FB7928,electric_bike,2021-12-06 06:52:02,2021-12-06 07:08:35,Kingston Ave & Herkimer St,4205,Knickerbocker Ave & Halsey St,4623,40.67890679,-73.94142771,40.693,-73.90824,member
+489499,E0F381F4AA1268DD,electric_bike,2021-12-08 06:40:21,2021-12-08 06:55:21,Kingston Ave & Herkimer St,4205,Knickerbocker Ave & Halsey St,4623,40.67890679,-73.94142771,40.693,-73.90824,member
+489509,3640CBB74CC8B179,classic_bike,2021-12-31 22:46:37,2021-12-31 22:59:11,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,casual
+489521,E2DDD1F26F66DAE7,electric_bike,2021-12-07 08:25:43,2021-12-07 08:31:01,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Halsey St,4623,40.69517,-73.90311,40.693,-73.90824,member
+489582,FE6123515FD2E63E,classic_bike,2021-12-01 19:14:22,2021-12-01 19:18:54,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Halsey St,4623,40.69517,-73.90311,40.693,-73.90824,member
+489865,99EA909826F177F5,electric_bike,2021-12-04 17:25:39,2021-12-04 17:30:05,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Halsey St,4623,40.69922,-73.89795,40.693,-73.90824,casual
+489870,309EA485CD8DAEBA,electric_bike,2021-12-18 18:08:46,2021-12-18 18:19:28,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Halsey St,4623,40.69922,-73.89795,40.693,-73.90824,member
+489874,6792D78CD621C0B2,electric_bike,2021-12-12 16:00:31,2021-12-12 16:10:54,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Halsey St,4623,40.69922,-73.89795,40.693,-73.90824,casual
+489894,06CF6C4174DB10DE,electric_bike,2021-12-19 15:40:29,2021-12-19 16:02:11,Bergen St & Vanderbilt Ave,4157,Knickerbocker Ave & Halsey St,4623,40.6794388,-73.9680438,40.693,-73.90824,member
+490037,B5CEEB52DBA0A934,electric_bike,2021-12-03 09:58:28,2021-12-03 10:00:54,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Halsey St,4623,40.69517,-73.90311,40.693,-73.90824,member
+490056,525189A49697DE8F,electric_bike,2021-12-06 00:08:03,2021-12-06 00:15:17,Bushwick Ave & Harman St,4640,Knickerbocker Ave & Halsey St,4623,40.69356,-73.92524,40.693,-73.90824,member
+490394,A1E8C8B6EB0ACBF5,classic_bike,2021-12-05 20:22:41,2021-12-05 20:30:36,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Halsey St,4623,40.703545,-73.917775,40.693,-73.90824,member
+490396,9EC3C0AA472790CD,electric_bike,2021-12-04 23:50:31,2021-12-05 00:12:04,Willoughby Ave & Walworth St,4634,Knickerbocker Ave & Halsey St,4623,40.69331716,-73.95381995,40.693,-73.90824,casual
+490773,7E823717A83D7746,electric_bike,2021-12-07 06:50:38,2021-12-07 07:06:46,Kingston Ave & Herkimer St,4205,Knickerbocker Ave & Halsey St,4623,40.67890679,-73.94142771,40.693,-73.90824,member
+491009,9A0222E10ABF3E0B,electric_bike,2021-12-10 15:12:22,2021-12-10 15:49:39,Broadway & Battery Pl,4962,Knickerbocker Ave & Halsey St,4623,40.70463334,-74.01361706,40.693,-73.90824,member
+491210,8BF5C1CC276D44D0,classic_bike,2021-12-13 17:49:20,2021-12-13 18:24:21,Green St & McGuinness Blvd,5860,Knickerbocker Ave & Halsey St,4623,40.73396,-73.95204,40.693,-73.90824,member
+491506,49B25880E832CABA,classic_bike,2021-12-03 17:44:37,2021-12-03 17:47:52,Central Ave & Covert St,4550,Knickerbocker Ave & Halsey St,4623,40.68929,-73.90951,40.693,-73.90824,casual
+491651,407C4FC3345485F1,classic_bike,2021-12-22 17:46:43,2021-12-22 18:19:52,Green St & McGuinness Blvd,5860,Knickerbocker Ave & Halsey St,4623,40.73396,-73.95204,40.693,-73.90824,member
+492014,CA473C4260972B56,classic_bike,2021-12-09 08:01:04,2021-12-09 08:06:35,Madison St & Cypress Ave,4807,Knickerbocker Ave & Halsey St,4623,40.70068,-73.90742,40.693,-73.90824,casual
+492079,2D1EB8C028F1703D,classic_bike,2021-12-21 13:43:45,2021-12-21 13:53:30,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,casual
+492089,09827F5F2E4758AC,electric_bike,2021-12-06 23:29:35,2021-12-06 23:35:09,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+492173,E6D5244B5E40F2D7,electric_bike,2021-12-15 11:55:38,2021-12-15 12:09:53,Willoughby Ave & Tompkins Ave,4665,Knickerbocker Ave & Halsey St,4623,40.69425403,-73.94626915,40.693,-73.90824,casual
+492185,621F35791EE3E01B,classic_bike,2021-12-01 17:42:26,2021-12-01 18:15:17,Green St & McGuinness Blvd,5860,Knickerbocker Ave & Halsey St,4623,40.73396,-73.95204,40.693,-73.90824,member
+492211,C8CAC95C48F18420,classic_bike,2021-12-20 17:56:31,2021-12-20 18:07:04,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Halsey St,4623,40.703545,-73.917775,40.693,-73.90824,member
+492212,50BF12D7D28048DF,classic_bike,2021-12-05 20:23:14,2021-12-05 20:30:42,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Halsey St,4623,40.703545,-73.917775,40.693,-73.90824,member
+492400,022D4E3EF5C54FB3,classic_bike,2021-12-08 12:55:49,2021-12-08 12:59:53,Irving Ave & Palmetto St,4775,Knickerbocker Ave & Halsey St,4623,40.698,-73.9127,40.693,-73.90824,member
+492401,363F3E3B1F023BD7,electric_bike,2021-12-02 08:53:02,2021-12-02 09:06:20,Macon St & Nostrand Ave,4214,Knickerbocker Ave & Halsey St,4623,40.6809833854,-73.9500479759,40.693,-73.90824,member
+492600,156193F686238617,classic_bike,2021-12-01 21:54:07,2021-12-01 22:11:39,Marcy Ave & Lafayette Ave,4476,Knickerbocker Ave & Halsey St,4623,40.6900815,-73.947915,40.693,-73.90824,member
+492685,D95BDA24D8554A72,electric_bike,2021-12-15 09:57:06,2021-12-15 10:03:06,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+492696,3E4EA7BC7FD95FF8,electric_bike,2021-12-26 16:25:52,2021-12-26 16:32:08,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+493000,A6DBFBF8C927DC8A,electric_bike,2021-12-13 18:27:31,2021-12-13 18:49:00,Myrtle Ave & Marcy Ave,4707,Knickerbocker Ave & Halsey St,4623,40.69539817,-73.94954908,40.693,-73.90824,member
+493124,8F8F37399456FF55,electric_bike,2021-12-17 18:12:12,2021-12-17 20:25:54,University Pl & E 14 St,5905,Knickerbocker Ave & Halsey St,4623,40.734814,-73.992085,40.693,-73.90824,member
+493279,57DF0CCA7E1982D7,classic_bike,2021-12-23 17:31:20,2021-12-23 18:04:40,Green St & McGuinness Blvd,5860,Knickerbocker Ave & Halsey St,4623,40.73396,-73.95204,40.693,-73.90824,member
+493446,0D14B818E5D915A7,electric_bike,2021-12-08 17:27:09,2021-12-08 18:01:11,S 3 St & Bedford Ave,5235,Knickerbocker Ave & Halsey St,4623,40.71260486,-73.96264403,40.693,-73.90824,casual
+493552,FBC53C502CC66F75,electric_bike,2021-12-25 01:19:52,2021-12-25 01:25:26,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+493595,A852C939587DCA23,classic_bike,2021-12-18 04:14:34,2021-12-18 04:25:52,Stewart Ave & Johnson Ave,5123,Knickerbocker Ave & Halsey St,4623,40.70869,-73.92587,40.693,-73.90824,member
+494308,8A4F6B319673C8AC,electric_bike,2021-12-19 16:27:02,2021-12-19 16:34:55,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+494332,5DE8BD26FE481928,electric_bike,2021-12-11 00:50:01,2021-12-11 00:55:41,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+494336,F0327472CA6F96D5,electric_bike,2021-12-14 01:03:56,2021-12-14 01:08:24,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Halsey St,4623,40.68319988172761,-73.91166642308235,40.693,-73.90824,member
+494577,436726F647540159,classic_bike,2021-12-01 16:27:42,2021-12-01 17:01:33,Albany Ave & Fulton St,4237,Knickerbocker Ave & Halsey St,4623,40.6800105,-73.938475,40.693,-73.90824,member
+494631,7253DC375F1BD4C7,classic_bike,2021-12-15 12:26:24,2021-12-15 12:28:09,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,member
+494650,9584CF1DCE7BFE8A,classic_bike,2021-12-03 18:16:19,2021-12-03 18:24:01,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,casual
+494653,5C09E16D5FC31631,electric_bike,2021-12-24 16:58:06,2021-12-24 17:02:54,Myrtle Ave & Grove St,4816,Knickerbocker Ave & Halsey St,4623,40.69905,-73.91516,40.693,-73.90824,member
+494657,7F6C48A2CEBC5D6E,classic_bike,2021-12-03 16:02:49,2021-12-03 16:04:41,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,member
+494665,9DDE926B252AF7BB,electric_bike,2021-12-31 14:50:24,2021-12-31 14:51:45,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,member
+494674,30535FD172145703,classic_bike,2021-12-03 02:36:29,2021-12-03 02:39:21,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,casual
+494677,03C91114ECC66A12,electric_bike,2021-12-17 11:19:06,2021-12-17 11:21:12,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Halsey St,4623,40.69081,-73.90448,40.693,-73.90824,casual
+495252,D93D8D5089150D5D,classic_bike,2021-12-07 17:53:22,2021-12-07 18:08:19,Suydam St & Broadway,4689,Knickerbocker Ave & Halsey St,4623,40.69544,-73.93223,40.693,-73.90824,member
+495269,2B0EF7A3E53BE6CA,classic_bike,2021-12-26 23:11:57,2021-12-26 23:18:54,Central Ave & Himrod St,4713,Knickerbocker Ave & Halsey St,4623,40.69676,-73.92302,40.693,-73.90824,member
+495304,F752AFB49E1112E1,classic_bike,2021-12-15 00:06:58,2021-12-15 00:27:15,Suydam St & Broadway,4689,Knickerbocker Ave & Halsey St,4623,40.69544,-73.93223,40.693,-73.90824,casual
+495305,D18FB73420206893,classic_bike,2021-12-08 12:54:34,2021-12-08 12:59:35,Central Ave & Himrod St,4713,Knickerbocker Ave & Halsey St,4623,40.69676,-73.92302,40.693,-73.90824,casual
+495317,8ECE4DA93196B814,classic_bike,2021-12-10 21:38:44,2021-12-10 21:45:16,Central Ave & Himrod St,4713,Knickerbocker Ave & Halsey St,4623,40.69676,-73.92302,40.693,-73.90824,casual
+495331,0E92AAA78F46DA6B,classic_bike,2021-12-10 19:33:27,2021-12-10 19:51:15,Suydam St & Broadway,4689,Knickerbocker Ave & Halsey St,4623,40.69544,-73.93223,40.693,-73.90824,member
+495497,9B0D89675C49167E,classic_bike,2021-12-29 09:43:44,2021-12-29 09:46:46,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Halsey St,4623,40.69545,-73.91164,40.693,-73.90824,casual
+495498,8E0D8DF1EA7EB90F,classic_bike,2021-12-14 21:02:18,2021-12-14 21:06:52,Stephen St & Seneca Ave,4798,Knickerbocker Ave & Halsey St,4623,40.6988,-73.9007,40.693,-73.90824,casual
+495510,77CEFC1C2BEA0602,classic_bike,2021-12-15 00:06:35,2021-12-15 00:27:03,Suydam St & Broadway,4689,Knickerbocker Ave & Halsey St,4623,40.69544,-73.93223,40.693,-73.90824,casual
+495515,369A391EF6818D88,classic_bike,2021-12-29 09:43:45,2021-12-29 09:46:41,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Halsey St,4623,40.69545,-73.91164,40.693,-73.90824,casual
+495550,D09CA43F28041B31,classic_bike,2021-12-02 23:02:51,2021-12-02 23:04:57,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Halsey St,4623,40.69545,-73.91164,40.693,-73.90824,member
+495556,34030A53E694A748,classic_bike,2021-12-30 23:04:33,2021-12-30 23:14:53,Central Ave & Himrod St,4713,Knickerbocker Ave & Halsey St,4623,40.69676,-73.92302,40.693,-73.90824,casual
+495815,BC0106900F463692,classic_bike,2021-12-28 13:24:39,2021-12-28 13:36:08,Van Sinderen Ave & Truxton St,4161,Knickerbocker Ave & Halsey St,4623,40.6786,-73.90369,40.693,-73.90824,member
+495886,85E15AD6095C8293,electric_bike,2021-12-27 19:06:06,2021-12-27 19:13:34,Van Sinderen Ave & Truxton St,4161,Knickerbocker Ave & Halsey St,4623,40.6786,-73.90369,40.693,-73.90824,member
+495910,9603127904523897,electric_bike,2021-12-17 13:20:40,2021-12-17 13:29:49,Van Sinderen Ave & Truxton St,4161,Knickerbocker Ave & Halsey St,4623,40.6786,-73.90369,40.693,-73.90824,member
+508803,592E2691E3814BC6,classic_bike,2021-12-11 04:24:11,2021-12-11 04:30:21,Knickerbocker Ave & Halsey St,4623,Bushwick Ave & Linden St,4600,40.693,-73.90824,40.69146,-73.92146,member
+526770,AEE239C2326A2422,electric_bike,2021-12-05 11:35:04,2021-12-05 11:51:53,Knickerbocker Ave & Halsey St,4623,Monroe St & Classon Ave,4336,40.693,-73.90824,40.6845683,-73.95881081,member
+526776,32EEBF9AFBE2936B,electric_bike,2021-12-04 18:22:25,2021-12-04 18:29:16,Knickerbocker Ave & Halsey St,4623,Wilson Ave & Moffat St,4507,40.693,-73.90824,40.68906,-73.90506,member
+531467,031DB80FCB4DAB7B,classic_bike,2021-12-10 18:04:00,2021-12-10 18:07:18,Knickerbocker Ave & Halsey St,4623,Wilson Ave & Moffat St,4507,40.693,-73.90824,40.68906,-73.90506,member
+545356,3ADEF75EF35C5570,electric_bike,2021-12-05 08:10:08,2021-12-05 08:37:38,Knickerbocker Ave & Halsey St,4623,Metropolitan Ave & Bedford Ave,5308,40.693,-73.90824,40.71534825,-73.96024116,casual
+550568,0C1EAD99BF56BB0A,classic_bike,2021-12-04 19:04:22,2021-12-04 19:29:40,Knickerbocker Ave & Halsey St,4623,Dean St & Franklin Ave,4107,40.693,-73.90824,40.67759206937376,-73.955637216568,casual
+562650,AC6ADDAD8D23D338,electric_bike,2021-12-08 13:32:37,2021-12-08 13:38:27,Knickerbocker Ave & Halsey St,4623,Central Ave & Himrod St,4713,40.693,-73.90824,40.69676,-73.92302,casual
+568709,6F5D26CC36F1639B,electric_bike,2021-12-12 18:45:45,2021-12-12 18:54:21,Knickerbocker Ave & Halsey St,4623,Central Ave & Himrod St,4713,40.693,-73.90824,40.69676,-73.92302,casual
+573118,7F51FC2A7E1770A3,classic_bike,2021-12-06 18:57:27,2021-12-06 19:04:11,Knickerbocker Ave & Halsey St,4623,Wilson Ave & Troutman St,4864,40.693,-73.90824,40.70166,-73.92754,member
+590640,FA330A5F41B11798,electric_bike,2021-12-02 10:30:04,2021-12-02 10:53:22,Knickerbocker Ave & Halsey St,4623,Carlton Ave & Park Ave,4732,40.693,-73.90824,40.69580705,-73.97355569,casual
+600572,A2899EE2BAA933B3,electric_bike,2021-12-26 18:56:27,2021-12-26 19:00:46,Knickerbocker Ave & Halsey St,4623,Madison St & Seneca Ave,4880,40.693,-73.90824,40.70183,-73.90625,member
+619173,2B69849D37077C1B,electric_bike,2021-12-11 13:51:23,2021-12-11 14:21:40,Knickerbocker Ave & Halsey St,4623,Fulton St & Utica Ave,4228,40.693,-73.90824,40.6794268,-73.9298911,casual
+621079,18DF6C8ED419404A,electric_bike,2021-12-11 14:07:07,2021-12-11 14:32:35,Knickerbocker Ave & Halsey St,4623,Fulton St & Utica Ave,4228,40.693,-73.90824,40.6794268,-73.9298911,casual
+639631,36A68986F9B61CEC,classic_bike,2021-12-01 11:55:37,2021-12-01 12:15:18,Knickerbocker Ave & Halsey St,4623,Lewis Ave & Decatur St,4237,40.693,-73.90824,40.6814598,-73.934903,casual
+639646,921627E9A5B9D6BE,classic_bike,2021-12-15 14:02:04,2021-12-15 14:10:18,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & George St,4979,40.693,-73.90824,40.704425,-73.92836,member
+639655,EEFCF8BA3A2C155A,electric_bike,2021-12-23 11:48:10,2021-12-23 11:54:09,Knickerbocker Ave & Halsey St,4623,Irving Ave & DeKalb Ave,4898,40.693,-73.90824,40.7027,-73.92095,casual
+639665,898481A591053192,classic_bike,2021-12-04 21:05:49,2021-12-04 21:39:37,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & George St,4979,40.693,-73.90824,40.704425,-73.92836,member
+639860,6CAD8E6A9340EA7C,electric_bike,2021-12-07 16:17:57,2021-12-07 16:31:44,Knickerbocker Ave & Halsey St,4623,Lewis Ave & Decatur St,4237,40.693,-73.90824,40.6814598,-73.934903,member
+642733,FDCF38A2520FAAB6,classic_bike,2021-12-09 17:55:51,2021-12-09 18:03:39,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & George St,4979,40.693,-73.90824,40.704425,-73.92836,casual
+642746,C4E8776CCE73C738,classic_bike,2021-12-01 08:45:23,2021-12-01 08:54:35,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & George St,4979,40.693,-73.90824,40.704425,-73.92836,member
+642772,E4BB293A78B09C22,electric_bike,2021-12-12 01:38:29,2021-12-12 01:45:19,Knickerbocker Ave & Halsey St,4623,Irving Ave & DeKalb Ave,4898,40.693,-73.90824,40.7027,-73.92095,casual
+657146,BF2E8A488425B3AD,classic_bike,2021-12-07 07:42:12,2021-12-07 07:45:19,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+658122,6D7ECE60CE015344,classic_bike,2021-12-04 11:23:04,2021-12-04 11:29:34,Knickerbocker Ave & Halsey St,4623,Centre St & Seneca Ave,4837,40.693,-73.90824,40.69969,-73.9022,member
+658125,1B3E6D11267AFA48,classic_bike,2021-12-01 07:42:17,2021-12-01 07:45:54,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+658166,57010860BE4028E9,classic_bike,2021-12-13 19:51:51,2021-12-13 19:55:46,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661189,26962A959C14E087,classic_bike,2021-12-15 08:45:51,2021-12-15 08:49:40,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661195,709416F725ACFA01,classic_bike,2021-12-27 07:09:31,2021-12-27 07:12:56,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661221,6960CBF127D64B34,electric_bike,2021-12-05 10:16:50,2021-12-05 10:18:45,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661224,3EB91337625A1489,electric_bike,2021-12-03 07:46:52,2021-12-03 07:48:55,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661989,1ED6285490BB83D0,electric_bike,2021-12-06 07:42:39,2021-12-06 07:44:55,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+661990,0B68C3D993974195,electric_bike,2021-12-16 07:45:12,2021-12-16 07:47:34,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+663205,146D54DFED1BC278,electric_bike,2021-12-06 10:08:33,2021-12-06 10:10:54,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,member
+663655,9B2D3B084963C82B,electric_bike,2021-12-07 07:51:31,2021-12-07 07:55:03,Knickerbocker Ave & Halsey St,4623,Norman St & Wyckoff Ave,4654,40.693,-73.90824,40.69517,-73.90311,casual
+669843,3284678DAE2EF2A6,electric_bike,2021-12-03 12:02:38,2021-12-03 12:04:55,Knickerbocker Ave & Halsey St,4623,Halsey St & Evergreen Ave,4474,40.693,-73.90824,40.68858,-73.91227,member
+669863,75EDDF0BB0588C4B,electric_bike,2021-12-12 17:50:28,2021-12-12 17:53:20,Knickerbocker Ave & Halsey St,4623,Halsey St & Evergreen Ave,4474,40.693,-73.90824,40.68858,-73.91227,member
+674845,F8DDA9306B451422,classic_bike,2021-12-08 13:57:47,2021-12-08 14:32:30,Knickerbocker Ave & Halsey St,4623,DeKalb Ave & S Portland Ave,4546,40.693,-73.90824,40.68981035,-73.97493121,member
+674881,BA65C69ECAD946BE,electric_bike,2021-12-12 20:40:23,2021-12-12 21:18:14,Knickerbocker Ave & Halsey St,4623,Lefferts Pl & Franklin Ave,4222,40.693,-73.90824,40.680342423,-73.9557689392,member
+674884,95BD6853295EF48C,classic_bike,2021-12-03 12:12:04,2021-12-03 12:36:26,Knickerbocker Ave & Halsey St,4623,N 6 St & Bedford Ave,5379,40.693,-73.90824,40.71745169,-73.95850939,member
+760348,0BDFB5689178C965,electric_bike,2021-12-09 17:38:48,2021-12-09 18:09:29,Knickerbocker Ave & Halsey St,4623,Douglass St & 3 Ave,4217,40.693,-73.90824,40.6802133,-73.98432695,member
+812796,390412B21BD817D1,classic_bike,2021-12-12 13:44:36,2021-12-12 14:17:51,Knickerbocker Ave & Halsey St,4623,Union Ave & Jackson St,5300,40.693,-73.90824,40.7160751,-73.952029,member
+812859,56FD4F6C4F00B715,electric_bike,2021-12-05 19:58:52,2021-12-05 20:07:43,Knickerbocker Ave & Halsey St,4623,Wyckoff Av & Jefferson St,5051,40.693,-73.90824,40.707165,-73.923711,member
+812893,BA30C3C86AA5812A,electric_bike,2021-12-12 22:01:52,2021-12-12 22:26:02,Knickerbocker Ave & Halsey St,4623,Grove St & Broadway,4526,40.693,-73.90824,40.69047,-73.923511,member
+814787,1A082FA56A4B948F,classic_bike,2021-12-04 20:48:01,2021-12-04 20:55:36,Knickerbocker Ave & Halsey St,4623,Grove St & Broadway,4526,40.693,-73.90824,40.69047,-73.923511,member
+816710,7EAB82DF2C51553D,classic_bike,2021-12-23 08:28:45,2021-12-23 08:38:22,Knickerbocker Ave & Halsey St,4623,Wyckoff Av & Jefferson St,5051,40.693,-73.90824,40.707165,-73.923711,member
+869802,95DD8DF8A2C17DED,electric_bike,2021-12-07 08:31:43,2021-12-07 08:40:58,Knickerbocker Ave & Halsey St,4623,Bushwick Ave & Dekalb Ave,4680,40.693,-73.90824,40.69502,-73.92825,member
+931406,5B1BFFF6BEEEDD6F,classic_bike,2021-12-30 20:28:11,2021-12-30 20:49:44,Knickerbocker Ave & Halsey St,4623,Greene Ave & Nostrand Ave,4519,40.693,-73.90824,40.6883337,-73.950916,member
+957908,FFD44DCC4915F728,electric_bike,2021-12-08 16:00:57,2021-12-08 16:57:07,Knickerbocker Ave & Halsey St,4623,Vesey Pl & River Terrace,5297,40.693,-73.90824,40.7153379,-74.01658354,casual
+986095,430F65CEFDF1209F,classic_bike,2021-12-27 13:04:49,2021-12-27 13:08:41,Knickerbocker Ave & Halsey St,4623,Irving Ave & Palmetto St,4775,40.693,-73.90824,40.698,-73.9127,member
+986485,2AB06965620A1B76,classic_bike,2021-12-02 08:06:20,2021-12-02 08:10:04,Knickerbocker Ave & Halsey St,4623,Irving Ave & Palmetto St,4775,40.693,-73.90824,40.698,-73.9127,member
+988199,FE3B5914589133C9,classic_bike,2021-12-08 12:15:41,2021-12-08 12:18:55,Knickerbocker Ave & Halsey St,4623,Irving Ave & Palmetto St,4775,40.693,-73.90824,40.698,-73.9127,member
+1020816,871684CD8A053FF5,electric_bike,2021-12-26 13:49:35,2021-12-26 14:12:09,Knickerbocker Ave & Halsey St,4623,Wythe Ave & Metropolitan Ave,5348,40.693,-73.90824,40.716887,-73.963198,member
+1020876,8213D01EA11DE8CA,electric_bike,2021-12-15 12:28:23,2021-12-15 12:43:16,Knickerbocker Ave & Halsey St,4623,Willoughby Ave & Walworth St,4634,40.693,-73.90824,40.69331716,-73.95381995,member
+1104163,9D800D2B7BD30DFD,classic_bike,2021-12-17 13:31:00,2021-12-17 13:42:21,Knickerbocker Ave & Halsey St,4623,Somers St & Broadway,4203,40.693,-73.90824,40.67945,-73.90474,casual
+1108304,0D8AB36BA824454C,electric_bike,2021-12-17 13:30:47,2021-12-17 13:42:12,Knickerbocker Ave & Halsey St,4623,Somers St & Broadway,4203,40.693,-73.90824,40.67945,-73.90474,casual
+1117867,B375A6A891A40061,electric_bike,2021-12-03 18:25:14,2021-12-03 18:38:08,Knickerbocker Ave & Halsey St,4623,Madison St & Forest Ave,5025,40.693,-73.90824,40.70555,-73.90245,casual
+1125326,BF4743E3358BBED2,electric_bike,2021-12-18 18:44:11,2021-12-18 18:50:49,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125336,0CFC667D48E5CE9A,classic_bike,2021-12-03 10:00:26,2021-12-03 10:05:11,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125360,BBD0A02A684CA28C,classic_bike,2021-12-17 17:40:01,2021-12-17 17:46:07,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125366,285D22E54DAC8D39,classic_bike,2021-12-19 12:12:06,2021-12-19 12:16:41,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125367,CB41AD2C5EDF732B,classic_bike,2021-12-18 13:15:30,2021-12-18 13:19:56,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125376,39F348A78916B523,electric_bike,2021-12-16 11:20:18,2021-12-16 11:50:21,Knickerbocker Ave & Halsey St,4623,E 3 St & 1 Ave,5553,40.693,-73.90824,40.72467721,-73.98783413,member
+1125385,D9411A8C1AFB28CE,classic_bike,2021-12-01 09:32:54,2021-12-01 09:39:44,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,casual
+1125389,29D511B83CF80D27,classic_bike,2021-12-25 15:38:42,2021-12-25 15:44:04,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125390,24682EA19F61E3B3,electric_bike,2021-12-11 10:21:23,2021-12-11 10:24:48,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125400,1D636C1315CB79D2,classic_bike,2021-12-22 16:18:42,2021-12-22 16:24:28,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,casual
+1125433,BBF5867F8237A24D,classic_bike,2021-12-01 09:09:58,2021-12-01 09:14:59,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1125434,61DE7F37D72932F2,classic_bike,2021-12-07 19:56:09,2021-12-07 20:00:55,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1128138,6446C6B248940682,classic_bike,2021-12-17 19:55:01,2021-12-17 20:02:38,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,casual
+1130504,CF9D1FB0526ADAAE,classic_bike,2021-12-16 09:23:52,2021-12-16 09:27:52,Knickerbocker Ave & Halsey St,4623,Greene Av & Myrtle Av,4784,40.693,-73.90824,40.698568,-73.918877,member
+1164621,9E9138F210420EF8,electric_bike,2021-12-01 14:42:25,2021-12-01 14:49:29,Knickerbocker Ave & Halsey St,4623,Stockholm St & Wilson Ave,4824,40.693,-73.90824,40.699304,-73.923044,member
+1211432,02D506A9E6361E0A,electric_bike,2021-12-06 06:55:10,2021-12-06 07:12:45,Knickerbocker Ave & Halsey St,4623,Nostrand Ave & Myrtle Ave,4707,40.693,-73.90824,40.69527008,-73.95238108,casual
+1219438,407EEEABBC10F013,classic_bike,2021-12-15 18:56:17,2021-12-15 19:00:50,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1219458,7FA581E42F05FA51,classic_bike,2021-12-04 12:03:02,2021-12-04 12:07:24,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,casual
+1223149,68A37F05D2C0619F,classic_bike,2021-12-01 11:43:43,2021-12-01 11:50:18,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223240,2124613B776565EC,classic_bike,2021-12-12 09:51:49,2021-12-12 09:57:17,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223241,699318BDD03A71B6,classic_bike,2021-12-11 08:57:43,2021-12-11 09:02:58,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223249,F9CEDF9C2DA6EBF3,classic_bike,2021-12-08 13:41:44,2021-12-08 13:48:59,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223641,3EACA197B4F7ABC0,classic_bike,2021-12-07 14:39:25,2021-12-07 14:45:26,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223696,998FF738EDEF0F9B,classic_bike,2021-12-31 11:55:53,2021-12-31 12:02:02,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223743,23928B1CAE2FC78F,classic_bike,2021-12-20 15:22:35,2021-12-20 15:28:41,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1223744,2BEA6B8C78385F27,classic_bike,2021-12-05 09:50:32,2021-12-05 09:56:09,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1232940,E6139E1D10689D10,classic_bike,2021-12-21 16:26:01,2021-12-21 16:30:50,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member
+1232994,83DC9FF2213547F8,classic_bike,2021-12-08 15:27:45,2021-12-08 15:32:44,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,casual
+1259984,B53748582E58D4E7,electric_bike,2021-12-26 15:39:32,2021-12-26 15:53:52,Knickerbocker Ave & Halsey St,4623,Verona Pl & Fulton St,4124,40.693,-73.90824,40.6803560840434,-73.9476791024208,member
+1285578,71D632C4E8461AA1,electric_bike,2021-12-15 11:47:30,2021-12-15 11:54:52,Knickerbocker Ave & Halsey St,4623,Irving Ave & Harman St,4856,40.693,-73.90824,40.70108,-73.9179,casual
+1286454,EDFAB1335D3798EE,electric_bike,2021-12-17 23:24:10,2021-12-17 23:29:00,Knickerbocker Ave & Halsey St,4623,Irving Ave & Harman St,4856,40.693,-73.90824,40.70108,-73.9179,member
+1288327,82496FAF6412F6B8,electric_bike,2021-12-11 18:23:41,2021-12-11 19:03:10,Knickerbocker Ave & Halsey St,4623,E 40 St & Park Ave,6432,40.693,-73.90824,40.750756,-73.978326,member
+1299833,0C6C79D580EB5A43,classic_bike,2021-12-11 19:40:03,2021-12-11 19:57:45,Knickerbocker Ave & Halsey St,4623,Hancock St & Bedford Ave,4255,40.693,-73.90824,40.68216564,-73.95399026,member
+1300262,A3BC18FC81C77A6E,electric_bike,2021-12-08 20:14:16,2021-12-08 20:29:44,Knickerbocker Ave & Halsey St,4623,Hancock St & Bedford Ave,4255,40.693,-73.90824,40.68216564,-73.95399026,casual
+1300916,00E3B1D3A7178447,electric_bike,2021-12-04 21:07:16,2021-12-04 21:52:18,Knickerbocker Ave & Halsey St,4623,Hancock St & Bedford Ave,4255,40.693,-73.90824,40.68216564,-73.95399026,casual
+1324819,6AE8D31E90CB359B,classic_bike,2021-12-15 09:23:08,2021-12-15 09:28:01,Knickerbocker Ave & Halsey St,4623,Central Ave & Decatur St,4432,40.693,-73.90824,40.6882,-73.90798,member
+1325513,F0EB9141F5645A07,classic_bike,2021-12-11 12:41:07,2021-12-11 12:59:59,Knickerbocker Ave & Halsey St,4623,Monroe St & Bedford Ave,4368,40.693,-73.90824,40.6851443,-73.95380904,member
+1327285,8761E4353F1C2820,electric_bike,2021-12-03 13:41:26,2021-12-03 13:57:10,Knickerbocker Ave & Halsey St,4623,Monroe St & Bedford Ave,4368,40.693,-73.90824,40.6851443,-73.95380904,casual
+1369440,96B43876D725FB8C,classic_bike,2021-12-31 19:39:16,2021-12-31 19:47:41,Knickerbocker Ave & Halsey St,4623,Suydam St & Knickerbocker Ave,4939,40.693,-73.90824,40.702013,-73.923769,member
+1370497,D499085A9756583A,classic_bike,2021-12-12 09:36:34,2021-12-12 09:43:58,Knickerbocker Ave & Halsey St,4623,Suydam St & Knickerbocker Ave,4939,40.693,-73.90824,40.702013,-73.923769,member
+1375990,F0D2A99AC137A1AE,classic_bike,2021-12-22 15:41:08,2021-12-22 15:49:20,Knickerbocker Ave & Halsey St,4623,Suydam St & Knickerbocker Ave,4939,40.693,-73.90824,40.702013,-73.923769,casual
+1437500,4B96FE04E2C9FFD3,electric_bike,2021-12-19 16:36:26,2021-12-19 17:17:15,Knickerbocker Ave & Halsey St,4623,E 2 St & 2 Ave,5593,40.693,-73.90824,40.72502876,-73.99069656,member
+1446934,1F9653B1D461070D,electric_bike,2021-12-19 19:21:37,2021-12-19 19:31:17,Knickerbocker Ave & Halsey St,4623,Van Sinderen Ave & Truxton St,4161,40.693,-73.90824,40.6786,-73.90369,member
+1483575,1034278FF3DEA0E1,classic_bike,2021-12-05 12:42:29,2021-12-05 12:46:35,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483581,42CEBE1E6703B201,classic_bike,2021-12-04 15:17:37,2021-12-04 15:21:41,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483598,EC56E1372EDEF288,classic_bike,2021-12-05 15:04:43,2021-12-05 15:08:15,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483621,6D400395E72594D8,electric_bike,2021-12-10 19:26:28,2021-12-10 19:29:19,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483629,C416D8DE585C1175,classic_bike,2021-12-04 13:37:03,2021-12-04 13:42:25,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483656,C94B621CFC4C6519,electric_bike,2021-12-04 11:44:28,2021-12-04 11:50:24,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,casual
+1483657,410EBBEEAD3A09D6,electric_bike,2021-12-02 21:49:21,2021-12-02 21:54:18,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483660,1845D00FC4F42BEA,electric_bike,2021-12-24 11:07:28,2021-12-24 11:10:08,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1483883,4A546D357BF2C4F8,classic_bike,2021-12-19 14:06:26,2021-12-19 14:10:42,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Wyckoff Ave,4735,40.693,-73.90824,40.69811,-73.90904,member
+1503829,9F135F90A7393433,electric_bike,2021-12-09 20:07:58,2021-12-09 20:15:54,Knickerbocker Ave & Halsey St,4623,Central Ave & Starr Street,4792,40.693,-73.90824,40.700003,-73.92834,member
+1503893,B66BF8A8EEA94A46,electric_bike,2021-12-25 20:24:16,2021-12-25 20:32:17,Knickerbocker Ave & Halsey St,4623,Central Ave & Starr Street,4792,40.693,-73.90824,40.700003,-73.92834,casual
+1504201,6FE7424F6A01807F,electric_bike,2021-12-28 09:35:36,2021-12-28 09:56:00,Knickerbocker Ave & Halsey St,4623,Flushing Ave & Vanderbilt Ave,4762,40.693,-73.90824,40.69795031569544,-73.97077560424805,member
+1518160,A795CBD05ABC005C,classic_bike,2021-12-27 11:47:33,2021-12-27 11:50:36,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518161,C2AA411660A68A55,classic_bike,2021-12-28 11:51:31,2021-12-28 11:54:42,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518197,D1F5C2DE1D63EC76,electric_bike,2021-12-26 12:38:15,2021-12-26 12:41:10,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,casual
+1518214,545C6FDC42B5F0CC,electric_bike,2021-12-02 22:19:35,2021-12-02 22:22:36,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518298,1BB16485A56656CA,classic_bike,2021-12-05 13:29:59,2021-12-05 13:34:38,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518333,19BF9971CE9CEF6C,classic_bike,2021-12-14 19:19:05,2021-12-14 19:23:59,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518334,3F648293FE2B4066,classic_bike,2021-12-15 18:40:25,2021-12-15 18:44:47,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518346,6D81042B918106E6,classic_bike,2021-12-18 15:11:29,2021-12-18 15:15:15,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,casual
+1518348,FDC4F9F8F4D4BAA3,classic_bike,2021-12-12 00:50:06,2021-12-12 00:54:42,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518367,D39B6ED0CDA9C7AE,electric_bike,2021-12-02 21:22:55,2021-12-02 21:37:30,Park Ave & Marcus Garvey Blvd,4768,Knickerbocker Ave & Halsey St,4623,40.698617,-73.941342,40.693,-73.90824,member
+1518381,3B6FCDBE9BD69672,classic_bike,2021-12-06 17:37:44,2021-12-06 17:47:43,Halsey St & Broadway,4366,Knickerbocker Ave & Halsey St,4623,40.68565,-73.91564,40.693,-73.90824,casual
+1518415,6F03B7FC88B2281C,electric_bike,2021-12-05 01:23:27,2021-12-05 01:27:09,Halsey St & Broadway,4366,Knickerbocker Ave & Halsey St,4623,40.68565,-73.91564,40.693,-73.90824,casual
+1518416,27E692EBD2782C8E,electric_bike,2021-12-22 18:26:07,2021-12-22 18:30:56,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Halsey St,4623,40.69811,-73.90904,40.693,-73.90824,member
+1518440,F5EBE5862A9DC64E,electric_bike,2021-12-05 01:04:43,2021-12-05 01:07:53,Halsey St & Broadway,4366,Knickerbocker Ave & Halsey St,4623,40.68565,-73.91564,40.693,-73.90824,casual
+1518495,7DD00D792C67A629,classic_bike,2021-12-04 21:56:44,2021-12-04 22:04:00,Halsey St & Broadway,4366,Knickerbocker Ave & Halsey St,4623,40.68565,-73.91564,40.693,-73.90824,member
+1518796,676C6626ACA59082,classic_bike,2021-12-14 08:59:12,2021-12-14 09:12:36,Central Ave & Starr Street,4792,Knickerbocker Ave & Halsey St,4623,40.700003,-73.92834,40.693,-73.90824,casual
+1518821,A6C10B0CF527B4E4,electric_bike,2021-12-05 14:45:12,2021-12-05 15:10:57,Metropolitan Ave & Meeker Ave,5300,Knickerbocker Ave & Halsey St,4623,40.71413311,-73.95234386,40.693,-73.90824,member
+1518945,77CAF64227DEF436,electric_bike,2021-12-14 22:12:14,2021-12-14 22:25:31,Tompkins Ave & Hopkins St,4850,Knickerbocker Ave & Halsey St,4623,40.69957608,-73.94708417,40.693,-73.90824,member
+1519008,2ABAF0435BD51FE4,electric_bike,2021-12-11 10:02:03,2021-12-11 10:05:39,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1519022,A5DFB886F27D54D7,electric_bike,2021-12-10 09:42:21,2021-12-10 09:47:29,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1519175,25726FB38E03318B,classic_bike,2021-12-05 11:52:38,2021-12-05 11:57:32,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1519194,66F9586C5C98D166,electric_bike,2021-12-01 12:50:00,2021-12-01 13:01:12,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1519317,B9F2E3B4A31C1629,classic_bike,2021-12-24 13:07:51,2021-12-24 13:13:23,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1519318,6D9C9D519E91FD2F,classic_bike,2021-12-04 13:53:32,2021-12-04 13:59:15,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Halsey St,4623,40.699871408829885,-73.91171872615814,40.693,-73.90824,member
+1600762,5B83DF5A6C205301,electric_bike,2021-12-14 08:42:20,2021-12-14 09:10:44,Knickerbocker Ave & Halsey St,4623,Nassau St\t& Duffield St,4781,40.693,-73.90824,40.698477,-73.98384,casual
+1605538,BF778B59B88F1FB3,classic_bike,2021-12-28 18:47:54,2021-12-28 18:56:08,Knickerbocker Ave & Halsey St,4623,Madison St & Woodward Ave,4954,40.693,-73.90824,40.70408,-73.90408,member
+1645066,631FE1B7638AACAF,electric_bike,2021-12-30 15:07:46,2021-12-30 15:49:20,Knickerbocker Ave & Halsey St,4623,E 65 St & 2 Ave,6860,40.693,-73.90824,40.76471851944339,-73.96222069859505,member
+1652313,59299FB4B27101F4,classic_bike,2021-12-11 17:16:02,2021-12-11 17:37:13,Knickerbocker Ave & Halsey St,4623,Hope St & Union Ave,5187,40.693,-73.90824,40.71167351,-73.95141312,casual
+1673841,CCCD1409197A8CC8,electric_bike,2021-12-12 10:55:40,2021-12-12 11:00:24,Knickerbocker Ave & Halsey St,4623,Broadway & Hancock St,4441,40.693,-73.90824,40.68663,-73.9168,casual
+1673844,4CAAF093FD973A4C,classic_bike,2021-12-19 10:43:18,2021-12-19 10:50:20,Knickerbocker Ave & Halsey St,4623,Broadway & Hancock St,4441,40.693,-73.90824,40.68663,-73.9168,member
+1677600,6C67DECEDEED85B9,electric_bike,2021-12-21 18:49:50,2021-12-21 18:54:46,Knickerbocker Ave & Halsey St,4623,Broadway & Hancock St,4441,40.693,-73.90824,40.68663,-73.9168,member
+1699135,478CA2E38D7A018E,classic_bike,2021-12-16 10:28:38,2021-12-16 10:34:14,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699178,7826AD48DB2F221C,electric_bike,2021-12-06 17:24:36,2021-12-06 17:29:16,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,casual
+1699183,D16C545A8F4EBE69,classic_bike,2021-12-28 10:36:38,2021-12-28 10:41:50,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699184,E4903855D057DB8C,electric_bike,2021-12-13 10:41:28,2021-12-13 10:45:39,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699187,D5113319F87D1CE4,electric_bike,2021-12-08 07:04:36,2021-12-08 07:12:25,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699200,1E38929F214A939C,electric_bike,2021-12-22 22:16:49,2021-12-22 22:19:58,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,casual
+1699205,C712AD6E84FA9303,electric_bike,2021-12-07 11:25:20,2021-12-07 11:30:28,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699229,83E73BB187243E85,electric_bike,2021-12-05 10:37:03,2021-12-05 10:41:12,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1699240,8848E7FF27DEF9CE,classic_bike,2021-12-29 12:02:22,2021-12-29 12:07:32,Knickerbocker Ave & Halsey St,4623,Halsey St & Broadway,4366,40.693,-73.90824,40.68565,-73.91564,member
+1718713,E13C1EF7BA3BB6F5,electric_bike,2021-12-08 13:28:10,2021-12-08 14:04:39,Knickerbocker Ave & Halsey St,4623,Wyckoff Ave & Gates Ave,4847,40.693,-73.90824,40.699871408829885,-73.91171872615814,member

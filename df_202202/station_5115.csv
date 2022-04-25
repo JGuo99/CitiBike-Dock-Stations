@@ -1,0 +1,557 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+280,574778E6C6685ACC,electric_bike,2022-02-15 21:21:11,2022-02-15 21:24:32,Wyckoff Av & Stanhope St,4931,Willoughby Ave & Onderdonk Ave,5115,40.703545,-73.917775,40.7098,-73.91727,member
+281,9769E8E6FA906137,classic_bike,2022-02-20 20:38:39,2022-02-20 20:49:47,Wyckoff Av & Stanhope St,4931,Willoughby Ave & Onderdonk Ave,5115,40.703545,-73.917775,40.7098,-73.91727,casual
+308,96E937A3FDA1EC93,electric_bike,2022-02-09 13:53:42,2022-02-09 13:55:27,Flushing Ave & Woodward Ave,5225,Willoughby Ave & Onderdonk Ave,5115,40.71246,-73.91873,40.7098,-73.91727,member
+374,E58FEB22B0F0C7E4,classic_bike,2022-02-11 20:42:38,2022-02-11 20:57:09,Grove St & Broadway,4526,Willoughby Ave & Onderdonk Ave,5115,40.69047,-73.923511,40.7098,-73.91727,casual
+395,ADFA46AED1B5C092,classic_bike,2022-02-27 19:08:51,2022-02-27 19:14:21,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+5544,4D7D0095B1588057,electric_bike,2022-02-24 09:03:37,2022-02-24 09:18:13,Willoughby Ave & Onderdonk Ave,5115,Harrison Pl & Porter Ave,5090,40.7098,-73.91727,40.70686,-73.92851,member
+5568,E64337A8E5210E63,electric_bike,2022-02-17 08:34:16,2022-02-17 08:59:58,Onderdonk Ave & Dekalb Ave,5115,Myrtle Ave & Fleet Pl,4628,40.70863,-73.91497,40.693534,-73.981909,member
+10247,C11762FE09EC9CB5,classic_bike,2022-02-27 18:33:03,2022-02-27 18:43:39,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & George St,4979,40.70863,-73.91497,40.704425,-73.92836,member
+16115,D6049AADC847619F,classic_bike,2022-02-17 16:06:42,2022-02-17 16:38:44,Queens Plaza North & Crescent St,6429,Onderdonk Ave & Dekalb Ave,5115,40.75110165,-73.94073717,40.70863,-73.91497,member
+16201,8B4166F17EE4396F,electric_bike,2022-02-12 19:38:41,2022-02-12 19:41:52,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+16418,A2BAF4085B5F1056,electric_bike,2022-02-19 20:02:56,2022-02-19 20:05:26,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+16433,5F3991627A8565BF,electric_bike,2022-02-28 18:29:22,2022-02-28 18:33:20,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+26407,2687D1C69F238DA8,electric_bike,2022-02-08 14:35:09,2022-02-08 14:51:36,Forest Ave & Summerfield St,4798,Willoughby Ave & Onderdonk Ave,5115,40.69922,-73.89795,40.7098,-73.91727,member
+26415,2341D2F943E9BD56,electric_bike,2022-02-02 15:42:56,2022-02-02 15:48:45,Madison St & Forest Ave,5025,Willoughby Ave & Onderdonk Ave,5115,40.70555,-73.90245,40.7098,-73.91727,member
+26455,0D9B13C954838FC1,electric_bike,2022-02-08 12:43:22,2022-02-08 12:49:45,Madison St & Forest Ave,5025,Willoughby Ave & Onderdonk Ave,5115,40.70555,-73.90245,40.7098,-73.91727,casual
+26462,BAACBCBC1A14E647,electric_bike,2022-02-26 21:59:43,2022-02-26 22:02:44,Stanhope St & Fairview Ave,5146,Willoughby Ave & Onderdonk Ave,5115,40.70998,-73.91116,40.7098,-73.91727,member
+26464,D48C0F138E97A268,electric_bike,2022-02-17 14:44:57,2022-02-17 15:21:59,Stanhope St & Fairview Ave,5146,Willoughby Ave & Onderdonk Ave,5115,40.70998,-73.91116,40.7098,-73.91727,casual
+26667,FF0654945C6E2970,classic_bike,2022-02-14 08:15:31,2022-02-14 08:55:22,Rogers Ave & Sterling St,3696,Willoughby Ave & Onderdonk Ave,5115,40.6630619,-73.9538746,40.7098,-73.91727,member
+26676,5F51A05680BB388B,classic_bike,2022-02-16 08:27:33,2022-02-16 09:01:46,Rogers Ave & Sterling St,3696,Willoughby Ave & Onderdonk Ave,5115,40.6630619,-73.9538746,40.7098,-73.91727,member
+26709,B4C7ED15A4AEF336,classic_bike,2022-02-26 22:04:35,2022-02-26 22:26:17,S 5 Pl & S 5 St,5125,Willoughby Ave & Onderdonk Ave,5115,40.710451,-73.960876,40.7098,-73.91727,member
+28453,5EF1D6BDBBDDF2B4,electric_bike,2022-02-01 19:40:35,2022-02-01 19:43:25,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+29227,8B0E812C2AB39B61,classic_bike,2022-02-12 02:12:28,2022-02-12 02:17:54,Onderdonk Ave & Gates Ave,4994,Onderdonk Ave & Dekalb Ave,5115,40.70413,-73.90737,40.70863,-73.91497,member
+29229,F1824E7F9FB999DE,classic_bike,2022-02-17 13:03:17,2022-02-17 13:08:54,Irving Ave & Harman St,4856,Onderdonk Ave & Dekalb Ave,5115,40.70108,-73.9179,40.70863,-73.91497,member
+29320,1A7873D3CFB7961E,electric_bike,2022-02-06 19:18:08,2022-02-06 19:24:25,Wilson Ave & Troutman St,4864,Onderdonk Ave & Dekalb Ave,5115,40.70166,-73.92754,40.70863,-73.91497,casual
+29354,97D451999EFFF994,classic_bike,2022-02-17 14:24:25,2022-02-17 14:36:11,Menahan St & Central Ave,4672,Onderdonk Ave & Dekalb Ave,5115,40.69543,-73.9196,40.70863,-73.91497,casual
+29678,5B630DF565DEAB31,electric_bike,2022-02-15 16:07:08,2022-02-15 16:11:34,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,casual
+30356,45F224D1983746D1,electric_bike,2022-02-18 15:51:07,2022-02-18 16:31:04,Willoughby Ave & Onderdonk Ave,5115,Front St & Washington St,4936,40.7098,-73.91727,40.70255088,-73.98940236,casual
+30765,6305C131E8BD91C3,classic_bike,2022-02-28 20:21:51,2022-02-28 20:27:34,Willoughby Ave & Onderdonk Ave,5115,Greene Ave & Grandview Ave,5106,40.7098,-73.91727,40.709697,-73.907856,member
+30766,102B3741313E2CD0,classic_bike,2022-02-16 23:20:03,2022-02-16 23:25:47,Willoughby Ave & Onderdonk Ave,5115,Greene Ave & Grandview Ave,5106,40.7098,-73.91727,40.709697,-73.907856,member
+41320,5AA0EA413046DB1E,electric_bike,2022-02-05 14:01:55,2022-02-05 14:13:01,Willoughby Ave & Onderdonk Ave,5115,Bushwick Ave & McKibbin St,5027,40.7098,-73.91727,40.705517,-73.93936,member
+45818,B59557ADDB0B6F06,electric_bike,2022-02-10 16:37:17,2022-02-10 17:03:52,Willoughby Ave & Onderdonk Ave,5115,Berkeley Pl & 7 Ave,4051,40.7098,-73.91727,40.675146838709786,-73.97523209452629,member
+54269,2006F78E9F413486,classic_bike,2022-02-26 16:56:13,2022-02-26 17:26:38,Berry St & N 8 St,5379,Willoughby Ave & Onderdonk Ave,5115,40.7190095,-73.95852515,40.7098,-73.91727,member
+54295,E6D22FF96783AD9B,electric_bike,2022-02-09 07:36:36,2022-02-09 07:36:54,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+54340,1926467AFDA424C3,electric_bike,2022-02-07 14:12:18,2022-02-07 14:37:55,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+54341,3F974A565484F741,electric_bike,2022-02-07 07:58:57,2022-02-07 08:11:19,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+54378,7285B7AF2B0BCEBD,electric_bike,2022-02-10 08:01:02,2022-02-10 08:14:35,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+54390,0B50C967EF0ABD17,electric_bike,2022-02-02 15:13:59,2022-02-02 15:38:43,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+54478,EB92B952D699EC9D,classic_bike,2022-02-08 12:16:22,2022-02-08 12:17:46,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.70863,-73.91497,40.7098,-73.91727,casual
+54604,62B394A73234F5FD,electric_bike,2022-02-28 23:09:05,2022-02-28 23:30:49,E 3 St & 1 Ave,5553,Willoughby Ave & Onderdonk Ave,5115,40.72467721,-73.98783413,40.7098,-73.91727,member
+54655,22E4B2F36A546B45,electric_bike,2022-02-26 01:35:34,2022-02-26 01:45:15,Harman St & Seneca Ave,5002,Willoughby Ave & Onderdonk Ave,5115,40.70577,-73.91292,40.7098,-73.91727,member
+54673,7DEFA43A90769E36,electric_bike,2022-02-15 16:55:13,2022-02-15 17:10:23,Graham Ave & Conselyea St,5291,Willoughby Ave & Onderdonk Ave,5115,40.715143,-73.944507,40.7098,-73.91727,member
+54678,EB1BC0FD95754FE7,electric_bike,2022-02-13 00:33:13,2022-02-13 00:37:24,Irving Ave & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.70538,-73.92535,40.7098,-73.91727,member
+54709,6E842624E9053618,electric_bike,2022-02-10 14:22:17,2022-02-10 14:36:55,Halsey St & Broadway,4366,Willoughby Ave & Onderdonk Ave,5115,40.68565,-73.91564,40.7098,-73.91727,casual
+54721,94A0B4E55380133A,classic_bike,2022-02-20 20:38:57,2022-02-20 20:44:59,Wyckoff Av & Stanhope St,4931,Willoughby Ave & Onderdonk Ave,5115,40.703545,-73.917775,40.7098,-73.91727,casual
+54907,FC2411104BB39201,electric_bike,2022-02-26 21:35:25,2022-02-26 21:52:36,Division Ave & Hooper St,5045,Willoughby Ave & Onderdonk Ave,5115,40.70684203101325,-73.9544353965357,40.7098,-73.91727,member
+54970,04230C993602B678,classic_bike,2022-02-20 22:46:22,2022-02-20 22:46:50,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55041,B7FC367536BC9473,classic_bike,2022-02-04 21:51:19,2022-02-04 21:55:49,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+55052,1F57AC8E35E70D1E,electric_bike,2022-02-17 16:35:10,2022-02-17 16:35:31,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55057,4A039CBB7A148623,classic_bike,2022-02-28 17:34:53,2022-02-28 17:39:33,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+55061,AB0F1130678881A5,classic_bike,2022-02-04 13:50:06,2022-02-04 13:55:32,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+55170,83EE0CDB94D877B7,electric_bike,2022-02-26 17:23:12,2022-02-26 17:28:57,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+55171,EDE938106233B104,electric_bike,2022-02-15 16:06:51,2022-02-15 16:13:13,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+55172,44556A07CC75598F,electric_bike,2022-02-19 17:57:35,2022-02-19 18:03:51,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+55216,BAADCDF2903A3738,electric_bike,2022-02-26 16:48:36,2022-02-26 17:08:54,N 11 St & Kent Ave,5489,Willoughby Ave & Onderdonk Ave,5115,40.72248188638219,-73.95921930670738,40.7098,-73.91727,member
+55236,3D176E1F0DC22753,docked_bike,2022-02-23 15:05:26,2022-02-23 15:14:11,Madison St & Woodward Ave,4954,Willoughby Ave & Onderdonk Ave,5115,40.70408,-73.90408,40.7098,-73.91727,casual
+55268,5FC319859F4F8C88,classic_bike,2022-02-22 09:46:39,2022-02-22 10:23:16,Columbia St & Kane St,4422,Willoughby Ave & Onderdonk Ave,5115,40.68763155,-74.0016256,40.7098,-73.91727,member
+55410,7D06792F723E94EB,electric_bike,2022-02-23 16:53:02,2022-02-23 16:54:33,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.70863,-73.91497,40.7098,-73.91727,member
+55412,A041C97C46EB7708,classic_bike,2022-02-11 22:52:38,2022-02-11 22:54:45,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.70863,-73.91497,40.7098,-73.91727,member
+55428,B7923610CC191F2C,electric_bike,2022-02-17 12:12:20,2022-02-17 12:12:21,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55429,D20010A8BCEBB97A,electric_bike,2022-02-11 16:42:39,2022-02-11 16:43:08,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55473,11F589E26A49042B,electric_bike,2022-02-11 08:04:39,2022-02-11 08:33:55,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55506,152B91DB4224E5E0,classic_bike,2022-02-10 11:19:42,2022-02-10 11:22:56,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,casual
+55558,245322ABB7D8526F,electric_bike,2022-02-18 15:09:45,2022-02-18 15:16:56,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+55673,4715E84B10802260,electric_bike,2022-02-08 02:29:12,2022-02-08 02:44:55,Devoe St & Lorimer St,5259,Willoughby Ave & Onderdonk Ave,5115,40.71335226222875,-73.9491033554077,40.7098,-73.91727,casual
+55892,0B0E9F5DA964162B,electric_bike,2022-02-23 12:45:40,2022-02-23 12:45:59,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55918,B8522E791B4B3186,electric_bike,2022-02-04 08:02:19,2022-02-04 08:16:37,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+55940,FBA3755A585F97FA,classic_bike,2022-02-09 14:59:39,2022-02-09 15:24:12,Nassau Ave & Russell St,5581,Willoughby Ave & Onderdonk Ave,5115,40.72557,-73.94434,40.7098,-73.91727,member
+56016,C7F5717A962B513A,electric_bike,2022-02-11 16:09:47,2022-02-11 16:16:28,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+56121,BBD053BFE0D24EDA,classic_bike,2022-02-10 11:13:49,2022-02-10 11:36:21,Bushwick Ave & Linden St,4600,Willoughby Ave & Onderdonk Ave,5115,40.69146,-73.92146,40.7098,-73.91727,casual
+56124,0818FEF73693E2A7,classic_bike,2022-02-10 11:14:09,2022-02-10 11:36:28,Bushwick Ave & Linden St,4600,Willoughby Ave & Onderdonk Ave,5115,40.69146,-73.92146,40.7098,-73.91727,casual
+56141,219EB3C81625BCF7,classic_bike,2022-02-27 00:22:41,2022-02-27 00:34:12,Central Ave & Flushing Ave,4947,Willoughby Ave & Onderdonk Ave,5115,40.702831,-73.9333,40.7098,-73.91727,casual
+56179,C13EA9075660B9E4,classic_bike,2022-02-13 01:21:45,2022-02-13 01:25:34,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+56236,1FF6EF926EB23985,electric_bike,2022-02-28 06:14:41,2022-02-28 06:22:42,Putnam Ave & Wyckoff Ave,4735,Willoughby Ave & Onderdonk Ave,5115,40.69811,-73.90904,40.7098,-73.91727,member
+56237,DE921DD7112FB394,electric_bike,2022-02-24 19:51:32,2022-02-24 19:56:35,Wyckoff Av & Stanhope St,4931,Willoughby Ave & Onderdonk Ave,5115,40.703545,-73.917775,40.7098,-73.91727,member
+56254,84E3A26E252C131A,electric_bike,2022-02-28 20:15:21,2022-02-28 20:24:00,Putnam Ave & Wyckoff Ave,4735,Willoughby Ave & Onderdonk Ave,5115,40.69811,-73.90904,40.7098,-73.91727,casual
+56293,56B53CB3E00E591F,electric_bike,2022-02-05 15:52:49,2022-02-05 15:57:46,Madison St & Woodward Ave,4954,Willoughby Ave & Onderdonk Ave,5115,40.70408,-73.90408,40.7098,-73.91727,casual
+56323,A8B158F76AC26712,electric_bike,2022-02-22 07:34:16,2022-02-22 07:54:07,Park Pl & Franklin Ave,4033,Willoughby Ave & Onderdonk Ave,5115,40.6741806,-73.9564947,40.7098,-73.91727,member
+56324,91E15E753BD4D1B5,electric_bike,2022-02-09 07:31:59,2022-02-09 07:50:42,Park Pl & Franklin Ave,4033,Willoughby Ave & Onderdonk Ave,5115,40.6741806,-73.9564947,40.7098,-73.91727,member
+56351,EC91FE59EF7F5AC1,classic_bike,2022-02-09 12:13:06,2022-02-09 12:45:44,Greene Ave & Throop Ave,4510,Willoughby Ave & Onderdonk Ave,5115,40.6894932,-73.942061,40.7098,-73.91727,casual
+61913,F56FE2E9A2F3AC65,electric_bike,2022-02-09 13:55:45,2022-02-09 14:01:48,Willoughby Ave & Onderdonk Ave,5115,Madison St & Forest Ave,5025,40.7098,-73.91727,40.70555,-73.90245,member
+64024,16E64D537E217A05,classic_bike,2022-02-09 22:12:27,2022-02-09 22:17:38,Willoughby Ave & Onderdonk Ave,5115,Greene Ave & Grandview Ave,5106,40.7098,-73.91727,40.709697,-73.907856,member
+64124,074EFF6145F92257,classic_bike,2022-02-26 22:26:49,2022-02-26 22:32:57,Willoughby Ave & Onderdonk Ave,5115,Greene Ave & Grandview Ave,5106,40.7098,-73.91727,40.709697,-73.907856,member
+64441,2BDE56CC5284E6A2,classic_bike,2022-02-19 10:18:13,2022-02-19 10:31:24,Forest Ave & Summerfield St,4798,Onderdonk Ave & Dekalb Ave,5115,40.69922,-73.89795,40.70863,-73.91497,casual
+64627,BE649317276A6E7C,electric_bike,2022-02-17 19:46:25,2022-02-17 19:52:06,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,member
+64645,BD2783FDE0123058,electric_bike,2022-02-05 19:15:15,2022-02-05 19:19:16,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+64701,3E0752F48DEF88BE,electric_bike,2022-02-17 13:54:34,2022-02-17 13:59:11,Madison St & Forest Ave,5025,Onderdonk Ave & Dekalb Ave,5115,40.70555,-73.90245,40.70863,-73.91497,member
+64705,404A8AF5AC934CDA,classic_bike,2022-02-19 10:18:52,2022-02-19 10:31:24,Forest Ave & Summerfield St,4798,Onderdonk Ave & Dekalb Ave,5115,40.69922,-73.89795,40.70863,-73.91497,member
+64731,B5BEF2A490D96ED4,electric_bike,2022-02-02 09:22:25,2022-02-02 09:32:56,Grove St & Broadway,4526,Onderdonk Ave & Dekalb Ave,5115,40.69047,-73.923511,40.70863,-73.91497,member
+65128,EE31F3884431C9F8,electric_bike,2022-02-23 08:17:08,2022-02-23 08:39:07,Onderdonk Ave & Dekalb Ave,5115,N 6 St & Bedford Ave,5379,40.70863,-73.91497,40.71745169,-73.95850939,member
+70238,F9A90F66186AA4CF,classic_bike,2022-02-08 07:31:13,2022-02-08 07:34:35,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,casual
+70239,D9A457B8E41BA6DC,classic_bike,2022-02-24 08:02:33,2022-02-24 08:05:03,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,member
+70242,71BE6ECC28DABBE7,electric_bike,2022-02-15 08:31:50,2022-02-15 13:41:38,Willoughby Ave & Onderdonk Ave,5115,,nan,40.7098,-73.91727,40.69,-73.94,casual
+70393,CA6F8AA71653EDA2,electric_bike,2022-02-02 13:44:20,2022-02-02 13:48:20,Onderdonk Ave & Dekalb Ave,5115,Hart St & Wyckoff Ave,4971,40.70863,-73.91497,40.704876,-73.919911,member
+70395,688442FEDF0CC8C0,classic_bike,2022-02-28 18:38:27,2022-02-28 19:09:02,Onderdonk Ave & Dekalb Ave,5115,Front St & Jay St,4895,40.70863,-73.91497,40.702461,-73.986842,member
+70509,FD49ABB0D8A035C0,electric_bike,2022-02-24 14:13:52,2022-02-24 14:21:00,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,member
+70551,8E4B57F257B859BC,classic_bike,2022-02-27 18:54:27,2022-02-27 18:57:24,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,member
+73057,415B0A531593433B,electric_bike,2022-02-09 16:34:25,2022-02-09 16:38:33,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73058,4DEFD5AD6287A9A8,electric_bike,2022-02-15 07:28:37,2022-02-15 07:30:21,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,casual
+73063,A219D2AA52B75FEF,electric_bike,2022-02-16 16:40:39,2022-02-16 16:48:05,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73065,D7A474380527CBF9,classic_bike,2022-02-22 07:29:32,2022-02-22 07:32:15,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,casual
+73084,933108FB2E23B541,classic_bike,2022-02-23 07:15:15,2022-02-23 07:17:34,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73085,394D69191029E5BE,classic_bike,2022-02-28 07:08:30,2022-02-28 07:10:45,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73086,11563E9DBD4516B1,classic_bike,2022-02-20 13:33:25,2022-02-20 13:35:49,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73087,0722BBC1F653A690,classic_bike,2022-02-24 07:18:59,2022-02-24 07:21:10,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73092,216779619E8ACC5C,electric_bike,2022-02-01 07:32:11,2022-02-01 07:35:19,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73093,E94A8EBC883EC739,electric_bike,2022-02-25 14:25:55,2022-02-25 14:30:20,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73094,71A582BCE4F8228D,classic_bike,2022-02-22 07:16:46,2022-02-22 07:18:46,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73095,5101EE031E2AD29D,electric_bike,2022-02-09 07:22:03,2022-02-09 07:24:17,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73096,E05BBED5A49347BE,electric_bike,2022-02-03 07:10:00,2022-02-03 07:12:13,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73314,42622152B85F9B5A,electric_bike,2022-02-21 07:40:37,2022-02-21 07:42:52,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73497,C502F234134BBA74,electric_bike,2022-02-28 09:34:21,2022-02-28 10:08:06,Willoughby Ave & Onderdonk Ave,5115,W 17 St & 8 Ave,6148,40.7098,-73.91727,40.74177603,-74.00149746,member
+73617,81E738B578679455,classic_bike,2022-02-09 14:30:26,2022-02-09 14:36:28,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+73618,8B4C2167C330D01F,electric_bike,2022-02-28 14:36:13,2022-02-28 14:41:35,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+75345,5B5A475BA75979EB,classic_bike,2022-02-10 07:34:20,2022-02-10 07:37:11,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+75396,5F56FF29EABC3C30,classic_bike,2022-02-12 15:22:45,2022-02-12 15:24:57,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+79385,E391359596CC279B,electric_bike,2022-02-21 16:24:20,2022-02-21 16:54:37,Willoughby Ave & Onderdonk Ave,5115,S 5 Pl & S 5 St,5125,40.7098,-73.91727,40.710451,-73.960876,casual
+79640,A9AF5F99D5857D04,electric_bike,2022-02-21 16:24:29,2022-02-21 16:54:33,Willoughby Ave & Onderdonk Ave,5115,S 5 Pl & S 5 St,5125,40.7098,-73.91727,40.710451,-73.960876,casual
+82242,B9B8966331CE1D2F,electric_bike,2022-02-06 12:24:32,2022-02-06 12:45:34,Willoughby Ave & Onderdonk Ave,5115,Devoe St & Morgan Ave,5282,40.7098,-73.91727,40.713811,-73.93515,member
+95184,73B5594AECF29633,electric_bike,2022-02-14 21:38:46,2022-02-14 21:46:55,Onderdonk Ave & Dekalb Ave,5115,Bushwick Ave & Dekalb Ave,4680,40.70863,-73.91497,40.69502,-73.92825,member
+95185,60F1FC2B972506C0,classic_bike,2022-02-19 22:04:14,2022-02-19 22:12:28,Onderdonk Ave & Dekalb Ave,5115,Bushwick Ave & Dekalb Ave,4680,40.70863,-73.91497,40.69502,-73.92825,member
+96939,2CB137E85D825354,electric_bike,2022-02-08 15:31:00,2022-02-08 15:38:49,Onderdonk Ave & Gates Ave,4994,Willoughby Ave & Onderdonk Ave,5115,40.70413,-73.90737,40.7098,-73.91727,member
+96958,A8B2B85B01D74F4B,electric_bike,2022-02-14 07:21:51,2022-02-14 07:22:12,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,casual
+97101,1CFB2934F483F588,electric_bike,2022-02-10 07:24:49,2022-02-10 07:45:27,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97111,DA03DE9FA7A1B18E,electric_bike,2022-02-14 07:31:11,2022-02-14 07:52:59,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97112,A21EC2A1354620D7,electric_bike,2022-02-18 07:37:22,2022-02-18 07:58:36,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97113,684313D338C6EB77,electric_bike,2022-02-23 07:37:03,2022-02-23 07:55:15,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97132,A49687D97070EBE2,electric_bike,2022-02-11 07:28:54,2022-02-11 07:49:22,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97133,E2BC704C8C0C15A9,electric_bike,2022-02-17 07:37:20,2022-02-17 07:57:15,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97134,7399A3BEA4C45339,electric_bike,2022-02-28 07:44:00,2022-02-28 08:02:00,Franklin Ave & St Marks Ave,4107,Willoughby Ave & Onderdonk Ave,5115,40.6758324,-73.9561677,40.7098,-73.91727,member
+97265,E15FA499C0223E27,electric_bike,2022-02-11 10:12:44,2022-02-11 10:33:31,Cambridge Pl & Gates Ave,4377,Willoughby Ave & Onderdonk Ave,5115,40.68488,-73.96304,40.7098,-73.91727,casual
+97326,1E68002FBA563DDF,electric_bike,2022-02-22 23:04:32,2022-02-22 23:09:09,Stewart Ave & Johnson Ave,5123,Willoughby Ave & Onderdonk Ave,5115,40.70869,-73.92587,40.7098,-73.91727,member
+97357,44735083276A7AEE,classic_bike,2022-02-17 08:31:42,2022-02-17 09:07:45,Rogers Ave & Sterling St,3696,Willoughby Ave & Onderdonk Ave,5115,40.6630619,-73.9538746,40.7098,-73.91727,member
+97420,92787863E2277126,electric_bike,2022-02-15 07:39:56,2022-02-15 07:58:56,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97421,F3457FCDFC39A8D4,electric_bike,2022-02-16 07:36:25,2022-02-16 07:57:09,Classon Ave & St Marks Ave,4074,Willoughby Ave & Onderdonk Ave,5115,40.6765198,-73.9596082,40.7098,-73.91727,member
+97454,2887BEE8DCDD9340,electric_bike,2022-02-08 07:28:22,2022-02-08 07:46:45,Lafayette Ave & Classon Ave,4452,Willoughby Ave & Onderdonk Ave,5115,40.68900443,-73.96023854,40.7098,-73.91727,member
+97497,6D78C7478889F292,electric_bike,2022-02-17 13:49:32,2022-02-17 14:02:13,Forest Ave & Summerfield St,4798,Willoughby Ave & Onderdonk Ave,5115,40.69922,-73.89795,40.7098,-73.91727,member
+97540,B5B611AD4D988E02,electric_bike,2022-02-16 15:23:35,2022-02-16 15:31:00,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+97794,DA823116F579D21C,electric_bike,2022-02-18 08:52:35,2022-02-18 08:56:28,Wyckoff Av & Stanhope St,4931,Willoughby Ave & Onderdonk Ave,5115,40.703545,-73.917775,40.7098,-73.91727,member
+98072,A5AC7424A276C6F4,electric_bike,2022-02-17 10:51:08,2022-02-17 10:56:37,Forest Ave & Summerfield St,4798,Willoughby Ave & Onderdonk Ave,5115,40.69922,-73.89795,40.7098,-73.91727,member
+98417,2EFE7D7183372D97,electric_bike,2022-02-06 13:25:48,2022-02-06 13:33:45,Putnam Ave & Wyckoff Ave,4735,Willoughby Ave & Onderdonk Ave,5115,40.69811,-73.90904,40.7098,-73.91727,casual
+98429,59BEFED6CC1FE4AE,classic_bike,2022-02-19 11:18:05,2022-02-19 11:29:22,Putnam Ave & Wyckoff Ave,4735,Willoughby Ave & Onderdonk Ave,5115,40.69811,-73.90904,40.7098,-73.91727,casual
+98518,C1EDDB8B199278B3,classic_bike,2022-02-08 10:03:17,2022-02-08 10:08:37,Greene Ave & Grandview Ave,5106,Willoughby Ave & Onderdonk Ave,5115,40.709697,-73.907856,40.7098,-73.91727,member
+99695,7D6C358E9966CE41,classic_bike,2022-02-12 16:40:35,2022-02-12 17:32:38,Willoughby Ave & Onderdonk Ave,5115,Allen St & Stanton St,5484,40.7098,-73.91727,40.722055,-73.989111,casual
+100008,C391322B4A7D6A58,classic_bike,2022-02-12 14:34:26,2022-02-12 14:37:51,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+100145,AA4639CB84F36915,classic_bike,2022-02-09 05:41:04,2022-02-09 05:47:11,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+100160,CA91545D36002EAB,electric_bike,2022-02-13 18:44:43,2022-02-13 19:02:01,Pulaski St & Marcus Garvey Blvd,4656,Willoughby Ave & Onderdonk Ave,5115,40.6933982,-73.939877,40.7098,-73.91727,member
+100161,EF53D6A84EC372EA,electric_bike,2022-02-23 19:36:01,2022-02-23 20:08:41,8 Ave & W 16 St,6072,Willoughby Ave & Onderdonk Ave,5115,40.740983,-74.001702,40.7098,-73.91727,member
+100237,6683494BAE05F756,electric_bike,2022-02-04 06:37:19,2022-02-04 06:40:37,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+100239,F32D46386A0882DF,electric_bike,2022-02-17 05:14:42,2022-02-17 05:17:40,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+100240,3FF664A6E7679341,electric_bike,2022-02-11 07:45:18,2022-02-11 07:48:32,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+100350,185E637ABA2DC7AE,electric_bike,2022-02-23 18:04:41,2022-02-23 18:07:19,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+100423,1C62C7DE0ADD1D3E,electric_bike,2022-02-10 23:04:55,2022-02-10 23:09:52,Madison St & Forest Ave,5025,Onderdonk Ave & Dekalb Ave,5115,40.70555,-73.90245,40.70863,-73.91497,casual
+100496,681372BC3BB256F6,electric_bike,2022-02-14 07:08:34,2022-02-14 07:11:54,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+100656,1E1CA813551CB2B4,electric_bike,2022-02-24 16:18:41,2022-02-24 16:44:32,Delancey St & Eldridge St,5414,Onderdonk Ave & Dekalb Ave,5115,40.719383,-73.991479,40.70863,-73.91497,casual
+101003,1820CB3895331030,electric_bike,2022-02-12 12:47:33,2022-02-12 12:52:27,Onderdonk Ave & Dekalb Ave,5115,Madison St & Woodward Ave,4954,40.70863,-73.91497,40.70408,-73.90408,member
+101942,C5077326DABBF6EA,classic_bike,2022-02-05 15:59:48,2022-02-05 16:28:08,Onderdonk Ave & Dekalb Ave,5115,DeKalb Ave & Hudson Ave,4513,40.70863,-73.91497,40.689888,-73.981013,member
+102981,1BC12755038895E0,electric_bike,2022-02-03 07:22:11,2022-02-03 07:24:41,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,casual
+102982,5E0D23C933785E5B,electric_bike,2022-02-28 07:53:39,2022-02-28 07:55:27,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+102983,C7308AC1B53143E2,electric_bike,2022-02-07 07:47:56,2022-02-07 07:49:42,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,casual
+103005,0AD0AF3F08CE03B1,classic_bike,2022-02-07 07:13:27,2022-02-07 07:15:49,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+103202,AB8BDA1CA150A13B,classic_bike,2022-02-20 20:40:29,2022-02-20 20:47:34,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+103908,02FC4D2A38B9773D,electric_bike,2022-02-14 16:37:18,2022-02-14 16:40:13,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+103913,DFD1ACD3A5AE161E,electric_bike,2022-02-25 18:34:32,2022-02-25 18:36:35,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+103914,467A627B223BB280,classic_bike,2022-02-12 13:12:07,2022-02-12 13:14:15,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+103915,B4CE8A7C55BA0790,electric_bike,2022-02-23 07:52:17,2022-02-23 07:54:01,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+103916,8C9912A4B0B0CA67,classic_bike,2022-02-22 07:31:51,2022-02-22 07:34:09,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+105609,482C2497AE55BDD7,electric_bike,2022-02-28 13:53:53,2022-02-28 14:02:38,Onderdonk Ave & Dekalb Ave,5115,Myrtle Ave & Grove St,4816,40.70863,-73.91497,40.69905,-73.91516,casual
+108312,89E5A7A057D8D83E,electric_bike,2022-02-23 09:16:07,2022-02-23 09:56:14,Onderdonk Ave & Dekalb Ave,5115,8 Ave & W 27 St,6297,40.70863,-73.91497,40.747968,-73.996637,casual
+110646,D9B2CD5AD45FD93A,electric_bike,2022-02-28 16:40:07,2022-02-28 17:01:54,Willoughby Ave & Onderdonk Ave,5115,Fulton St & Adams St,4637,40.7098,-73.91727,40.69241829257847,-73.98949474096298,member
+110892,49CE3359E6E8A4FD,electric_bike,2022-02-17 08:03:46,2022-02-17 08:28:46,Onderdonk Ave & Dekalb Ave,5115,Fulton St & Adams St,4637,40.70863,-73.91497,40.69241829257847,-73.98949474096298,member
+115791,20D41780B3BBA0EC,classic_bike,2022-02-02 07:35:36,2022-02-02 07:39:23,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,member
+115835,3886B7C437889051,electric_bike,2022-02-04 09:16:20,2022-02-04 09:19:39,Willoughby Ave & Onderdonk Ave,5115,Hart St & Wyckoff Ave,4971,40.7098,-73.91727,40.704876,-73.919911,member
+119451,596B77CC7CA154CB,electric_bike,2022-02-25 20:43:05,2022-02-25 20:49:53,Onderdonk Ave & Dekalb Ave,5115,Bushwick Ave & Dekalb Ave,4680,40.70863,-73.91497,40.69502,-73.92825,member
+119891,95D18CE93EC995B6,electric_bike,2022-02-28 12:17:19,2022-02-28 12:19:43,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+119894,12EE49D18D75BA65,classic_bike,2022-02-24 06:43:14,2022-02-24 06:45:42,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+119895,AEAA7E024D5CF562,electric_bike,2022-02-23 14:04:48,2022-02-23 14:07:18,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+119896,90840FF793302E49,classic_bike,2022-02-01 18:38:30,2022-02-01 18:42:29,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+119902,5D3267E7321DE02D,electric_bike,2022-02-23 08:18:28,2022-02-23 08:21:27,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,casual
+119906,E93B70319AEA6AF5,electric_bike,2022-02-14 21:34:06,2022-02-14 21:37:02,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,member
+119910,B190BE5AFE7E90A6,classic_bike,2022-02-03 08:30:56,2022-02-03 08:35:11,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.70863,-73.91497,40.705614,-73.92153,casual
+120767,280670D7D16821BF,electric_bike,2022-02-09 07:52:12,2022-02-09 07:56:40,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+120770,CA6AD5B4A5EE828D,electric_bike,2022-02-20 11:47:12,2022-02-20 11:49:11,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+120773,65DE97FA7146F77E,classic_bike,2022-02-10 07:28:22,2022-02-10 07:30:54,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,member
+121401,1AB3E4804C4374E8,electric_bike,2022-02-04 06:52:39,2022-02-04 06:55:14,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Wyckoff Ave,5010,40.7098,-73.91727,40.705614,-73.92153,casual
+123364,08BF0AA1AE5F24B1,classic_bike,2022-02-17 13:50:06,2022-02-17 14:06:44,Willoughby Ave & Onderdonk Ave,5115,Frost St & Meeker Ave,5371,40.7098,-73.91727,40.71766197083994,-73.94880026578903,member
+123366,2A3DD12A40AA502F,electric_bike,2022-02-07 21:05:23,2022-02-07 21:24:36,Willoughby Ave & Onderdonk Ave,5115,Frost St & Meeker Ave,5371,40.7098,-73.91727,40.71766197083994,-73.94880026578903,member
+126605,5F4ABB9EB102E7E6,electric_bike,2022-02-11 16:26:37,2022-02-11 16:51:56,Onderdonk Ave & Dekalb Ave,5115,Lewis Ave & Madison St,4425,40.70863,-73.91497,40.686312,-73.935775,member
+129097,0F7BAC0220BEBC3C,electric_bike,2022-02-15 16:40:51,2022-02-15 17:02:39,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+132235,5D31DED3D986978E,electric_bike,2022-02-17 16:35:44,2022-02-17 16:54:35,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+132236,6C8BE98C50B524D5,electric_bike,2022-02-09 16:36:45,2022-02-09 16:58:08,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+137510,10728FEA0143F346,electric_bike,2022-02-09 18:16:46,2022-02-09 18:28:54,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Broadway,4689,40.7098,-73.91727,40.69544,-73.93223,member
+144656,1C67BBB0314AFC1E,electric_bike,2022-02-21 12:12:30,2022-02-21 12:22:11,Onderdonk Ave & Dekalb Ave,5115,Centre St & Seneca Ave,4837,40.70863,-73.91497,40.69969,-73.9022,member
+145711,06799D6C06EC063D,classic_bike,2022-02-18 07:50:58,2022-02-18 08:15:48,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Vandervoort Ave,5241,40.70863,-73.91497,40.71429,-73.93323,member
+145746,81C9C5CB2220F515,electric_bike,2022-02-08 17:10:58,2022-02-08 17:17:59,Willoughby Ave & Onderdonk Ave,5115,Madison St & Seneca Ave,4880,40.7098,-73.91727,40.70183,-73.90625,casual
+146891,16F21005832C1747,electric_bike,2022-02-22 10:11:35,2022-02-22 10:16:53,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Vandervoort Ave,5241,40.70863,-73.91497,40.71429,-73.93323,casual
+147207,F34B7A481FDD878A,classic_bike,2022-02-19 13:30:14,2022-02-19 13:39:09,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Vandervoort Ave,5241,40.70863,-73.91497,40.71429,-73.93323,member
+147329,4B7F13811F78A24E,electric_bike,2022-02-27 05:51:47,2022-02-27 06:37:14,Willoughby Ave & Onderdonk Ave,5115,W 24 St & 7 Ave,6257,40.7098,-73.91727,40.74487634,-73.99529885,casual
+147811,BD09F974EE854666,electric_bike,2022-02-23 17:33:34,2022-02-23 17:39:41,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Vandervoort Ave,5241,40.70863,-73.91497,40.71429,-73.93323,member
+148635,C94C702EDE09B058,classic_bike,2022-02-14 07:23:08,2022-02-14 07:26:09,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,casual
+148727,A76EEBF69F55D50B,electric_bike,2022-02-22 23:09:58,2022-02-22 23:11:35,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,member
+148732,A378BE89ACE0536F,electric_bike,2022-02-22 19:18:59,2022-02-22 19:21:58,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+148734,41212B08FF6602B6,classic_bike,2022-02-12 20:24:24,2022-02-12 20:28:17,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+148884,A8B16B516706B56F,electric_bike,2022-02-25 08:26:37,2022-02-25 08:35:31,Grove St & Broadway,4526,Onderdonk Ave & Dekalb Ave,5115,40.69047,-73.923511,40.70863,-73.91497,member
+148885,168E132E8D5C643A,classic_bike,2022-02-24 21:48:29,2022-02-24 21:57:41,Onderdonk Ave & Dekalb Ave,5115,Grove St & Broadway,4526,40.70863,-73.91497,40.69047,-73.923511,member
+148886,FDB3296D062C180C,electric_bike,2022-02-23 09:32:59,2022-02-23 09:42:06,Grove St & Broadway,4526,Onderdonk Ave & Dekalb Ave,5115,40.69047,-73.923511,40.70863,-73.91497,member
+148974,4B12C4BF7D8FBD37,electric_bike,2022-02-20 12:12:24,2022-02-20 12:16:34,Wyckoff Av & Jefferson St,5051,Onderdonk Ave & Dekalb Ave,5115,40.707165,-73.923711,40.70863,-73.91497,member
+149077,8FB1A102C842C94D,classic_bike,2022-02-11 20:05:12,2022-02-11 20:12:54,Stanhope St & Fairview Ave,5146,Onderdonk Ave & Dekalb Ave,5115,40.70998,-73.91116,40.70863,-73.91497,member
+152558,37C0886A33EC151E,electric_bike,2022-02-12 01:51:02,2022-02-12 02:01:18,Onderdonk Ave & Dekalb Ave,5115,Jefferson Ave & Evergreen Ave,4517,40.70863,-73.91497,40.68989,-73.91458,member
+153266,FEE932C5BE97E615,electric_bike,2022-02-15 19:49:23,2022-02-15 19:54:57,Willoughby Ave & Onderdonk Ave,5115,Cedar St & Myrtle Ave,4751,40.7098,-73.91727,40.697842,-73.926241,member
+159034,A48CA089FCCF390C,electric_bike,2022-02-11 13:14:30,2022-02-11 13:39:23,Onderdonk Ave & Dekalb Ave,5115,Devoe St & Lorimer St,5259,40.70863,-73.91497,40.71335226222875,-73.9491033554077,casual
+164409,38F5C11A79E39A8A,electric_bike,2022-02-08 13:13:06,2022-02-08 13:18:29,Central Ave & Flushing Ave,4947,Willoughby Ave & Onderdonk Ave,5115,40.702831,-73.9333,40.7098,-73.91727,member
+164412,A57AB2A2CACE7C44,electric_bike,2022-02-10 14:24:22,2022-02-10 14:34:20,Willoughby Ave & Tompkins Ave,4665,Willoughby Ave & Onderdonk Ave,5115,40.69425403,-73.94626915,40.7098,-73.91727,member
+164422,B19371632C9FB0A9,electric_bike,2022-02-09 14:23:59,2022-02-09 14:33:45,Willoughby Ave & Tompkins Ave,4665,Willoughby Ave & Onderdonk Ave,5115,40.69425403,-73.94626915,40.7098,-73.91727,member
+164432,0E107ABDF914E703,electric_bike,2022-02-03 14:26:45,2022-02-03 14:36:38,Willoughby Ave & Tompkins Ave,4665,Willoughby Ave & Onderdonk Ave,5115,40.69425403,-73.94626915,40.7098,-73.91727,member
+164491,BD6A7CBCB8AB5A6A,electric_bike,2022-02-09 20:36:43,2022-02-09 20:42:45,Central Ave & Flushing Ave,4947,Willoughby Ave & Onderdonk Ave,5115,40.702831,-73.9333,40.7098,-73.91727,member
+164493,667E26B84D5A9505,classic_bike,2022-02-10 09:55:33,2022-02-10 10:00:07,Greene Ave & Grandview Ave,5106,Willoughby Ave & Onderdonk Ave,5115,40.709697,-73.907856,40.7098,-73.91727,member
+164582,9070454F5ACDD3F0,electric_bike,2022-02-07 17:05:18,2022-02-07 17:10:14,Madison St & Woodward Ave,4954,Willoughby Ave & Onderdonk Ave,5115,40.70408,-73.90408,40.7098,-73.91727,member
+164603,9F0C849B780053EB,electric_bike,2022-02-15 10:29:20,2022-02-15 10:32:24,Stanhope St & Fairview Ave,5146,Willoughby Ave & Onderdonk Ave,5115,40.70998,-73.91116,40.7098,-73.91727,member
+164629,370FA5F9BCB9EB64,classic_bike,2022-02-28 16:51:39,2022-02-28 16:57:20,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164630,1717AC936E675199,classic_bike,2022-02-16 15:32:37,2022-02-16 15:37:42,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164631,F200FC67F0083273,electric_bike,2022-02-07 07:28:26,2022-02-07 07:51:30,Pacific St & Classon Ave,4148,Willoughby Ave & Onderdonk Ave,5115,40.6791944,-73.9587903,40.7098,-73.91727,member
+164632,E0EB89044AAD27B1,classic_bike,2022-02-20 16:02:26,2022-02-20 16:06:19,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164638,7BFFF806B14BD418,electric_bike,2022-02-06 19:35:32,2022-02-06 19:37:15,Onderdonk Ave & Dekalb Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.70863,-73.91497,40.7098,-73.91727,member
+164641,CFE0EFC195C72E1E,classic_bike,2022-02-23 09:04:21,2022-02-23 09:21:27,Union Ave & Jackson St,5300,Willoughby Ave & Onderdonk Ave,5115,40.7160751,-73.952029,40.7098,-73.91727,casual
+164677,5C0C44ADE4016AF7,electric_bike,2022-02-04 14:42:52,2022-02-04 14:45:42,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164681,3165B6199F95C170,electric_bike,2022-02-21 07:55:02,2022-02-21 07:57:40,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164689,0E819D21FBBC168D,electric_bike,2022-02-28 14:30:02,2022-02-28 14:34:54,Madison St & Woodward Ave,4954,Willoughby Ave & Onderdonk Ave,5115,40.70408,-73.90408,40.7098,-73.91727,member
+164709,0EFD08E32E9D20F9,electric_bike,2022-02-22 23:39:46,2022-02-22 23:44:32,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164710,0F64213D74AD0366,electric_bike,2022-02-22 18:01:16,2022-02-22 18:05:58,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164711,DA118887816F3CC1,electric_bike,2022-02-02 17:45:35,2022-02-02 17:51:50,Wyckoff Av & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.707165,-73.923711,40.7098,-73.91727,member
+164798,3E9A29143958CF64,electric_bike,2022-02-18 14:56:43,2022-02-18 15:03:35,Myrtle Ave & Lewis Ave,4729,Willoughby Ave & Onderdonk Ave,5115,40.69681963,-73.93756926,40.7098,-73.91727,member
+164862,FBCA25B412C56637,classic_bike,2022-02-19 16:41:50,2022-02-19 16:44:50,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164863,25966B02B6A8960A,electric_bike,2022-02-22 16:11:17,2022-02-22 16:13:37,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164864,8060EA5787F831D0,electric_bike,2022-02-04 09:49:26,2022-02-04 09:51:29,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,casual
+164866,DE6BAC5019550F8D,classic_bike,2022-02-26 13:09:45,2022-02-26 13:12:43,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164873,D82AFBF31C0240CC,classic_bike,2022-02-11 08:14:25,2022-02-11 08:17:29,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164874,A0282E30E097A750,classic_bike,2022-02-11 08:06:09,2022-02-11 08:08:36,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164877,44B58E25403520C6,classic_bike,2022-02-12 19:53:48,2022-02-12 19:57:35,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164882,48B7061F560D36A1,classic_bike,2022-02-15 17:28:23,2022-02-15 17:35:07,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+164925,2F4065B1F1A59E3B,electric_bike,2022-02-17 16:09:00,2022-02-17 16:29:34,Devoe St & Lorimer St,5259,Willoughby Ave & Onderdonk Ave,5115,40.71335226222875,-73.9491033554077,40.7098,-73.91727,casual
+165012,55F9C79A84D7DA51,electric_bike,2022-02-11 12:34:31,2022-02-11 13:08:13,St Johns Pl & Washington Ave,4001,Willoughby Ave & Onderdonk Ave,5115,40.6737236,-73.9631611,40.7098,-73.91727,member
+165133,C907683CE18A8B00,electric_bike,2022-02-17 19:28:18,2022-02-17 19:29:04,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,member
+165199,46DB05ADD4E5EC49,electric_bike,2022-02-03 11:13:35,2022-02-03 11:33:31,N 6 St & Bedford Ave,5379,Willoughby Ave & Onderdonk Ave,5115,40.71745169,-73.95850939,40.7098,-73.91727,casual
+165302,ADEDD9DD1F42BA4F,electric_bike,2022-02-09 18:06:27,2022-02-09 18:11:25,Jefferson St & Cypress Ave,5082,Willoughby Ave & Onderdonk Ave,5115,40.70907,-73.92157,40.7098,-73.91727,member
+165311,8FC603D52A133AEB,electric_bike,2022-02-23 18:41:29,2022-02-23 18:46:06,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165315,A909F0B648A9D4A1,electric_bike,2022-02-23 14:41:48,2022-02-23 14:47:09,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165317,8759E31754FD20E8,electric_bike,2022-02-03 16:35:45,2022-02-03 16:38:55,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165318,051892CA04D8EB68,electric_bike,2022-02-23 14:28:13,2022-02-23 14:30:41,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165319,188086948D6D1CAF,electric_bike,2022-02-28 15:41:53,2022-02-28 15:44:41,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165320,A51AB12C200C0792,electric_bike,2022-02-24 14:55:39,2022-02-24 14:58:25,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+165457,1D943F316C2B6B4C,electric_bike,2022-02-14 09:53:50,2022-02-14 09:54:17,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,casual
+165461,160D31E4B281E25D,electric_bike,2022-02-12 17:27:40,2022-02-12 17:28:40,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Onderdonk Ave,5115,40.7098,-73.91727,40.7098,-73.91727,casual
+165511,23EEB6D4DABF766E,classic_bike,2022-02-21 12:45:28,2022-02-21 12:49:56,Menahan St & Seneca Ave,4963,Willoughby Ave & Onderdonk Ave,5115,40.70461,-73.91054,40.7098,-73.91727,member
+165571,BA850486F1477729,electric_bike,2022-02-01 18:31:15,2022-02-01 18:41:56,Beaver St & Fayette St,4840,Willoughby Ave & Onderdonk Ave,5115,40.70099,-73.93921,40.7098,-73.91727,member
+165684,6707958580CC92F7,classic_bike,2022-02-26 12:16:47,2022-02-26 12:21:09,Irving Ave & Jefferson St,5051,Willoughby Ave & Onderdonk Ave,5115,40.70538,-73.92535,40.7098,-73.91727,member
+165987,5803D9DFAD3E849C,electric_bike,2022-02-01 18:21:40,2022-02-01 18:24:13,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+166836,A03A375F2223F66A,electric_bike,2022-02-28 18:38:29,2022-02-28 18:41:23,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+173991,987942F5B4C3A3D6,electric_bike,2022-02-22 23:12:00,2022-02-22 23:16:45,Onderdonk Ave & Dekalb Ave,5115,Madison St & Forest Ave,5025,40.70863,-73.91497,40.70555,-73.90245,member
+174221,83575B6DE9170877,electric_bike,2022-02-17 09:31:22,2022-02-17 09:38:39,Willoughby Ave & Onderdonk Ave,5115,Forest Ave & Summerfield St,4798,40.7098,-73.91727,40.69922,-73.89795,member
+174223,67E4AFB8629B323B,electric_bike,2022-02-28 18:47:00,2022-02-28 18:52:44,Willoughby Ave & Onderdonk Ave,5115,Madison St & Forest Ave,5025,40.7098,-73.91727,40.70555,-73.90245,member
+175527,979F3AAED60501A4,electric_bike,2022-02-17 19:53:34,2022-02-17 20:01:40,Onderdonk Ave & Dekalb Ave,5115,Forest Ave & Summerfield St,4798,40.70863,-73.91497,40.69922,-73.89795,member
+175542,CE7E78A2D9D45542,electric_bike,2022-02-19 09:45:58,2022-02-19 09:56:32,Onderdonk Ave & Dekalb Ave,5115,Forest Ave & Summerfield St,4798,40.70863,-73.91497,40.69922,-73.89795,casual
+175827,F7C6690D31FF1B57,electric_bike,2022-02-19 09:45:09,2022-02-19 09:56:24,Onderdonk Ave & Dekalb Ave,5115,Forest Ave & Summerfield St,4798,40.70863,-73.91497,40.69922,-73.89795,member
+180582,6B67BBF09D86B4DC,electric_bike,2022-02-11 22:55:16,2022-02-11 23:04:00,Willoughby Ave & Onderdonk Ave,5115,Driggs Ave & N Henry St,5542,40.7098,-73.91727,40.72325,-73.94308,member
+181497,2912A976F6EAA9B1,classic_bike,2022-02-17 16:15:46,2022-02-17 16:28:45,Onderdonk Ave & Dekalb Ave,5115,Bushwick Ave & Linden St,4600,40.70863,-73.91497,40.69146,-73.92146,casual
+181951,EC331D638C90A807,electric_bike,2022-02-15 14:16:12,2022-02-15 14:28:07,Willoughby Ave & Onderdonk Ave,5115,Driggs Ave & N Henry St,5542,40.7098,-73.91727,40.72325,-73.94308,casual
+191365,346C3597DB51BFC7,electric_bike,2022-02-08 12:18:33,2022-02-08 12:25:09,Willoughby Ave & Onderdonk Ave,5115,Knickerbocker Ave & Thames St,5018,40.7098,-73.91727,40.70539,-73.92976,casual
+204608,D2CAC47617B46E7B,classic_bike,2022-02-11 20:13:54,2022-02-11 20:35:56,Onderdonk Ave & Dekalb Ave,5115,Grand St & Havemeyer St,5267,40.70863,-73.91497,40.71286844,-73.95698119,member
+205013,8E220E8C513CB02C,electric_bike,2022-02-11 20:13:45,2022-02-11 20:36:04,Onderdonk Ave & Dekalb Ave,5115,Grand St & Havemeyer St,5267,40.70863,-73.91497,40.71286844,-73.95698119,member
+206282,A9AD19A56A239AB9,classic_bike,2022-02-17 14:00:30,2022-02-17 14:06:21,Onderdonk Ave & Dekalb Ave,5115,Greene Av & Myrtle Av,4784,40.70863,-73.91497,40.698568,-73.918877,member
+211858,229FE7EB3D6CFBD3,electric_bike,2022-02-12 13:56:20,2022-02-12 14:40:09,Onderdonk Ave & Dekalb Ave,5115,Harman St & Seneca Ave,5002,40.70863,-73.91497,40.70577,-73.91292,member
+212616,16FE0DFC24C7A606,electric_bike,2022-02-22 20:00:01,2022-02-22 20:01:48,Onderdonk Ave & Dekalb Ave,5115,Harman St & Seneca Ave,5002,40.70863,-73.91497,40.70577,-73.91292,member
+212998,1F985733FF6CE4D8,electric_bike,2022-02-23 12:48:02,2022-02-23 12:54:48,Willoughby Ave & Onderdonk Ave,5115,Bushwick Ave & Stagg St,5140,40.7098,-73.91727,40.709897,-73.94008,member
+213002,08B4B9BF554098D3,electric_bike,2022-02-09 08:01:06,2022-02-09 08:20:12,Willoughby Ave & Onderdonk Ave,5115,Graham Ave & Conselyea St,5291,40.7098,-73.91727,40.715143,-73.944507,member
+218171,B4454BB6BD8158FC,electric_bike,2022-02-25 10:37:39,2022-02-25 11:09:01,Onderdonk Ave & Dekalb Ave,5115,Greenpoint Ave & Manhattan Ave,5785,40.70863,-73.91497,40.73026,-73.95394,member
+225500,479C4A08927ABE64,classic_bike,2022-02-21 09:23:04,2022-02-21 09:27:29,Onderdonk Ave & Dekalb Ave,5115,Onderdonk Ave & Gates Ave,4994,40.70863,-73.91497,40.70413,-73.90737,member
+226653,209F1B66CBACF3D4,electric_bike,2022-02-25 15:42:15,2022-02-25 15:47:17,Onderdonk Ave & Dekalb Ave,5115,Irving Ave & Harman St,4856,40.70863,-73.91497,40.70108,-73.9179,member
+226933,2DCFF282015ABAEF,classic_bike,2022-02-10 18:47:05,2022-02-10 19:01:32,Onderdonk Ave & Dekalb Ave,5115,Irving Ave & Harman St,4856,40.70863,-73.91497,40.70108,-73.9179,casual
+227284,1B5C9D59ACCB8E44,classic_bike,2022-02-25 15:42:05,2022-02-25 15:47:13,Onderdonk Ave & Dekalb Ave,5115,Irving Ave & Harman St,4856,40.70863,-73.91497,40.70108,-73.9179,member
+227592,2B003C1054888349,electric_bike,2022-02-24 19:15:34,2022-02-24 19:23:38,Willoughby Ave & Onderdonk Ave,5115,Irving Ave & Harman St,4856,40.7098,-73.91727,40.70108,-73.9179,member
+238582,5ED803A73DA9BB77,classic_bike,2022-02-28 18:32:44,2022-02-28 18:47:26,Willoughby Ave & Onderdonk Ave,5115,Sharon St & Olive St,5323,40.7098,-73.91727,40.715353,-73.93856,member
+247463,16517731B7673F28,classic_bike,2022-02-12 18:14:40,2022-02-12 18:51:40,Willoughby Ave & Onderdonk Ave,5115,E 11 St & Avenue B,5659,40.7098,-73.91727,40.72746420692392,-73.97950418293476,member
+249032,06C0B5FEBC462EC0,electric_bike,2022-02-10 22:26:20,2022-02-10 22:30:36,Onderdonk Ave & Dekalb Ave,5115,Madison St & Cypress Ave,4807,40.70863,-73.91497,40.70068,-73.90742,casual
+250145,47B27D93DB5573DA,electric_bike,2022-02-11 14:16:42,2022-02-11 14:24:26,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+250216,279E77F4916141C6,electric_bike,2022-02-15 14:09:28,2022-02-15 14:15:33,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+250218,46ABBC7DA2C9A1EF,electric_bike,2022-02-06 09:10:53,2022-02-06 09:16:44,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+251408,32F3466B0AE85E09,electric_bike,2022-02-23 15:17:46,2022-02-23 15:22:56,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+251409,828C388F79F3E71E,electric_bike,2022-02-24 15:45:41,2022-02-24 15:51:59,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+252330,90E48E8534B30B34,electric_bike,2022-02-26 15:44:25,2022-02-26 15:50:45,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+252331,2305F4A949C54050,electric_bike,2022-02-25 15:38:01,2022-02-25 15:44:07,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+283668,ED55096CB37118D2,classic_bike,2022-02-26 14:00:52,2022-02-26 14:23:26,Willoughby Ave & Onderdonk Ave,5115,N 6 St & Bedford Ave,5379,40.7098,-73.91727,40.71745169,-73.95850939,member
+286384,FDBC9E3427530FCD,electric_bike,2022-02-26 16:52:48,2022-02-26 17:25:02,Onderdonk Ave & Dekalb Ave,5115,14 St & 5 Ave,3771,40.70863,-73.91497,40.666287,-73.98895053,casual
+290655,DB565ABA00C9F4C4,electric_bike,2022-02-27 10:27:01,2022-02-27 10:32:58,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,member
+290656,9F347A9D5D6AF7A5,classic_bike,2022-02-10 14:13:25,2022-02-10 14:41:01,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,member
+290657,144006F7F72690B8,electric_bike,2022-02-18 08:05:08,2022-02-18 08:22:12,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Stanhope St,4931,40.7098,-73.91727,40.703545,-73.917775,member
+290659,FF6010E52ED890E3,electric_bike,2022-02-01 16:46:24,2022-02-01 16:49:57,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Stanhope St,4931,40.7098,-73.91727,40.703545,-73.917775,casual
+291924,22F733728464823F,electric_bike,2022-02-11 09:08:34,2022-02-11 09:44:54,Onderdonk Ave & Dekalb Ave,5115,W 27 St & 7 Ave,6247,40.70863,-73.91497,40.746647,-73.993915,member
+292589,C98381E86D72B263,electric_bike,2022-02-28 10:08:03,2022-02-28 10:14:19,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,member
+292601,98F89BD79BEFBE47,electric_bike,2022-02-09 18:21:35,2022-02-09 18:25:22,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Stanhope St,4931,40.7098,-73.91727,40.703545,-73.917775,member
+301514,057D121E8CE43DCF,classic_bike,2022-02-23 00:09:58,2022-02-23 00:18:22,Bushwick Ave & Dekalb Ave,4680,Onderdonk Ave & Dekalb Ave,5115,40.69502,-73.92825,40.70863,-73.91497,member
+301692,6894FDE737B6C816,classic_bike,2022-02-26 13:00:43,2022-02-26 13:05:18,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+301725,D8D4DFEE79129DF2,classic_bike,2022-02-20 05:38:33,2022-02-20 05:44:38,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+301805,259C5BF7831CFEA5,electric_bike,2022-02-08 07:06:14,2022-02-08 07:08:54,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+301807,346497F2998887D4,electric_bike,2022-02-14 12:04:17,2022-02-14 12:28:50,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,casual
+301850,0892294A8F220404,electric_bike,2022-02-02 17:27:50,2022-02-02 17:31:51,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+301851,744970748BAE8209,classic_bike,2022-02-16 11:48:33,2022-02-16 11:51:47,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+301930,A1DCF68288F4CDBA,electric_bike,2022-02-17 21:28:37,2022-02-17 22:04:15,Onderdonk Ave & Dekalb Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.70863,-73.91497,40.70863,-73.91497,casual
+302084,5BF0BA86B9BE3F2F,classic_bike,2022-02-28 07:18:33,2022-02-28 07:21:52,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302085,22E045C0065D52AC,classic_bike,2022-02-16 07:23:49,2022-02-16 07:26:56,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302089,1168F26869F9272B,electric_bike,2022-02-16 22:01:53,2022-02-16 22:05:11,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302090,E230106D1EF6227D,electric_bike,2022-02-03 15:33:15,2022-02-03 15:36:48,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302091,5BCF4292F2EBC12F,classic_bike,2022-02-02 17:54:00,2022-02-02 17:58:08,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302092,8953D53D6B7698CF,electric_bike,2022-02-22 15:06:20,2022-02-22 15:09:40,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302094,211AB51AA6CC6C8C,electric_bike,2022-02-02 07:08:22,2022-02-02 07:11:59,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302154,F72DF972B0C4D49F,classic_bike,2022-02-14 19:35:00,2022-02-14 19:40:50,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Av & Jefferson St,5051,40.70863,-73.91497,40.707165,-73.923711,member
+302213,64AF3C19086795A1,electric_bike,2022-02-12 12:03:23,2022-02-12 12:06:49,Wyckoff Av & Jefferson St,5051,Onderdonk Ave & Dekalb Ave,5115,40.707165,-73.923711,40.70863,-73.91497,member
+302231,5444824E8E15C480,electric_bike,2022-02-16 19:18:14,2022-02-16 19:26:00,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Av & Jefferson St,5051,40.70863,-73.91497,40.707165,-73.923711,casual
+302323,350D2CFC8D303595,electric_bike,2022-02-27 07:25:22,2022-02-27 07:26:28,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,member
+302344,F05330F23966B5B2,classic_bike,2022-02-25 18:41:38,2022-02-25 18:44:57,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302347,AD161196F7E5E0D8,classic_bike,2022-02-14 12:03:41,2022-02-14 12:05:05,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,member
+302348,660D57F38F22942E,classic_bike,2022-02-02 18:07:16,2022-02-02 18:11:06,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302349,B5CF9FB9AD6E3338,classic_bike,2022-02-21 17:49:18,2022-02-21 18:12:54,Willoughby Ave & Onderdonk Ave,5115,Onderdonk Ave & Dekalb Ave,5115,40.7098,-73.91727,40.70863,-73.91497,casual
+302366,86D576D6A36D30E0,electric_bike,2022-02-18 21:57:56,2022-02-18 22:00:29,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+302391,62A11E59EB93CAB1,electric_bike,2022-02-08 18:20:36,2022-02-08 18:39:03,Stanhope St & Fairview Ave,5146,Onderdonk Ave & Dekalb Ave,5115,40.70998,-73.91116,40.70863,-73.91497,casual
+302580,86AFFD17F694C1B9,electric_bike,2022-02-25 16:36:30,2022-02-25 16:55:25,Lafayette Ave & Classon Ave,4452,Onderdonk Ave & Dekalb Ave,5115,40.68900443,-73.96023854,40.70863,-73.91497,member
+302693,9FF58C257880F5CA,electric_bike,2022-02-10 15:28:36,2022-02-10 15:33:38,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302702,44195260660F5877,electric_bike,2022-02-26 15:31:00,2022-02-26 15:40:25,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Av & Jefferson St,5051,40.7098,-73.91727,40.707165,-73.923711,member
+302848,54FFC778FEA775AC,classic_bike,2022-02-11 19:53:37,2022-02-11 20:04:27,Central Ave & Starr Street,4792,Onderdonk Ave & Dekalb Ave,5115,40.700003,-73.92834,40.70863,-73.91497,member
+302858,55411324C7B4C937,electric_bike,2022-02-22 22:57:39,2022-02-22 23:01:09,Madison St & Woodward Ave,4954,Onderdonk Ave & Dekalb Ave,5115,40.70408,-73.90408,40.70863,-73.91497,casual
+302859,55D191FD7290D471,electric_bike,2022-02-12 00:33:14,2022-02-12 00:37:31,Madison St & Woodward Ave,4954,Onderdonk Ave & Dekalb Ave,5115,40.70408,-73.90408,40.70863,-73.91497,casual
+303058,30623B9CFD5E9DC1,electric_bike,2022-02-15 22:57:53,2022-02-15 23:02:26,Madison St & Forest Ave,5025,Onderdonk Ave & Dekalb Ave,5115,40.70555,-73.90245,40.70863,-73.91497,casual
+303245,C1AB2687742CCD49,electric_bike,2022-02-21 11:43:33,2022-02-21 12:11:30,Pike St & Monroe St,5159,Onderdonk Ave & Dekalb Ave,5115,40.71173107,-73.99193043,40.70863,-73.91497,member
+303302,C5B52E1DE3EF731C,classic_bike,2022-02-21 01:39:44,2022-02-21 01:48:18,Bushwick Ave & Dekalb Ave,4680,Onderdonk Ave & Dekalb Ave,5115,40.69502,-73.92825,40.70863,-73.91497,member
+303456,609737EA8C33CB51,electric_bike,2022-02-12 10:38:03,2022-02-12 10:48:00,Morgan Ave & Maspeth Ave,5354,Onderdonk Ave & Dekalb Ave,5115,40.716657,-73.93637,40.70863,-73.91497,member
+303576,A99B454A36037A9F,classic_bike,2022-02-13 07:37:49,2022-02-13 07:42:36,Hart St & Wyckoff Ave,4971,Onderdonk Ave & Dekalb Ave,5115,40.704876,-73.919911,40.70863,-73.91497,member
+303635,EFBEFDD6287B8D2E,electric_bike,2022-02-07 13:47:29,2022-02-07 13:51:33,Jefferson St & Cypress Ave,5082,Onderdonk Ave & Dekalb Ave,5115,40.70907,-73.92157,40.70863,-73.91497,member
+303687,2840A34CA9B1782F,electric_bike,2022-02-19 04:36:51,2022-02-19 04:53:41,Monroe St & Classon Ave,4336,Onderdonk Ave & Dekalb Ave,5115,40.6845683,-73.95881081,40.70863,-73.91497,casual
+303692,E387B74AE160595A,electric_bike,2022-02-23 08:49:37,2022-02-23 08:53:26,Greene Ave & Grandview Ave,5106,Onderdonk Ave & Dekalb Ave,5115,40.709697,-73.907856,40.70863,-73.91497,casual
+303721,F6F6DE471A91E500,electric_bike,2022-02-24 23:27:07,2022-02-24 23:31:21,Madison St & Woodward Ave,4954,Onderdonk Ave & Dekalb Ave,5115,40.70408,-73.90408,40.70863,-73.91497,casual
+303734,058CC46E568CC98D,electric_bike,2022-02-14 17:21:13,2022-02-14 17:24:34,Wyckoff Av & Stanhope St,4931,Onderdonk Ave & Dekalb Ave,5115,40.703545,-73.917775,40.70863,-73.91497,member
+303752,D1EAA0B051060A6C,electric_bike,2022-02-10 18:12:11,2022-02-10 18:53:51,W 27 St & 7 Ave,6247,Onderdonk Ave & Dekalb Ave,5115,40.746647,-73.993915,40.70863,-73.91497,member
+303790,622CC1D288BB80AE,electric_bike,2022-02-11 13:51:18,2022-02-11 14:10:22,Devoe St & Lorimer St,5259,Onderdonk Ave & Dekalb Ave,5115,40.71335226222875,-73.9491033554077,40.70863,-73.91497,casual
+303793,D08C14D0FA319614,classic_bike,2022-02-25 10:28:13,2022-02-25 10:35:40,Madison St & Woodward Ave,4954,Onderdonk Ave & Dekalb Ave,5115,40.70408,-73.90408,40.70863,-73.91497,member
+303830,5581E5D0713173A9,electric_bike,2022-02-16 23:47:45,2022-02-16 23:50:32,Jefferson St & Cypress Ave,5082,Onderdonk Ave & Dekalb Ave,5115,40.70907,-73.92157,40.70863,-73.91497,member
+303941,1CFC4AA0FB8338EC,electric_bike,2022-02-18 21:36:37,2022-02-18 21:46:13,Metropolitan Ave & Vandervoort Ave,5241,Onderdonk Ave & Dekalb Ave,5115,40.71429,-73.93323,40.70863,-73.91497,member
+304153,CD956C1C46C3005C,docked_bike,2022-02-26 14:01:31,2022-02-26 14:39:14,E 14 St & 1 Ave,5779,Onderdonk Ave & Dekalb Ave,5115,40.731393,-73.982867,40.70863,-73.91497,casual
+304201,5A1C211632C96822,classic_bike,2022-02-03 04:33:40,2022-02-03 04:40:45,Willoughby Ave & Wyckoff Ave,5010,Onderdonk Ave & Dekalb Ave,5115,40.705614,-73.92153,40.70863,-73.91497,member
+304371,250D202EDA853BB9,classic_bike,2022-02-18 15:58:48,2022-02-18 16:02:11,Hart St & Wyckoff Ave,4971,Onderdonk Ave & Dekalb Ave,5115,40.704876,-73.919911,40.70863,-73.91497,member
+304541,4FB6AB8B2AD9E5B3,classic_bike,2022-02-11 08:23:44,2022-02-11 08:27:25,Willoughby Ave & Wyckoff Ave,5010,Onderdonk Ave & Dekalb Ave,5115,40.705614,-73.92153,40.70863,-73.91497,member
+304542,98D8B0F0402F3CD5,classic_bike,2022-02-11 08:36:11,2022-02-11 08:39:55,Willoughby Ave & Wyckoff Ave,5010,Onderdonk Ave & Dekalb Ave,5115,40.705614,-73.92153,40.70863,-73.91497,member
+304594,95A78912796E430D,electric_bike,2022-02-06 09:08:22,2022-02-06 09:17:10,Willoughby Ave & Wyckoff Ave,5010,Onderdonk Ave & Dekalb Ave,5115,40.705614,-73.92153,40.70863,-73.91497,member
+304685,D367362823B7A936,electric_bike,2022-02-11 18:28:10,2022-02-11 18:31:46,Hart St & Wyckoff Ave,4971,Onderdonk Ave & Dekalb Ave,5115,40.704876,-73.919911,40.70863,-73.91497,member
+304771,07440AAABD028326,electric_bike,2022-02-06 08:35:14,2022-02-06 08:46:59,Frost St & Debevoise Ave,5433,Onderdonk Ave & Dekalb Ave,5115,40.71882,-73.93948,40.70863,-73.91497,member
+304828,73B05374CF67ABB2,classic_bike,2022-02-27 20:54:38,2022-02-27 21:08:49,Metropolitan Ave & Meeker Ave,5300,Onderdonk Ave & Dekalb Ave,5115,40.71413311,-73.95234386,40.70863,-73.91497,member
+304907,9F659408131C2AF6,electric_bike,2022-02-22 18:30:56,2022-02-22 18:34:24,Hart St & Wyckoff Ave,4971,Onderdonk Ave & Dekalb Ave,5115,40.704876,-73.919911,40.70863,-73.91497,casual
+304958,85F6B8C4495E04A1,electric_bike,2022-02-05 20:02:26,2022-02-05 20:10:25,Irving Ave & Jefferson St,5051,Onderdonk Ave & Dekalb Ave,5115,40.70538,-73.92535,40.70863,-73.91497,member
+305013,93232762DE51D612,electric_bike,2022-02-26 13:13:10,2022-02-26 13:25:36,Flushing Ave & Woodward Ave,5225,Onderdonk Ave & Dekalb Ave,5115,40.71246,-73.91873,40.70863,-73.91497,casual
+305024,838239EC0C55834A,electric_bike,2022-02-06 19:25:09,2022-02-06 19:27:59,Flushing Ave & Woodward Ave,5225,Onderdonk Ave & Dekalb Ave,5115,40.71246,-73.91873,40.70863,-73.91497,member
+305025,79BAA8B095197037,classic_bike,2022-02-08 17:10:48,2022-02-08 17:15:09,Flushing Ave & Woodward Ave,5225,Onderdonk Ave & Dekalb Ave,5115,40.71246,-73.91873,40.70863,-73.91497,member
+305053,6393BBD44D2B0C9F,electric_bike,2022-02-25 06:20:12,2022-02-25 06:25:35,Willoughby Ave & Wyckoff Ave,5010,Onderdonk Ave & Dekalb Ave,5115,40.705614,-73.92153,40.70863,-73.91497,member
+305102,DECA4D85AC40ADEA,electric_bike,2022-02-17 17:24:29,2022-02-17 17:49:57,Lawrence St & Willoughby St,4596,Onderdonk Ave & Dekalb Ave,5115,40.69236178,-73.98631746,40.70863,-73.91497,member
+305140,A147A4BAB5C62167,electric_bike,2022-02-19 13:58:31,2022-02-19 14:06:18,Devoe St & Morgan Ave,5282,Onderdonk Ave & Dekalb Ave,5115,40.713811,-73.93515,40.70863,-73.91497,member
+305216,744A9A85C5648996,electric_bike,2022-02-17 16:36:14,2022-02-17 17:05:58,Lawrence St & Willoughby St,4596,Onderdonk Ave & Dekalb Ave,5115,40.69236178,-73.98631746,40.70863,-73.91497,member
+305519,83CB91627703372C,electric_bike,2022-02-16 19:33:01,2022-02-16 19:42:27,Bushwick Ave & Powers St,5250,Onderdonk Ave & Dekalb Ave,5115,40.71247661,-73.94100005,40.70863,-73.91497,casual
+306369,74A7C970AD4E8DB2,electric_bike,2022-02-16 00:19:18,2022-02-16 00:30:04,Broadway & Kosciuszko St,4608,Onderdonk Ave & Dekalb Ave,5115,40.69329,-73.92852,40.70863,-73.91497,member
+306477,D5CD06B3BE64F8C9,classic_bike,2022-02-16 17:13:02,2022-02-16 17:25:28,Knickerbocker Ave & Cooper St,4582,Onderdonk Ave & Dekalb Ave,5115,40.69081,-73.90448,40.70863,-73.91497,member
+306510,16A76C96F15BA929,electric_bike,2022-02-17 12:31:26,2022-02-17 12:38:46,White St & Johnson Ave,5099,Onderdonk Ave & Dekalb Ave,5115,40.707174,-73.93581,40.70863,-73.91497,casual
+306761,09F8C8FD60A3D00B,electric_bike,2022-02-21 12:32:36,2022-02-21 12:40:30,Centre St & Seneca Ave,4837,Onderdonk Ave & Dekalb Ave,5115,40.69969,-73.9022,40.70863,-73.91497,member
+318470,A99FAA870C73F25F,classic_bike,2022-02-10 15:35:19,2022-02-10 15:40:58,Willoughby Ave & Onderdonk Ave,5115,Madison St & Cypress Ave,4807,40.7098,-73.91727,40.70068,-73.90742,member
+341191,05BEE3A007556396,electric_bike,2022-02-10 17:43:45,2022-02-10 17:50:40,Madison St & Seneca Ave,4880,Willoughby Ave & Onderdonk Ave,5115,40.70183,-73.90625,40.7098,-73.91727,member
+341211,645A27D65DF1AA7F,electric_bike,2022-02-23 15:05:23,2022-02-23 15:14:16,Madison St & Woodward Ave,4954,Willoughby Ave & Onderdonk Ave,5115,40.70408,-73.90408,40.7098,-73.91727,member
+341224,FFDD73FAF1C9013A,electric_bike,2022-02-08 13:58:33,2022-02-08 14:03:44,Onderdonk Ave & Gates Ave,4994,Willoughby Ave & Onderdonk Ave,5115,40.70413,-73.90737,40.7098,-73.91727,member
+341332,4888AABFC77594BE,electric_bike,2022-02-23 16:56:03,2022-02-23 17:02:43,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+341337,13C40914C4414E28,electric_bike,2022-02-06 10:36:52,2022-02-06 10:43:11,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+341338,C34731AED4C27B22,electric_bike,2022-02-09 16:59:05,2022-02-09 17:05:57,Madison St & Cypress Ave,4807,Willoughby Ave & Onderdonk Ave,5115,40.70068,-73.90742,40.7098,-73.91727,member
+341443,D06B7EB8AAED2490,electric_bike,2022-02-06 17:07:00,2022-02-06 17:10:59,Menahan St & Seneca Ave,4963,Willoughby Ave & Onderdonk Ave,5115,40.70461,-73.91054,40.7098,-73.91727,member
+341640,347030E30746CD5C,electric_bike,2022-02-25 22:05:48,2022-02-25 22:15:06,Hancock St & Wyckoff Ave,4735,Willoughby Ave & Onderdonk Ave,5115,40.6972,-73.90674,40.7098,-73.91727,casual
+341718,DC4F6B199756FD84,electric_bike,2022-02-24 07:41:47,2022-02-24 08:01:09,Park Pl & Franklin Ave,4033,Willoughby Ave & Onderdonk Ave,5115,40.6741806,-73.9564947,40.7098,-73.91727,member
+341762,43D1FB5D6863F26D,electric_bike,2022-02-08 16:05:47,2022-02-08 16:09:08,Suydam St & St. Nicholas Ave,5043,Willoughby Ave & Onderdonk Ave,5115,40.70636,-73.91945,40.7098,-73.91727,member
+341799,F04038E56D975D98,classic_bike,2022-02-27 11:00:41,2022-02-27 11:05:49,Greene Ave & Grandview Ave,5106,Willoughby Ave & Onderdonk Ave,5115,40.709697,-73.907856,40.7098,-73.91727,member
+341905,E5940BB8CD8C0CDB,electric_bike,2022-02-07 14:27:14,2022-02-07 14:37:47,Myrtle Ave & Marcy Ave,4707,Willoughby Ave & Onderdonk Ave,5115,40.69539817,-73.94954908,40.7098,-73.91727,member
+341950,6DDB99B0CC099EE4,electric_bike,2022-02-04 21:36:12,2022-02-04 21:55:03,Stagg St & Morgan Ave,5170,Willoughby Ave & Onderdonk Ave,5115,40.710681,-73.93372,40.7098,-73.91727,member
+341995,3840F43A0AA1E9CF,electric_bike,2022-02-01 16:08:35,2022-02-01 16:11:08,Suydam St & St. Nicholas Ave,5043,Willoughby Ave & Onderdonk Ave,5115,40.70636,-73.91945,40.7098,-73.91727,casual
+341996,39926FD48635931C,electric_bike,2022-02-18 18:43:26,2022-02-18 18:47:06,Suydam St & St. Nicholas Ave,5043,Willoughby Ave & Onderdonk Ave,5115,40.70636,-73.91945,40.7098,-73.91727,member
+342097,2011062141F98F6C,classic_bike,2022-02-19 14:06:41,2022-02-19 14:40:43,Cumberland St & Lafayette Ave,4428,Willoughby Ave & Onderdonk Ave,5115,40.68753406,-73.97265183,40.7098,-73.91727,casual
+342121,A45956A408CAD3F2,electric_bike,2022-02-16 17:16:52,2022-02-16 17:44:43,Crescent St & Broadway,6827,Willoughby Ave & Onderdonk Ave,5115,40.7633589,-73.9286471,40.7098,-73.91727,casual
+342135,A19CEF79BD3B6363,electric_bike,2022-02-19 16:09:39,2022-02-19 16:30:25,Kent St & McGuinness Blvd,5785,Willoughby Ave & Onderdonk Ave,5115,40.73124,-73.95161,40.7098,-73.91727,casual
+342252,A0FA8D8310169456,classic_bike,2022-02-21 12:55:37,2022-02-21 13:08:37,Knickerbocker Ave & Halsey St,4623,Willoughby Ave & Onderdonk Ave,5115,40.693,-73.90824,40.7098,-73.91727,member
+342256,85663478957CB419,electric_bike,2022-02-20 18:17:33,2022-02-20 18:42:54,Madison St & Seneca Ave,4880,Willoughby Ave & Onderdonk Ave,5115,40.70183,-73.90625,40.7098,-73.91727,member
+342296,0D1018E2F523B22C,classic_bike,2022-02-20 12:08:12,2022-02-20 12:30:25,Wythe Ave & Metropolitan Ave,5348,Willoughby Ave & Onderdonk Ave,5115,40.716887,-73.963198,40.7098,-73.91727,member
+342336,00B018D36A379FD3,electric_bike,2022-02-15 09:49:29,2022-02-15 09:53:30,Hart St & Wyckoff Ave,4971,Willoughby Ave & Onderdonk Ave,5115,40.704876,-73.919911,40.7098,-73.91727,member
+342387,F05DCE1197B2E662,classic_bike,2022-02-08 15:54:40,2022-02-08 16:06:16,White St & Moore St,4987,Willoughby Ave & Onderdonk Ave,5115,40.704508,-73.9351,40.7098,-73.91727,member
+342458,27120474FABAAA4E,classic_bike,2022-02-18 19:26:09,2022-02-18 19:39:11,Richardson St & N Henry St,5433,Willoughby Ave & Onderdonk Ave,5115,40.71907891179564,-73.94223690032959,40.7098,-73.91727,member
+342483,0C599C538E4EE984,classic_bike,2022-02-19 14:12:55,2022-02-19 14:41:06,Clermont Ave & Lafayette Ave,4461,Willoughby Ave & Onderdonk Ave,5115,40.68764484,-73.96968902,40.7098,-73.91727,casual
+342490,D6B7CC86BAD72D99,electric_bike,2022-02-27 13:51:12,2022-02-27 13:58:44,Stephen St & Seneca Ave,4798,Willoughby Ave & Onderdonk Ave,5115,40.6988,-73.9007,40.7098,-73.91727,casual
+342563,1D3D9D6FA41AEAC6,electric_bike,2022-02-04 09:43:31,2022-02-04 09:46:42,Hart St & Wyckoff Ave,4971,Willoughby Ave & Onderdonk Ave,5115,40.704876,-73.919911,40.7098,-73.91727,member
+342661,53A8AF99500EA97D,electric_bike,2022-02-21 13:09:12,2022-02-21 13:12:59,Hart St & Wyckoff Ave,4971,Willoughby Ave & Onderdonk Ave,5115,40.704876,-73.919911,40.7098,-73.91727,member
+342697,0FE60C071447105D,electric_bike,2022-02-12 22:10:35,2022-02-12 22:17:20,Stagg St & Morgan Ave,5170,Willoughby Ave & Onderdonk Ave,5115,40.710681,-73.93372,40.7098,-73.91727,member
+342842,E0D97BD4659A5FA9,classic_bike,2022-02-02 08:30:57,2022-02-02 08:35:24,Hart St & Wyckoff Ave,4971,Willoughby Ave & Onderdonk Ave,5115,40.704876,-73.919911,40.7098,-73.91727,member
+342857,8EA5C333EBEDBC9B,electric_bike,2022-02-12 17:20:26,2022-02-12 17:23:00,Flushing Ave & Woodward Ave,5225,Willoughby Ave & Onderdonk Ave,5115,40.71246,-73.91873,40.7098,-73.91727,casual
+342917,36A78E8468FA0D3E,classic_bike,2022-02-27 12:48:02,2022-02-27 12:53:25,Menahan St & Seneca Ave,4963,Willoughby Ave & Onderdonk Ave,5115,40.70461,-73.91054,40.7098,-73.91727,member
+342924,DEA0F89DCBF4885E,electric_bike,2022-02-25 21:11:08,2022-02-25 21:18:05,Devoe St & Morgan Ave,5282,Willoughby Ave & Onderdonk Ave,5115,40.713811,-73.93515,40.7098,-73.91727,member
+343012,26832BC566D343F4,electric_bike,2022-02-27 19:28:56,2022-02-27 19:35:43,Devoe St & Morgan Ave,5282,Willoughby Ave & Onderdonk Ave,5115,40.713811,-73.93515,40.7098,-73.91727,member
+343013,057E7F681ECA7B54,electric_bike,2022-02-28 14:09:26,2022-02-28 14:27:01,Devoe St & Morgan Ave,5282,Willoughby Ave & Onderdonk Ave,5115,40.713811,-73.93515,40.7098,-73.91727,member
+343057,208D55B1D6B95BA4,classic_bike,2022-02-09 14:40:56,2022-02-09 14:44:44,Jefferson St & Cypress Ave,5082,Willoughby Ave & Onderdonk Ave,5115,40.70907,-73.92157,40.7098,-73.91727,member
+343151,52136B46CEE993FB,electric_bike,2022-02-25 17:22:04,2022-02-25 17:28:40,Madison St & Seneca Ave,4880,Willoughby Ave & Onderdonk Ave,5115,40.70183,-73.90625,40.7098,-73.91727,member
+343177,F40C380F89AC5408,classic_bike,2022-02-23 17:57:56,2022-02-23 18:00:32,Willoughby Ave & Wyckoff Ave,5010,Willoughby Ave & Onderdonk Ave,5115,40.705614,-73.92153,40.7098,-73.91727,member
+343189,B1A86D893FCD187B,electric_bike,2022-02-14 06:49:10,2022-02-14 06:55:29,Suydam St & Knickerbocker Ave,4939,Willoughby Ave & Onderdonk Ave,5115,40.702013,-73.923769,40.7098,-73.91727,casual
+343193,D7DDD03115E26FCC,classic_bike,2022-02-08 10:50:19,2022-02-08 10:55:18,Menahan St & Seneca Ave,4963,Willoughby Ave & Onderdonk Ave,5115,40.70461,-73.91054,40.7098,-73.91727,member
+343243,C5A2A526E22EBF61,classic_bike,2022-02-10 10:47:48,2022-02-10 10:58:26,Devoe St & Morgan Ave,5282,Willoughby Ave & Onderdonk Ave,5115,40.713811,-73.93515,40.7098,-73.91727,member
+343356,70B8690D48693EBB,electric_bike,2022-02-24 18:38:33,2022-02-24 18:53:51,Madison St & Seneca Ave,4880,Willoughby Ave & Onderdonk Ave,5115,40.70183,-73.90625,40.7098,-73.91727,member
+343357,6DA86B7E632C49E9,classic_bike,2022-02-17 17:52:40,2022-02-17 17:59:48,Madison St & Seneca Ave,4880,Willoughby Ave & Onderdonk Ave,5115,40.70183,-73.90625,40.7098,-73.91727,member
+343578,66F3F8E66675EB08,electric_bike,2022-02-16 12:37:16,2022-02-16 12:48:40,Stagg St & Union Ave,5117,Willoughby Ave & Onderdonk Ave,5115,40.70877084,-73.95095259,40.7098,-73.91727,member
+343686,B150ED3499649E1D,classic_bike,2022-02-10 12:35:01,2022-02-10 12:48:48,Stagg St & Union Ave,5117,Willoughby Ave & Onderdonk Ave,5115,40.70877084,-73.95095259,40.7098,-73.91727,member
+344460,F85D551BB6C35C17,electric_bike,2022-02-11 14:51:41,2022-02-11 15:00:03,McKibbin St & Manhattan Ave,4996,Willoughby Ave & Onderdonk Ave,5115,40.70510918,-73.94407279,40.7098,-73.91727,member
+344817,868FB0AA75A85F1D,classic_bike,2022-02-11 07:56:31,2022-02-11 08:00:53,Irving Ave & DeKalb Ave,4898,Willoughby Ave & Onderdonk Ave,5115,40.7027,-73.92095,40.7098,-73.91727,member
+344830,40CDD376B78C2D1F,classic_bike,2022-02-21 08:15:22,2022-02-21 08:18:11,Woodward Ave & Harman St,5074,Willoughby Ave & Onderdonk Ave,5115,40.70793,-73.91092,40.7098,-73.91727,member
+344868,7AD07023A8336622,electric_bike,2022-02-22 10:45:15,2022-02-22 10:47:46,Woodward Ave & Harman St,5074,Willoughby Ave & Onderdonk Ave,5115,40.70793,-73.91092,40.7098,-73.91727,member
+344869,A9411FFD74C950B6,electric_bike,2022-02-28 09:11:44,2022-02-28 09:14:01,Woodward Ave & Harman St,5074,Willoughby Ave & Onderdonk Ave,5115,40.70793,-73.91092,40.7098,-73.91727,member
+344870,9C02EBA67343A614,classic_bike,2022-02-14 08:42:40,2022-02-14 08:45:23,Woodward Ave & Harman St,5074,Willoughby Ave & Onderdonk Ave,5115,40.70793,-73.91092,40.7098,-73.91727,member
+345101,2DB490F76E12254B,electric_bike,2022-02-20 19:58:44,2022-02-20 20:22:04,Franklin Ave & Myrtle Ave,4715,Willoughby Ave & Onderdonk Ave,5115,40.694546087246025,-73.95801365375519,40.7098,-73.91727,casual
+345134,ED15F6479B2113B4,electric_bike,2022-02-27 13:04:40,2022-02-27 13:09:07,Onderdonk Ave & Dekalb Ave,5115,Fairview Ave & Linden St,5066,40.70863,-73.91497,40.70694,-73.90632,member
+345137,8DA5B84D556666D2,electric_bike,2022-02-19 14:23:09,2022-02-19 14:46:56,Onderdonk Ave & Dekalb Ave,5115,DeKalb Ave & Hudson Ave,4513,40.70863,-73.91497,40.689888,-73.981013,member
+391893,B33D7667B56B0BEF,classic_bike,2022-02-12 17:29:49,2022-02-12 17:44:32,Willoughby Ave & Onderdonk Ave,5115,Broadway & Madison St,4483,40.7098,-73.91727,40.68822,-73.91966,casual
+409398,4FE3CBD830474829,electric_bike,2022-02-11 10:31:01,2022-02-11 10:56:54,Willoughby Ave & Onderdonk Ave,5115,Devoe St & Morgan Ave,5282,40.7098,-73.91727,40.713811,-73.93515,member
+409399,F092E73E90420B3F,electric_bike,2022-02-02 08:03:47,2022-02-02 08:25:09,Willoughby Ave & Onderdonk Ave,5115,Bushwick Ave & Powers St,5250,40.7098,-73.91727,40.71247661,-73.94100005,member
+409775,0821001B56183236,electric_bike,2022-02-08 08:01:46,2022-02-08 08:21:36,Willoughby Ave & Onderdonk Ave,5115,Bushwick Ave & Powers St,5250,40.7098,-73.91727,40.71247661,-73.94100005,member
+409845,3D1CAFCE4D0CDA65,electric_bike,2022-02-27 15:50:10,2022-02-27 15:59:26,Willoughby Ave & Onderdonk Ave,5115,Devoe St & Morgan Ave,5282,40.7098,-73.91727,40.713811,-73.93515,member
+409906,39F0D849B3A25E5E,electric_bike,2022-02-18 09:36:20,2022-02-18 09:43:37,Willoughby Ave & Onderdonk Ave,5115,Devoe St & Morgan Ave,5282,40.7098,-73.91727,40.713811,-73.93515,member
+417699,917BD7BE9167004B,classic_bike,2022-02-13 18:57:49,2022-02-13 19:05:29,Onderdonk Ave & Dekalb Ave,5115,Cedar St & Evergreen Ave,4721,40.70863,-73.91497,40.69671,-73.92807,member
+432548,6FA2643D2324A67F,electric_bike,2022-02-16 13:52:57,2022-02-16 14:04:56,Willoughby Ave & Onderdonk Ave,5115,Stagg St & Union Ave,5117,40.7098,-73.91727,40.70877084,-73.95095259,member
+432570,C33980844DE2B1E4,electric_bike,2022-02-10 13:59:04,2022-02-10 14:10:10,Willoughby Ave & Onderdonk Ave,5115,Stagg St & Union Ave,5117,40.7098,-73.91727,40.70877084,-73.95095259,member
+494449,E3A38A1A8E18C5CA,electric_bike,2022-02-16 10:29:04,2022-02-16 10:38:32,Onderdonk Ave & Dekalb Ave,5115,Centre St & Seneca Ave,4837,40.70863,-73.91497,40.69969,-73.9022,casual
+495235,69CC989DD0DC6ADF,electric_bike,2022-02-26 04:20:49,2022-02-26 04:26:20,Willoughby Ave & Onderdonk Ave,5115,Centre St & Seneca Ave,4837,40.7098,-73.91727,40.69969,-73.9022,casual
+510000,159B9F01E104FF29,electric_bike,2022-02-23 15:43:13,2022-02-23 16:38:12,Onderdonk Ave & Dekalb Ave,5115,Wythe Ave & Metropolitan Ave,5348,40.70863,-73.91497,40.716887,-73.963198,casual
+510003,C814A6305DA9AE94,electric_bike,2022-02-23 15:43:11,2022-02-23 16:38:19,Onderdonk Ave & Dekalb Ave,5115,Wythe Ave & Metropolitan Ave,5348,40.70863,-73.91497,40.716887,-73.963198,casual
+530883,329D0D0ED37243DF,classic_bike,2022-02-14 12:05:53,2022-02-14 12:13:58,Onderdonk Ave & Dekalb Ave,5115,Hancock St & Wyckoff Ave,4735,40.70863,-73.91497,40.6972,-73.90674,member
+553890,4B2E9C23CA953483,electric_bike,2022-02-23 07:46:43,2022-02-23 08:01:55,Onderdonk Ave & Dekalb Ave,5115,Broadway & Roebling St,5125,40.70863,-73.91497,40.70924826276157,-73.96063148975372,casual
+559001,D46058A1C88F34CA,classic_bike,2022-02-11 19:20:12,2022-02-11 19:38:49,Onderdonk Ave & Dekalb Ave,5115,Broadway & Roebling St,5125,40.70863,-73.91497,40.70924826276157,-73.96063148975372,casual
+560573,30698B59FDC9A764,classic_bike,2022-02-05 20:04:27,2022-02-05 20:36:57,Onderdonk Ave & Dekalb Ave,5115,Monroe St & Bedford Ave,4368,40.70863,-73.91497,40.6851443,-73.95380904,casual
+570703,62E19823414B5FDE,classic_bike,2022-02-11 22:06:00,2022-02-11 22:17:47,Onderdonk Ave & Dekalb Ave,5115,Forest Ave & Summerfield St,4798,40.70863,-73.91497,40.69922,-73.89795,casual
+571293,35123FC079CA7A4A,electric_bike,2022-02-08 18:02:36,2022-02-08 18:08:11,Willoughby Ave & Onderdonk Ave,5115,Madison St & Forest Ave,5025,40.7098,-73.91727,40.70555,-73.90245,member
+590121,CD7C76817414B3D7,electric_bike,2022-02-13 14:16:55,2022-02-13 14:24:26,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Myrtle Ave,4759,40.7098,-73.91727,40.69757,-73.93098,member
+619137,6E490F71A3097CBB,electric_bike,2022-02-18 16:35:40,2022-02-18 16:49:51,Willoughby Ave & Onderdonk Ave,5115,Irving Ave & Halsey St,4695,40.7098,-73.91727,40.69467,-73.90663,casual
+639399,B33624F612B3E948,electric_bike,2022-02-23 09:08:33,2022-02-23 09:54:02,Willoughby Ave & Onderdonk Ave,5115,Metropolitan Ave & Bedford Ave,5308,40.7098,-73.91727,40.71534825,-73.96024116,member
+643102,3B2108CA0C526405,electric_bike,2022-02-26 08:28:10,2022-02-26 08:42:40,Willoughby Ave & Onderdonk Ave,5115,Metropolitan Ave & Bedford Ave,5308,40.7098,-73.91727,40.71534825,-73.96024116,member
+651331,245CFD2ABBBAB287,electric_bike,2022-02-26 19:46:21,2022-02-26 19:52:55,Willoughby Ave & Onderdonk Ave,5115,Cypress Ave & Palmetto St,4921,40.7098,-73.91727,40.70157340873792,-73.90876293182373,member
+664111,E8E8E15B2E122BC5,electric_bike,2022-02-16 07:52:06,2022-02-16 08:22:12,Onderdonk Ave & Dekalb Ave,5115,Richardson St & N Henry St,5433,40.70863,-73.91497,40.71907891179564,-73.94223690032959,member
+664113,0B120ECA7E819262,electric_bike,2022-02-14 07:53:09,2022-02-14 08:19:16,Onderdonk Ave & Dekalb Ave,5115,Richardson St & N Henry St,5433,40.70863,-73.91497,40.71907891179564,-73.94223690032959,member
+664114,11784DDAD7E546B2,electric_bike,2022-02-11 07:47:24,2022-02-11 08:17:36,Onderdonk Ave & Dekalb Ave,5115,Richardson St & N Henry St,5433,40.70863,-73.91497,40.71907891179564,-73.94223690032959,member
+664605,100F78D5A36F6D4C,electric_bike,2022-02-06 20:11:25,2022-02-06 20:23:27,Onderdonk Ave & Dekalb Ave,5115,Richardson St & N Henry St,5433,40.70863,-73.91497,40.71907891179564,-73.94223690032959,member
+664737,074D866E65D9D275,electric_bike,2022-02-17 07:53:24,2022-02-17 08:20:13,Onderdonk Ave & Dekalb Ave,5115,Richardson St & N Henry St,5433,40.70863,-73.91497,40.71907891179564,-73.94223690032959,member
+664771,EBA25C783BCFE690,classic_bike,2022-02-25 16:39:59,2022-02-25 17:27:44,Willoughby Ave & Onderdonk Ave,5115,Grand Ave & Bergen St,4190,40.7098,-73.91727,40.678045,-73.962408,member
+677747,9AD580D0C1AAADE9,electric_bike,2022-02-23 18:37:19,2022-02-23 18:46:43,Onderdonk Ave & Dekalb Ave,5115,Menahan St & Central Ave,4672,40.70863,-73.91497,40.69543,-73.9196,casual
+677866,3E60F73C191AB1C5,electric_bike,2022-02-23 15:35:09,2022-02-23 15:54:15,Onderdonk Ave & Dekalb Ave,5115,Adelphi St & Myrtle Ave,4620,40.70863,-73.91497,40.69308257,-73.97178913,member
+706494,85B66074442DC294,electric_bike,2022-02-06 17:31:19,2022-02-06 18:04:17,Onderdonk Ave & Dekalb Ave,5115,Bridge St & York St,4853,40.70863,-73.91497,40.70133448066992,-73.98471236228943,casual
+734145,A4A16016191448E1,classic_bike,2022-02-21 18:46:40,2022-02-21 18:50:42,Onderdonk Ave & Dekalb Ave,5115,Irving Ave & DeKalb Ave,4898,40.70863,-73.91497,40.7027,-73.92095,casual
+734178,0AE1C999EE27AF4E,electric_bike,2022-02-25 20:44:36,2022-02-25 20:53:19,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & George St,4979,40.70863,-73.91497,40.704425,-73.92836,casual
+734840,2D625D8DF8B37C5F,electric_bike,2022-02-25 18:41:20,2022-02-25 18:47:34,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & George St,4979,40.70863,-73.91497,40.704425,-73.92836,member
+735641,0DDF30986F853A11,classic_bike,2022-02-20 11:45:16,2022-02-20 11:57:04,Willoughby Ave & Onderdonk Ave,5115,Bushwick Ave & McKibbin St,5027,40.7098,-73.91727,40.705517,-73.93936,member
+736613,7E3EAC4300EF1B96,electric_bike,2022-02-16 07:23:00,2022-02-16 07:29:57,Willoughby Ave & Onderdonk Ave,5115,Irving Ave & DeKalb Ave,4898,40.7098,-73.91727,40.7027,-73.92095,casual
+745494,979F910AE77DF647,classic_bike,2022-02-27 11:06:46,2022-02-27 11:45:04,Willoughby Ave & Onderdonk Ave,5115,West Broadway & Watts St,5569,40.7098,-73.91727,40.72323,-74.00314,member
+768395,7C91272E28B9358F,electric_bike,2022-02-23 08:54:39,2022-02-23 09:38:29,Onderdonk Ave & Dekalb Ave,5115,W 22 St & 10 Ave,6306,40.70863,-73.91497,40.74691959,-74.00451887,casual
+775222,8739138F5CEF5BE2,electric_bike,2022-02-20 16:35:04,2022-02-20 16:43:29,Onderdonk Ave & Dekalb Ave,5115,Madison St & Woodward Ave,4954,40.70863,-73.91497,40.70408,-73.90408,member
+777218,ADF513FCA766F4A9,electric_bike,2022-02-18 19:43:49,2022-02-18 19:48:22,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,casual
+777417,15EB7245B00AE640,electric_bike,2022-02-22 09:06:00,2022-02-22 09:42:06,Onderdonk Ave & Dekalb Ave,5115,W 27 St & 7 Ave,6247,40.70863,-73.91497,40.746647,-73.993915,casual
+777784,AFDA44DE60ADFBF9,classic_bike,2022-02-09 10:33:44,2022-02-09 10:45:01,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,member
+778092,6BFB1DE82868C7B0,electric_bike,2022-02-23 17:40:05,2022-02-23 17:42:41,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Av & Stanhope St,4931,40.70863,-73.91497,40.703545,-73.917775,member
+779665,41CC619F04906479,electric_bike,2022-02-09 08:17:25,2022-02-09 08:20:57,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Av & Stanhope St,4931,40.70863,-73.91497,40.703545,-73.917775,member
+779666,953ED8E1411C0D1D,electric_bike,2022-02-06 15:32:19,2022-02-06 15:36:26,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Av & Stanhope St,4931,40.70863,-73.91497,40.703545,-73.917775,member
+780526,EFBFC177BBD5EDFD,electric_bike,2022-02-17 19:29:44,2022-02-17 19:34:31,Willoughby Ave & Onderdonk Ave,5115,Madison St & Woodward Ave,4954,40.7098,-73.91727,40.70408,-73.90408,member
+826200,777213D0FFE719E3,electric_bike,2022-02-09 07:37:36,2022-02-09 07:49:41,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Tompkins Ave,4665,40.7098,-73.91727,40.69425403,-73.94626915,member
+827331,239D63EE746011CA,electric_bike,2022-02-07 07:29:26,2022-02-07 07:40:00,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Tompkins Ave,4665,40.7098,-73.91727,40.69425403,-73.94626915,member
+828187,0E5AB588ADC192D5,electric_bike,2022-02-11 07:25:22,2022-02-11 07:42:49,Willoughby Ave & Onderdonk Ave,5115,Willoughby Ave & Tompkins Ave,4665,40.7098,-73.91727,40.69425403,-73.94626915,member
+844265,1AE08C451C4EFFE2,classic_bike,2022-02-08 16:36:45,2022-02-08 17:03:04,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+845239,4534E122A129FCF2,electric_bike,2022-02-11 16:37:11,2022-02-11 16:58:44,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+846966,A456F48C9E99AC04,electric_bike,2022-02-23 16:37:04,2022-02-23 16:57:20,Willoughby Ave & Onderdonk Ave,5115,Classon Ave & St Marks Ave,4074,40.7098,-73.91727,40.6765198,-73.9596082,member
+877995,193D6B30A8E24A60,electric_bike,2022-02-23 13:48:42,2022-02-23 14:02:53,Onderdonk Ave & Dekalb Ave,5115,Knickerbocker Ave & Thames St,5018,40.70863,-73.91497,40.70539,-73.92976,casual
+943342,37A93E8C59E20FEC,classic_bike,2022-02-22 07:33:03,2022-02-22 07:38:03,Willoughby Ave & Onderdonk Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.7098,-73.91727,40.71401,-73.92793,member
+943369,A1FFE1CF4FCF30DF,classic_bike,2022-02-10 07:46:10,2022-02-10 07:51:06,Willoughby Ave & Onderdonk Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.7098,-73.91727,40.71401,-73.92793,member
+945593,757233D944CBBFFD,classic_bike,2022-02-23 07:31:31,2022-02-23 07:37:03,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945605,06A20AC2FBA6D1E7,classic_bike,2022-02-09 08:12:59,2022-02-09 08:18:25,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945607,A85C5C6ABDC35719,classic_bike,2022-02-17 07:32:13,2022-02-17 07:37:51,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945608,F373A57490629C8B,classic_bike,2022-02-08 07:51:26,2022-02-08 07:57:57,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945621,A985D53760B967EA,classic_bike,2022-02-16 08:01:53,2022-02-16 08:07:30,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945627,8B22B62616E46893,classic_bike,2022-02-11 08:28:29,2022-02-11 08:33:37,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+945628,03D08534FA34478B,classic_bike,2022-02-07 07:25:22,2022-02-07 07:31:34,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+946588,2ECE28B3129DF7E8,electric_bike,2022-02-24 06:48:19,2022-02-24 06:52:59,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+946589,F4DDBA30252C4D26,electric_bike,2022-02-15 06:42:22,2022-02-15 06:47:46,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+946590,39E9E3EE56A28509,classic_bike,2022-02-28 07:38:03,2022-02-28 07:43:49,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+949495,3678AA37165A5FC2,electric_bike,2022-02-25 18:46:40,2022-02-25 19:04:37,Willoughby Ave & Onderdonk Ave,5115,Cypress Ave & George St,4765,40.7098,-73.91727,40.69812,-73.90271,member
+953496,602BD3F4DE5E3F83,classic_bike,2022-02-14 05:54:43,2022-02-14 05:59:16,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Knickerbocker Ave,4939,40.7098,-73.91727,40.702013,-73.923769,casual
+953505,E40B233A34F53A2B,electric_bike,2022-02-20 20:34:00,2022-02-20 20:39:43,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Knickerbocker Ave,4939,40.7098,-73.91727,40.702013,-73.923769,casual
+953515,1DE49247BBEC3C44,electric_bike,2022-02-26 11:57:12,2022-02-26 12:08:56,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Knickerbocker Ave,4939,40.7098,-73.91727,40.702013,-73.923769,member
+953525,246F098EE934E0FD,electric_bike,2022-02-12 23:31:31,2022-02-13 00:10:06,Willoughby Ave & Onderdonk Ave,5115,E 39 St & 2 Ave,6345,40.7098,-73.91727,40.74803319428767,-73.973827958107,member
+954295,A0F2B01B4ECA69E3,classic_bike,2022-02-14 09:55:40,2022-02-14 10:09:04,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Knickerbocker Ave,4939,40.7098,-73.91727,40.702013,-73.923769,casual
+954296,AB709FE98247D0AC,electric_bike,2022-02-10 05:51:15,2022-02-10 05:56:33,Willoughby Ave & Onderdonk Ave,5115,Suydam St & Knickerbocker Ave,4939,40.7098,-73.91727,40.702013,-73.923769,casual
+954380,889C3B97F8C8C36D,classic_bike,2022-02-19 14:53:20,2022-02-19 14:58:23,Onderdonk Ave & Dekalb Ave,5115,Suydam St & Knickerbocker Ave,4939,40.70863,-73.91497,40.702013,-73.923769,member
+954966,ACAAF65B5DE79F30,classic_bike,2022-02-20 11:41:01,2022-02-20 11:45:13,Onderdonk Ave & Dekalb Ave,5115,Suydam St & Knickerbocker Ave,4939,40.70863,-73.91497,40.702013,-73.923769,member
+1009083,BB0DB33C14537D11,electric_bike,2022-02-08 05:34:34,2022-02-08 05:59:37,Onderdonk Ave & Dekalb Ave,5115,Mott St & Prince St,5561,40.70863,-73.91497,40.72317958,-73.99480012,member
+1025702,37874A090C55B564,electric_bike,2022-02-17 19:06:51,2022-02-17 19:30:00,Onderdonk Ave & Dekalb Ave,5115,Willoughby St & Fleet St,4628,40.70863,-73.91497,40.69196566,-73.9813018,member
+1028501,16CDF92036DA6B2D,electric_bike,2022-02-07 13:55:19,2022-02-07 13:57:57,Willoughby Ave & Onderdonk Ave,5115,Woodward Ave & Harman St,5074,40.7098,-73.91727,40.70793,-73.91092,member
+1028669,4E8696D40B74C3F3,classic_bike,2022-02-20 22:47:43,2022-02-20 22:51:30,Willoughby Ave & Onderdonk Ave,5115,Woodward Ave & Harman St,5074,40.7098,-73.91727,40.70793,-73.91092,member
+1028709,7C5EABDD62690C95,classic_bike,2022-02-21 20:59:25,2022-02-21 21:03:30,Willoughby Ave & Onderdonk Ave,5115,Woodward Ave & Harman St,5074,40.7098,-73.91727,40.70793,-73.91092,member
+1028710,A1FFAF3598969B9C,classic_bike,2022-02-27 20:27:21,2022-02-27 20:31:37,Willoughby Ave & Onderdonk Ave,5115,Woodward Ave & Harman St,5074,40.7098,-73.91727,40.70793,-73.91092,member
+1029800,AFD75589EDE9DE9A,classic_bike,2022-02-13 20:25:11,2022-02-13 20:29:33,Willoughby Ave & Onderdonk Ave,5115,Woodward Ave & Harman St,5074,40.7098,-73.91727,40.70793,-73.91092,member
+1045932,7BAFE0A1918A2117,electric_bike,2022-02-17 14:54:43,2022-02-17 15:16:10,Onderdonk Ave & Dekalb Ave,5115,Park Ave & Marcus Garvey Blvd,4768,40.70863,-73.91497,40.698617,-73.941342,casual
+1047794,8A9822957BD3DBE7,electric_bike,2022-02-11 17:09:48,2022-02-11 17:30:39,Willoughby Ave & Onderdonk Ave,5115,Park Ave & Marcus Garvey Blvd,4768,40.7098,-73.91727,40.698617,-73.941342,member
+1073731,189004CC5871CF28,classic_bike,2022-02-01 21:59:15,2022-02-01 22:02:59,Onderdonk Ave & Dekalb Ave,5115,Menahan St & Onderdonk Ave,5034,40.70863,-73.91497,40.70553,-73.9096,casual
+1073733,59B957774E3DFC74,electric_bike,2022-02-07 16:04:56,2022-02-07 16:07:30,Onderdonk Ave & Dekalb Ave,5115,Menahan St & Onderdonk Ave,5034,40.70863,-73.91497,40.70553,-73.9096,casual
+1073749,C2548ACC928B1A5C,electric_bike,2022-02-05 17:53:52,2022-02-05 17:55:52,Onderdonk Ave & Dekalb Ave,5115,Menahan St & Onderdonk Ave,5034,40.70863,-73.91497,40.70553,-73.9096,member
+1073896,70EEA455EAF94AD1,electric_bike,2022-02-03 15:48:04,2022-02-03 15:51:44,Onderdonk Ave & Dekalb Ave,5115,Menahan St & Onderdonk Ave,5034,40.70863,-73.91497,40.70553,-73.9096,casual
+1074264,C4D6D94243EF52EA,electric_bike,2022-02-28 23:31:58,2022-02-28 23:34:30,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074266,CBA0FAEB296F6617,classic_bike,2022-02-27 18:21:53,2022-02-27 18:25:32,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074267,24E214A686026775,classic_bike,2022-02-26 23:35:21,2022-02-26 23:39:17,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074272,5D17461560102C8B,electric_bike,2022-02-17 21:35:54,2022-02-17 21:38:09,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074295,20FBC112D949ABD6,electric_bike,2022-02-04 18:55:35,2022-02-04 18:58:19,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074317,521715D39160E304,electric_bike,2022-02-06 17:44:49,2022-02-06 17:48:40,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1074338,6DAE78835D99F544,electric_bike,2022-02-27 23:34:18,2022-02-27 23:36:25,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Onderdonk Ave,5034,40.7098,-73.91727,40.70553,-73.9096,member
+1092171,54A09A3A93B2B9D0,electric_bike,2022-02-16 08:04:38,2022-02-16 08:31:41,Willoughby Ave & Onderdonk Ave,5115,Menahan St & Wyckoff Ave,4890,40.7098,-73.91727,40.70113,-73.91422,member
+1099596,599DF9DD39DE9B2A,classic_bike,2022-02-09 14:49:46,2022-02-09 14:52:57,Onderdonk Ave & Dekalb Ave,5115,Stanhope St & Fairview Ave,5146,40.70863,-73.91497,40.70998,-73.91116,member
+1105000,3321AD20F2891590,electric_bike,2022-02-13 19:02:56,2022-02-13 19:06:13,Willoughby Ave & Onderdonk Ave,5115,Stanhope St & Fairview Ave,5146,40.7098,-73.91727,40.70998,-73.91116,member
+1119469,2024E1AB0E459621,electric_bike,2022-02-21 12:41:51,2022-02-21 13:20:13,Onderdonk Ave & Dekalb Ave,5115,Clinton St & Cherry St,5190,40.70863,-73.91497,40.711471394469264,-73.98672603070736,member
+1134750,FDB1CA806DC7D027,classic_bike,2022-02-03 16:25:28,2022-02-03 16:36:21,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,member
+1134831,72F7EE928C745EE6,electric_bike,2022-02-15 17:07:59,2022-02-15 17:16:43,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,member
+1134843,9C43A4791D5002CB,electric_bike,2022-02-19 12:20:32,2022-02-19 12:26:18,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,casual
+1134869,722A7E6393C418A6,electric_bike,2022-02-28 07:44:24,2022-02-28 07:48:50,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,member
+1134886,ED17D6DDAAA4C01A,electric_bike,2022-02-27 07:27:06,2022-02-27 07:32:04,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,member
+1134887,E352F4772AF52524,electric_bike,2022-02-18 07:34:26,2022-02-18 07:39:05,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,member
+1134916,D20741C779BE2659,electric_bike,2022-02-22 09:23:18,2022-02-22 09:29:17,Onderdonk Ave & Dekalb Ave,5115,Wyckoff Ave & Gates Ave,4847,40.70863,-73.91497,40.699871408829885,-73.91171872615814,casual
+1143733,4F5156EAFD922836,electric_bike,2022-02-01 16:13:20,2022-02-01 16:19:07,Willoughby Ave & Onderdonk Ave,5115,Wyckoff Ave & Gates Ave,4847,40.7098,-73.91727,40.699871408829885,-73.91171872615814,member
+1151780,42B38254C76A9D92,electric_bike,2022-02-03 08:02:44,2022-02-03 08:29:06,Willoughby Ave & Onderdonk Ave,5115,Graham Ave & Grand St,5178,40.7098,-73.91727,40.711863,-73.944024,member
+1154835,521183910E6E1B81,electric_bike,2022-02-17 14:14:06,2022-02-17 14:56:16,Onderdonk Ave & Dekalb Ave,5115,Broadway & E 21 St,6098,40.70863,-73.91497,40.73988840858996,-73.98958593606949,member
+1154998,C59F5C9AA482D46F,classic_bike,2022-02-17 19:29:07,2022-02-17 19:38:27,Willoughby Ave & Onderdonk Ave,5115,McKibbin St & Bogart St,5059,40.7098,-73.91727,40.706237,-73.933871,member
+1182199,8BC4AAB5CEDA5C14,classic_bike,2022-02-14 13:01:36,2022-02-14 13:08:58,Wyckoff Ave & Gates Ave,4847,Onderdonk Ave & Dekalb Ave,5115,40.699871408829885,-73.91171872615814,40.70863,-73.91497,member
+1182270,269476D8A30EAE4F,electric_bike,2022-02-07 15:49:11,2022-02-07 15:52:02,Menahan St & Onderdonk Ave,5034,Onderdonk Ave & Dekalb Ave,5115,40.70553,-73.9096,40.70863,-73.91497,casual
+1182278,AA2B9BF13118BBF6,electric_bike,2022-02-03 15:21:25,2022-02-03 15:26:49,Menahan St & Onderdonk Ave,5034,Onderdonk Ave & Dekalb Ave,5115,40.70553,-73.9096,40.70863,-73.91497,casual
+1182301,27FA0BEB81FA674B,electric_bike,2022-02-27 09:13:45,2022-02-27 09:19:27,Wyckoff Ave & Gates Ave,4847,Onderdonk Ave & Dekalb Ave,5115,40.699871408829885,-73.91171872615814,40.70863,-73.91497,member
+1182375,9AA776DBD4D18FF2,classic_bike,2022-02-19 12:23:04,2022-02-19 12:30:17,Wyckoff Ave & Gates Ave,4847,Onderdonk Ave & Dekalb Ave,5115,40.699871408829885,-73.91171872615814,40.70863,-73.91497,member
+1182392,4EA29AB9EA9DE9F9,classic_bike,2022-02-05 09:38:52,2022-02-05 09:43:25,Menahan St & Onderdonk Ave,5034,Onderdonk Ave & Dekalb Ave,5115,40.70553,-73.9096,40.70863,-73.91497,member
+1182403,D3148DDECCD3716A,electric_bike,2022-02-17 17:06:30,2022-02-17 17:11:47,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182416,8634E46BF91CC236,classic_bike,2022-02-23 16:56:05,2022-02-23 17:03:25,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182441,E4D36998D78EE95C,electric_bike,2022-02-10 16:49:24,2022-02-10 16:54:29,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182474,1DD80A8A7FB8D1A2,classic_bike,2022-02-24 17:05:53,2022-02-24 17:14:14,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182475,64269BC542BD7122,classic_bike,2022-02-15 16:55:46,2022-02-15 17:03:48,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182476,985D061406424463,classic_bike,2022-02-28 17:01:42,2022-02-28 17:09:11,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182492,4FE14D1A7D23B444,electric_bike,2022-02-25 17:00:10,2022-02-25 17:05:00,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182493,650184A4C735FE72,electric_bike,2022-02-14 17:07:50,2022-02-14 17:12:23,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182498,4096487F88258EE4,classic_bike,2022-02-11 16:56:18,2022-02-11 17:03:30,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182512,CF63E7ED57D316F7,classic_bike,2022-02-10 12:08:27,2022-02-10 12:16:50,Wyckoff Ave & Gates Ave,4847,Onderdonk Ave & Dekalb Ave,5115,40.699871408829885,-73.91171872615814,40.70863,-73.91497,casual
+1182588,029980DF3112526E,electric_bike,2022-02-16 17:00:45,2022-02-16 17:05:09,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1182626,2EF423D1FFC136E9,classic_bike,2022-02-07 16:52:40,2022-02-07 17:00:22,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+1186116,4C15652B816E5622,electric_bike,2022-02-14 19:43:12,2022-02-14 19:48:08,Menahan St & Onderdonk Ave,5034,Willoughby Ave & Onderdonk Ave,5115,40.70553,-73.9096,40.7098,-73.91727,member
+1186241,1634C2411C90C20B,classic_bike,2022-02-26 15:16:35,2022-02-26 15:24:19,Wyckoff Ave & Gates Ave,4847,Willoughby Ave & Onderdonk Ave,5115,40.699871408829885,-73.91171872615814,40.7098,-73.91727,casual
+1186393,FEF88E3084B6ED3C,electric_bike,2022-02-28 11:40:31,2022-02-28 11:44:21,Menahan St & Onderdonk Ave,5034,Willoughby Ave & Onderdonk Ave,5115,40.70553,-73.9096,40.7098,-73.91727,member
+1186394,E9984BBA47E133CB,classic_bike,2022-02-27 23:23:51,2022-02-27 23:27:49,Menahan St & Onderdonk Ave,5034,Willoughby Ave & Onderdonk Ave,5115,40.70553,-73.9096,40.7098,-73.91727,member

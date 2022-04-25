@@ -1,0 +1,101 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+165149,64E2F86A873EE45F,classic_bike,2022-01-18 07:37:43,2022-01-18 07:55:35,Broadway & Madison St,4483,Metropolitan Ave & Stewart Ave,5273,40.68822,-73.91966,40.71401,-73.92793,casual
+165157,4D2449F3452111D9,classic_bike,2022-01-25 17:05:50,2022-01-25 17:11:09,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,member
+165163,960EC328BF771920,classic_bike,2022-01-02 13:31:26,2022-01-02 14:33:32,Kent Ave & N 7 St,5489,Metropolitan Ave & Stewart Ave,5273,40.72036775298455,-73.96165072917938,40.71401,-73.92793,casual
+165305,6464061D197D6113,classic_bike,2022-01-03 07:39:04,2022-01-03 07:55:10,Broadway & Madison St,4483,Metropolitan Ave & Stewart Ave,5273,40.68822,-73.91966,40.71401,-73.92793,casual
+165365,E4AD0629247F83A8,classic_bike,2022-01-21 07:45:20,2022-01-21 08:03:30,Broadway & Madison St,4483,Metropolitan Ave & Stewart Ave,5273,40.68822,-73.91966,40.71401,-73.92793,casual
+165429,84EB7660EED1B0FC,classic_bike,2022-01-24 08:59:40,2022-01-24 09:05:42,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,member
+165529,47D0E80CE5496254,electric_bike,2022-01-20 15:29:01,2022-01-20 15:34:57,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,member
+165535,7AF8794C28F58156,electric_bike,2022-01-14 09:15:31,2022-01-14 09:19:50,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,member
+165543,7EB01BB0A4AFF474,classic_bike,2022-01-21 09:25:47,2022-01-21 09:30:25,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,casual
+165732,2B80751163CA8E76,classic_bike,2022-01-04 07:37:52,2022-01-04 07:55:27,Broadway & Madison St,4483,Metropolitan Ave & Stewart Ave,5273,40.68822,-73.91966,40.71401,-73.92793,casual
+165814,A27778AC99081ABF,classic_bike,2022-01-19 07:32:39,2022-01-19 07:40:28,Menahan St & Seneca Ave,4963,Metropolitan Ave & Stewart Ave,5273,40.70461,-73.91054,40.71401,-73.92793,casual
+165918,433A80A5D7B75CFE,electric_bike,2022-01-18 15:50:33,2022-01-18 16:25:38,Grand St & Elizabeth St,5382,Metropolitan Ave & Stewart Ave,5273,40.718822,-73.99596,40.71401,-73.92793,member
+166131,EE307F36C7E7C016,classic_bike,2022-01-24 07:57:17,2022-01-24 08:05:40,Bushwick Ave & Powers St,5250,Metropolitan Ave & Stewart Ave,5273,40.71247661,-73.94100005,40.71401,-73.92793,member
+166395,CA191518CF21BF49,classic_bike,2022-01-14 14:22:08,2022-01-14 14:40:31,Boerum St & Broadway,5004,Metropolitan Ave & Stewart Ave,5273,40.70538077,-73.94976519,40.71401,-73.92793,member
+166754,CEB002EEB9FEED61,classic_bike,2022-01-14 14:23:17,2022-01-14 14:40:37,Boerum St & Broadway,5004,Metropolitan Ave & Stewart Ave,5273,40.70538077,-73.94976519,40.71401,-73.92793,member
+167104,83364C79650AB39A,classic_bike,2022-01-19 07:39:43,2022-01-19 07:54:10,Broadway & Madison St,4483,Metropolitan Ave & Stewart Ave,5273,40.68822,-73.91966,40.71401,-73.92793,casual
+296731,D7BFAB5356484B59,electric_bike,2022-01-26 15:51:07,2022-01-26 15:57:39,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Forrest St,4914,40.71401,-73.92793,40.70076,-73.93641,member
+296732,82A673A56F0182B9,electric_bike,2022-01-05 15:26:08,2022-01-05 15:33:25,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Forrest St,4914,40.71401,-73.92793,40.70076,-73.93641,member
+352132,13BE651A91B684B3,classic_bike,2022-01-18 19:30:22,2022-01-18 19:47:01,Metropolitan Ave & Stewart Ave,5273,Broadway & Madison St,4483,40.71401,-73.92793,40.68822,-73.91966,casual
+352568,CDC672617B920D28,classic_bike,2022-01-17 20:01:56,2022-01-17 20:21:14,Metropolitan Ave & Stewart Ave,5273,Broadway & Madison St,4483,40.71401,-73.92793,40.68822,-73.91966,casual
+352708,2846980EADE423E5,classic_bike,2022-01-02 00:55:33,2022-01-02 01:12:47,Metropolitan Ave & Stewart Ave,5273,Broadway & Madison St,4483,40.71401,-73.92793,40.68822,-73.91966,casual
+352718,0A07C0B33B9C207C,classic_bike,2022-01-02 00:54:55,2022-01-02 01:13:17,Metropolitan Ave & Stewart Ave,5273,Broadway & Madison St,4483,40.71401,-73.92793,40.68822,-73.91966,casual
+352806,E0148072719B1932,classic_bike,2022-01-19 19:27:05,2022-01-19 19:45:50,Metropolitan Ave & Stewart Ave,5273,Broadway & Madison St,4483,40.71401,-73.92793,40.68822,-73.91966,casual
+356658,449D5ADA5D0E3896,electric_bike,2022-01-05 13:14:04,2022-01-05 13:26:57,Metropolitan Ave & Stewart Ave,5273,Broadway & Berry St,5164,40.71401,-73.92793,40.71044554,-73.96525063,casual
+367981,C330DBFC016FFCD2,classic_bike,2022-01-23 13:45:41,2022-01-23 14:38:01,Metropolitan Ave & Stewart Ave,5273,Henry St & Grand St,5294,40.71401,-73.92793,40.714211,-73.981095,member
+388953,6D8547DAF8289894,classic_bike,2022-01-21 17:05:45,2022-01-21 17:09:58,Metropolitan Ave & Stewart Ave,5273,Flushing Ave & Woodward Ave,5225,40.71401,-73.92793,40.71246,-73.91873,member
+401802,C579061FFE6F6FBC,electric_bike,2022-01-14 21:34:07,2022-01-14 21:41:39,Metropolitan Ave & Stewart Ave,5273,Suydam St & St. Nicholas Ave,5043,40.71401,-73.92793,40.70636,-73.91945,casual
+459283,0E4D52ED7D4B3406,classic_bike,2022-01-25 16:50:35,2022-01-25 17:16:33,Metropolitan Ave & Stewart Ave,5273,St Marks Pl & 2 Ave,5669,40.71401,-73.92793,40.7284186,-73.98713956,member
+459289,2B823A833827CA9E,classic_bike,2022-01-19 15:23:10,2022-01-19 15:42:40,Metropolitan Ave & Stewart Ave,5273,Suydam St & Broadway,4689,40.71401,-73.92793,40.69544,-73.93223,member
+459290,AD91C1983D4A1A9E,classic_bike,2022-01-02 13:24:32,2022-01-02 13:42:01,Metropolitan Ave & Stewart Ave,5273,Wilson Ave & Troutman St,4864,40.71401,-73.92793,40.70166,-73.92754,member
+470356,629550561488A0A8,electric_bike,2022-01-13 22:14:54,2022-01-13 22:24:48,Metropolitan Ave & Stewart Ave,5273,Stagg St & Union Ave,5117,40.71401,-73.92793,40.70877084,-73.95095259,casual
+470364,403E949FD63B0DD0,electric_bike,2022-01-02 20:30:31,2022-01-02 20:41:43,Metropolitan Ave & Stewart Ave,5273,Stagg St & Union Ave,5117,40.71401,-73.92793,40.70877084,-73.95095259,member
+497211,1823AE2D6087CAB4,electric_bike,2022-01-02 00:12:31,2022-01-02 00:23:30,Metropolitan Ave & Stewart Ave,5273,Pulaski St & Marcus Garvey Blvd,4656,40.71401,-73.92793,40.6933982,-73.939877,member
+550938,74170713A4EF41A5,electric_bike,2022-01-02 15:00:31,2022-01-02 15:10:10,Metropolitan Ave & Stewart Ave,5273,N 6 St & Bedford Ave,5379,40.71401,-73.92793,40.71745169,-73.95850939,member
+551432,3914658CC2A8E86F,electric_bike,2022-01-02 13:40:34,2022-01-02 14:18:41,Metropolitan Ave & Stewart Ave,5273,W 13 St & 7 Ave,6030,40.71401,-73.92793,40.73781509,-73.99994661,member
+556040,1D225BA5D23E0931,electric_bike,2022-01-07 08:25:41,2022-01-07 08:48:23,Fulton St & Utica Ave,4228,Metropolitan Ave & Stewart Ave,5273,40.6794268,-73.9298911,40.71401,-73.92793,member
+556095,F58AB01269CADF7C,electric_bike,2022-01-24 05:43:58,2022-01-24 05:54:31,Bushwick Ave & Forrest St,4914,Metropolitan Ave & Stewart Ave,5273,40.70076,-73.93641,40.71401,-73.92793,member
+556177,A38F67BE5470B4F7,electric_bike,2022-01-26 05:49:57,2022-01-26 05:56:48,Bushwick Ave & Forrest St,4914,Metropolitan Ave & Stewart Ave,5273,40.70076,-73.93641,40.71401,-73.92793,member
+556636,62C02A2197F75C9D,classic_bike,2022-01-14 14:04:38,2022-01-14 14:12:48,Devoe St & Morgan Ave,5282,Metropolitan Ave & Stewart Ave,5273,40.713811,-73.93515,40.71401,-73.92793,member
+556786,A7DCFE96F26AF01C,classic_bike,2022-01-19 07:41:58,2022-01-19 07:48:11,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556787,689C0F749B5C37C0,classic_bike,2022-01-21 08:00:12,2022-01-21 08:05:56,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556788,FA5DA3AFEEB95C6C,classic_bike,2022-01-26 08:08:34,2022-01-26 08:14:04,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556872,9A5CCCB693EF1A9D,classic_bike,2022-01-19 16:02:15,2022-01-19 16:22:49,Union Ave & Jackson St,5300,Metropolitan Ave & Stewart Ave,5273,40.7160751,-73.952029,40.71401,-73.92793,casual
+556916,3297B3B0BF1E6301,electric_bike,2022-01-28 07:53:36,2022-01-28 07:59:07,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556927,5D80544970D58268,classic_bike,2022-01-24 15:38:40,2022-01-24 15:52:19,S 4 St & Wythe Ave,5204,Metropolitan Ave & Stewart Ave,5273,40.71285887,-73.96590294,40.71401,-73.92793,member
+556950,603C634F09B85B19,classic_bike,2022-01-24 07:34:09,2022-01-24 07:39:40,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556951,789027BAFF3C71F6,classic_bike,2022-01-18 06:41:34,2022-01-18 06:47:44,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556952,A53B0C5C704C1FA0,classic_bike,2022-01-25 07:58:40,2022-01-25 08:04:24,Onderdonk Ave & Dekalb Ave,5115,Metropolitan Ave & Stewart Ave,5273,40.70863,-73.91497,40.71401,-73.92793,member
+556959,C9D9DD0EF07E0E2A,classic_bike,2022-01-19 16:02:40,2022-01-20 11:59:28,Union Ave & Jackson St,5300,Metropolitan Ave & Stewart Ave,5273,40.7160751,-73.952029,40.71401,-73.92793,casual
+557064,95157D22AE472AC8,classic_bike,2022-01-25 09:09:35,2022-01-25 09:17:44,Graham Ave & Grand St,5178,Metropolitan Ave & Stewart Ave,5273,40.711863,-73.944024,40.71401,-73.92793,member
+557065,485010C914D3FA14,classic_bike,2022-01-26 09:08:49,2022-01-26 09:17:13,Graham Ave & Grand St,5178,Metropolitan Ave & Stewart Ave,5273,40.711863,-73.944024,40.71401,-73.92793,member
+557095,0315EF0A10A92827,classic_bike,2022-01-02 13:32:33,2022-01-02 13:38:01,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+557127,655831255E394A40,classic_bike,2022-01-01 15:48:19,2022-01-01 15:59:41,Grand St & Havemeyer St,5267,Metropolitan Ave & Stewart Ave,5273,40.71286844,-73.95698119,40.71401,-73.92793,member
+557720,8B0AD538231E881C,electric_bike,2022-01-01 15:47:55,2022-01-01 15:58:51,Manhattan Av & Leonard St,5442,Metropolitan Ave & Stewart Ave,5273,40.72084,-73.94844,40.71401,-73.92793,member
+558002,599A694CE233B785,classic_bike,2022-01-02 14:54:39,2022-01-02 14:59:32,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+558005,95BA8D2B6D202AE1,classic_bike,2022-01-03 08:42:57,2022-01-03 08:46:24,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+558008,1E68A13B3B26C27F,classic_bike,2022-01-25 16:44:41,2022-01-25 16:49:32,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+558012,5BED0B73419BDEE2,classic_bike,2022-01-27 08:20:32,2022-01-27 08:24:03,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+558013,E7D2F7726F7227AF,electric_bike,2022-01-02 20:24:46,2022-01-02 20:27:23,Flushing Ave & Woodward Ave,5225,Metropolitan Ave & Stewart Ave,5273,40.71246,-73.91873,40.71401,-73.92793,member
+558175,F200E8E65E8C178D,classic_bike,2022-01-19 18:35:33,2022-01-19 18:38:18,Stewart Ave & Johnson Ave,5123,Metropolitan Ave & Stewart Ave,5273,40.70869,-73.92587,40.71401,-73.92793,member
+558515,22A7F2CD47B636A3,electric_bike,2022-01-01 17:58:10,2022-01-01 18:16:12,Columbia St & Rivington St,5365,Metropolitan Ave & Stewart Ave,5273,40.71739973,-73.98016555,40.71401,-73.92793,member
+558683,E19483F3FE31851B,electric_bike,2022-01-01 15:48:34,2022-01-01 15:58:23,Manhattan Av & Leonard St,5442,Metropolitan Ave & Stewart Ave,5273,40.72084,-73.94844,40.71401,-73.92793,member
+559036,19B0EEFFB9E96D14,electric_bike,2022-01-01 15:38:58,2022-01-01 15:54:10,Metropolitan Ave & Stewart Ave,5273,Metropolitan Ave & Stewart Ave,5273,40.71401,-73.92793,40.71401,-73.92793,member
+559254,19E1293FE07B7493,electric_bike,2022-01-01 14:59:47,2022-01-01 15:08:39,S 4 St & Rodney St,5156,Metropolitan Ave & Stewart Ave,5273,40.70934,-73.95608,40.71401,-73.92793,member
+559836,9076F3D4B96C1274,classic_bike,2022-01-23 10:26:31,2022-01-23 10:42:08,Wythe Ave & Metropolitan Ave,5348,Metropolitan Ave & Stewart Ave,5273,40.716887,-73.963198,40.71401,-73.92793,member
+559842,B8510FF7B7AEA4F2,electric_bike,2022-01-01 18:39:21,2022-01-01 19:20:34,10 Ave & W 28 St,6459,Metropolitan Ave & Stewart Ave,5273,40.75066386,-74.00176802,40.71401,-73.92793,member
+560314,5F74749EA859AB2C,classic_bike,2022-01-18 19:23:25,2022-01-18 19:35:41,Madison St & Woodward Ave,4954,Metropolitan Ave & Stewart Ave,5273,40.70408,-73.90408,40.71401,-73.92793,member
+560682,E29F8FC20A86407A,classic_bike,2022-01-19 14:47:22,2022-01-19 15:01:54,Melrose St & Broadway,4801,Metropolitan Ave & Stewart Ave,5273,40.697481,-73.935877,40.71401,-73.92793,member
+561129,C28993B196C08EAE,electric_bike,2022-01-02 13:39:49,2022-01-02 13:48:54,Irving Ave & Jefferson St,5051,Metropolitan Ave & Stewart Ave,5273,40.70538,-73.92535,40.71401,-73.92793,casual
+561130,575EB6AE630D96C6,electric_bike,2022-01-02 13:39:45,2022-01-02 13:48:43,Irving Ave & Jefferson St,5051,Metropolitan Ave & Stewart Ave,5273,40.70538,-73.92535,40.71401,-73.92793,casual
+587683,1A2E9C244DA4D927,electric_bike,2022-01-13 19:04:33,2022-01-13 19:17:25,Metropolitan Ave & Stewart Ave,5273,Milton St & Franklin St,5752,40.71401,-73.92793,40.72906,-73.95779,member
+616498,8CFD742EEED13B17,electric_bike,2022-01-14 16:05:58,2022-01-14 16:19:58,Metropolitan Ave & Stewart Ave,5273,S 4 St & Wythe Ave,5204,40.71401,-73.92793,40.71285887,-73.96590294,member
+616800,AE872B803B4C0531,classic_bike,2022-01-25 15:34:07,2022-01-25 15:40:12,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+616801,77F223ECDB845FDE,classic_bike,2022-01-06 16:59:27,2022-01-06 17:06:40,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+616802,972D76B4A165E5A6,classic_bike,2022-01-26 17:18:34,2022-01-26 17:25:32,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+617277,ACA761C58A879584,electric_bike,2022-01-28 16:32:21,2022-01-28 16:38:12,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+617278,77F00D70EB8395FE,classic_bike,2022-01-27 16:52:35,2022-01-27 17:00:23,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+617387,5EC29A3B742BD16C,classic_bike,2022-01-23 00:01:24,2022-01-23 00:22:40,Metropolitan Ave & Stewart Ave,5273,S 4 St & Wythe Ave,5204,40.71401,-73.92793,40.71285887,-73.96590294,member
+617388,CA3B40A81D69BFB9,classic_bike,2022-01-22 01:19:32,2022-01-22 01:37:27,Metropolitan Ave & Stewart Ave,5273,S 4 St & Wythe Ave,5204,40.71401,-73.92793,40.71285887,-73.96590294,member
+617412,D27C951219A91017,classic_bike,2022-01-19 16:56:54,2022-01-19 17:04:51,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+617432,64DE8CDA86F8593D,classic_bike,2022-01-14 20:19:28,2022-01-14 20:24:40,Metropolitan Ave & Stewart Ave,5273,Wyckoff Av & Jefferson St,5051,40.71401,-73.92793,40.707165,-73.923711,member
+618117,E0F2C18B0C73567E,classic_bike,2022-01-24 17:33:22,2022-01-24 17:40:33,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+618118,399D6DFC1F63503E,classic_bike,2022-01-18 15:34:49,2022-01-18 15:41:52,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+618119,074FB8B798915DC8,electric_bike,2022-01-20 16:54:04,2022-01-20 16:59:11,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+618120,74BE2A812F2ECB82,classic_bike,2022-01-05 17:02:10,2022-01-05 17:09:25,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+618121,635DF9FDC3260461,electric_bike,2022-01-03 17:23:50,2022-01-03 17:28:54,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+618122,5DE4F1B733BE78CE,electric_bike,2022-01-13 17:23:36,2022-01-13 17:31:48,Metropolitan Ave & Stewart Ave,5273,Onderdonk Ave & Dekalb Ave,5115,40.71401,-73.92793,40.70863,-73.91497,member
+695001,5F68ED5F12CC64BB,electric_bike,2022-01-01 02:39:07,2022-01-01 02:45:22,Metropolitan Ave & Stewart Ave,5273,Withers St & Kingsland Ave,5362,40.71401,-73.92793,40.71773,-73.94051,casual
+695002,43D856D958BFBC5A,electric_bike,2022-01-01 02:39:37,2022-01-01 02:45:46,Metropolitan Ave & Stewart Ave,5273,Withers St & Kingsland Ave,5362,40.71401,-73.92793,40.71773,-73.94051,casual
+713781,4247A39D33FB0A3E,classic_bike,2022-01-24 08:25:59,2022-01-24 08:34:08,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Powers St,5250,40.71401,-73.92793,40.71247661,-73.94100005,member
+715035,C4894BB26F3B98B6,classic_bike,2022-01-21 14:51:01,2022-01-21 15:04:36,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Powers St,5250,40.71401,-73.92793,40.71247661,-73.94100005,member
+715136,C3AB96CFBAE987CE,classic_bike,2022-01-25 17:49:59,2022-01-25 17:59:21,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Powers St,5250,40.71401,-73.92793,40.71247661,-73.94100005,member
+715355,1120F86F05EBB8A1,classic_bike,2022-01-19 16:25:46,2022-01-19 16:34:17,Metropolitan Ave & Stewart Ave,5273,Bushwick Ave & Powers St,5250,40.71401,-73.92793,40.71247661,-73.94100005,member
+720938,1F7485AC1F31E5FA,classic_bike,2022-01-01 03:49:41,2022-01-01 04:04:46,Metropolitan Ave & Stewart Ave,5273,Kent Ave & N 7 St,5489,40.71401,-73.92793,40.72036775298455,-73.96165072917938,member
+762542,4F1F44B423D57186,electric_bike,2022-01-18 19:37:08,2022-01-18 19:47:13,Metropolitan Ave & Stewart Ave,5273,Driggs Ave & Lorimer St,5481,40.71401,-73.92793,40.72179134,-73.9504154,member
+804384,54D3C70943E54351,electric_bike,2022-01-24 07:03:40,2022-01-24 07:12:56,Metropolitan Ave & Stewart Ave,5273,Knickerbocker Ave & George St,4979,40.71401,-73.92793,40.704425,-73.92836,casual
+813911,F225822EB498B91E,classic_bike,2022-01-01 16:00:04,2022-01-01 16:32:34,Metropolitan Ave & Stewart Ave,5273,Driggs Ave & N Henry St,5542,40.71401,-73.92793,40.72325,-73.94308,member
+856933,A5488484B0D9FCC0,classic_bike,2022-01-20 17:15:39,2022-01-20 17:47:47,Metropolitan Ave & Stewart Ave,5273,Halsey St & Tompkins Ave,4319,40.71401,-73.92793,40.6823687,-73.944118,member
+945196,6F5883C894F8F79A,electric_bike,2022-01-02 00:12:10,2022-01-02 00:47:16,Metropolitan Ave & Stewart Ave,5273,10 Ave & W 28 St,6459,40.71401,-73.92793,40.75066386,-74.00176802,member
+945198,394C080752AE11E8,classic_bike,2022-01-14 14:00:18,2022-01-14 14:14:54,Metropolitan Ave & Stewart Ave,5273,Kingsland Ave & Nassau Ave,5613,40.71401,-73.92793,40.72577,-73.94173,casual

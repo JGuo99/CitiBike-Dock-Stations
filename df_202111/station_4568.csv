@@ -1,0 +1,4 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+168593,2D587A196E4D03BE,classic_bike,2021-11-30 13:43:31,2021-11-30 13:48:08,Broadway & Madison St,4483,Van Buren St & Broadway,4568,40.68822,-73.91966,40.692,-73.92617,member
+253031,136CF57BF3845603,classic_bike,2021-11-30 23:35:07,2021-11-30 23:42:09,Van Buren St & Broadway,4568,White St & Moore St,4987,40.692,-73.92617,40.704508,-73.9351,casual
+1549197,4406313BD3648122,classic_bike,2021-11-30 23:30:06,2021-11-30 23:41:07,Norman St & Wyckoff Ave,4654,Van Buren St & Broadway,4568,40.69517,-73.90311,40.692,-73.92617,member

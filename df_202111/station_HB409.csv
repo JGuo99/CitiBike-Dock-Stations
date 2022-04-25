@@ -1,0 +1,5 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+860997,87D97A8E3E5E2CA1,docked_bike,2021-11-20 13:27:37,2021-11-20 13:39:27,Clinton St & Newark St,HB409,Heights Elevator,JC059,40.73743,-74.03571,40.748716,-74.040443,casual
+1621403,7DEECD3041DFDCDF,docked_bike,2021-11-06 15:04:38,2021-11-06 16:11:24,Clinton St & Newark St,HB409,Clinton St & Newark St,HB409,40.73743,-74.03571,40.73743,-74.03571,casual
+1771552,D90FF2B84060FDEE,docked_bike,2021-11-11 22:03:42,2021-11-11 22:15:48,Clinton St & Newark St,HB409,Warren St,JC006,40.73743,-74.03571,40.721124,-74.038051,casual
+1772207,017F682C50FD5E0E,docked_bike,2021-11-10 22:34:12,2021-11-10 22:40:14,Clinton St & Newark St,HB409,Newport Pkwy,JC008,40.73743,-74.03571,40.728745,-74.032108,casual

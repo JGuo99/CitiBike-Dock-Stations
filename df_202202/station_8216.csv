@@ -1,0 +1,13 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+848,9235E5EF6784CAD4,electric_bike,2022-02-23 17:39:39,2022-02-23 18:13:15,W 186 St & St. Nicholas Ave,8416,Waterloo Pl & Crotona Park East,8216,40.852253,-73.931308,40.839194,-73.888587,casual
+155374,4C826BB46942EC2E,electric_bike,2022-02-17 14:59:59,2022-02-17 15:21:10,Waterloo Pl & Crotona Park East,8216,Grand Concourse & E 197 St,8667,40.839194,-73.888587,40.86945,-73.89148,casual
+199068,5360CE57A3D7D65F,electric_bike,2022-02-19 10:06:33,2022-02-19 10:23:25,Waterloo Pl & Crotona Park East,8216,Wadsworth Ave & W 179 St,8336,40.839194,-73.888587,40.848467,-73.936064,casual
+570737,F86182CCF150675E,classic_bike,2022-02-02 15:04:37,2022-02-02 15:06:19,Waterloo Pl & Crotona Park East,8216,Crotona Park North & Prospect Ave,8236,40.839194,-73.888587,40.841092,-73.892317,member
+784360,CA2B6238CC7F6B2B,classic_bike,2022-02-02 18:36:14,2022-02-02 18:44:27,Waterloo Pl & Crotona Park East,8216,3 Ave & E 169 St,8103,40.839194,-73.888587,40.832678,-73.905158,casual
+813216,AF8CC3FC56F14271,electric_bike,2022-02-07 07:23:16,2022-02-07 07:29:56,Waterloo Pl & Crotona Park East,8216,Boston Rd & E 167 St,8048,40.839194,-73.888587,40.828199,-73.903719,member
+844923,D627AD2AC8DD1271,electric_bike,2022-02-17 08:47:31,2022-02-17 08:49:20,Crotona Park North & Prospect Ave,8236,Waterloo Pl & Crotona Park East,8216,40.841092,-73.892317,40.839194,-73.888587,member
+845535,A3E5F0B96A73D1DB,electric_bike,2022-02-18 08:20:09,2022-02-18 08:43:36,Willis Ave & Bruckner Blvd,7691,Waterloo Pl & Crotona Park East,8216,40.805701,-73.925177,40.839194,-73.888587,casual
+852107,23D34F7D88A69C82,electric_bike,2022-02-25 15:59:16,2022-02-25 17:41:56,Southern Blvd & E 175 St,8196,Waterloo Pl & Crotona Park East,8216,40.839335,-73.886445,40.839194,-73.888587,casual
+857118,85F401AEF177B6E4,electric_bike,2022-02-16 16:25:48,2022-02-16 16:42:20,Wilkins Ave & Crotona Park E,8167,Waterloo Pl & Crotona Park East,8216,40.835302,-73.895133,40.839194,-73.888587,casual
+857499,DCAEC03F654EB175,electric_bike,2022-02-23 22:33:53,2022-02-23 22:48:24,Prospect Ave & E 167 St,8008,Waterloo Pl & Crotona Park East,8216,40.826303,-73.898751,40.839194,-73.888587,member
+1118632,AB86DE80454CF6B1,electric_bike,2022-02-18 02:01:27,2022-02-18 02:04:42,Waterloo Pl & Crotona Park East,8216,Southern Blvd & E 174 St,8163,40.839194,-73.888587,40.836733,-73.887931,casual

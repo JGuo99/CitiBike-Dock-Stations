@@ -1,0 +1,67 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+300782,C4DADE3FF7A6B492,electric_bike,2022-02-10 14:05:56,2022-02-10 14:07:59,Decatur Ave & Bedford Park Blvd,8664,E 201 St & Briggs Ave,8717,40.86813,-73.88412,40.87207,-73.88459,member
+300785,F19DF2CA35F3AEC8,electric_bike,2022-02-16 09:31:04,2022-02-16 09:34:15,Decatur Ave & Bedford Park Blvd,8664,E 201 St & Briggs Ave,8717,40.86813,-73.88412,40.87207,-73.88459,casual
+317883,8A31BD939D1398E4,electric_bike,2022-02-22 07:54:42,2022-02-22 08:07:28,Decatur Ave & Bedford Park Blvd,8664,E 174 St & Longfellow Ave,8144,40.86813,-73.88412,40.836274,-73.884308,member
+461365,7060226B5CFFD47E,classic_bike,2022-02-03 16:03:25,2022-02-03 16:10:31,Decatur Ave & Bedford Park Blvd,8664,E Fordham Rd & Webster Ave,8582,40.86813,-73.88412,40.861748,-73.89105,member
+462511,7A79B15B4297B983,electric_bike,2022-02-15 07:52:15,2022-02-15 07:55:33,Decatur Ave & Bedford Park Blvd,8664,E Fordham Rd & Webster Ave,8582,40.86813,-73.88412,40.861748,-73.89105,member
+462836,5C1FA756B38545CC,electric_bike,2022-02-09 19:00:36,2022-02-09 19:04:18,Decatur Ave & Bedford Park Blvd,8664,E Fordham Rd & Webster Ave,8582,40.86813,-73.88412,40.861748,-73.89105,casual
+482695,179DC6551A39D993,electric_bike,2022-02-26 21:40:58,2022-02-26 21:42:56,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+482696,0ED8D85BA02B0202,electric_bike,2022-02-26 21:00:14,2022-02-26 21:02:37,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+482818,30D20A31C8D7F9DB,electric_bike,2022-02-23 12:23:52,2022-02-23 12:25:24,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+483428,943524A48382A203,electric_bike,2022-02-12 23:40:17,2022-02-12 23:43:01,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+483429,AB62932B5E583802,electric_bike,2022-02-15 19:58:39,2022-02-15 20:01:32,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+483487,BDF5D81B7A9CB7CB,electric_bike,2022-02-17 16:27:14,2022-02-17 16:29:37,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,member
+483917,439D2CC126F66439,classic_bike,2022-02-28 14:09:32,2022-02-28 14:13:59,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & Bedford Park Blvd,8682,40.86813,-73.88412,40.87002,-73.88565,casual
+545645,651FA55EA229AC8D,classic_bike,2022-02-26 18:47:59,2022-02-26 19:01:58,Decatur Ave & Bedford Park Blvd,8664,Ryer Ave & E 182 St,8494,40.86813,-73.88412,40.8558,-73.89956,member
+546296,E037EA1977DE8C00,classic_bike,2022-02-26 18:48:15,2022-02-26 19:01:50,Decatur Ave & Bedford Park Blvd,8664,Ryer Ave & E 182 St,8494,40.86813,-73.88412,40.8558,-73.89956,member
+569598,777A6066A9EA014B,electric_bike,2022-02-01 08:43:01,2022-02-01 08:48:01,Decatur Ave & Bedford Park Blvd,8664,Jerome Ave & Bedford Park Blvd E,8734,40.86813,-73.88412,40.87307,-73.88971,member
+569606,49835DD41B5BD9BF,classic_bike,2022-02-09 14:49:45,2022-02-09 14:54:56,Decatur Ave & Bedford Park Blvd,8664,Jerome Ave & Bedford Park Blvd E,8734,40.86813,-73.88412,40.87307,-73.88971,member
+597346,34DF0B162496AAE7,electric_bike,2022-02-14 13:38:10,2022-02-14 13:47:20,Decatur Ave & Bedford Park Blvd,8664,Bainbridge Ave & E 193 St,8582,40.86813,-73.88412,40.86389,-73.89246,member
+672907,3BE3C2A207E40C1D,classic_bike,2022-02-12 12:42:48,2022-02-12 13:34:38,Decatur Ave & Bedford Park Blvd,8664,Central Park W & W 103 St,7577,40.86813,-73.88412,40.79558954105342,-73.96188408136368,member
+821367,04D59D8D69031312,classic_bike,2022-02-08 23:07:13,2022-02-08 23:28:58,Decatur Ave & Bedford Park Blvd,8664,Boston Rd & E 167 St,8048,40.86813,-73.88412,40.828199,-73.903719,member
+898393,656F503BB276C458,classic_bike,2022-02-02 18:27:24,2022-02-02 18:33:12,Decatur Ave & Bedford Park Blvd,8664,Decatur Ave & E 197 St,8597,40.86813,-73.88412,40.86557,-73.88807,member
+940769,D50B90F2577F4D15,electric_bike,2022-02-20 19:29:16,2022-02-20 19:32:12,Decatur Ave & Bedford Park Blvd,8664,Grand Concourse & E 199 St,8703,40.86813,-73.88412,40.87142,-73.88839,member
+991368,7D72B9EE33A6FADC,classic_bike,2022-02-08 17:03:49,2022-02-08 17:15:14,Paul Ave & W 205 St,8782,Decatur Ave & Bedford Park Blvd,8664,40.87704,-73.88943,40.86813,-73.88412,member
+992020,77646A742E208FA7,classic_bike,2022-02-11 22:55:57,2022-02-11 23:17:45,Webster Ave & E 166 St,8052,Decatur Ave & Bedford Park Blvd,8664,40.828975,-73.911259,40.86813,-73.88412,casual
+992388,72C4C7B53147A690,classic_bike,2022-02-14 18:07:11,2022-02-14 18:18:47,Goulden Ave & Bedford Park Blvd W,8738,Decatur Ave & Bedford Park Blvd,8664,40.87387,-73.89533,40.86813,-73.88412,member
+992391,BFF2D4D17B9C19A1,classic_bike,2022-02-28 18:06:09,2022-02-28 18:14:36,Goulden Ave & Bedford Park Blvd W,8738,Decatur Ave & Bedford Park Blvd,8664,40.87387,-73.89533,40.86813,-73.88412,member
+992500,4602F5B60EBD5E60,classic_bike,2022-02-11 16:15:26,2022-02-11 16:18:16,Decatur Ave & E 197 St,8597,Decatur Ave & Bedford Park Blvd,8664,40.86557,-73.88807,40.86813,-73.88412,member
+993205,DD12B3E5B0B520FC,classic_bike,2022-02-26 19:15:57,2022-02-26 19:56:24,Tiebout Ave & E 184 St,8510,Decatur Ave & Bedford Park Blvd,8664,40.858498,-73.89637,40.86813,-73.88412,member
+993226,16D4D26EE1607E94,electric_bike,2022-02-17 07:44:42,2022-02-17 07:49:44,E 201 St & Briggs Ave,8717,Decatur Ave & Bedford Park Blvd,8664,40.87207,-73.88459,40.86813,-73.88412,casual
+993231,A324C0C107C5F105,electric_bike,2022-02-14 16:00:24,2022-02-14 16:03:28,E 201 St & Briggs Ave,8717,Decatur Ave & Bedford Park Blvd,8664,40.87207,-73.88459,40.86813,-73.88412,member
+993424,80B1DD8291465737,electric_bike,2022-02-09 17:14:56,2022-02-09 17:18:32,E Mosholu Pkwy & Van Cortlandt Ave E,8778,Decatur Ave & Bedford Park Blvd,8664,40.87656,-73.88366,40.86813,-73.88412,casual
+993444,9C6F7251CC5A9CBD,electric_bike,2022-02-26 20:16:21,2022-02-26 20:18:58,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+993445,4F35DA78918631C5,electric_bike,2022-02-26 21:23:51,2022-02-26 21:25:28,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+993460,FDF9E037966A5DBC,classic_bike,2022-02-09 12:29:24,2022-02-09 12:30:51,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+993531,EF7901A7819CF164,electric_bike,2022-02-21 20:11:01,2022-02-21 20:12:02,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+994201,B550314415ECB2A0,electric_bike,2022-02-28 08:53:23,2022-02-28 08:55:13,Decatur Ave & Oliver Pl,8631,Decatur Ave & Bedford Park Blvd,8664,40.867,-73.8857764,40.86813,-73.88412,member
+994245,8EE6512D5892DA12,classic_bike,2022-02-09 11:11:34,2022-02-09 11:18:24,Decatur Ave & Oliver Pl,8631,Decatur Ave & Bedford Park Blvd,8664,40.867,-73.8857764,40.86813,-73.88412,member
+994278,12B9C6CA01EDB91D,electric_bike,2022-02-17 20:41:08,2022-02-17 20:52:02,Decatur Ave & Oliver Pl,8631,Decatur Ave & Bedford Park Blvd,8664,40.867,-73.8857764,40.86813,-73.88412,casual
+995433,C71E01152C232DA4,classic_bike,2022-02-10 16:53:22,2022-02-10 16:56:06,Decatur Ave & E 197 St,8597,Decatur Ave & Bedford Park Blvd,8664,40.86557,-73.88807,40.86813,-73.88412,member
+995434,78196B0285956E3A,classic_bike,2022-02-16 19:58:31,2022-02-16 20:01:43,Decatur Ave & E 197 St,8597,Decatur Ave & Bedford Park Blvd,8664,40.86557,-73.88807,40.86813,-73.88412,member
+995466,ECE16DC1D36AA8B1,classic_bike,2022-02-04 21:33:35,2022-02-04 21:45:53,Jerome Ave & E Mosholu Parkway S,8795,Decatur Ave & Bedford Park Blvd,8664,40.87935,-73.88534,40.86813,-73.88412,member
+995794,C4CF1AC56C4D13C9,classic_bike,2022-02-11 22:09:38,2022-02-11 22:48:26,E 89 St & 3 Ave,7265,Decatur Ave & Bedford Park Blvd,8664,40.7806284,-73.9521667,40.86813,-73.88412,member
+996073,6572B7FFF22A5CE5,classic_bike,2022-02-17 14:22:02,2022-02-17 16:43:16,Lenox Ave & W 117 St,7655,Decatur Ave & Bedford Park Blvd,8664,40.8025566,-73.9490782,40.86813,-73.88412,casual
+996798,9903CBFCF85C9695,electric_bike,2022-02-10 17:16:54,2022-02-10 17:20:52,Bainbridge Ave & E 193 St,8582,Decatur Ave & Bedford Park Blvd,8664,40.86389,-73.89246,40.86813,-73.88412,casual
+997035,F9CD9EE20F36A61D,electric_bike,2022-02-15 19:47:06,2022-02-15 19:49:20,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+997149,3F4ED3C073B2DEAD,electric_bike,2022-02-10 19:37:11,2022-02-10 19:56:18,Sherman Ave & Thayer St,8583,Decatur Ave & Bedford Park Blvd,8664,40.863124,-73.926994,40.86813,-73.88412,member
+997810,04FC67AF4C273E22,electric_bike,2022-02-15 07:00:25,2022-02-15 07:03:07,Jerome Ave & Bedford Park Blvd E,8734,Decatur Ave & Bedford Park Blvd,8664,40.87307,-73.88971,40.86813,-73.88412,casual
+997964,629B0386A035C96D,classic_bike,2022-02-10 17:33:32,2022-02-10 17:51:25,Tiebout Ave & E Fordham Road,8546,Decatur Ave & Bedford Park Blvd,8664,40.861915,-73.894831,40.86813,-73.88412,casual
+998302,CCF8C7BBA7E311E0,classic_bike,2022-02-20 19:19:59,2022-02-20 20:12:13,W 106 St & Central Park West,7606,Decatur Ave & Bedford Park Blvd,8664,40.7981856,-73.9605909006,40.86813,-73.88412,member
+999417,5DDE4B42801013F3,classic_bike,2022-02-22 07:53:06,2022-02-22 07:54:16,Bainbridge Ave & Bedford Park Blvd,8682,Decatur Ave & Bedford Park Blvd,8664,40.87002,-73.88565,40.86813,-73.88412,member
+999603,B72F47CF6487B770,electric_bike,2022-02-22 22:06:24,2022-02-23 07:03:23,E Fordham Rd & Webster Ave,8582,Decatur Ave & Bedford Park Blvd,8664,40.861748,-73.89105,40.86813,-73.88412,casual
+999621,E828F77D7D6323E2,electric_bike,2022-02-13 17:36:38,2022-02-13 17:40:37,E Fordham Rd & Webster Ave,8582,Decatur Ave & Bedford Park Blvd,8664,40.861748,-73.89105,40.86813,-73.88412,member
+1000450,B7F6BE52AD582D2C,electric_bike,2022-02-11 16:26:56,2022-02-11 17:47:29,E 84 St & 1 Ave,7180,Decatur Ave & Bedford Park Blvd,8664,40.77565541,-73.95068615,40.86813,-73.88412,member
+1000482,97F1387FA6151D76,electric_bike,2022-02-08 22:22:17,2022-02-08 22:44:42,Boston Rd & E 167 St,8048,Decatur Ave & Bedford Park Blvd,8664,40.828199,-73.903719,40.86813,-73.88412,member
+1001269,B8F922197B7E219A,classic_bike,2022-02-17 08:19:57,2022-02-17 09:02:24,Pleasant Ave & E 120 St,7579,Decatur Ave & Bedford Park Blvd,8664,40.7974772,-73.9311847,40.86813,-73.88412,member
+1001655,67F2914DBAABE2DE,electric_bike,2022-02-09 16:49:45,2022-02-09 17:02:43,Goulden Ave & W 197 St,8707,Decatur Ave & Bedford Park Blvd,8664,40.87156,-73.89714,40.86813,-73.88412,member
+1003131,5D3EF14D93511784,classic_bike,2022-02-12 12:40:02,2022-02-12 12:41:39,Botanical Sq & Webster Ave,8646,Decatur Ave & Bedford Park Blvd,8664,40.86814,-73.88145,40.86813,-73.88412,member
+1003513,539744BB84006ABF,electric_bike,2022-02-20 15:43:34,2022-02-20 16:35:31,Decatur Ave & Bedford Park Blvd,8664,Decatur Ave & Bedford Park Blvd,8664,40.86813,-73.88412,40.86813,-73.88412,casual
+1003611,A87399FDB860EE1E,classic_bike,2022-02-18 14:15:43,2022-02-18 14:41:54,Decatur Ave & Bedford Park Blvd,8664,Decatur Ave & Bedford Park Blvd,8664,40.86813,-73.88412,40.86813,-73.88412,casual
+1003713,7A5C7D8A3F17C285,classic_bike,2022-02-23 17:08:22,2022-02-23 17:47:22,Marion Ave & Mosholu Pkwy,8699,Decatur Ave & Bedford Park Blvd,8664,40.8704956,-73.8818756582,40.86813,-73.88412,casual
+1012899,1FEA15E89A938078,electric_bike,2022-02-11 16:18:38,2022-02-11 16:20:44,Decatur Ave & Bedford Park Blvd,8664,Marion Ave & Mosholu Pkwy,8699,40.86813,-73.88412,40.8704956,-73.8818756582,member
+1111777,52570CD5855EFA32,electric_bike,2022-02-17 07:14:13,2022-02-17 07:27:18,Decatur Ave & Bedford Park Blvd,8664,Crotona Park East & E 173 St,8182,40.86813,-73.88412,40.837037,-73.890413,casual
+1182167,D45DDBEA921AA4D6,electric_bike,2022-02-12 03:26:40,2022-02-12 03:28:59,Decatur Ave & Bedford Park Blvd,8664,E 201 St & Briggs Ave,8717,40.86813,-73.88412,40.87207,-73.88459,member
+1231764,441D81D33C578B8C,electric_bike,2022-02-17 15:58:37,2022-02-17 16:12:08,E 174 St & Longfellow Ave,8144,Decatur Ave & Bedford Park Blvd,8664,40.836274,-73.884308,40.86813,-73.88412,member
+1231838,6637BE552B60A8AF,classic_bike,2022-02-20 15:44:27,2022-02-20 16:35:45,Decatur Ave & Bedford Park Blvd,8664,Decatur Ave & Bedford Park Blvd,8664,40.86813,-73.88412,40.86813,-73.88412,casual
+1232638,10A23376981197CD,classic_bike,2022-02-17 14:35:29,2022-02-17 14:39:06,Decatur Ave & Bedford Park Blvd,8664,Marion Ave & Mosholu Pkwy,8699,40.86813,-73.88412,40.8704956,-73.8818756582,member

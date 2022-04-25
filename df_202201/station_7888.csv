@@ -1,0 +1,21 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+1223,31162E11C89C3D64,classic_bike,2022-01-27 18:50:44,2022-01-27 18:54:10,Dawson St & Intervale Ave,7888,Intervale Ave & Westchester Ave,7948,40.819999,-73.897263,40.821967,-73.896752,member
+37501,C768F11158575AD4,electric_bike,2022-01-03 21:36:47,2022-01-03 21:40:57,Dawson St & Intervale Ave,7888,Intervale Ave & Kelly St,8044,40.819999,-73.897263,40.827301,-73.896372,member
+37532,20AC83431A6EB8D3,electric_bike,2022-01-01 00:55:30,2022-01-01 00:58:35,Dawson St & Intervale Ave,7888,Intervale Ave & Kelly St,8044,40.819999,-73.897263,40.827301,-73.896372,member
+37947,8A6999A05FBF1B01,electric_bike,2022-01-27 12:26:20,2022-01-27 12:31:00,Dawson St & Intervale Ave,7888,Cauldwell Ave & E 158 St,7913,40.819999,-73.897263,40.81989,-73.908351,member
+38656,A0884F9063633993,classic_bike,2022-01-21 17:27:29,2022-01-21 17:34:01,Dawson St & Intervale Ave,7888,Intervale Ave & Kelly St,8044,40.819999,-73.897263,40.827301,-73.896372,member
+49017,918D22E3E9830208,electric_bike,2022-01-28 09:13:48,2022-01-28 09:19:03,Cauldwell Ave & E 158 St,7913,Dawson St & Intervale Ave,7888,40.81989,-73.908351,40.819999,-73.897263,member
+49200,EF36228B61C831C7,classic_bike,2022-01-13 16:54:51,2022-01-13 17:24:59,Dawson St & Intervale Ave,7888,Dawson St & Intervale Ave,7888,40.819999,-73.897263,40.819999,-73.897263,casual
+49541,2B63A07F214BA2F7,electric_bike,2022-01-03 21:10:58,2022-01-03 21:14:57,Intervale Ave & Kelly St,8044,Dawson St & Intervale Ave,7888,40.827301,-73.896372,40.819999,-73.897263,member
+49636,F06B65399070D7E1,classic_bike,2022-01-12 16:54:37,2022-01-12 17:29:55,Dawson St & Intervale Ave,7888,Dawson St & Intervale Ave,7888,40.819999,-73.897263,40.819999,-73.897263,casual
+50132,4C7647EF371BB16C,classic_bike,2022-01-31 09:23:10,2022-01-31 09:31:49,Cauldwell Ave & E 161 St,7952,Dawson St & Intervale Ave,7888,40.82188,-73.907521,40.819999,-73.897263,member
+94186,EEF07E7A838D8DD3,electric_bike,2022-01-07 14:56:19,2022-01-07 15:03:11,Dawson St & Intervale Ave,7888,E 156 & Brook Ave,7896,40.819999,-73.897263,40.819823,-73.912411,member
+117691,53795B87626D940F,classic_bike,2022-01-05 19:45:21,2022-01-05 19:47:37,Dawson St & Intervale Ave,7888,Intervale Ave & Westchester Ave,7948,40.819999,-73.897263,40.821967,-73.896752,member
+144642,5B22F2BC35DB5A02,electric_bike,2022-01-19 14:15:55,2022-01-19 14:28:47,Dawson St & Intervale Ave,7888,3 Ave & E 163 St,7974,40.819999,-73.897263,40.823872,-73.908699,casual
+146937,C56DAD39900EB863,electric_bike,2022-01-26 13:31:50,2022-01-26 13:37:35,Longwood Ave & Southern Blvd,7849,Dawson St & Intervale Ave,7888,40.816343,-73.896447,40.819999,-73.897263,member
+146953,5AFEC9E1B4B45EAA,classic_bike,2022-01-06 13:26:31,2022-01-06 13:29:53,Longwood Ave & Southern Blvd,7849,Dawson St & Intervale Ave,7888,40.816343,-73.896447,40.819999,-73.897263,member
+159315,7A110E5A5F0BFC2C,classic_bike,2022-01-05 13:44:35,2022-01-05 13:48:20,Dawson St & Intervale Ave,7888,Prospect Ave & Longwood Ave,7870,40.819999,-73.897263,40.81899,-73.90202,member
+447871,5AADC60E42B840F6,classic_bike,2022-01-07 14:54:15,2022-01-07 14:55:27,Intervale Ave & Westchester Ave,7948,Dawson St & Intervale Ave,7888,40.821967,-73.896752,40.819999,-73.897263,member
+449532,FDC5131EC8629C25,electric_bike,2022-01-06 16:02:03,2022-01-06 16:14:52,Willis Ave & E 137 St,7726,Dawson St & Intervale Ave,7888,40.808384,-73.923604,40.819999,-73.897263,member
+449684,3D870ABB0A1A80CA,electric_bike,2022-01-19 08:54:09,2022-01-19 09:05:40,3 Ave & E 163 St,7974,Dawson St & Intervale Ave,7888,40.823872,-73.908699,40.819999,-73.897263,casual
+450039,17568E9E1D9FA1A1,classic_bike,2022-01-06 13:43:58,2022-01-06 13:45:21,Intervale Ave & Westchester Ave,7948,Dawson St & Intervale Ave,7888,40.821967,-73.896752,40.819999,-73.897263,member

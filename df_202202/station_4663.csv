@@ -1,0 +1,715 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+46,2FD4E94363942EBB,electric_bike,2022-02-28 14:22:26,2022-02-28 14:28:47,Madison St & Forest Ave,5025,Putnam Ave & Knickerbocker Ave,4663,40.70555,-73.90245,40.69545,-73.91164,member
+47,A6D9390D4CF7F531,classic_bike,2022-02-27 21:11:22,2022-02-27 21:19:34,Madison St & Forest Ave,5025,Putnam Ave & Knickerbocker Ave,4663,40.70555,-73.90245,40.69545,-73.91164,member
+974,535E613C2F0ECF06,electric_bike,2022-02-16 14:53:40,2022-02-16 14:58:34,Knickerbocker Ave & Hancock St,4663,Jefferson Ave & Evergreen Ave,4517,40.69385,-73.90974,40.68989,-73.91458,casual
+1216,3AEEC42135CC4D80,electric_bike,2022-02-18 19:19:26,2022-02-18 19:25:38,Knickerbocker Ave & Hancock St,4663,Cedar St & Myrtle Ave,4751,40.69385,-73.90974,40.697842,-73.926241,member
+1843,C3E4B345286F291F,electric_bike,2022-02-04 20:16:31,2022-02-04 20:24:22,Knickerbocker Ave & Hancock St,4663,Bushwick Ave & Dekalb Ave,4680,40.69385,-73.90974,40.69502,-73.92825,member
+2799,6AD7676E07EF0823,electric_bike,2022-02-27 13:49:13,2022-02-27 14:19:58,Knickerbocker Ave & Hancock St,4663,N 6 St & Bedford Ave,5379,40.69385,-73.90974,40.71745169,-73.95850939,casual
+4487,986DB35E33423625,electric_bike,2022-02-26 12:02:01,2022-02-26 12:25:27,Knickerbocker Ave & Hancock St,4663,S 4 St & Wythe Ave,5204,40.69385,-73.90974,40.71285887,-73.96590294,member
+4887,70F3F97B2AA48F55,classic_bike,2022-02-12 03:14:28,2022-02-12 03:25:50,Melrose St & Broadway,4801,Putnam Ave & Knickerbocker Ave,4663,40.697481,-73.935877,40.69545,-73.91164,member
+4923,634025A0D6044F73,electric_bike,2022-02-18 13:22:12,2022-02-18 13:24:46,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+5297,2F2604769A0D303F,electric_bike,2022-02-14 23:49:25,2022-02-14 23:56:07,Grove St & Broadway,4526,Putnam Ave & Knickerbocker Ave,4663,40.69047,-73.923511,40.69545,-73.91164,casual
+6713,AE6F853162F986A5,classic_bike,2022-02-17 17:09:00,2022-02-17 17:13:39,Knickerbocker Ave & Hancock St,4663,Madison St & Evergreen Ave,4560,40.69385,-73.90974,40.69122,-73.91693,member
+6783,078BAE5B1403FD16,classic_bike,2022-02-01 20:22:29,2022-02-01 20:35:41,Knickerbocker Ave & Hancock St,4663,Suydam St & Broadway,4689,40.69385,-73.90974,40.69544,-73.93223,member
+16510,115ACF1DAE3785FC,electric_bike,2022-02-19 11:40:40,2022-02-19 12:09:35,Knickerbocker Ave & Hancock St,4663,S 4 St & Wythe Ave,5204,40.69385,-73.90974,40.71285887,-73.96590294,member
+16513,2551323DB364AEB3,classic_bike,2022-02-11 17:28:22,2022-02-11 18:07:21,Madison St & Forest Ave,5025,Knickerbocker Ave & Hancock St,4663,40.70555,-73.90245,40.69385,-73.90974,member
+16528,6273E363A9C41D3D,classic_bike,2022-02-21 01:15:55,2022-02-21 01:30:30,Melrose St & Broadway,4801,Knickerbocker Ave & Hancock St,4663,40.697481,-73.935877,40.69385,-73.90974,member
+16546,55DE4C480F1A1346,electric_bike,2022-02-17 18:57:02,2022-02-17 19:08:04,Humboldt St & Varet St,4956,Knickerbocker Ave & Hancock St,4663,40.7031724,-73.940636,40.69385,-73.90974,member
+16551,7734E984574FD2D4,classic_bike,2022-02-08 02:39:19,2022-02-08 02:43:28,Central Ave & Decatur St,4432,Knickerbocker Ave & Hancock St,4663,40.6882,-73.90798,40.69385,-73.90974,casual
+16558,058D202B0913FC5B,classic_bike,2022-02-21 14:27:41,2022-02-21 14:34:15,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+16570,4BFF4901179B11AE,electric_bike,2022-02-03 12:55:43,2022-02-03 13:05:02,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+16619,74BA0C49D12314CA,electric_bike,2022-02-19 11:48:17,2022-02-19 12:01:08,Kingston Ave & Herkimer St,4205,Knickerbocker Ave & Hancock St,4663,40.67890679,-73.94142771,40.69385,-73.90974,casual
+16732,0B1028FBC1ECFE67,classic_bike,2022-02-09 00:10:01,2022-02-09 00:18:14,Bushwick Ave & Harman St,4640,Knickerbocker Ave & Hancock St,4663,40.69356,-73.92524,40.69385,-73.90974,member
+16733,71663CFD977BF151,electric_bike,2022-02-02 09:58:03,2022-02-02 10:06:47,Jefferson St & Cypress Ave,5082,Knickerbocker Ave & Hancock St,4663,40.70907,-73.92157,40.69385,-73.90974,member
+16742,009B5E02643C237C,electric_bike,2022-02-18 19:20:01,2022-02-18 19:32:38,Greene Ave & Grandview Ave,5106,Knickerbocker Ave & Hancock St,4663,40.709697,-73.907856,40.69385,-73.90974,casual
+16762,B0D93B3E64D54A5D,classic_bike,2022-02-10 20:21:36,2022-02-10 20:27:40,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+16794,53E22912EE68E40A,classic_bike,2022-02-12 18:14:43,2022-02-12 18:19:44,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+16801,D0820811621A16E6,electric_bike,2022-02-28 00:49:13,2022-02-28 00:53:08,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,casual
+16867,ED1E538BCB6C30B1,electric_bike,2022-02-11 20:29:17,2022-02-11 20:44:00,Putnam Ave & Throop Ave,4392,Knickerbocker Ave & Hancock St,4663,40.6851532,-73.94111,40.69385,-73.90974,casual
+16917,49049DDFDCFA87D6,electric_bike,2022-02-28 15:43:38,2022-02-28 16:02:41,Leonard St & Maujer St,5148,Knickerbocker Ave & Hancock St,4663,40.7103685423523,-73.94705951213837,40.69385,-73.90974,casual
+16971,1CC18EC26698DB9B,electric_bike,2022-02-03 03:29:30,2022-02-03 04:01:57,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,member
+16975,FBA5D8F479D1DF39,classic_bike,2022-02-27 12:05:42,2022-02-27 12:24:25,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,casual
+17088,327B06F7630B39F4,electric_bike,2022-02-13 02:24:11,2022-02-13 02:30:05,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,member
+17108,C7D44F1FDA163BA5,classic_bike,2022-02-27 12:05:29,2022-02-27 12:24:30,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,casual
+19230,6BEA3AE6ACB41291,electric_bike,2022-02-03 21:35:50,2022-02-03 22:12:21,Pierrepont St & Monroe Pl,4718,Putnam Ave & Knickerbocker Ave,4663,40.69535693320225,-73.99344027042389,40.69545,-73.91164,casual
+19241,DCE8D11DA9BB0F22,electric_bike,2022-02-17 01:31:47,2022-02-17 01:50:49,Clinton Ave & Myrtle Ave,4651,Putnam Ave & Knickerbocker Ave,4663,40.693261,-73.968896,40.69545,-73.91164,casual
+19366,07FCF1997A9B42C5,classic_bike,2022-02-24 10:59:06,2022-02-24 11:15:04,Halsey St & Tompkins Ave,4319,Putnam Ave & Knickerbocker Ave,4663,40.6823687,-73.944118,40.69545,-73.91164,casual
+19534,885D72118EBD69D0,classic_bike,2022-02-27 21:31:06,2022-02-27 21:40:27,Suydam St & Knickerbocker Ave,4939,Putnam Ave & Knickerbocker Ave,4663,40.702013,-73.923769,40.69545,-73.91164,casual
+19606,8B511D3F96AF3421,electric_bike,2022-02-12 12:47:33,2022-02-12 12:53:05,Madison St & Forest Ave,5025,Putnam Ave & Knickerbocker Ave,4663,40.70555,-73.90245,40.69545,-73.91164,member
+19814,1E944BEC8814B186,electric_bike,2022-02-14 16:02:16,2022-02-14 16:30:36,Fairview Ave & Linden St,5066,Putnam Ave & Knickerbocker Ave,4663,40.70694,-73.90632,40.69545,-73.91164,member
+20046,BFE38559BE3CD163,classic_bike,2022-02-20 11:50:35,2022-02-20 11:58:05,Fairview Ave & Linden St,5066,Putnam Ave & Knickerbocker Ave,4663,40.70694,-73.90632,40.69545,-73.91164,casual
+20075,CEC62A8CC44E6B9B,electric_bike,2022-02-22 18:27:11,2022-02-22 18:28:36,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+20172,E8FDD5F8332FBC6B,electric_bike,2022-02-12 22:40:06,2022-02-12 22:49:28,Moffat St & Bushwick,4357,Putnam Ave & Knickerbocker Ave,4663,40.68458,-73.90925,40.69545,-73.91164,member
+20178,FF7FDA93A27DBF5B,classic_bike,2022-02-08 23:52:24,2022-02-08 23:57:18,Wyckoff Av & Stanhope St,4931,Putnam Ave & Knickerbocker Ave,4663,40.703545,-73.917775,40.69545,-73.91164,member
+20199,46BDC269AEE22505,classic_bike,2022-02-23 16:35:15,2022-02-23 17:21:36,Greene Av & Myrtle Av,4784,Putnam Ave & Knickerbocker Ave,4663,40.698568,-73.918877,40.69545,-73.91164,member
+20202,7E2BB4273037A55D,classic_bike,2022-02-26 17:45:47,2022-02-26 17:52:51,Myrtle Ave & Linden St,4816,Putnam Ave & Knickerbocker Ave,4663,40.69943,-73.91337,40.69545,-73.91164,member
+20236,11003B3D639E2254,electric_bike,2022-02-02 17:35:44,2022-02-02 18:06:20,Carlton Ave & Park Ave,4732,Putnam Ave & Knickerbocker Ave,4663,40.69580705,-73.97355569,40.69545,-73.91164,casual
+20260,329F4B4C27393EE1,classic_bike,2022-02-18 07:25:33,2022-02-18 07:27:28,Knickerbocker Ave & Hancock St,4663,Putnam Ave & Knickerbocker Ave,4663,40.69385,-73.90974,40.69545,-73.91164,member
+20323,D51AE68F80761B56,electric_bike,2022-02-23 22:36:30,2022-02-23 22:43:49,Irving Ave & Jefferson St,5051,Putnam Ave & Knickerbocker Ave,4663,40.70538,-73.92535,40.69545,-73.91164,member
+20963,7F6BFEC55948D819,electric_bike,2022-02-23 18:38:06,2022-02-23 18:43:29,Broadway & Madison St,4483,Putnam Ave & Knickerbocker Ave,4663,40.68822,-73.91966,40.69545,-73.91164,casual
+21891,49E0BBDCD365F8F5,classic_bike,2022-02-20 21:11:15,2022-02-20 21:26:57,Moffat St & Bushwick,4357,Putnam Ave & Knickerbocker Ave,4663,40.68458,-73.90925,40.69545,-73.91164,casual
+26483,A0FC25F1CCD79C99,electric_bike,2022-02-05 09:39:06,2022-02-05 09:46:53,Knickerbocker Ave & Hancock St,4663,Stockholm St & Wilson Ave,4824,40.69385,-73.90974,40.699304,-73.923044,casual
+27267,49F96F696BD1810E,electric_bike,2022-02-09 17:32:12,2022-02-09 17:35:04,Knickerbocker Ave & Hancock St,4663,Putnam Ave & Wyckoff Ave,4735,40.69385,-73.90974,40.69811,-73.90904,member
+27274,472371F8AD4D9D25,classic_bike,2022-02-21 10:15:07,2022-02-21 10:20:01,Knickerbocker Ave & Hancock St,4663,Putnam Ave & Wyckoff Ave,4735,40.69385,-73.90974,40.69811,-73.90904,member
+27492,61D7F4D5F88C044F,electric_bike,2022-02-16 19:30:02,2022-02-16 19:36:38,Knickerbocker Ave & Hancock St,4663,Forest Ave & Summerfield St,4798,40.69385,-73.90974,40.69922,-73.89795,member
+29098,342E0EB0579399F4,electric_bike,2022-02-04 18:36:47,2022-02-04 18:43:58,Knickerbocker Ave & Hancock St,4663,Hart St & Wyckoff Ave,4971,40.69385,-73.90974,40.704876,-73.919911,member
+29809,E608561A730C80A6,electric_bike,2022-02-27 00:57:54,2022-02-27 01:39:15,Knickerbocker Ave & Hancock St,4663,Irving Ave & Halsey St,4695,40.69385,-73.90974,40.69467,-73.90663,member
+30820,423A66D337E223F4,electric_bike,2022-02-20 19:25:45,2022-02-20 19:36:11,George St & Wilson Ave,4906,Putnam Ave & Knickerbocker Ave,4663,40.702997,-73.92997,40.69545,-73.91164,member
+30823,D77DB8A7D5F5EB4F,classic_bike,2022-02-26 16:03:52,2022-02-26 16:13:00,Cedar St & Myrtle Ave,4751,Putnam Ave & Knickerbocker Ave,4663,40.697842,-73.926241,40.69545,-73.91164,member
+30956,343C69939F3617E2,electric_bike,2022-02-18 12:20:32,2022-02-18 15:35:28,Madison St & Forest Ave,5025,Putnam Ave & Knickerbocker Ave,4663,40.70555,-73.90245,40.69545,-73.91164,member
+30967,219059133BC55EEC,electric_bike,2022-02-27 13:23:42,2022-02-27 13:28:36,Madison St & Cypress Ave,4807,Putnam Ave & Knickerbocker Ave,4663,40.70068,-73.90742,40.69545,-73.91164,casual
+31052,6F1B25A3B805EB76,electric_bike,2022-02-10 07:50:22,2022-02-10 07:54:47,Central Ave & Himrod St,4713,Putnam Ave & Knickerbocker Ave,4663,40.69676,-73.92302,40.69545,-73.91164,casual
+31181,50905C14A1E52AA5,electric_bike,2022-02-09 13:57:09,2022-02-09 14:09:25,Kingston Ave & Herkimer St,4205,Putnam Ave & Knickerbocker Ave,4663,40.67890679,-73.94142771,40.69545,-73.91164,casual
+31372,26537C9584DEDCB2,electric_bike,2022-02-26 00:23:27,2022-02-26 00:30:49,Halsey St & Broadway,4366,Putnam Ave & Knickerbocker Ave,4663,40.68565,-73.91564,40.69545,-73.91164,casual
+31784,6863FEE7608B50EA,electric_bike,2022-02-05 13:45:14,2022-02-05 13:48:19,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+31808,682BCA3A1ACADCA4,electric_bike,2022-02-25 14:46:49,2022-02-25 15:27:30,Lorimer St & Broadway,4965,Putnam Ave & Knickerbocker Ave,4663,40.70411791,-73.94818595,40.69545,-73.91164,casual
+38908,61A1104289721C6F,electric_bike,2022-02-13 02:45:25,2022-02-13 03:01:14,Knickerbocker Ave & Hancock St,4663,Franklin Ave & St Marks Ave,4107,40.69385,-73.90974,40.6758324,-73.9561677,member
+42993,3DF8403D2CE54343,electric_bike,2022-02-12 04:04:13,2022-02-12 04:13:12,George St & Wilson Ave,4906,Knickerbocker Ave & Hancock St,4663,40.702997,-73.92997,40.69385,-73.90974,member
+43028,F27F60CFA7F95F30,classic_bike,2022-02-03 23:41:39,2022-02-03 23:54:26,Suydam St & Broadway,4689,Knickerbocker Ave & Hancock St,4663,40.69544,-73.93223,40.69385,-73.90974,member
+43084,5D7A39138729D43E,classic_bike,2022-02-06 23:26:55,2022-02-06 23:33:30,Halsey St & Broadway,4366,Knickerbocker Ave & Hancock St,4663,40.68565,-73.91564,40.69385,-73.90974,casual
+43124,4B1D203308EB114C,electric_bike,2022-02-15 17:43:40,2022-02-15 18:08:41,Adelphi St & Myrtle Ave,4620,Knickerbocker Ave & Hancock St,4663,40.69308257,-73.97178913,40.69385,-73.90974,member
+43125,9417F6B5DAB2D0E3,electric_bike,2022-02-09 18:12:48,2022-02-09 18:39:24,Adelphi St & Myrtle Ave,4620,Knickerbocker Ave & Hancock St,4663,40.69308257,-73.97178913,40.69385,-73.90974,member
+43300,AA1E6D80C76BBE3F,electric_bike,2022-02-24 15:52:59,2022-02-24 16:06:22,Putnam Ave & Throop Ave,4392,Knickerbocker Ave & Hancock St,4663,40.6851532,-73.94111,40.69385,-73.90974,casual
+43412,0F94424A807F2238,classic_bike,2022-02-03 09:28:05,2022-02-03 09:36:17,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+43420,F55A49B33D6CBFD6,electric_bike,2022-02-19 11:34:05,2022-02-19 11:34:43,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+43435,8D405FB8D7630F99,classic_bike,2022-02-17 09:59:57,2022-02-17 10:05:06,Central Ave & Decatur St,4432,Knickerbocker Ave & Hancock St,4663,40.6882,-73.90798,40.69385,-73.90974,casual
+44341,AF1011586DEFDA2D,electric_bike,2022-02-05 22:47:37,2022-02-05 22:54:55,Wilson Ave & Troutman St,4864,Knickerbocker Ave & Hancock St,4663,40.70166,-73.92754,40.69385,-73.90974,casual
+51644,7C3FFF85C6F0BDF5,electric_bike,2022-02-19 12:18:28,2022-02-19 12:21:56,Knickerbocker Ave & Hancock St,4663,Madison St & Evergreen Ave,4560,40.69385,-73.90974,40.69122,-73.91693,member
+52917,88807D4F3374B6B1,classic_bike,2022-02-02 21:34:55,2022-02-02 21:38:27,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+52918,93EB6CD580E5F7CB,electric_bike,2022-02-03 15:35:44,2022-02-03 15:40:17,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+52919,86C7AF009B0C0AF9,classic_bike,2022-02-27 14:27:43,2022-02-27 14:41:54,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+62770,919420F526C4A3AA,electric_bike,2022-02-08 13:36:52,2022-02-08 13:41:51,Knickerbocker Ave & Hancock St,4663,Forest Ave & Summerfield St,4798,40.69385,-73.90974,40.69922,-73.89795,casual
+69242,690D77FFE9A4D645,classic_bike,2022-02-18 08:59:11,2022-02-18 09:14:53,Knickerbocker Ave & Hancock St,4663,Hart St & Wyckoff Ave,4971,40.69385,-73.90974,40.704876,-73.919911,member
+73717,4AE40E2AA38EFCED,classic_bike,2022-02-06 17:30:02,2022-02-06 17:39:49,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Wyckoff Ave,5010,40.69385,-73.90974,40.705614,-73.92153,member
+75417,FFC592BECC59B5E3,classic_bike,2022-02-28 18:46:19,2022-02-28 18:51:54,Greene Av & Myrtle Av,4784,Putnam Ave & Knickerbocker Ave,4663,40.698568,-73.918877,40.69545,-73.91164,member
+75468,22A76363F7AFA64E,electric_bike,2022-02-28 18:01:55,2022-02-28 18:11:00,Wyckoff Av & Stanhope St,4931,Putnam Ave & Knickerbocker Ave,4663,40.703545,-73.917775,40.69545,-73.91164,casual
+75566,C078EE88C1D56A4E,electric_bike,2022-02-16 23:57:13,2022-02-16 23:59:18,Linden St & Knickerbocker Ave,4743,Putnam Ave & Knickerbocker Ave,4663,40.69714,-73.91566,40.69545,-73.91164,member
+75636,877225C5C6B6976D,electric_bike,2022-02-07 21:01:27,2022-02-07 21:25:44,Frost St & Meeker Ave,5371,Putnam Ave & Knickerbocker Ave,4663,40.71766197083994,-73.94880026578903,40.69545,-73.91164,casual
+75701,DC5EB7E8BF78BD98,electric_bike,2022-02-12 22:27:22,2022-02-12 22:32:53,Grove St & Broadway,4526,Putnam Ave & Knickerbocker Ave,4663,40.69047,-73.923511,40.69545,-73.91164,casual
+75732,34CA36C9D28D5685,classic_bike,2022-02-10 12:18:50,2022-02-10 12:25:07,Halsey St & Broadway,4366,Putnam Ave & Knickerbocker Ave,4663,40.68565,-73.91564,40.69545,-73.91164,casual
+75733,4CC954A8CB7FF9BB,classic_bike,2022-02-08 20:02:29,2022-02-08 20:09:15,Greene Av & Myrtle Av,4784,Putnam Ave & Knickerbocker Ave,4663,40.698568,-73.918877,40.69545,-73.91164,casual
+75753,87BBB3CE413F943C,electric_bike,2022-02-08 19:58:03,2022-02-08 20:00:01,Irving Ave & Palmetto St,4775,Putnam Ave & Knickerbocker Ave,4663,40.698,-73.9127,40.69545,-73.91164,casual
+75797,12337049DF992EBC,classic_bike,2022-02-10 13:21:00,2022-02-10 13:24:27,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+75812,9723F30DF263E49B,electric_bike,2022-02-14 07:33:50,2022-02-14 07:41:21,Broadway & Madison St,4483,Putnam Ave & Knickerbocker Ave,4663,40.68822,-73.91966,40.69545,-73.91164,casual
+75940,22259F059AB38D66,electric_bike,2022-02-08 15:42:49,2022-02-08 15:46:24,Irving Ave & Harman St,4856,Putnam Ave & Knickerbocker Ave,4663,40.70108,-73.9179,40.69545,-73.91164,member
+76052,2AA41F24C4494BB0,classic_bike,2022-02-06 21:52:37,2022-02-06 22:19:13,Frost St & Meeker Ave,5371,Putnam Ave & Knickerbocker Ave,4663,40.71766197083994,-73.94880026578903,40.69545,-73.91164,member
+76072,C8BF2C87922F06A3,electric_bike,2022-02-19 09:51:13,2022-02-19 10:03:37,Willoughby Ave & Tompkins Ave,4665,Putnam Ave & Knickerbocker Ave,4663,40.69425403,-73.94626915,40.69545,-73.91164,member
+76128,43EDEBDBF752AD94,electric_bike,2022-02-10 16:22:49,2022-02-10 16:54:47,Greene Ave & Grandview Ave,5106,Putnam Ave & Knickerbocker Ave,4663,40.709697,-73.907856,40.69545,-73.91164,member
+76166,536BAFBB03A0E2A6,electric_bike,2022-02-17 14:00:27,2022-02-17 14:34:56,38 Ave & 29 St,6538,Putnam Ave & Knickerbocker Ave,4663,40.75473,-73.93367,40.69545,-73.91164,member
+76286,78F289A45EC530C4,classic_bike,2022-02-17 19:29:50,2022-02-17 19:35:37,Broadway & Madison St,4483,Putnam Ave & Knickerbocker Ave,4663,40.68822,-73.91966,40.69545,-73.91164,member
+78473,7E81F96C0E258516,electric_bike,2022-02-19 11:35:39,2022-02-19 11:55:54,Knickerbocker Ave & Hancock St,4663,Greenpoint Ave & Manhattan Ave,5785,40.69385,-73.90974,40.73026,-73.95394,member
+89709,E62D6C3FEBD9C63D,electric_bike,2022-02-02 23:42:24,2022-02-03 00:13:50,Knickerbocker Ave & Hancock St,4663,Van Buren St & Broadway,4568,40.69385,-73.90974,40.692,-73.92617,member
+90601,5F6FF55585B8019A,classic_bike,2022-02-22 10:27:13,2022-02-22 10:34:32,Knickerbocker Ave & Hancock St,4663,Rockaway Ave & Bainbridge St,4285,40.69385,-73.90974,40.68319988172761,-73.91166642308235,member
+91544,B6BFD88654FA26E6,electric_bike,2022-02-14 11:27:51,2022-02-14 13:08:51,Knickerbocker Ave & Hancock St,4663,Irving Ave & Palmetto St,4775,40.69385,-73.90974,40.698,-73.9127,member
+96066,545C7600D122D593,electric_bike,2022-02-23 15:46:49,2022-02-23 16:25:15,8 Ave & W 27 St,6297,Putnam Ave & Knickerbocker Ave,4663,40.747968,-73.996637,40.69545,-73.91164,casual
+96134,04A652A10E2C082F,classic_bike,2022-02-22 21:35:10,2022-02-22 21:42:58,Suydam St & Knickerbocker Ave,4939,Putnam Ave & Knickerbocker Ave,4663,40.702013,-73.923769,40.69545,-73.91164,member
+96136,7E3D6C6FE8C040FF,electric_bike,2022-02-11 08:04:15,2022-02-11 08:23:54,Suydam St & Knickerbocker Ave,4939,Putnam Ave & Knickerbocker Ave,4663,40.702013,-73.923769,40.69545,-73.91164,member
+96206,5AB4B418F91233A6,electric_bike,2022-02-12 12:32:14,2022-02-12 12:49:57,Putnam Ave & Nostrand Ave,4327,Putnam Ave & Knickerbocker Ave,4663,40.68402,-73.94977,40.69545,-73.91164,member
+96246,71CDD01DC362C6FC,classic_bike,2022-02-15 18:33:46,2022-02-15 19:03:13,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+96252,1B9D08AEDAEEC60E,electric_bike,2022-02-23 16:02:16,2022-02-23 16:02:59,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+96254,57CE8FABF1D71A4A,electric_bike,2022-02-07 22:39:59,2022-02-07 23:05:03,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+96262,7795BD7E8D41C4B5,classic_bike,2022-02-08 16:52:04,2022-02-08 17:23:52,Madison St & Woodward Ave,4954,Putnam Ave & Knickerbocker Ave,4663,40.70408,-73.90408,40.69545,-73.91164,member
+96317,436826738BED6F36,classic_bike,2022-02-27 17:39:55,2022-02-27 17:53:47,Beaver St & Fayette St,4840,Putnam Ave & Knickerbocker Ave,4663,40.70099,-73.93921,40.69545,-73.91164,member
+96321,4B5E1B156F84C723,electric_bike,2022-02-08 10:20:21,2022-02-08 10:25:35,Knickerbocker Ave & Hancock St,4663,Stephen St & Seneca Ave,4798,40.69385,-73.90974,40.6988,-73.9007,member
+96341,617B8658A9903EAF,electric_bike,2022-02-02 18:04:25,2022-02-02 18:11:21,Willoughby Ave & Wyckoff Ave,5010,Putnam Ave & Knickerbocker Ave,4663,40.705614,-73.92153,40.69545,-73.91164,member
+98085,B6052AA9B298978E,classic_bike,2022-02-11 10:49:05,2022-02-11 11:09:19,Knickerbocker Ave & Hancock St,4663,Union Ave & Wallabout St,4818,40.69385,-73.90974,40.70029511,-73.95032283,member
+98093,C25AB0AB6576CB5C,classic_bike,2022-02-21 15:07:31,2022-02-21 15:42:05,Knickerbocker Ave & Hancock St,4663,Lorimer St & Broadway,4965,40.69385,-73.90974,40.70411791,-73.94818595,member
+98095,8DF6F524C40FBD9D,classic_bike,2022-02-16 15:23:29,2022-02-16 15:30:52,Knickerbocker Ave & Hancock St,4663,Stockholm St & Wilson Ave,4824,40.69385,-73.90974,40.699304,-73.923044,casual
+98110,4A0E3B8562B9F8DE,classic_bike,2022-02-28 09:39:16,2022-02-28 09:46:46,Knickerbocker Ave & Hancock St,4663,Stockholm St & Wilson Ave,4824,40.69385,-73.90974,40.699304,-73.923044,member
+100944,278D7E9C36718F87,electric_bike,2022-02-27 20:19:23,2022-02-27 20:26:29,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Stanhope St,4931,40.69385,-73.90974,40.703545,-73.917775,member
+103770,9D3B88E54454665F,electric_bike,2022-02-18 15:02:45,2022-02-18 15:45:05,Putnam Ave & Knickerbocker Ave,4663,7 Ave & 22 St,3515,40.69545,-73.91164,40.658029,-73.989605,member
+106864,3F79BF731D89E464,electric_bike,2022-02-27 13:49:50,2022-02-27 13:57:10,Knickerbocker Ave & Hancock St,4663,Suydam St & St. Nicholas Ave,5043,40.69385,-73.90974,40.70636,-73.91945,member
+113049,F80B002EC33E94E2,classic_bike,2022-02-21 19:54:22,2022-02-21 20:18:31,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+113254,C0A73268D5D5B414,electric_bike,2022-02-18 13:58:25,2022-02-18 14:09:44,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,member
+113482,7B77D2DFBCE84EAA,classic_bike,2022-02-10 15:52:53,2022-02-10 16:09:17,Bushwick Ave & Dekalb Ave,4680,Putnam Ave & Knickerbocker Ave,4663,40.69502,-73.92825,40.69545,-73.91164,casual
+114981,26F66B10CA8772C2,classic_bike,2022-02-26 01:12:35,2022-02-26 01:12:45,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,member
+119218,0A055CDF02B9AD25,classic_bike,2022-02-08 10:56:43,2022-02-08 10:59:41,Knickerbocker Ave & Hancock St,4663,Putnam Ave & Wyckoff Ave,4735,40.69385,-73.90974,40.69811,-73.90904,member
+119993,2EFCFAF51C4D70B8,classic_bike,2022-02-17 19:38:00,2022-02-17 20:01:33,Putnam Ave & Knickerbocker Ave,4663,DeKalb Ave & Vanderbilt Ave,4461,40.69545,-73.91164,40.68940747,-73.96885458,casual
+120301,2FB25F4A933A5158,electric_bike,2022-02-19 17:33:12,2022-02-19 18:16:55,Knickerbocker Ave & Hancock St,4663,34 Ave & 31 St,6720,40.69385,-73.90974,40.759604471387945,-73.92714411020279,casual
+120916,E7CBD20CED92FC19,electric_bike,2022-02-05 08:46:45,2022-02-05 08:51:52,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,casual
+120917,0262208CC974550F,classic_bike,2022-02-11 09:59:20,2022-02-11 10:03:12,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,casual
+120919,8B02DB1305F1554F,electric_bike,2022-02-09 12:55:30,2022-02-09 12:58:53,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+121350,A2C94A18199B794D,classic_bike,2022-02-21 16:47:35,2022-02-21 16:51:45,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+121851,9AC4604DAC096509,electric_bike,2022-02-03 09:34:51,2022-02-03 09:37:44,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+128553,69020B268F83979E,electric_bike,2022-02-10 13:26:48,2022-02-10 13:43:58,Knickerbocker Ave & Hancock St,4663,Franklin Ave & St Marks Ave,4107,40.69385,-73.90974,40.6758324,-73.9561677,casual
+138294,82D7A58595084EFA,electric_bike,2022-02-10 22:11:43,2022-02-10 22:19:15,Knickerbocker Ave & Hancock St,4663,Suydam St & Broadway,4689,40.69385,-73.90974,40.69544,-73.93223,member
+142123,E568EA75C71545A9,electric_bike,2022-02-12 01:39:27,2022-02-12 01:42:13,Knickerbocker Ave & Hancock St,4663,Norman St & Wyckoff Ave,4654,40.69385,-73.90974,40.69517,-73.90311,member
+143577,557B6ED46D5B7222,electric_bike,2022-02-06 05:32:57,2022-02-06 05:36:28,Knickerbocker Ave & Hancock St,4663,Norman St & Wyckoff Ave,4654,40.69385,-73.90974,40.69517,-73.90311,member
+145507,839D43889BDDF523,classic_bike,2022-02-04 18:45:24,2022-02-04 19:05:18,Knickerbocker Ave & Hancock St,4663,Metropolitan Ave & Vandervoort Ave,5241,40.69385,-73.90974,40.71429,-73.93323,member
+147733,FF1429E17C21228D,classic_bike,2022-02-15 15:01:43,2022-02-15 15:10:20,Knickerbocker Ave & Hancock St,4663,Madison St & Seneca Ave,4880,40.69385,-73.90974,40.70183,-73.90625,member
+149222,86BDBEDBA68B31E2,classic_bike,2022-02-08 09:02:48,2022-02-08 09:12:27,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+149390,C06A56053648DC61,classic_bike,2022-02-27 14:12:22,2022-02-27 14:22:53,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+149393,A953D5DFA2C3993E,classic_bike,2022-02-10 08:54:14,2022-02-10 09:04:39,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+153138,986239FD5DF572CE,electric_bike,2022-02-10 11:45:32,2022-02-10 12:11:27,Knickerbocker Ave & Hancock St,4663,Clermont Ave & Park Ave,4692,40.69385,-73.90974,40.69573398,-73.97129668,member
+154257,160ABD5159C62551,electric_bike,2022-02-02 08:02:30,2022-02-02 08:14:47,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,member
+154258,39F00F9764C18CD3,electric_bike,2022-02-28 08:14:30,2022-02-28 08:23:38,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,member
+154303,0B761FF8FD03BBB8,electric_bike,2022-02-20 21:28:07,2022-02-20 21:40:58,Putnam Ave & Knickerbocker Ave,4663,Greene Ave & Grandview Ave,5106,40.69545,-73.91164,40.709697,-73.907856,casual
+161763,DB217381E8E9F6DF,electric_bike,2022-02-10 11:03:53,2022-02-10 11:28:01,Putnam Ave & Knickerbocker Ave,4663,Clinton Ave & Myrtle Ave,4651,40.69545,-73.91164,40.693261,-73.968896,casual
+180332,CB12502D7F1B73F1,classic_bike,2022-02-14 23:08:04,2022-02-14 23:16:48,Putnam Ave & Knickerbocker Ave,4663,Van Buren St & Broadway,4568,40.69545,-73.91164,40.692,-73.92617,casual
+186286,627966854F1F574E,electric_bike,2022-02-23 17:55:01,2022-02-23 18:34:50,Putnam Ave & Knickerbocker Ave,4663,Front St & Gold St,4927,40.69545,-73.91164,40.70224,-73.982578,member
+186415,D76BBCE08FDC0F5D,electric_bike,2022-02-10 16:31:10,2022-02-10 16:38:18,Knickerbocker Ave & Hancock St,4663,Suydam St & St. Nicholas Ave,5043,40.69385,-73.90974,40.70636,-73.91945,member
+202218,569FB52D71AED229,electric_bike,2022-02-23 15:33:07,2022-02-23 15:36:13,Putnam Ave & Knickerbocker Ave,4663,Myrtle Ave & Grove St,4816,40.69545,-73.91164,40.69905,-73.91516,member
+202225,5749F4216C673128,electric_bike,2022-02-03 06:45:51,2022-02-03 06:58:03,Putnam Ave & Knickerbocker Ave,4663,Albany Ave & Fulton St,4237,40.69545,-73.91164,40.6800105,-73.938475,casual
+202481,97517B67BFB9821D,electric_bike,2022-02-12 16:39:58,2022-02-12 17:17:08,Knickerbocker Ave & Hancock St,4663,Myrtle Ave & Grove St,4816,40.69385,-73.90974,40.69905,-73.91516,member
+202483,67EDFC39FAA4A332,classic_bike,2022-02-26 12:38:12,2022-02-26 12:50:33,Knickerbocker Ave & Hancock St,4663,Myrtle Ave & Grove St,4816,40.69385,-73.90974,40.69905,-73.91516,member
+204913,C1BAAE2D988B61D7,electric_bike,2022-02-23 05:57:16,2022-02-23 06:12:10,Putnam Ave & Knickerbocker Ave,4663,Frost St & Meeker Ave,5371,40.69545,-73.91164,40.71766197083994,-73.94880026578903,casual
+204914,028E69E3E2EF32E7,electric_bike,2022-02-07 05:44:23,2022-02-07 06:01:13,Putnam Ave & Knickerbocker Ave,4663,Frost St & Meeker Ave,5371,40.69545,-73.91164,40.71766197083994,-73.94880026578903,casual
+204953,A3A0681DCA55B8A1,electric_bike,2022-02-10 19:38:14,2022-02-10 19:57:31,Putnam Ave & Knickerbocker Ave,4663,Grand St & Havemeyer St,5267,40.69545,-73.91164,40.71286844,-73.95698119,member
+204984,F0B2DC86F306FB8B,electric_bike,2022-02-12 09:04:10,2022-02-12 09:20:40,Putnam Ave & Knickerbocker Ave,4663,Frost St & Meeker Ave,5371,40.69545,-73.91164,40.71766197083994,-73.94880026578903,casual
+207151,3D221343D450EDF3,electric_bike,2022-02-05 09:36:45,2022-02-05 09:39:50,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+208643,5C86E7C162AFB023,classic_bike,2022-02-16 18:42:34,2022-02-16 18:45:18,Putnam Ave & Knickerbocker Ave,4663,Greene Av & Myrtle Av,4784,40.69545,-73.91164,40.698568,-73.918877,member
+209973,375FB7EF923DC3F8,electric_bike,2022-02-10 13:23:58,2022-02-10 13:31:15,Knickerbocker Ave & Hancock St,4663,Irving Ave & Jefferson St,5051,40.69385,-73.90974,40.70538,-73.92535,member
+209987,A636E4E45DC1FB4B,classic_bike,2022-02-27 13:59:42,2022-02-27 14:09:29,Knickerbocker Ave & Hancock St,4663,Irving Ave & Jefferson St,5051,40.69385,-73.90974,40.70538,-73.92535,member
+210512,EAD717C55AEDDC20,classic_bike,2022-02-23 23:30:16,2022-02-23 23:55:03,Knickerbocker Ave & Hancock St,4663,Verona Pl & Fulton St,4124,40.69385,-73.90974,40.6803560840434,-73.9476791024208,member
+212829,9CC427A1F98ACAEE,classic_bike,2022-02-12 10:21:18,2022-02-12 10:31:00,Knickerbocker Ave & Hancock St,4663,Harman St & Seneca Ave,5002,40.69385,-73.90974,40.70577,-73.91292,member
+212841,A308DD39CFCF376E,classic_bike,2022-02-27 14:26:49,2022-02-27 14:38:41,Knickerbocker Ave & Hancock St,4663,Central Ave & Melrose St,4832,40.69385,-73.90974,40.70112,-73.93039,casual
+223887,C37ECF01BBE47F60,classic_bike,2022-02-27 13:58:27,2022-02-27 17:12:58,Central Ave & Weirfield St,4591,Knickerbocker Ave & Hancock St,4663,40.69055,-73.91181,40.69385,-73.90974,member
+224101,F6F04E02940A2995,electric_bike,2022-02-27 12:46:17,2022-02-27 13:02:44,Powers St & Olive St,5210,Knickerbocker Ave & Hancock St,4663,40.71323,-73.93894,40.69385,-73.90974,casual
+224199,17660E631FF80152,classic_bike,2022-02-20 12:26:58,2022-02-20 12:39:37,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+224446,8CBCC35B208C83DA,electric_bike,2022-02-22 21:46:22,2022-02-22 21:59:10,Humboldt St & Varet St,4956,Knickerbocker Ave & Hancock St,4663,40.7031724,-73.940636,40.69385,-73.90974,member
+224524,F13D519FD6565D66,classic_bike,2022-02-28 22:05:25,2022-02-28 22:08:01,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Hancock St,4663,40.6972,-73.90674,40.69385,-73.90974,member
+224555,EA5020CD816BB098,classic_bike,2022-02-08 18:54:18,2022-02-08 19:04:40,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,member
+224556,3E1AB7535E64DF26,classic_bike,2022-02-07 19:40:25,2022-02-07 19:52:30,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,member
+224557,E7EBE024DE11F38D,electric_bike,2022-02-16 17:20:56,2022-02-16 17:26:06,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Hancock St,4663,40.69922,-73.89795,40.69385,-73.90974,member
+224634,9CE0F1E550FF1443,electric_bike,2022-02-17 15:30:19,2022-02-17 15:46:48,Macon St & Nostrand Ave,4214,Knickerbocker Ave & Hancock St,4663,40.6809833854,-73.9500479759,40.69385,-73.90974,casual
+224635,6248AEFF84BE8D06,electric_bike,2022-02-08 17:51:51,2022-02-08 18:21:22,Clermont Ave & Lafayette Ave,4461,Knickerbocker Ave & Hancock St,4663,40.68764484,-73.96968902,40.69385,-73.90974,member
+224728,FB08B45F118353CB,electric_bike,2022-02-24 08:59:18,2022-02-24 09:05:29,Suydam St & Knickerbocker Ave,4939,Knickerbocker Ave & Hancock St,4663,40.702013,-73.923769,40.69385,-73.90974,member
+224777,314858D7BC37CBB6,classic_bike,2022-02-18 12:47:41,2022-02-18 12:58:15,Broadway & Madison St,4483,Knickerbocker Ave & Hancock St,4663,40.68822,-73.91966,40.69385,-73.90974,member
+224778,77DCEA4CE840C637,classic_bike,2022-02-17 10:00:26,2022-02-17 10:05:01,Central Ave & Decatur St,4432,Knickerbocker Ave & Hancock St,4663,40.6882,-73.90798,40.69385,-73.90974,casual
+224852,751146AF2484D929,classic_bike,2022-02-02 21:48:42,2022-02-02 21:55:00,Halsey St & Broadway,4366,Knickerbocker Ave & Hancock St,4663,40.68565,-73.91564,40.69385,-73.90974,member
+224896,832B994A5BE3F9BF,electric_bike,2022-02-27 18:09:43,2022-02-27 18:10:29,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+224899,F79750B5F146D4B7,electric_bike,2022-02-27 11:57:37,2022-02-27 12:23:45,Kent St & McGuinness Blvd,5785,Knickerbocker Ave & Hancock St,4663,40.73124,-73.95161,40.69385,-73.90974,member
+224945,310A86D47CDD2F2C,classic_bike,2022-02-20 09:09:05,2022-02-20 09:20:04,Stockholm St & Wilson Ave,4824,Knickerbocker Ave & Hancock St,4663,40.699304,-73.923044,40.69385,-73.90974,casual
+224986,CAECF0D6F9C05F0E,classic_bike,2022-02-16 20:50:14,2022-02-16 20:56:45,Knickerbocker Ave & Hancock St,4663,Irving Ave & Harman St,4856,40.69385,-73.90974,40.70108,-73.9179,member
+224987,32EB449DC215141D,classic_bike,2022-02-08 19:46:50,2022-02-08 19:51:54,Knickerbocker Ave & Hancock St,4663,Irving Ave & Harman St,4856,40.69385,-73.90974,40.70108,-73.9179,member
+228147,1419B7EC5215CC9F,classic_bike,2022-02-10 19:24:08,2022-02-10 19:29:39,Knickerbocker Ave & Hancock St,4663,Irving Ave & Harman St,4856,40.69385,-73.90974,40.70108,-73.9179,member
+235612,83A820DF8DCC1C33,classic_bike,2022-02-28 08:14:37,2022-02-28 08:16:50,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,casual
+236152,BDAB6AE269AB2D67,classic_bike,2022-02-28 06:11:36,2022-02-28 06:13:54,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,member
+236157,F1C5B88F8C6DBB5C,classic_bike,2022-02-18 09:09:19,2022-02-18 09:10:47,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,casual
+236159,53F5FC07FEB08AD8,classic_bike,2022-02-17 08:17:17,2022-02-17 08:19:24,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,casual
+237275,B1B6BD288E0A2CF6,electric_bike,2022-02-27 21:39:38,2022-02-27 21:41:25,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,member
+241724,CD41B1EE0C452B8A,classic_bike,2022-02-08 08:23:56,2022-02-08 08:26:57,Madison St & Cypress Ave,4807,Putnam Ave & Knickerbocker Ave,4663,40.70068,-73.90742,40.69545,-73.91164,member
+241778,BDCE21952341BB59,electric_bike,2022-02-12 08:07:51,2022-02-12 08:11:07,Menahan St & Central Ave,4672,Putnam Ave & Knickerbocker Ave,4663,40.69543,-73.9196,40.69545,-73.91164,casual
+241779,05B1D31B4E76202B,classic_bike,2022-02-09 19:07:57,2022-02-09 19:18:01,Menahan St & Central Ave,4672,Putnam Ave & Knickerbocker Ave,4663,40.69543,-73.9196,40.69545,-73.91164,casual
+241791,C93745AF0C9AEB14,classic_bike,2022-02-09 19:08:53,2022-02-09 19:18:11,Menahan St & Central Ave,4672,Putnam Ave & Knickerbocker Ave,4663,40.69543,-73.9196,40.69545,-73.91164,casual
+241932,C84F510028C2D474,electric_bike,2022-02-23 15:51:58,2022-02-23 15:53:06,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,member
+241934,7F16A3B08F57631A,classic_bike,2022-02-26 15:10:13,2022-02-26 15:38:14,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+241966,59B0386BCCE77D93,classic_bike,2022-02-26 14:42:09,2022-02-26 15:09:39,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,casual
+241978,16A74E79E2EDA053,classic_bike,2022-02-16 16:27:33,2022-02-16 16:39:39,Greene Ave & Grandview Ave,5106,Putnam Ave & Knickerbocker Ave,4663,40.709697,-73.907856,40.69545,-73.91164,member
+242091,259BECC3F8B49298,electric_bike,2022-02-19 14:31:14,2022-02-19 14:34:15,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+242152,26B1ECBD7B5B4E5E,classic_bike,2022-02-22 00:09:43,2022-02-22 00:13:38,Onderdonk Ave & Gates Ave,4994,Putnam Ave & Knickerbocker Ave,4663,40.70413,-73.90737,40.69545,-73.91164,casual
+242153,BD07E3676F3F3D3E,classic_bike,2022-02-17 18:18:29,2022-02-17 18:24:28,Irving Ave & Harman St,4856,Putnam Ave & Knickerbocker Ave,4663,40.70108,-73.9179,40.69545,-73.91164,member
+242262,671A3B86CE7156B2,electric_bike,2022-02-06 13:15:15,2022-02-06 13:18:00,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+242265,4C571BF1AD065624,classic_bike,2022-02-27 16:12:36,2022-02-27 16:18:35,Linden St & Knickerbocker Ave,4743,Putnam Ave & Knickerbocker Ave,4663,40.69714,-73.91566,40.69545,-73.91164,member
+242282,BD86A179C9F237AD,electric_bike,2022-02-25 22:21:46,2022-02-25 22:48:22,Allen St & Stanton St,5484,Putnam Ave & Knickerbocker Ave,4663,40.722055,-73.989111,40.69545,-73.91164,casual
+242300,14769325CB6DB8FB,classic_bike,2022-02-17 16:09:21,2022-02-17 16:16:51,Onderdonk Ave & Gates Ave,4994,Putnam Ave & Knickerbocker Ave,4663,40.70413,-73.90737,40.69545,-73.91164,member
+242302,66A78EA1A2167EFD,classic_bike,2022-02-21 16:04:27,2022-02-21 16:10:28,Onderdonk Ave & Gates Ave,4994,Putnam Ave & Knickerbocker Ave,4663,40.70413,-73.90737,40.69545,-73.91164,member
+242334,707B00AE3C71FE27,electric_bike,2022-02-27 00:54:58,2022-02-27 01:11:45,Willoughby Ave & Hall St,4611,Putnam Ave & Knickerbocker Ave,4663,40.69196035,-73.96536851,40.69545,-73.91164,casual
+242345,5B8D6051A7992B63,electric_bike,2022-02-12 13:45:55,2022-02-12 13:50:24,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+242395,BBF2440BEB459E5F,electric_bike,2022-02-27 22:01:27,2022-02-27 22:03:07,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+242554,1040D55580924CEA,electric_bike,2022-02-10 20:18:24,2022-02-10 21:01:23,Pearl St & Hanover Square,4993,Putnam Ave & Knickerbocker Ave,4663,40.7047177,-74.00926027,40.69545,-73.91164,member
+242643,8D82C86641325B2B,electric_bike,2022-02-06 20:02:24,2022-02-06 20:02:31,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,member
+250705,1B6309E46734387D,electric_bike,2022-02-09 11:22:40,2022-02-09 11:29:12,Knickerbocker Ave & Hancock St,4663,Madison St & Cypress Ave,4807,40.69385,-73.90974,40.70068,-73.90742,member
+251209,DB08CA33AE3AC3E1,electric_bike,2022-02-10 19:28:05,2022-02-10 19:31:03,Putnam Ave & Knickerbocker Ave,4663,Madison St & Cypress Ave,4807,40.69545,-73.91164,40.70068,-73.90742,member
+255994,A44780CAD7A14EEE,electric_bike,2022-02-27 21:39:04,2022-02-27 22:07:28,Knickerbocker Ave & Hancock St,4663,1 Ave & E 6 St,5626,40.69385,-73.90974,40.72633085971696,-73.98616880178452,member
+260209,560587A45848DE33,electric_bike,2022-02-07 21:50:09,2022-02-07 22:02:38,Knickerbocker Ave & Hancock St,4663,Halsey St & Tompkins Ave,4319,40.69385,-73.90974,40.6823687,-73.944118,member
+273764,A665745C884663DE,classic_bike,2022-02-14 14:03:34,2022-02-14 23:39:58,Putnam Ave & Knickerbocker Ave,4663,Van Sinderen Ave & Truxton St,4161,40.69545,-73.91164,40.6786,-73.90369,casual
+276959,458472D62EFE4486,classic_bike,2022-02-07 05:17:14,2022-02-07 05:30:08,Knickerbocker Ave & Hancock St,4663,Van Sinderen Ave & Truxton St,4161,40.69385,-73.90974,40.6786,-73.90369,member
+286261,9B10461C532EC0D6,classic_bike,2022-02-26 16:40:53,2022-02-26 16:55:32,Putnam Ave & Knickerbocker Ave,4663,Montrose Ave & Bushwick Ave,5068,40.69545,-73.91164,40.70767788,-73.94016171,casual
+286748,1AE80F703278C466,classic_bike,2022-02-26 20:25:39,2022-02-26 20:46:27,Putnam Ave & Knickerbocker Ave,4663,Montrose Ave & Bushwick Ave,5068,40.69545,-73.91164,40.70767788,-73.94016171,casual
+301441,050278A9921D000D,classic_bike,2022-02-07 08:44:15,2022-02-07 08:53:56,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+301569,3226BA01338372F5,classic_bike,2022-02-10 21:45:13,2022-02-10 21:59:24,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Av & Jefferson St,5051,40.69545,-73.91164,40.707165,-73.923711,casual
+302275,700FCC5828706118,classic_bike,2022-02-03 08:57:24,2022-02-03 09:06:01,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302276,072C85E051371F6D,classic_bike,2022-02-25 09:06:04,2022-02-25 09:14:41,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302277,097F7F4DBF80936C,classic_bike,2022-02-18 15:53:14,2022-02-18 16:02:51,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302278,77A9A7B0BC5E9A40,electric_bike,2022-02-09 09:59:18,2022-02-09 10:08:08,Knickerbocker Ave & Hancock St,4663,Grove St & Broadway,4526,40.69385,-73.90974,40.69047,-73.923511,casual
+302280,ABC7E42A6EAFA7B2,classic_bike,2022-02-04 09:16:22,2022-02-04 09:25:32,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302281,D4F450267A61AC03,classic_bike,2022-02-17 08:57:18,2022-02-17 09:06:18,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302283,F33D97CB032C9E99,classic_bike,2022-02-28 08:59:10,2022-02-28 09:09:20,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302284,87F810F0F1128F2D,classic_bike,2022-02-09 08:53:18,2022-02-09 09:02:59,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302285,4AFD37F4E146E60F,electric_bike,2022-02-22 08:44:30,2022-02-22 08:55:47,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302293,7F690C479B05DE5B,electric_bike,2022-02-07 11:14:55,2022-02-07 11:20:32,Knickerbocker Ave & Hancock St,4663,Grove St & Broadway,4526,40.69385,-73.90974,40.69047,-73.923511,member
+302334,C53D11162E1E5C1F,classic_bike,2022-02-10 21:45:29,2022-02-10 21:59:30,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Av & Jefferson St,5051,40.69545,-73.91164,40.707165,-73.923711,casual
+302776,CC4DFFB13BDA7CDE,classic_bike,2022-02-24 09:05:40,2022-02-24 09:16:12,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302977,B75517E209558BE4,classic_bike,2022-02-11 08:50:37,2022-02-11 08:59:56,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,member
+302979,1C3F69CFE3CABE2E,classic_bike,2022-02-28 23:25:01,2022-02-28 23:35:31,Knickerbocker Ave & Hancock St,4663,Grove St & Broadway,4526,40.69385,-73.90974,40.69047,-73.923511,member
+302980,1B3A5B0E37BE9F31,electric_bike,2022-02-07 22:25:39,2022-02-07 22:35:12,Knickerbocker Ave & Hancock St,4663,Grove St & Broadway,4526,40.69385,-73.90974,40.69047,-73.923511,member
+302983,6D395FBCA6FF89B6,electric_bike,2022-02-14 16:35:08,2022-02-14 16:43:33,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Jefferson St,5051,40.69385,-73.90974,40.707165,-73.923711,casual
+302992,FEEE8D05AD67E9B3,classic_bike,2022-02-17 16:26:21,2022-02-17 17:04:09,Knickerbocker Ave & Hancock St,4663,38 St & Northern Blvd,6486,40.69385,-73.90974,40.752372,-73.925384,member
+303186,004C41833EB8C776,classic_bike,2022-02-10 21:45:33,2022-02-10 21:59:19,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Av & Jefferson St,5051,40.69545,-73.91164,40.707165,-73.923711,member
+310612,674964E436C07131,electric_bike,2022-02-15 05:59:07,2022-02-15 06:13:23,Putnam Ave & Knickerbocker Ave,4663,Frost St & Meeker Ave,5371,40.69545,-73.91164,40.71766197083994,-73.94880026578903,casual
+312198,1333FF305E6C5E9C,electric_bike,2022-02-07 06:56:19,2022-02-07 06:59:38,Knickerbocker Ave & Hancock St,4663,Jefferson Ave & Evergreen Ave,4517,40.69385,-73.90974,40.68989,-73.91458,casual
+312515,79DB3D5D7C1F50E5,classic_bike,2022-02-20 21:28:37,2022-02-20 21:31:59,Putnam Ave & Knickerbocker Ave,4663,Jefferson Ave & Evergreen Ave,4517,40.69545,-73.91164,40.68989,-73.91458,member
+318623,F2680A06B69F79E6,classic_bike,2022-02-08 08:37:57,2022-02-08 08:43:02,Putnam Ave & Knickerbocker Ave,4663,Madison St & Cypress Ave,4807,40.69545,-73.91164,40.70068,-73.90742,member
+318628,51B51A2FA705AAE9,classic_bike,2022-02-11 11:31:19,2022-02-11 11:36:17,Putnam Ave & Knickerbocker Ave,4663,Madison St & Cypress Ave,4807,40.69545,-73.91164,40.70068,-73.90742,member
+331191,3C05DB16642AD226,classic_bike,2022-02-15 19:18:40,2022-02-15 19:31:36,Central Ave & Melrose St,4832,Putnam Ave & Knickerbocker Ave,4663,40.70112,-73.93039,40.69545,-73.91164,member
+331204,931AF869D8673C95,classic_bike,2022-02-26 14:08:51,2022-02-26 14:12:55,Madison St & Evergreen Ave,4560,Putnam Ave & Knickerbocker Ave,4663,40.69122,-73.91693,40.69545,-73.91164,casual
+331226,AD7673FF6D6B0399,classic_bike,2022-02-16 01:25:53,2022-02-16 01:27:24,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+331326,519B08B1C9150506,classic_bike,2022-02-15 15:29:40,2022-02-15 16:05:38,Greene Ave & Grandview Ave,5106,Putnam Ave & Knickerbocker Ave,4663,40.709697,-73.907856,40.69545,-73.91164,member
+331392,F0241706337B8BC7,electric_bike,2022-02-18 17:19:03,2022-02-18 17:25:51,Madison St & Woodward Ave,4954,Putnam Ave & Knickerbocker Ave,4663,40.70408,-73.90408,40.69545,-73.91164,member
+331423,C19E8D5FC5E60D07,electric_bike,2022-02-25 17:07:13,2022-02-25 17:28:28,Knickerbocker Ave & Halsey St,4623,Putnam Ave & Knickerbocker Ave,4663,40.693,-73.90824,40.69545,-73.91164,casual
+331513,47C402442F893F72,electric_bike,2022-02-09 15:45:09,2022-02-09 15:54:32,Greene Ave & Grandview Ave,5106,Putnam Ave & Knickerbocker Ave,4663,40.709697,-73.907856,40.69545,-73.91164,member
+331526,892C2A3B4FCF7808,electric_bike,2022-02-22 01:11:31,2022-02-22 01:12:45,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+331528,612BBC681DACB4B8,classic_bike,2022-02-28 18:07:48,2022-02-28 18:09:30,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+331530,F25DF19990534E4E,classic_bike,2022-02-13 23:08:24,2022-02-13 23:10:23,Putnam Ave & Wyckoff Ave,4735,Putnam Ave & Knickerbocker Ave,4663,40.69811,-73.90904,40.69545,-73.91164,member
+331652,AD562483F279CA98,electric_bike,2022-02-10 19:26:24,2022-02-10 19:30:30,Cypress Ave & George St,4765,Putnam Ave & Knickerbocker Ave,4663,40.69812,-73.90271,40.69545,-73.91164,casual
+331653,598D0EFF657FD57C,classic_bike,2022-02-02 22:53:35,2022-02-02 23:03:44,Suydam St & Knickerbocker Ave,4939,Putnam Ave & Knickerbocker Ave,4663,40.702013,-73.923769,40.69545,-73.91164,member
+331683,5C8AA493DECD636A,electric_bike,2022-02-06 13:51:26,2022-02-06 14:00:47,Madison St & Cypress Ave,4807,Putnam Ave & Knickerbocker Ave,4663,40.70068,-73.90742,40.69545,-73.91164,casual
+331692,2CD99B26788B4DFA,electric_bike,2022-02-13 13:00:43,2022-02-13 13:09:17,Madison St & Cypress Ave,4807,Putnam Ave & Knickerbocker Ave,4663,40.70068,-73.90742,40.69545,-73.91164,casual
+331704,0C035F71BE5766CA,classic_bike,2022-02-09 08:25:13,2022-02-09 08:28:13,Madison St & Cypress Ave,4807,Putnam Ave & Knickerbocker Ave,4663,40.70068,-73.90742,40.69545,-73.91164,member
+331764,3686FE714300B45F,classic_bike,2022-02-04 01:32:41,2022-02-04 01:35:58,Jefferson Ave & Evergreen Ave,4517,Putnam Ave & Knickerbocker Ave,4663,40.68989,-73.91458,40.69545,-73.91164,member
+331839,9C964BE7F7AD865F,classic_bike,2022-02-04 22:21:01,2022-02-04 22:30:21,Suydam St & Broadway,4689,Putnam Ave & Knickerbocker Ave,4663,40.69544,-73.93223,40.69545,-73.91164,member
+331855,42F586704A8634A3,electric_bike,2022-02-03 11:17:06,2022-02-03 11:19:39,Irving Ave & Halsey St,4695,Putnam Ave & Knickerbocker Ave,4663,40.69467,-73.90663,40.69545,-73.91164,member
+331856,DAF2A938A4465CBD,electric_bike,2022-02-03 11:26:28,2022-02-03 11:28:38,Irving Ave & Halsey St,4695,Putnam Ave & Knickerbocker Ave,4663,40.69467,-73.90663,40.69545,-73.91164,member
+331878,0F43ED7F672FA22A,classic_bike,2022-02-15 23:31:30,2022-02-15 23:41:00,Suydam St & Broadway,4689,Putnam Ave & Knickerbocker Ave,4663,40.69544,-73.93223,40.69545,-73.91164,member
+331899,30E51502578E6545,electric_bike,2022-02-10 10:07:57,2022-02-10 10:10:00,Irving Ave & Palmetto St,4775,Putnam Ave & Knickerbocker Ave,4663,40.698,-73.9127,40.69545,-73.91164,member
+331908,AD14C555DF9844CA,electric_bike,2022-02-12 12:01:24,2022-02-12 12:17:51,Sharon St & Olive St,5323,Putnam Ave & Knickerbocker Ave,4663,40.715353,-73.93856,40.69545,-73.91164,casual
+331941,E7FDCF55BB858871,classic_bike,2022-02-24 10:00:13,2022-02-24 10:02:41,Central Ave & Woodbine St,4632,Putnam Ave & Knickerbocker Ave,4663,40.69296,-73.91605,40.69545,-73.91164,casual
+331998,85D1DB3EA3B7A5D4,classic_bike,2022-02-27 19:08:43,2022-02-27 19:15:42,Hart St & Wyckoff Ave,4971,Putnam Ave & Knickerbocker Ave,4663,40.704876,-73.919911,40.69545,-73.91164,member
+332287,B2B732C71FD1E4EE,electric_bike,2022-02-23 15:29:38,2022-02-23 15:32:24,Irving Ave & Halsey St,4695,Putnam Ave & Knickerbocker Ave,4663,40.69467,-73.90663,40.69545,-73.91164,member
+332386,8F2A904884DB8986,classic_bike,2022-02-23 17:45:10,2022-02-23 18:01:28,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Knickerbocker Ave,4663,40.69545,-73.91164,40.69545,-73.91164,member
+332469,305C1EE6D579228E,classic_bike,2022-02-18 15:04:50,2022-02-18 15:07:23,Irving Ave & Halsey St,4695,Putnam Ave & Knickerbocker Ave,4663,40.69467,-73.90663,40.69545,-73.91164,member
+332561,F60BC3A8D66AD423,classic_bike,2022-02-28 13:07:34,2022-02-28 13:15:33,Irving Ave & Halsey St,4695,Putnam Ave & Knickerbocker Ave,4663,40.69467,-73.90663,40.69545,-73.91164,member
+332641,FA9A20DC804D1B8E,classic_bike,2022-02-20 14:36:52,2022-02-20 15:08:04,Stagg St & Union Ave,5117,Putnam Ave & Knickerbocker Ave,4663,40.70877084,-73.95095259,40.69545,-73.91164,casual
+332744,4A121EB4282C9D57,electric_bike,2022-02-27 20:57:51,2022-02-27 21:09:44,Cypress Ave & Palmetto St,4921,Putnam Ave & Knickerbocker Ave,4663,40.70157340873792,-73.90876293182373,40.69545,-73.91164,member
+333156,7098ECDD6590A34C,electric_bike,2022-02-09 21:51:19,2022-02-09 21:57:23,Woodward Ave & Harman St,5074,Putnam Ave & Knickerbocker Ave,4663,40.70793,-73.91092,40.69545,-73.91164,casual
+333292,58F72C20FFF728D2,classic_bike,2022-02-20 20:21:25,2022-02-20 20:30:29,Irving Ave & DeKalb Ave,4898,Putnam Ave & Knickerbocker Ave,4663,40.7027,-73.92095,40.69545,-73.91164,member
+333296,82171C92B0528892,electric_bike,2022-02-05 01:04:25,2022-02-05 01:09:00,Irving Ave & DeKalb Ave,4898,Putnam Ave & Knickerbocker Ave,4663,40.7027,-73.92095,40.69545,-73.91164,casual
+333329,82E8D50FBD0C44CC,electric_bike,2022-02-18 16:04:54,2022-02-18 16:09:28,Irving Ave & DeKalb Ave,4898,Putnam Ave & Knickerbocker Ave,4663,40.7027,-73.92095,40.69545,-73.91164,member
+333330,4A4D1641AB685D80,electric_bike,2022-02-16 16:08:10,2022-02-16 16:20:25,Knickerbocker Ave & George St,4979,Putnam Ave & Knickerbocker Ave,4663,40.704425,-73.92836,40.69545,-73.91164,member
+333332,0560B36A3A7B8E0C,classic_bike,2022-02-15 09:40:14,2022-02-15 09:50:00,Knickerbocker Ave & George St,4979,Putnam Ave & Knickerbocker Ave,4663,40.704425,-73.92836,40.69545,-73.91164,member
+333372,E42A2E2C50323FEE,classic_bike,2022-02-02 09:48:44,2022-02-02 10:00:25,Knickerbocker Ave & George St,4979,Putnam Ave & Knickerbocker Ave,4663,40.704425,-73.92836,40.69545,-73.91164,member
+333452,FBE9A297D63B680C,classic_bike,2022-02-21 09:37:42,2022-02-21 09:47:48,Knickerbocker Ave & George St,4979,Putnam Ave & Knickerbocker Ave,4663,40.704425,-73.92836,40.69545,-73.91164,member
+333469,9040865804C9CFEE,classic_bike,2022-02-26 03:59:42,2022-02-26 04:39:38,St Marks Pl & 4 Ave,4249,Putnam Ave & Knickerbocker Ave,4663,40.68177810928762,-73.97988975048065,40.69545,-73.91164,member
+333525,0251D5035A18A919,electric_bike,2022-02-03 17:24:05,2022-02-03 17:51:39,Carlton Ave & Flushing Ave,4732,Putnam Ave & Knickerbocker Ave,4663,40.697787,-73.973736,40.69545,-73.91164,casual
+333629,38F8510ACA540F88,classic_bike,2022-02-03 09:08:33,2022-02-03 09:13:26,Centre St & Seneca Ave,4837,Putnam Ave & Knickerbocker Ave,4663,40.69969,-73.9022,40.69545,-73.91164,casual
+335287,34FA6FB0AF9E29AC,classic_bike,2022-02-11 18:11:57,2022-02-11 18:20:35,Knickerbocker Ave & Hancock St,4663,Madison St & Seneca Ave,4880,40.69385,-73.90974,40.70183,-73.90625,member
+345358,74084BF653DDE2E6,classic_bike,2022-02-09 16:16:29,2022-02-09 16:23:12,Knickerbocker Ave & Hancock St,4663,Bushwick Ave & Linden St,4600,40.69385,-73.90974,40.69146,-73.92146,member
+382414,14C445ED75CD74A7,classic_bike,2022-02-01 17:27:35,2022-02-01 17:38:48,Putnam Ave & Knickerbocker Ave,4663,Van Buren St & Broadway,4568,40.69545,-73.91164,40.692,-73.92617,member
+391952,92F5C50DF631D87C,classic_bike,2022-02-11 14:22:54,2022-02-11 14:38:25,Putnam Ave & Knickerbocker Ave,4663,Broadway & Madison St,4483,40.69545,-73.91164,40.68822,-73.91966,casual
+401554,29EF19E2C2B5DC9F,electric_bike,2022-02-18 08:19:35,2022-02-18 08:30:51,Knickerbocker Ave & Hancock St,4663,Montrose Ave & Bushwick Ave,5068,40.69385,-73.90974,40.70767788,-73.94016171,member
+410118,7BFC0C79D8A2FA7F,electric_bike,2022-02-04 15:18:31,2022-02-04 15:28:41,Putnam Ave & Knickerbocker Ave,4663,Devoe St & Morgan Ave,5282,40.69545,-73.91164,40.713811,-73.93515,casual
+418042,8B64DE71A7B00510,electric_bike,2022-02-17 00:32:11,2022-02-17 00:40:00,Knickerbocker Ave & Hancock St,4663,Cedar St & Evergreen Ave,4721,40.69385,-73.90974,40.69671,-73.92807,member
+418275,8D6320C8E49C9040,electric_bike,2022-02-23 00:55:30,2022-02-23 01:04:32,Knickerbocker Ave & Hancock St,4663,Cedar St & Evergreen Ave,4721,40.69385,-73.90974,40.69671,-73.92807,member
+440073,AE4E9B060B073DEC,classic_bike,2022-02-15 21:18:28,2022-02-15 21:30:03,Putnam Ave & Knickerbocker Ave,4663,Central Ave & Melrose St,4832,40.69545,-73.91164,40.70112,-73.93039,member
+440641,0C513FDE998CF236,electric_bike,2022-02-06 14:44:06,2022-02-06 14:51:24,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Jefferson St,5051,40.69545,-73.91164,40.70538,-73.92535,casual
+446852,12A6EFB8EB4F0AC1,electric_bike,2022-02-18 20:51:38,2022-02-18 21:33:32,Knickerbocker Ave & Hancock St,4663,Driggs Ave & N 9 St,5411,40.69385,-73.90974,40.71816969454208,-73.95520135760307,member
+463627,BC59578EDD79AAE1,classic_bike,2022-02-23 19:47:36,2022-02-23 19:58:20,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,member
+463637,9E0AEEBEAB052403,electric_bike,2022-02-17 16:41:27,2022-02-17 16:53:59,Madison St & Forest Ave,5025,Knickerbocker Ave & Hancock St,4663,40.70555,-73.90245,40.69385,-73.90974,member
+463742,261CB6A76F2889CB,electric_bike,2022-02-26 20:48:03,2022-02-26 20:55:24,Grove St & Broadway,4526,Knickerbocker Ave & Hancock St,4663,40.69047,-73.923511,40.69385,-73.90974,casual
+463744,DC9692C3DA1C6FEF,classic_bike,2022-02-08 19:43:38,2022-02-08 19:46:16,Putnam Ave & Wyckoff Ave,4735,Knickerbocker Ave & Hancock St,4663,40.69811,-73.90904,40.69385,-73.90974,casual
+463779,9EEDBE8B8FF2E689,electric_bike,2022-02-06 23:26:39,2022-02-06 23:33:36,Halsey St & Broadway,4366,Knickerbocker Ave & Hancock St,4663,40.68565,-73.91564,40.69385,-73.90974,member
+463780,C87E6E45431AF87E,classic_bike,2022-02-08 21:48:31,2022-02-08 21:54:33,Halsey St & Broadway,4366,Knickerbocker Ave & Hancock St,4663,40.68565,-73.91564,40.69385,-73.90974,member
+463895,6506BE9D964F70B5,electric_bike,2022-02-09 19:57:31,2022-02-09 20:08:43,Evergreen Ave & Noll St,4873,Knickerbocker Ave & Hancock St,4663,40.70106,-73.93318,40.69385,-73.90974,member
+463967,26889EA959841014,classic_bike,2022-02-08 20:45:33,2022-02-08 20:50:57,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+463985,0A58839B6D3A7F60,classic_bike,2022-02-26 16:57:07,2022-02-26 17:03:05,Irving Ave & Harman St,4856,Knickerbocker Ave & Hancock St,4663,40.70108,-73.9179,40.69385,-73.90974,member
+464070,D712DB713C9C689D,electric_bike,2022-02-15 20:49:44,2022-02-15 21:21:00,Vernon Blvd & 47 Rd,6212,Knickerbocker Ave & Hancock St,4663,40.7449067,-73.9534573,40.69385,-73.90974,member
+464077,31991C47F6C7AFB7,classic_bike,2022-02-09 13:57:59,2022-02-09 14:03:22,Broadway & Madison St,4483,Knickerbocker Ave & Hancock St,4663,40.68822,-73.91966,40.69385,-73.90974,casual
+464192,FD155E6C256544DF,electric_bike,2022-02-26 13:55:22,2022-02-26 13:56:43,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+464193,C2EDD6E00DEDE523,classic_bike,2022-02-26 13:57:08,2022-02-26 13:57:28,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+464224,795FBD0C7FAB11CD,electric_bike,2022-02-19 11:35:00,2022-02-19 11:35:23,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+464291,EA191F6C803A0440,classic_bike,2022-02-11 18:41:53,2022-02-11 18:46:31,Central Ave & Decatur St,4432,Knickerbocker Ave & Hancock St,4663,40.6882,-73.90798,40.69385,-73.90974,casual
+464292,7AAB33DE8F1084D0,electric_bike,2022-02-16 17:51:40,2022-02-16 18:14:09,Broadway & Roebling St,5125,Knickerbocker Ave & Hancock St,4663,40.70924826276157,-73.96063148975372,40.69385,-73.90974,casual
+464319,36E00645A2F54B28,classic_bike,2022-02-12 11:16:02,2022-02-12 11:22:40,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Hancock St,4663,40.703545,-73.917775,40.69385,-73.90974,member
+464353,6BA15FAE091F0743,electric_bike,2022-02-21 16:54:35,2022-02-21 17:02:32,Forest Ave & Summerfield St,4798,Knickerbocker Ave & Hancock St,4663,40.69922,-73.89795,40.69385,-73.90974,member
+464398,FF2DD403733F3F9F,electric_bike,2022-02-15 20:20:32,2022-02-15 20:39:43,Knickerbocker Ave & Hancock St,4663,Beaver St & Fayette St,4840,40.69385,-73.90974,40.70099,-73.93921,member
+464399,1EEDDE270614EF89,electric_bike,2022-02-16 18:43:36,2022-02-16 18:58:46,Knickerbocker Ave & Hancock St,4663,Beaver St & Fayette St,4840,40.69385,-73.90974,40.70099,-73.93921,member
+464400,B3356B8289620706,electric_bike,2022-02-15 22:50:40,2022-02-15 23:09:35,Beaver St & Fayette St,4840,Knickerbocker Ave & Hancock St,4663,40.70099,-73.93921,40.69385,-73.90974,member
+464452,59C9B6628DB99E15,electric_bike,2022-02-19 16:59:45,2022-02-19 17:08:31,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+464470,6A2D9ADE0DBBC88E,electric_bike,2022-02-18 13:19:47,2022-02-18 13:35:13,Montrose Ave & Bushwick Ave,5068,Knickerbocker Ave & Hancock St,4663,40.70767788,-73.94016171,40.69385,-73.90974,member
+464522,B6E0B44AB7224772,classic_bike,2022-02-27 13:38:07,2022-02-27 13:52:16,Stagg St & Morgan Ave,5170,Knickerbocker Ave & Hancock St,4663,40.710681,-73.93372,40.69385,-73.90974,member
+464559,C3EE1225CD260E8E,electric_bike,2022-02-04 17:31:31,2022-02-04 17:54:47,Emerson Pl & Myrtle Ave,4683,Knickerbocker Ave & Hancock St,4663,40.69363137,-73.96223558,40.69385,-73.90974,member
+464573,EF0104F4B0BB1557,classic_bike,2022-02-11 20:26:49,2022-02-11 20:43:22,Stockholm St & Wilson Ave,4824,Knickerbocker Ave & Hancock St,4663,40.699304,-73.923044,40.69385,-73.90974,casual
+464632,7663A38A383A9B05,classic_bike,2022-02-27 16:18:47,2022-02-27 16:22:51,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Hancock St,4663,40.69545,-73.91164,40.69385,-73.90974,member
+464653,3FC7BA22589607B2,electric_bike,2022-02-12 13:14:53,2022-02-12 13:33:24,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Hancock St,4663,40.69545,-73.91164,40.69385,-73.90974,casual
+464722,A1AEDD0B93C970D1,electric_bike,2022-02-11 17:16:35,2022-02-11 17:29:15,Boerum St & Broadway,5004,Knickerbocker Ave & Hancock St,4663,40.70538077,-73.94976519,40.69385,-73.90974,member
+464769,DABF5391E92788CE,classic_bike,2022-02-10 18:47:36,2022-02-10 18:58:51,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,member
+464833,66F0D5240242F0B5,electric_bike,2022-02-18 13:13:51,2022-02-18 13:29:10,Bushwick Ave & Dekalb Ave,4680,Knickerbocker Ave & Hancock St,4663,40.69502,-73.92825,40.69385,-73.90974,casual
+464845,D1CFB5B2541ABE17,electric_bike,2022-02-04 02:59:04,2022-02-04 03:12:46,Devoe St & Lorimer St,5259,Knickerbocker Ave & Hancock St,4663,40.71335226222875,-73.9491033554077,40.69385,-73.90974,member
+464915,BDC8A8A153B1EDF2,electric_bike,2022-02-26 10:12:38,2022-02-26 10:14:38,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+464917,4136F02775E6FD87,classic_bike,2022-02-08 22:34:50,2022-02-08 22:43:27,Willoughby Ave & Myrtle Ave,4759,Knickerbocker Ave & Hancock St,4663,40.69757,-73.93098,40.69385,-73.90974,casual
+464954,A821A5CC1FE422E9,classic_bike,2022-02-16 21:42:42,2022-02-16 21:48:44,Greene Av & Myrtle Av,4784,Knickerbocker Ave & Hancock St,4663,40.698568,-73.918877,40.69385,-73.90974,member
+464961,DAD2E32894AF5AD9,classic_bike,2022-02-19 02:24:39,2022-02-19 02:41:05,Marcy Ave & Lafayette Ave,4476,Knickerbocker Ave & Hancock St,4663,40.6900815,-73.947915,40.69385,-73.90974,member
+465025,076BD6FF92CF15C2,classic_bike,2022-02-12 14:15:47,2022-02-12 14:27:11,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+465027,27A12889978DEC7F,electric_bike,2022-02-16 12:10:26,2022-02-16 12:17:03,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,casual
+465185,0FBFCDCE8626A9B3,electric_bike,2022-02-07 15:33:25,2022-02-07 15:50:25,Beaver St & Fayette St,4840,Knickerbocker Ave & Hancock St,4663,40.70099,-73.93921,40.69385,-73.90974,casual
+465186,B0A80CC96118584E,classic_bike,2022-02-07 13:53:18,2022-02-07 14:22:03,Knickerbocker Ave & Hancock St,4663,Beaver St & Fayette St,4840,40.69385,-73.90974,40.70099,-73.93921,casual
+465210,4FB241334BD35E76,electric_bike,2022-02-16 21:13:13,2022-02-16 21:25:08,Beaver St & Fayette St,4840,Knickerbocker Ave & Hancock St,4663,40.70099,-73.93921,40.69385,-73.90974,member
+465225,01BA98EB683A9A7F,classic_bike,2022-02-13 11:34:56,2022-02-13 12:16:26,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,casual
+465266,FD2B540C54B32B3D,electric_bike,2022-02-25 20:13:24,2022-02-25 20:24:52,Beaver St & Fayette St,4840,Knickerbocker Ave & Hancock St,4663,40.70099,-73.93921,40.69385,-73.90974,member
+465312,C70C5EBDDBFC5887,electric_bike,2022-02-03 21:49:15,2022-02-03 22:05:48,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+465356,F30FEE231BE064A8,electric_bike,2022-02-28 17:09:50,2022-02-28 17:16:29,Wilson Ave & Moffat St,4507,Knickerbocker Ave & Hancock St,4663,40.68906,-73.90506,40.69385,-73.90974,member
+465380,ADA6C3849EB10D7F,classic_bike,2022-02-16 19:58:23,2022-02-16 20:13:56,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,member
+465390,FFF831F39DEA440C,electric_bike,2022-02-14 12:52:31,2022-02-14 12:56:11,Irving Ave & Harman St,4856,Knickerbocker Ave & Hancock St,4663,40.70108,-73.9179,40.69385,-73.90974,member
+465414,2A18B74DC13F5224,classic_bike,2022-02-07 11:44:35,2022-02-07 11:51:45,Grove St & Broadway,4526,Knickerbocker Ave & Hancock St,4663,40.69047,-73.923511,40.69385,-73.90974,member
+465419,A47A4326B3746A49,classic_bike,2022-02-26 22:17:55,2022-02-26 22:33:02,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,casual
+465429,030FB6828A39251A,electric_bike,2022-02-13 23:01:13,2022-02-13 23:16:25,Wyckoff Av & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.707165,-73.923711,40.69385,-73.90974,casual
+465491,8136160B84C1D83A,electric_bike,2022-02-08 09:33:54,2022-02-08 10:00:27,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Hancock St,4663,40.6972,-73.90674,40.69385,-73.90974,casual
+465498,2EE7D39EDE7F7886,classic_bike,2022-02-06 15:11:12,2022-02-06 15:14:56,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Hancock St,4663,40.6972,-73.90674,40.69385,-73.90974,member
+465524,5E65B6C8018D3A69,electric_bike,2022-02-03 01:36:53,2022-02-03 01:49:45,Montrose Ave & Bushwick Ave,5068,Knickerbocker Ave & Hancock St,4663,40.70767788,-73.94016171,40.69385,-73.90974,casual
+465538,6B1CB285CB369818,electric_bike,2022-02-11 20:04:27,2022-02-11 20:17:23,Lewis Ave & Madison St,4425,Knickerbocker Ave & Hancock St,4663,40.686312,-73.935775,40.69385,-73.90974,casual
+465541,6D854E474C2ACF66,electric_bike,2022-02-08 22:16:56,2022-02-08 22:26:57,Lewis Ave & Madison St,4425,Knickerbocker Ave & Hancock St,4663,40.686312,-73.935775,40.69385,-73.90974,casual
+465547,B865DD5419A483CA,electric_bike,2022-02-27 19:45:04,2022-02-27 19:54:34,Greene Ave & Grandview Ave,5106,Knickerbocker Ave & Hancock St,4663,40.709697,-73.907856,40.69385,-73.90974,member
+465607,9A99F5236710B5E1,electric_bike,2022-02-19 11:30:42,2022-02-19 11:32:59,Halsey St & Evergreen Ave,4474,Knickerbocker Ave & Hancock St,4663,40.68858,-73.91227,40.69385,-73.90974,member
+465624,A7C31CA82B22DCFB,classic_bike,2022-02-05 23:16:55,2022-02-05 23:21:01,Halsey St & Evergreen Ave,4474,Knickerbocker Ave & Hancock St,4663,40.68858,-73.91227,40.69385,-73.90974,member
+465627,83D561CCBFDF85A0,electric_bike,2022-02-15 13:55:46,2022-02-15 14:28:10,Rogers Ave & Sterling St,3696,Knickerbocker Ave & Hancock St,4663,40.6630619,-73.9538746,40.69385,-73.90974,member
+465639,8F1542B670BB7827,classic_bike,2022-02-09 21:37:02,2022-02-09 21:47:55,Greene Ave & Grandview Ave,5106,Knickerbocker Ave & Hancock St,4663,40.709697,-73.907856,40.69385,-73.90974,member
+465664,F36499BCE82BF758,electric_bike,2022-02-14 08:00:54,2022-02-14 08:01:57,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,member
+465683,7FE78B0024ED0834,electric_bike,2022-02-12 10:09:52,2022-02-12 10:10:43,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,casual
+465685,4DB3724447809D48,classic_bike,2022-02-10 14:02:07,2022-02-10 14:08:59,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Hancock St,4663,40.69385,-73.90974,40.69385,-73.90974,casual
+465706,E47FFE9AFD20D8DA,electric_bike,2022-02-25 18:55:33,2022-02-25 19:07:12,Marcus Garvey Blvd & Macon St,4278,Knickerbocker Ave & Hancock St,4663,40.682601,-73.938037,40.69385,-73.90974,casual
+465757,0AAC462547539ED4,classic_bike,2022-02-17 12:14:31,2022-02-17 12:26:52,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Hancock St,4663,40.703545,-73.917775,40.69385,-73.90974,member
+465765,E19773C6F796EBA4,classic_bike,2022-02-24 21:14:38,2022-02-24 21:25:09,Madison St & Woodward Ave,4954,Knickerbocker Ave & Hancock St,4663,40.70408,-73.90408,40.69385,-73.90974,member
+465775,D79E029B759B0894,electric_bike,2022-02-25 13:44:42,2022-02-25 14:42:08,Caton Ave & Argyle Rd,3303,Knickerbocker Ave & Hancock St,4663,40.649681,-73.967829,40.69385,-73.90974,casual
+465842,D36740DABC204C50,classic_bike,2022-02-06 16:54:32,2022-02-06 17:03:33,Irving Ave & Harman St,4856,Knickerbocker Ave & Hancock St,4663,40.70108,-73.9179,40.69385,-73.90974,casual
+465871,84F2C41164B5D24D,classic_bike,2022-02-08 07:32:24,2022-02-08 07:33:31,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+465876,27E0F887B8E48316,electric_bike,2022-02-02 08:58:53,2022-02-02 09:04:03,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,casual
+465899,FC3464047622FD61,classic_bike,2022-02-15 20:04:02,2022-02-15 20:04:53,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+465900,0936B96BF57047F4,electric_bike,2022-02-15 19:57:13,2022-02-15 19:58:01,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+465901,100FB6F665370FE9,classic_bike,2022-02-15 20:00:16,2022-02-15 20:01:16,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+465902,308B10A96454C944,classic_bike,2022-02-15 19:53:47,2022-02-15 19:54:38,Knickerbocker Ave & Halsey St,4623,Knickerbocker Ave & Hancock St,4663,40.693,-73.90824,40.69385,-73.90974,member
+465918,361BDB92CBFB741D,electric_bike,2022-02-03 09:22:05,2022-02-03 09:28:21,Suydam St & Knickerbocker Ave,4939,Knickerbocker Ave & Hancock St,4663,40.702013,-73.923769,40.69385,-73.90974,member
+465989,5A2FC96FC319B0AD,electric_bike,2022-02-15 09:06:52,2022-02-15 09:12:35,Menahan St & Seneca Ave,4963,Knickerbocker Ave & Hancock St,4663,40.70461,-73.91054,40.69385,-73.90974,casual
+466052,3AEE4E423DCF0ED5,classic_bike,2022-02-21 11:50:29,2022-02-21 12:04:39,Willoughby Ave & Myrtle Ave,4759,Knickerbocker Ave & Hancock St,4663,40.69757,-73.93098,40.69385,-73.90974,member
+466086,138C33884ED277FB,electric_bike,2022-02-20 14:27:40,2022-02-20 14:35:46,Wyckoff Av & Stanhope St,4931,Knickerbocker Ave & Hancock St,4663,40.703545,-73.917775,40.69385,-73.90974,member
+466100,459FD279489C2E30,electric_bike,2022-02-25 18:22:49,2022-02-25 18:41:05,Putnam Ave & Knickerbocker Ave,4663,Beaver St & Fayette St,4840,40.69545,-73.91164,40.70099,-73.93921,member
+466169,77DB2A883B72BCAF,electric_bike,2022-02-09 10:32:18,2022-02-09 10:40:01,Rockaway Ave & Bainbridge St,4285,Knickerbocker Ave & Hancock St,4663,40.68319988172761,-73.91166642308235,40.69385,-73.90974,casual
+466231,5EC587D725DE6AAE,classic_bike,2022-02-11 07:06:57,2022-02-11 07:16:44,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,member
+466240,E69F3483123B0295,electric_bike,2022-02-01 07:15:38,2022-02-01 07:23:39,Irving Ave & Jefferson St,5051,Knickerbocker Ave & Hancock St,4663,40.70538,-73.92535,40.69385,-73.90974,member
+466279,421E536EA8A46A0E,electric_bike,2022-02-11 23:41:15,2022-02-12 00:06:46,3 Ave & Carroll St,4143,Knickerbocker Ave & Hancock St,4663,40.677027,-73.9865,40.69385,-73.90974,casual
+466310,CA24D475D55FB320,electric_bike,2022-02-11 21:57:05,2022-02-11 22:41:47,West St & Liberty St,5184,Knickerbocker Ave & Hancock St,4663,40.711444,-74.014847,40.69385,-73.90974,casual
+466327,0507D3BB758FB3EC,classic_bike,2022-02-24 12:10:46,2022-02-24 12:13:13,Irving Ave & Halsey St,4695,Knickerbocker Ave & Hancock St,4663,40.69467,-73.90663,40.69385,-73.90974,member
+466366,D981C07DFF247470,classic_bike,2022-02-07 22:20:59,2022-02-07 22:24:26,Hancock St & Wyckoff Ave,4735,Knickerbocker Ave & Hancock St,4663,40.6972,-73.90674,40.69385,-73.90974,member
+466469,DC0C470001EC8FE8,electric_bike,2022-02-09 16:41:57,2022-02-09 17:11:40,Dock St & Front St,4903,Knickerbocker Ave & Hancock St,4663,40.702709,-73.99253,40.69385,-73.90974,member
+466609,DC6E16532A104D26,classic_bike,2022-02-18 15:14:07,2022-02-18 15:18:07,Irving Ave & Palmetto St,4775,Knickerbocker Ave & Hancock St,4663,40.698,-73.9127,40.69385,-73.90974,member
+466631,852077FCEFCC4394,electric_bike,2022-02-05 06:59:18,2022-02-05 07:03:47,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+466632,64A88BD38458834A,electric_bike,2022-02-16 18:50:10,2022-02-16 18:54:00,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+466633,0B7CE64BA70F1ED3,classic_bike,2022-02-24 08:56:41,2022-02-24 09:00:33,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+466742,34A8E28EF35C3900,electric_bike,2022-02-12 12:15:32,2022-02-12 12:33:31,Bedford Ave & S 9 St,5093,Knickerbocker Ave & Hancock St,4663,40.70853074,-73.96408963,40.69385,-73.90974,member
+466758,B1D3134C12C9019E,classic_bike,2022-02-06 22:33:20,2022-02-06 22:42:11,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+466779,C809EA3E4BBF0123,classic_bike,2022-02-03 10:39:54,2022-02-03 10:53:42,Park Ave & Marcus Garvey Blvd,4768,Knickerbocker Ave & Hancock St,4663,40.698617,-73.941342,40.69385,-73.90974,casual
+466840,63DB760CE74FFEAE,classic_bike,2022-02-26 06:54:27,2022-02-26 06:58:09,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+466841,AA4209184694F32F,electric_bike,2022-02-26 13:56:28,2022-02-26 13:59:17,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+466880,CFA8964EC40454A5,classic_bike,2022-02-16 12:24:48,2022-02-16 12:36:48,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+466969,484264AAEC86113E,electric_bike,2022-02-07 13:51:58,2022-02-07 13:59:17,Central Ave & Starr Street,4792,Knickerbocker Ave & Hancock St,4663,40.700003,-73.92834,40.69385,-73.90974,member
+466986,2017418FFC34933E,classic_bike,2022-02-19 00:30:47,2022-02-19 00:41:00,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+467025,66E476AEBDE32FF0,classic_bike,2022-02-02 16:40:46,2022-02-02 16:44:23,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467026,9991D3986AC328FE,classic_bike,2022-02-02 12:46:15,2022-02-02 12:50:42,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467027,4D7566F3DD7E820F,electric_bike,2022-02-03 09:04:43,2022-02-03 09:08:10,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467028,B9C3CB408B2B326A,classic_bike,2022-02-27 13:53:30,2022-02-27 13:57:11,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467029,13A3555B16083AF2,classic_bike,2022-02-27 17:04:58,2022-02-27 17:07:58,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467066,2D15B6C962B76207,electric_bike,2022-02-10 15:15:27,2022-02-10 15:24:18,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+467076,5F2D8314F6D3A125,electric_bike,2022-02-26 04:51:59,2022-02-26 05:08:47,Willoughby Ave & Wyckoff Ave,5010,Knickerbocker Ave & Hancock St,4663,40.705614,-73.92153,40.69385,-73.90974,member
+467095,53F14F455269394F,electric_bike,2022-02-23 20:27:56,2022-02-23 20:50:34,Putnam Ave & Knickerbocker Ave,4663,Beaver St & Fayette St,4840,40.69545,-73.91164,40.70099,-73.93921,member
+467137,FD69FD5F8645BC7A,classic_bike,2022-02-15 19:49:59,2022-02-15 19:51:42,Irving Ave & Halsey St,4695,Knickerbocker Ave & Hancock St,4663,40.69467,-73.90663,40.69385,-73.90974,member
+467138,40BFA70595DFC568,classic_bike,2022-02-27 18:08:42,2022-02-27 18:10:58,Irving Ave & Halsey St,4695,Knickerbocker Ave & Hancock St,4663,40.69467,-73.90663,40.69385,-73.90974,member
+467141,93CFD055F4C0F064,electric_bike,2022-02-18 10:32:04,2022-02-18 10:33:29,Irving Ave & Halsey St,4695,Knickerbocker Ave & Hancock St,4663,40.69467,-73.90663,40.69385,-73.90974,member
+467186,7F5B41073452E941,classic_bike,2022-02-21 09:18:09,2022-02-21 09:36:45,Sharon St & Olive St,5323,Knickerbocker Ave & Hancock St,4663,40.715353,-73.93856,40.69385,-73.90974,casual
+467262,D6CEFC6FD87BBB61,classic_bike,2022-02-03 23:25:54,2022-02-03 23:51:58,Metropolitan Ave & Meeker Ave,5300,Knickerbocker Ave & Hancock St,4663,40.71413311,-73.95234386,40.69385,-73.90974,member
+467298,5FCF02BE689A09A9,classic_bike,2022-02-17 15:00:42,2022-02-17 15:22:02,Macon St & Nostrand Ave,4214,Knickerbocker Ave & Hancock St,4663,40.6809833854,-73.9500479759,40.69385,-73.90974,member
+467314,1F62FB6D13A634D8,classic_bike,2022-02-09 22:40:21,2022-02-09 22:59:30,Graham Ave & Grand St,5178,Knickerbocker Ave & Hancock St,4663,40.711863,-73.944024,40.69385,-73.90974,member
+467341,B7E8B1D6409B1B58,electric_bike,2022-02-01 09:04:00,2022-02-01 09:06:41,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467342,8E818ACDF7F8F809,classic_bike,2022-02-15 09:01:27,2022-02-15 09:05:44,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467343,AD13E43ADB57F720,classic_bike,2022-02-12 07:01:43,2022-02-12 07:04:53,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467346,8BF173565AA290A8,classic_bike,2022-02-12 23:38:09,2022-02-12 23:53:33,Suydam St & Broadway,4689,Knickerbocker Ave & Hancock St,4663,40.69544,-73.93223,40.69385,-73.90974,casual
+467470,D53A23338814F945,classic_bike,2022-02-06 12:59:49,2022-02-06 13:04:15,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467471,2407CD00674DA438,classic_bike,2022-02-18 08:57:35,2022-02-18 09:01:59,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467511,34BEFCE042652268,classic_bike,2022-02-17 18:49:16,2022-02-17 18:55:30,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467512,1EC0623B8210FE88,electric_bike,2022-02-17 08:56:35,2022-02-17 08:59:30,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467513,47270DD0FE304BCD,classic_bike,2022-02-25 08:59:50,2022-02-25 09:04:17,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467518,31E7C21A3B08669E,classic_bike,2022-02-24 08:47:34,2022-02-24 08:49:25,Irving Ave & Halsey St,4695,Knickerbocker Ave & Hancock St,4663,40.69467,-73.90663,40.69385,-73.90974,member
+467521,60E3E6EBF657484F,electric_bike,2022-02-19 09:08:31,2022-02-19 09:11:30,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467522,FD1FC7FDCE48025A,electric_bike,2022-02-19 18:26:16,2022-02-19 18:28:43,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467528,C32983E04C6E6247,electric_bike,2022-02-04 09:01:58,2022-02-04 09:05:01,Central Ave & Woodbine St,4632,Knickerbocker Ave & Hancock St,4663,40.69296,-73.91605,40.69385,-73.90974,member
+467651,BB58DDEB93E0E86D,electric_bike,2022-02-06 01:58:33,2022-02-06 02:15:41,Stagg St & Union Ave,5117,Knickerbocker Ave & Hancock St,4663,40.70877084,-73.95095259,40.69385,-73.90974,member
+467718,C89E72C4214093ED,electric_bike,2022-02-27 16:51:37,2022-02-27 17:20:17,3 St & Prospect Park West,3865,Knickerbocker Ave & Hancock St,4663,40.668132,-73.97363831,40.69385,-73.90974,member
+467981,9C5611663705C7C6,electric_bike,2022-02-06 19:09:19,2022-02-06 19:45:52,Dean St & Franklin Ave,4107,Knickerbocker Ave & Hancock St,4663,40.67759206937376,-73.955637216568,40.69385,-73.90974,member
+468011,68362CB95C1158D2,electric_bike,2022-02-10 17:44:47,2022-02-10 18:12:10,Carlton Ave & Park Ave,4732,Knickerbocker Ave & Hancock St,4663,40.69580705,-73.97355569,40.69385,-73.90974,member
+468171,5293F6A81B144978,electric_bike,2022-02-09 12:24:52,2022-02-09 12:31:16,Broadway & Hancock St,4441,Knickerbocker Ave & Hancock St,4663,40.68663,-73.9168,40.69385,-73.90974,member
+468188,19A4341AECFF9547,electric_bike,2022-02-02 23:25:06,2022-02-02 23:41:58,Cypress Ave & Palmetto St,4921,Knickerbocker Ave & Hancock St,4663,40.70157340873792,-73.90876293182373,40.69385,-73.90974,member
+468245,E5FFC39B3784E744,electric_bike,2022-02-09 10:09:17,2022-02-09 10:17:31,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468271,A592AFF26A2D406B,electric_bike,2022-02-24 08:45:23,2022-02-24 08:50:44,Irving Ave & DeKalb Ave,4898,Knickerbocker Ave & Hancock St,4663,40.7027,-73.92095,40.69385,-73.90974,casual
+468277,E82A86DAD6B75AD5,electric_bike,2022-02-04 00:37:20,2022-02-04 00:43:22,Irving Ave & DeKalb Ave,4898,Knickerbocker Ave & Hancock St,4663,40.7027,-73.92095,40.69385,-73.90974,casual
+468284,4F9CE7C46A6B2178,electric_bike,2022-02-28 07:00:41,2022-02-28 07:11:09,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468289,7C6EDAE8A9D07D4A,electric_bike,2022-02-22 08:10:48,2022-02-22 08:18:59,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468297,B1FB62DDA5B4E1C8,electric_bike,2022-02-08 07:02:51,2022-02-08 07:10:57,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468298,20C60B021D791B5E,electric_bike,2022-02-09 07:06:25,2022-02-09 07:15:10,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468324,171614A3D4586B18,electric_bike,2022-02-17 20:51:42,2022-02-17 20:57:06,Broadway & Hancock St,4441,Knickerbocker Ave & Hancock St,4663,40.68663,-73.9168,40.69385,-73.90974,casual
+468346,60FA972A2774F351,electric_bike,2022-02-10 07:10:40,2022-02-10 07:16:43,Irving Ave & DeKalb Ave,4898,Knickerbocker Ave & Hancock St,4663,40.7027,-73.92095,40.69385,-73.90974,member
+468347,2F0F1F02EB090020,electric_bike,2022-02-15 07:04:37,2022-02-15 07:14:11,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468348,7F6896E33047E3FD,electric_bike,2022-02-02 07:04:04,2022-02-02 07:14:07,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468358,1ADF31B11637482F,electric_bike,2022-02-17 16:48:11,2022-02-17 17:15:01,Carlton Ave & Dean St,4199,Knickerbocker Ave & Hancock St,4663,40.6809741,-73.9710097,40.69385,-73.90974,casual
+468368,D5E70ABBAB7BC6AF,classic_bike,2022-02-22 09:11:34,2022-02-22 09:14:11,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Hancock St,4663,40.69081,-73.90448,40.69385,-73.90974,member
+468369,1A9A35B4A2F5D964,classic_bike,2022-02-09 07:38:23,2022-02-09 07:40:56,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Hancock St,4663,40.69081,-73.90448,40.69385,-73.90974,member
+468382,DFF23F97CB0389A0,electric_bike,2022-02-27 00:52:27,2022-02-27 00:55:47,Knickerbocker Ave & Cooper St,4582,Knickerbocker Ave & Hancock St,4663,40.69081,-73.90448,40.69385,-73.90974,member
+468385,8DE92A5F505C1BFB,electric_bike,2022-02-17 07:13:30,2022-02-17 07:19:42,Irving Ave & DeKalb Ave,4898,Knickerbocker Ave & Hancock St,4663,40.7027,-73.92095,40.69385,-73.90974,member
+468390,00A576F7851F6B22,electric_bike,2022-02-07 07:07:37,2022-02-07 07:16:02,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468393,CCAEFBF94FEF5F2A,electric_bike,2022-02-14 07:05:51,2022-02-14 07:15:50,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468412,E0382CB7D0DA6176,electric_bike,2022-02-16 07:04:09,2022-02-16 07:12:48,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468415,84AD63A58371AE2F,electric_bike,2022-02-03 07:04:35,2022-02-03 07:15:05,Knickerbocker Ave & George St,4979,Knickerbocker Ave & Hancock St,4663,40.704425,-73.92836,40.69385,-73.90974,member
+468421,321C4099897F8349,electric_bike,2022-02-10 19:58:15,2022-02-10 20:08:52,Woodward Ave & Harman St,5074,Knickerbocker Ave & Hancock St,4663,40.70793,-73.91092,40.69385,-73.90974,member
+468541,FDCDC0B129B4CB1A,classic_bike,2022-02-17 21:39:03,2022-02-17 21:54:29,Centre St & Seneca Ave,4837,Knickerbocker Ave & Hancock St,4663,40.69969,-73.9022,40.69385,-73.90974,member
+468544,37EBA14492B01B56,classic_bike,2022-02-17 21:40:35,2022-02-17 21:55:02,Centre St & Seneca Ave,4837,Knickerbocker Ave & Hancock St,4663,40.69969,-73.9022,40.69385,-73.90974,member
+468545,4B2F35DDAA2566D8,electric_bike,2022-02-17 23:06:47,2022-02-17 23:10:22,Norman St & Wyckoff Ave,4654,Knickerbocker Ave & Hancock St,4663,40.69517,-73.90311,40.69385,-73.90974,member
+468589,C5AEA2967C01AEF4,electric_bike,2022-02-16 12:39:52,2022-02-16 12:43:18,Centre St & Seneca Ave,4837,Knickerbocker Ave & Hancock St,4663,40.69969,-73.9022,40.69385,-73.90974,member
+468590,02A61E70E08E7C35,electric_bike,2022-02-16 17:34:39,2022-02-16 18:05:38,E 11 St & 3 Ave,5788,Knickerbocker Ave & Hancock St,4663,40.73127,-73.98849,40.69385,-73.90974,member
+469687,743C2334C5135574,classic_bike,2022-02-15 23:46:16,2022-02-15 23:55:11,Putnam Ave & Knickerbocker Ave,4663,White St & Moore St,4987,40.69545,-73.91164,40.704508,-73.9351,casual
+469823,912DB785E437D6CB,electric_bike,2022-02-03 20:21:46,2022-02-03 20:30:29,Knickerbocker Ave & Hancock St,4663,White St & Moore St,4987,40.69385,-73.90974,40.704508,-73.9351,casual
+494311,2386A38D03846A9A,classic_bike,2022-02-03 07:47:26,2022-02-03 07:52:19,Putnam Ave & Knickerbocker Ave,4663,Centre St & Seneca Ave,4837,40.69545,-73.91164,40.69969,-73.9022,casual
+494724,C16B175E59B95762,electric_bike,2022-02-15 14:35:41,2022-02-15 14:39:19,Knickerbocker Ave & Hancock St,4663,Centre St & Seneca Ave,4837,40.69385,-73.90974,40.69969,-73.9022,member
+494725,F933A2A81E37F030,electric_bike,2022-02-16 12:14:31,2022-02-16 12:18:05,Knickerbocker Ave & Hancock St,4663,Centre St & Seneca Ave,4837,40.69385,-73.90974,40.69969,-73.9022,member
+510280,687169A0A9137253,electric_bike,2022-02-22 09:14:35,2022-02-22 09:30:07,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Walworth St,4634,40.69385,-73.90974,40.69331716,-73.95381995,member
+510281,359E3B9A7B2556A5,electric_bike,2022-02-09 07:41:10,2022-02-09 07:56:50,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Walworth St,4634,40.69385,-73.90974,40.69331716,-73.95381995,member
+510336,0509A3BE1DD21975,electric_bike,2022-02-26 10:15:49,2022-02-26 10:42:30,Knickerbocker Ave & Hancock St,4663,Wythe Ave & Metropolitan Ave,5348,40.69385,-73.90974,40.716887,-73.963198,member
+513313,0495A48DF9606AB9,electric_bike,2022-02-10 22:04:35,2022-02-10 23:26:01,Putnam Ave & Knickerbocker Ave,4663,Broadway & W 41 St,6560,40.69545,-73.91164,40.75513557,-73.98658032,casual
+524567,6A957FA330827213,electric_bike,2022-02-28 02:11:29,2022-02-28 02:15:52,Putnam Ave & Knickerbocker Ave,4663,Menahan St & Seneca Ave,4963,40.69545,-73.91164,40.70461,-73.91054,member
+531721,31882A34E8324C0C,classic_bike,2022-02-24 10:10:29,2022-02-24 10:12:42,Knickerbocker Ave & Hancock St,4663,Hancock St & Wyckoff Ave,4735,40.69385,-73.90974,40.6972,-73.90674,member
+534816,3BA44BC25CD36AA3,classic_bike,2022-02-13 22:37:55,2022-02-13 22:51:00,Knickerbocker Ave & Hancock St,4663,Stagg St & Morgan Ave,5170,40.69385,-73.90974,40.710681,-73.93372,casual
+535548,0E5066DE5EE82D63,classic_bike,2022-02-18 09:37:52,2022-02-18 09:40:25,Knickerbocker Ave & Hancock St,4663,Hancock St & Wyckoff Ave,4735,40.69385,-73.90974,40.6972,-73.90674,member
+539599,D22E6590CEBF3427,classic_bike,2022-02-03 12:30:39,2022-02-03 12:41:33,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Wyckoff Ave,5010,40.69385,-73.90974,40.705614,-73.92153,member
+539733,39066D8515BEAE8C,classic_bike,2022-02-17 19:44:43,2022-02-17 19:54:05,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Wyckoff Ave,5010,40.69385,-73.90974,40.705614,-73.92153,member
+539734,1468A9D3A6D3A060,electric_bike,2022-02-11 19:04:27,2022-02-11 19:10:28,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Wyckoff Ave,5010,40.69385,-73.90974,40.705614,-73.92153,member
+562508,9BCE1D4B5BA46600,electric_bike,2022-02-17 14:50:58,2022-02-17 15:22:44,Putnam Ave & Knickerbocker Ave,4663,E 14 St & Avenue B,5736,40.69545,-73.91164,40.72938685,-73.97772429,casual
+570646,77BE8FAEAACACED3,electric_bike,2022-02-12 22:49:56,2022-02-12 22:56:29,Putnam Ave & Knickerbocker Ave,4663,Madison St & Forest Ave,5025,40.69545,-73.91164,40.70555,-73.90245,member
+571424,B71E7C0B9ACCBDC4,electric_bike,2022-02-08 18:51:48,2022-02-08 18:58:34,Knickerbocker Ave & Hancock St,4663,Madison St & Forest Ave,5025,40.69385,-73.90974,40.70555,-73.90245,member
+571603,3C2DF8494CEFB62F,classic_bike,2022-02-20 14:32:32,2022-02-20 14:39:34,Knickerbocker Ave & Hancock St,4663,Forest Ave & Summerfield St,4798,40.69385,-73.90974,40.69922,-73.89795,member
+571604,1960E86E317AEA07,electric_bike,2022-02-16 12:54:51,2022-02-16 13:00:35,Knickerbocker Ave & Hancock St,4663,Madison St & Forest Ave,5025,40.69385,-73.90974,40.70555,-73.90245,member
+571790,2A4092D4D8FF98C1,electric_bike,2022-02-18 14:09:03,2022-02-18 14:40:42,Knickerbocker Ave & Hancock St,4663,Bridge St & Water St,4968,40.69385,-73.90974,40.70296934155272,-73.98469090461731,member
+581216,E6B71209CD6F2544,electric_bike,2022-02-17 10:51:28,2022-02-17 11:09:29,Knickerbocker Ave & Hancock St,4663,Lafayette Ave & Classon Ave,4452,40.69385,-73.90974,40.68900443,-73.96023854,casual
+586986,2673929F81DBBC6C,classic_bike,2022-02-08 07:38:18,2022-02-08 07:39:42,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+587229,0633C328DACC45E2,classic_bike,2022-02-27 16:23:09,2022-02-27 16:25:09,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+587810,720D17F84C629DC2,classic_bike,2022-02-19 11:33:13,2022-02-19 11:33:52,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+591304,C7865081BC77B59C,electric_bike,2022-02-24 10:13:24,2022-02-24 10:29:20,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,member
+591587,2E57652C840C760F,classic_bike,2022-02-26 23:41:19,2022-02-26 23:50:34,Knickerbocker Ave & Hancock St,4663,Willoughby Ave & Myrtle Ave,4759,40.69385,-73.90974,40.69757,-73.93098,member
+591590,DAD15A273DC4AAF6,electric_bike,2022-02-10 18:36:58,2022-02-10 19:22:36,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Halsey St,4623,40.69385,-73.90974,40.693,-73.90824,casual
+592511,829748CAEFA552BE,classic_bike,2022-02-11 13:06:38,2022-02-11 13:18:13,Putnam Ave & Knickerbocker Ave,4663,Waterbury St & Stagg St,5099,40.69545,-73.91164,40.71019,-73.93734,casual
+599199,F52685550E76A37E,electric_bike,2022-02-17 17:51:38,2022-02-17 18:04:48,Knickerbocker Ave & Hancock St,4663,Greene Ave & Nostrand Ave,4519,40.69385,-73.90974,40.6883337,-73.950916,member
+605805,F007917C10D282AC,electric_bike,2022-02-27 18:11:32,2022-02-27 18:39:26,Knickerbocker Ave & Hancock St,4663,Kent Ave & N 7 St,5489,40.69385,-73.90974,40.72036775298455,-73.96165072917938,member
+615723,84045671F06AADC1,classic_bike,2022-02-19 08:38:13,2022-02-19 08:44:32,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+616668,A900092CE96577FB,classic_bike,2022-02-06 14:15:56,2022-02-06 14:20:48,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+616669,7840DAA32E66B907,classic_bike,2022-02-06 12:00:28,2022-02-06 12:04:47,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+616670,10BB1D58D640F7DD,classic_bike,2022-02-18 15:46:52,2022-02-18 15:51:08,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+616671,14875CEF610B09E2,electric_bike,2022-02-17 19:57:16,2022-02-17 20:00:37,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+616672,071E2A8849512D2F,electric_bike,2022-02-18 10:59:15,2022-02-18 11:02:02,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+619038,41422E0FDC0E25E5,classic_bike,2022-02-28 18:10:49,2022-02-28 18:14:55,Putnam Ave & Knickerbocker Ave,4663,Central Ave & Woodbine St,4632,40.69545,-73.91164,40.69296,-73.91605,member
+619039,4CEDEAB77A954CD1,classic_bike,2022-02-17 12:52:14,2022-02-17 12:56:22,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Halsey St,4695,40.69545,-73.91164,40.69467,-73.90663,member
+619069,8723848DB61099B2,classic_bike,2022-02-17 10:46:56,2022-02-17 11:00:23,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+619070,5B9BD34F26D44E2B,classic_bike,2022-02-16 19:53:33,2022-02-16 19:58:41,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+619071,3BC4EBC4266F9806,classic_bike,2022-02-25 10:46:28,2022-02-25 10:50:38,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+619340,F939B635D1B55147,electric_bike,2022-02-26 01:13:25,2022-02-26 01:30:20,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Halsey St,4695,40.69545,-73.91164,40.69467,-73.90663,member
+619812,EBA74F8311D13C74,classic_bike,2022-02-21 12:56:58,2022-02-21 12:59:45,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+620675,B51B1CA9A920930F,electric_bike,2022-02-12 10:28:59,2022-02-12 10:31:59,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+620676,1439879D937F2B09,classic_bike,2022-02-12 19:37:14,2022-02-12 19:41:19,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+620677,18A730760BCCA78A,electric_bike,2022-02-26 12:03:55,2022-02-26 12:06:52,Knickerbocker Ave & Hancock St,4663,Central Ave & Woodbine St,4632,40.69385,-73.90974,40.69296,-73.91605,member
+623491,D6BF24A54EF41468,classic_bike,2022-02-17 16:50:03,2022-02-17 16:52:30,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Halsey St,4695,40.69545,-73.91164,40.69467,-73.90663,casual
+626634,2C16F0250EEBEF50,electric_bike,2022-02-17 17:01:25,2022-02-17 17:38:52,Knickerbocker Ave & Hancock St,4663,3 St & Prospect Park West,3865,40.69385,-73.90974,40.668132,-73.97363831,casual
+639411,9338883F2DC879CE,classic_bike,2022-02-09 10:43:29,2022-02-09 11:16:27,Knickerbocker Ave & Hancock St,4663,McKibbin St & Manhattan Ave,4996,40.69385,-73.90974,40.70510918,-73.94407279,member
+642437,62443079366C4B91,classic_bike,2022-02-09 16:35:12,2022-02-09 17:03:45,Putnam Ave & Knickerbocker Ave,4663,Dean St & Franklin Ave,4107,40.69545,-73.91164,40.67759206937376,-73.955637216568,member
+642816,D5D0F2E6CCAD7ED1,classic_bike,2022-02-22 17:07:28,2022-02-22 17:31:50,Knickerbocker Ave & Hancock St,4663,Dean St & Franklin Ave,4107,40.69385,-73.90974,40.67759206937376,-73.955637216568,casual
+664547,AE00A27D4A40085D,classic_bike,2022-02-02 18:21:52,2022-02-02 18:35:30,Knickerbocker Ave & Hancock St,4663,Tompkins Ave & Hopkins St,4850,40.69385,-73.90974,40.69957608,-73.94708417,member
+666861,F8CEC0176AAFA762,classic_bike,2022-02-12 10:39:46,2022-02-12 10:52:38,Knickerbocker Ave & Hancock St,4663,Tompkins Ave & Hopkins St,4850,40.69385,-73.90974,40.69957608,-73.94708417,member
+697795,FDD5E71F3B937BBE,classic_bike,2022-02-28 15:02:58,2022-02-28 15:09:28,Putnam Ave & Knickerbocker Ave,4663,Central Ave & Covert St,4550,40.69545,-73.91164,40.68929,-73.90951,casual
+707517,9E7EC00E90335E60,classic_bike,2022-02-21 21:33:08,2022-02-21 21:48:25,Putnam Ave & Knickerbocker Ave,4663,Halsey St & Tompkins Ave,4319,40.69545,-73.91164,40.6823687,-73.944118,casual
+707664,18A156A66D3C70C4,electric_bike,2022-02-24 13:31:33,2022-02-24 13:47:15,Putnam Ave & Knickerbocker Ave,4663,Halsey St & Tompkins Ave,4319,40.69545,-73.91164,40.6823687,-73.944118,casual
+707998,B51B3C0A6F95C55D,electric_bike,2022-02-09 17:38:49,2022-02-09 18:24:31,Putnam Ave & Knickerbocker Ave,4663,Van Brunt St & Van Dyke St,4095,40.69545,-73.91164,40.6758329439129,-74.01472628116608,member
+733787,86E30AFCF99D2EA6,classic_bike,2022-02-10 15:13:01,2022-02-10 15:20:12,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & George St,4979,40.69545,-73.91164,40.704425,-73.92836,casual
+733796,72A8008DAD8A66A2,classic_bike,2022-02-21 08:17:40,2022-02-21 08:26:04,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & George St,4979,40.69545,-73.91164,40.704425,-73.92836,member
+733797,6E861CC9EA65878F,classic_bike,2022-02-15 08:19:08,2022-02-15 08:27:46,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & George St,4979,40.69545,-73.91164,40.704425,-73.92836,member
+734799,C743A67DECF397DD,electric_bike,2022-02-04 07:13:20,2022-02-04 07:36:04,Putnam Ave & Knickerbocker Ave,4663,Carlton Ave & Flushing Ave,4732,40.69545,-73.91164,40.697787,-73.973736,casual
+734896,2D66CFEB57A61BE4,classic_bike,2022-02-18 15:44:51,2022-02-18 15:56:14,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & DeKalb Ave,4898,40.69545,-73.91164,40.7027,-73.92095,member
+735557,716928894EE003D1,classic_bike,2022-02-03 20:49:02,2022-02-03 20:57:10,Knickerbocker Ave & Hancock St,4663,Irving Ave & DeKalb Ave,4898,40.69385,-73.90974,40.7027,-73.92095,member
+736472,424B9CCBE1DAD7F8,classic_bike,2022-02-08 15:21:13,2022-02-08 15:27:53,Knickerbocker Ave & Hancock St,4663,Irving Ave & DeKalb Ave,4898,40.69385,-73.90974,40.7027,-73.92095,member
+736904,8142424DCD53A29E,electric_bike,2022-02-03 15:44:28,2022-02-03 15:50:34,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & George St,4979,40.69385,-73.90974,40.704425,-73.92836,member
+736907,E6B887EA4D118D37,electric_bike,2022-02-16 18:22:53,2022-02-16 18:29:10,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & George St,4979,40.69385,-73.90974,40.704425,-73.92836,casual
+737351,5196ADE7352E397F,classic_bike,2022-02-01 14:21:56,2022-02-01 14:31:11,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & George St,4979,40.69385,-73.90974,40.704425,-73.92836,member
+738194,7A73C7FD91B9CC45,classic_bike,2022-02-02 08:21:08,2022-02-02 08:28:28,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & George St,4979,40.69545,-73.91164,40.704425,-73.92836,member
+762236,5A8DF348C8299437,electric_bike,2022-02-19 12:03:55,2022-02-19 18:53:12,Knickerbocker Ave & Hancock St,4663,Scholes St & Manhattan Ave,5108,40.69385,-73.90974,40.70870368,-73.9448625,member
+778514,8E2D768045955F3D,electric_bike,2022-02-19 10:28:14,2022-02-19 10:44:56,Putnam Ave & Knickerbocker Ave,4663,Throop Ave & Myrtle Ave,4697,40.69545,-73.91164,40.69622937,-73.94371094,member
+778866,BA3444FDE6C0B8DE,electric_bike,2022-02-05 23:21:22,2022-02-05 23:26:29,Knickerbocker Ave & Hancock St,4663,Wyckoff Av & Stanhope St,4931,40.69385,-73.90974,40.703545,-73.917775,member
+779193,FCFD6AD04B99FC98,classic_bike,2022-02-08 20:52:40,2022-02-08 21:04:47,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Av & Stanhope St,4931,40.69545,-73.91164,40.703545,-73.917775,member
+780307,2E7EC95AFCD42026,electric_bike,2022-02-23 14:33:06,2022-02-23 14:38:27,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Av & Stanhope St,4931,40.69545,-73.91164,40.703545,-73.917775,member
+780308,DFAB85D6A9DBEC62,classic_bike,2022-02-24 16:29:33,2022-02-24 16:38:18,Putnam Ave & Knickerbocker Ave,4663,Madison St & Woodward Ave,4954,40.69545,-73.91164,40.70408,-73.90408,member
+795162,AA91B323A02A37D2,electric_bike,2022-02-23 16:04:06,2022-02-23 16:39:03,Putnam Ave & Knickerbocker Ave,4663,Bayard St & Leonard St,5442,40.69545,-73.91164,40.71915571696044,-73.94885390996933,casual
+811810,8D56B91779FFF912,electric_bike,2022-02-18 08:37:23,2022-02-18 09:14:40,Knickerbocker Ave & Hancock St,4663,48 Ave & 31 St,6151,40.69385,-73.90974,40.74133,-73.93616,casual
+828300,97DE9610FF946A98,electric_bike,2022-02-16 16:53:45,2022-02-16 17:01:46,Knickerbocker Ave & Hancock St,4663,Central Ave & Flushing Ave,4947,40.69385,-73.90974,40.702831,-73.9333,member
+831635,D236E7C8767B0F65,electric_bike,2022-02-12 23:20:18,2022-02-12 23:39:56,Putnam Ave & Knickerbocker Ave,4663,Willoughby Ave & Tompkins Ave,4665,40.69545,-73.91164,40.69425403,-73.94626915,casual
+835420,EFA297F22DE7EC0D,electric_bike,2022-02-27 14:36:50,2022-02-27 15:57:00,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+835920,745924125FB03F6D,electric_bike,2022-02-23 18:50:51,2022-02-23 20:16:30,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+836370,55B107F33BE749FC,electric_bike,2022-02-10 07:56:13,2022-02-10 07:58:55,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+836783,D6654CA500F0924E,classic_bike,2022-02-21 17:40:21,2022-02-21 17:52:20,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+837262,6E4C535EB4913BC9,electric_bike,2022-02-19 20:06:25,2022-02-19 20:08:45,Knickerbocker Ave & Hancock St,4663,Irving Ave & Palmetto St,4775,40.69385,-73.90974,40.698,-73.9127,member
+837523,C42627ADFD71392F,electric_bike,2022-02-16 07:51:07,2022-02-16 07:53:53,Knickerbocker Ave & Hancock St,4663,Irving Ave & Palmetto St,4775,40.69385,-73.90974,40.698,-73.9127,member
+838839,EDD363AF91BF0A27,classic_bike,2022-02-10 15:27:44,2022-02-10 15:29:38,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+838847,0E0DC7B751503B1E,electric_bike,2022-02-03 16:10:51,2022-02-03 16:13:03,Putnam Ave & Knickerbocker Ave,4663,Irving Ave & Palmetto St,4775,40.69545,-73.91164,40.698,-73.9127,member
+847895,933A47378676AD51,classic_bike,2022-02-09 18:35:34,2022-02-09 19:05:30,Knickerbocker Ave & Hancock St,4663,Franklin Ave & St Marks Ave,4107,40.69385,-73.90974,40.6758324,-73.9561677,casual
+860522,EA3A48C65FFED2B8,electric_bike,2022-02-23 16:48:30,2022-02-23 16:56:41,Putnam Ave & Knickerbocker Ave,4663,Wilson Ave & Troutman St,4864,40.69545,-73.91164,40.70166,-73.92754,member
+861565,942A09FD01DDEDE3,classic_bike,2022-02-04 20:48:11,2022-02-04 21:03:28,Knickerbocker Ave & Hancock St,4663,Suydam St & Broadway,4689,40.69385,-73.90974,40.69544,-73.93223,member
+862737,6E849E9EF13060FD,electric_bike,2022-02-08 18:35:49,2022-02-08 18:43:13,Putnam Ave & Knickerbocker Ave,4663,Wilson Ave & Troutman St,4864,40.69545,-73.91164,40.70166,-73.92754,member
+870291,6F602B80A24F1777,classic_bike,2022-02-04 12:43:47,2022-02-04 12:49:48,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,casual
+870296,F8D5F56BD61B21EC,electric_bike,2022-02-02 09:15:10,2022-02-02 09:18:25,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+870302,C6FE0260A7E78074,classic_bike,2022-02-12 15:46:11,2022-02-12 15:50:27,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+870303,4B3910C52237324C,electric_bike,2022-02-28 16:31:48,2022-02-28 16:35:03,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+870371,D739D252ABEE67FE,classic_bike,2022-02-17 13:07:33,2022-02-17 13:10:07,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+870372,EA94E567D57B46D1,classic_bike,2022-02-26 14:48:48,2022-02-26 14:53:14,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,casual
+870373,42DCCBA9BFB66627,classic_bike,2022-02-26 17:09:49,2022-02-26 17:14:41,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,casual
+870375,EBD957570DCC3A26,electric_bike,2022-02-24 09:36:09,2022-02-24 09:39:07,Knickerbocker Ave & Hancock St,4663,Greene Av & Myrtle Av,4784,40.69385,-73.90974,40.698568,-73.918877,member
+870461,FD3A52C0CE96DB69,classic_bike,2022-02-08 18:39:20,2022-02-08 18:44:07,Putnam Ave & Knickerbocker Ave,4663,Greene Av & Myrtle Av,4784,40.69545,-73.91164,40.698568,-73.918877,casual
+870490,46241618FE38539C,classic_bike,2022-02-26 17:33:13,2022-02-26 17:38:26,Putnam Ave & Knickerbocker Ave,4663,Myrtle Ave & Linden St,4816,40.69545,-73.91164,40.69943,-73.91337,member
+877468,6F2602BC1B9F715B,classic_bike,2022-02-26 18:54:31,2022-02-26 18:57:34,Putnam Ave & Knickerbocker Ave,4663,Madison St & Evergreen Ave,4560,40.69545,-73.91164,40.69122,-73.91693,member
+877482,D60E111B446B18EB,electric_bike,2022-02-23 15:59:32,2022-02-23 16:31:12,Putnam Ave & Knickerbocker Ave,4663,Sullivan St & Washington Sq,5721,40.69545,-73.91164,40.73047747,-73.99906065,casual
+877483,66CA57F59EF3FD0A,classic_bike,2022-02-26 13:10:59,2022-02-26 13:14:10,Putnam Ave & Knickerbocker Ave,4663,Madison St & Evergreen Ave,4560,40.69545,-73.91164,40.69122,-73.91693,casual
+877934,D81324BB62F3CDFA,electric_bike,2022-02-04 01:36:39,2022-02-04 01:47:15,Putnam Ave & Knickerbocker Ave,4663,Madison St & Evergreen Ave,4560,40.69545,-73.91164,40.69122,-73.91693,member
+878479,8B1B928DCB321257,classic_bike,2022-02-06 16:56:19,2022-02-06 17:06:24,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Thames St,5018,40.69385,-73.90974,40.70539,-73.92976,casual
+878489,58DD7DDC6999A953,electric_bike,2022-02-09 14:16:57,2022-02-09 14:19:50,Putnam Ave & Knickerbocker Ave,4663,Madison St & Evergreen Ave,4560,40.69545,-73.91164,40.69122,-73.91693,casual
+878621,E1D0B161C7A5BDD1,electric_bike,2022-02-28 09:28:10,2022-02-28 09:36:13,Knickerbocker Ave & Hancock St,4663,Knickerbocker Ave & Thames St,5018,40.69385,-73.90974,40.70539,-73.92976,member
+878727,255898290CED6E3B,electric_bike,2022-02-16 23:59:41,2022-02-17 00:40:30,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Thames St,5018,40.69545,-73.91164,40.70539,-73.92976,member
+878728,77D628E713E8FA7B,electric_bike,2022-02-16 23:52:08,2022-02-16 23:56:33,Putnam Ave & Knickerbocker Ave,4663,Linden St & Knickerbocker Ave,4743,40.69545,-73.91164,40.69714,-73.91566,member
+879356,FD979A6EB8E901BB,electric_bike,2022-02-05 15:09:58,2022-02-05 15:17:16,Putnam Ave & Knickerbocker Ave,4663,Knickerbocker Ave & Thames St,5018,40.69545,-73.91164,40.70539,-73.92976,casual
+879414,86BA254645801DD7,classic_bike,2022-02-12 11:45:25,2022-02-12 11:48:34,Knickerbocker Ave & Hancock St,4663,Linden St & Knickerbocker Ave,4743,40.69385,-73.90974,40.69714,-73.91566,member
+885468,65B9EEE76F0A8EBA,classic_bike,2022-02-26 13:57:50,2022-02-26 14:19:01,Knickerbocker Ave & Hancock St,4663,Nostrand Ave & Myrtle Ave,4707,40.69385,-73.90974,40.69527008,-73.95238108,member
+892799,8D8CB11B4A7BF326,electric_bike,2022-02-22 18:43:38,2022-02-22 18:50:08,Putnam Ave & Knickerbocker Ave,4663,Onderdonk Ave & Gates Ave,4994,40.69545,-73.91164,40.70413,-73.90737,casual
+893150,76D50EAB536C704F,classic_bike,2022-02-21 22:21:36,2022-02-21 22:27:08,Putnam Ave & Knickerbocker Ave,4663,Onderdonk Ave & Gates Ave,4994,40.69545,-73.91164,40.70413,-73.90737,casual
+898767,56F5618B25542B89,classic_bike,2022-02-12 08:58:41,2022-02-12 09:01:33,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Wyckoff Ave,4735,40.69545,-73.91164,40.69811,-73.90904,casual
+901312,D56B2042857EAD55,electric_bike,2022-02-26 15:44:59,2022-02-26 15:58:27,Knickerbocker Ave & Hancock St,4663,Marcus Garvey Blvd & Macon St,4278,40.69385,-73.90974,40.682601,-73.938037,casual
+954166,56B7892294B14D04,electric_bike,2022-02-04 16:26:34,2022-02-04 16:30:59,Knickerbocker Ave & Hancock St,4663,Cypress Ave & George St,4765,40.69385,-73.90974,40.69812,-73.90271,casual
+954730,48A2B2DF432BE215,classic_bike,2022-02-03 03:29:01,2022-02-03 03:38:43,Putnam Ave & Knickerbocker Ave,4663,Suydam St & Knickerbocker Ave,4939,40.69545,-73.91164,40.702013,-73.923769,member
+954732,16DD429E83B989B7,classic_bike,2022-02-23 18:18:02,2022-02-23 18:26:53,Putnam Ave & Knickerbocker Ave,4663,Suydam St & Knickerbocker Ave,4939,40.69545,-73.91164,40.702013,-73.923769,member
+956443,56D136F4CAFC0B28,classic_bike,2022-02-20 15:13:53,2022-02-20 15:19:46,Putnam Ave & Knickerbocker Ave,4663,Suydam St & Knickerbocker Ave,4939,40.69545,-73.91164,40.702013,-73.923769,casual
+956495,72AA6DD6D4E8FE85,classic_bike,2022-02-22 21:58:26,2022-02-22 22:03:53,Putnam Ave & Knickerbocker Ave,4663,Suydam St & Knickerbocker Ave,4939,40.69545,-73.91164,40.702013,-73.923769,casual
+959411,B02ABC6156AEF025,electric_bike,2022-02-09 08:26:08,2022-02-09 08:35:29,Putnam Ave & Knickerbocker Ave,4663,Greene Ave & Grandview Ave,5106,40.69545,-73.91164,40.709697,-73.907856,member
+959543,6080D2595292653D,classic_bike,2022-02-11 07:45:43,2022-02-11 07:58:04,Putnam Ave & Knickerbocker Ave,4663,Greene Ave & Grandview Ave,5106,40.69545,-73.91164,40.709697,-73.907856,member
+960471,EAF861573EE13FC1,classic_bike,2022-02-09 19:04:52,2022-02-09 19:15:57,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,member
+960473,DEEF33FFF23167DB,electric_bike,2022-02-12 13:09:43,2022-02-12 13:23:13,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,casual
+960490,C6BA9D3853146351,electric_bike,2022-02-14 08:02:44,2022-02-14 08:14:46,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,member
+960491,8021A3287E768E82,electric_bike,2022-02-15 08:02:18,2022-02-15 08:13:35,Knickerbocker Ave & Hancock St,4663,Greene Ave & Grandview Ave,5106,40.69385,-73.90974,40.709697,-73.907856,member
+994718,1460A69807EC6ECD,electric_bike,2022-02-16 17:39:27,2022-02-16 17:49:33,Knickerbocker Ave & Hancock St,4663,Fulton St & Utica Ave,4228,40.69385,-73.90974,40.6794268,-73.9298911,member
+998719,EE9961C8A225D85B,electric_bike,2022-02-14 18:32:03,2022-02-14 19:03:32,Putnam Ave & Knickerbocker Ave,4663,Berkeley Pl & 6 Ave,4134,40.69545,-73.91164,40.6765304,-73.97846879,member
+1010030,248909302C33CD0F,electric_bike,2022-02-12 13:00:46,2022-02-12 13:28:26,Putnam Ave & Knickerbocker Ave,4663,1 St & 6 Ave,3946,40.69545,-73.91164,40.672784,-73.979826,casual
+1025120,9CBB203781874FD4,electric_bike,2022-02-04 01:20:30,2022-02-04 01:47:42,Putnam Ave & Knickerbocker Ave,4663,Clinton St & Tillary St,4748,40.69545,-73.91164,40.69623297129316,-73.99142056703568,casual
+1028441,027A735882B859A9,electric_bike,2022-02-25 18:09:01,2022-02-25 18:12:51,Knickerbocker Ave & Hancock St,4663,Broadway & Hancock St,4441,40.69385,-73.90974,40.68663,-73.9168,casual
+1028447,BB8C3734E39370A6,electric_bike,2022-02-18 08:35:18,2022-02-18 08:48:10,Knickerbocker Ave & Hancock St,4663,Woodward Ave & Harman St,5074,40.69385,-73.90974,40.70793,-73.91092,member
+1028478,EA508C25C601CA56,electric_bike,2022-02-26 15:51:44,2022-02-26 15:55:38,Knickerbocker Ave & Hancock St,4663,Broadway & Hancock St,4441,40.69385,-73.90974,40.68663,-73.9168,casual
+1028479,65C74A8F757232F8,electric_bike,2022-02-25 23:42:24,2022-02-25 23:45:19,Knickerbocker Ave & Hancock St,4663,Broadway & Hancock St,4441,40.69385,-73.90974,40.68663,-73.9168,casual
+1028579,78393AC495B67204,electric_bike,2022-02-15 10:01:25,2022-02-15 10:05:06,Knickerbocker Ave & Hancock St,4663,Broadway & Hancock St,4441,40.69385,-73.90974,40.68663,-73.9168,casual
+1028851,1AB599AEF86CAE02,electric_bike,2022-02-23 16:28:47,2022-02-23 16:34:59,Putnam Ave & Knickerbocker Ave,4663,Broadway & Hancock St,4441,40.69545,-73.91164,40.68663,-73.9168,casual
+1029041,21FB8D77265E41F6,electric_bike,2022-02-06 20:03:03,2022-02-06 20:09:33,Putnam Ave & Knickerbocker Ave,4663,Woodward Ave & Harman St,5074,40.69545,-73.91164,40.70793,-73.91092,member
+1029042,9EB9AD0C7C597FE6,electric_bike,2022-02-16 19:38:15,2022-02-16 19:45:05,Putnam Ave & Knickerbocker Ave,4663,Woodward Ave & Harman St,5074,40.69545,-73.91164,40.70793,-73.91092,member
+1030504,C518F609478B8B06,electric_bike,2022-02-19 14:51:05,2022-02-19 15:25:05,Putnam Ave & Knickerbocker Ave,4663,Putnam Ave & Throop Ave,4392,40.69545,-73.91164,40.6851532,-73.94111,casual
+1031121,0F364F0EA187A98D,electric_bike,2022-02-24 16:08:47,2022-02-24 16:50:03,Knickerbocker Ave & Hancock St,4663,Putnam Ave & Throop Ave,4392,40.69385,-73.90974,40.6851532,-73.94111,casual
+1034222,9DA1787778E0E0D8,electric_bike,2022-02-02 20:11:16,2022-02-02 20:23:56,Putnam Ave & Knickerbocker Ave,4663,White St & Johnson Ave,5099,40.69545,-73.91164,40.707174,-73.93581,casual
+1037290,F7769563578E7E79,electric_bike,2022-02-20 15:08:41,2022-02-20 15:55:39,Knickerbocker Ave & Hancock St,4663,Union Ave & N 12 St,5411,40.69385,-73.90974,40.71924,-73.95242,casual
+1041233,699E8DDE99CD9C9D,classic_bike,2022-02-27 20:33:12,2022-02-27 20:58:46,Knickerbocker Ave & Hancock St,4663,Monroe St & Classon Ave,4336,40.69385,-73.90974,40.6845683,-73.95881081,casual
+1047387,9B7E4E95AD9046AB,classic_bike,2022-02-20 10:37:41,2022-02-20 10:41:44,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048036,E957AB2E4E2438AC,electric_bike,2022-02-06 19:50:08,2022-02-06 19:54:42,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048037,BB8E8AF62F471363,classic_bike,2022-02-02 10:40:30,2022-02-02 10:46:02,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048038,C616DD02B78252F5,classic_bike,2022-02-11 11:59:44,2022-02-11 12:04:24,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048039,59087DED0469EAD4,classic_bike,2022-02-09 10:45:35,2022-02-09 10:50:31,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048121,B6C028048E7EA10D,classic_bike,2022-02-08 10:49:41,2022-02-08 10:54:44,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048453,40FBAAC48E0E639A,classic_bike,2022-02-17 11:46:18,2022-02-17 11:52:07,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048461,FEE3B05BD87856B0,classic_bike,2022-02-16 10:40:55,2022-02-16 10:46:18,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048719,C719A3E3BBD222C6,electric_bike,2022-02-26 21:23:57,2022-02-26 21:43:25,Knickerbocker Ave & Hancock St,4663,Metropolitan Ave & Meeker Ave,5300,40.69385,-73.90974,40.71413311,-73.95234386,member
+1048722,52B86DC1FF3E832C,electric_bike,2022-02-25 12:05:05,2022-02-25 12:08:57,Knickerbocker Ave & Hancock St,4663,Halsey St & Broadway,4366,40.69385,-73.90974,40.68565,-73.91564,member
+1048804,229DFE12E1AFBDDC,electric_bike,2022-02-04 21:10:26,2022-02-04 21:22:10,Knickerbocker Ave & Hancock St,4663,Park Ave & Marcus Garvey Blvd,4768,40.69385,-73.90974,40.698617,-73.941342,casual
+1059377,E8D26FF6B8F66997,electric_bike,2022-02-17 09:38:34,2022-02-17 10:08:06,Knickerbocker Ave & Hancock St,4663,Union St & 4 Ave,4175,40.69385,-73.90974,40.6772744,-73.98282002,casual
+1061938,6DC2E1D5B8B3FF11,electric_bike,2022-02-12 10:11:29,2022-02-12 10:37:42,Knickerbocker Ave & Hancock St,4663,Union St & 4 Ave,4175,40.69385,-73.90974,40.6772744,-73.98282002,casual
+1064959,661D86F173AA4C78,electric_bike,2022-02-11 09:34:28,2022-02-11 09:59:22,Putnam Ave & Knickerbocker Ave,4663,Union St & 4 Ave,4175,40.69545,-73.91164,40.6772744,-73.98282002,casual
+1073334,D864381C142E5DA2,electric_bike,2022-02-01 09:56:01,2022-02-01 10:05:40,Knickerbocker Ave & Hancock St,4663,Menahan St & Onderdonk Ave,5034,40.69385,-73.90974,40.70553,-73.9096,casual
+1074060,33EC0167C5E64058,electric_bike,2022-02-12 14:34:26,2022-02-12 14:43:13,Putnam Ave & Knickerbocker Ave,4663,Menahan St & Onderdonk Ave,5034,40.69545,-73.91164,40.70553,-73.9096,casual
+1076549,975322BA2F26226D,electric_bike,2022-02-12 14:31:05,2022-02-12 14:43:15,Knickerbocker Ave & Hancock St,4663,Menahan St & Onderdonk Ave,5034,40.69385,-73.90974,40.70553,-73.9096,casual
+1088575,E63FF61EB9D8F820,electric_bike,2022-02-22 12:49:09,2022-02-22 12:52:59,Putnam Ave & Knickerbocker Ave,4663,Menahan St & Wyckoff Ave,4890,40.69545,-73.91164,40.70113,-73.91422,member
+1118301,BB44982F848F4ABE,classic_bike,2022-02-12 11:11:27,2022-02-12 11:48:44,Knickerbocker Ave & Hancock St,4663,LaGuardia Pl & W 3 St,5721,40.69385,-73.90974,40.72917025,-73.99810231,member
+1131804,3B67C919060F8DB6,electric_bike,2022-02-18 17:59:25,2022-02-18 19:23:44,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1131806,D424A01E57EB964F,classic_bike,2022-02-23 07:05:39,2022-02-23 07:09:05,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1131808,7A852ED0D2FA984B,classic_bike,2022-02-16 08:33:35,2022-02-16 08:37:29,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1131809,E6653D56AEE2CE68,classic_bike,2022-02-21 15:55:51,2022-02-21 15:59:03,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1140277,1D6287748900A6E4,electric_bike,2022-02-10 10:10:39,2022-02-10 10:25:01,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140279,D64540A3A44D264A,electric_bike,2022-02-12 14:26:32,2022-02-12 14:29:01,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140286,E19F7496D38F81BE,classic_bike,2022-02-22 10:13:01,2022-02-22 10:16:18,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140290,E9782D49C7A3E72E,classic_bike,2022-02-28 08:37:58,2022-02-28 08:41:13,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140291,EA639A76D25932D9,classic_bike,2022-02-01 11:46:30,2022-02-01 11:50:03,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140292,C8D17F2C501F5273,electric_bike,2022-02-18 18:23:29,2022-02-18 18:26:45,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140295,EADF047EC318FAA7,classic_bike,2022-02-17 18:39:29,2022-02-17 18:43:24,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140297,CB1C70B639330F90,classic_bike,2022-02-03 19:24:46,2022-02-03 19:27:28,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140298,9F35C1B704AE68C8,classic_bike,2022-02-09 08:30:23,2022-02-09 08:33:34,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140299,CB29CC7BBACAD6C5,electric_bike,2022-02-14 08:34:23,2022-02-14 08:37:25,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140301,F0EAE8803E74DBD1,electric_bike,2022-02-24 10:03:26,2022-02-24 10:05:42,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1140304,4C321B23A783BE48,classic_bike,2022-02-07 07:09:48,2022-02-07 07:17:41,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140307,6CC7B940C0C24C68,classic_bike,2022-02-03 15:20:09,2022-02-03 15:24:46,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140308,C4307312839BE184,electric_bike,2022-02-22 08:36:16,2022-02-22 08:39:59,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140309,FFA4386CBC034B05,classic_bike,2022-02-06 11:56:37,2022-02-06 11:59:55,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140315,1218A32EFE902ACC,electric_bike,2022-02-26 07:11:13,2022-02-26 07:14:27,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140316,8AD2A6432CA8C24F,classic_bike,2022-02-16 10:06:16,2022-02-16 10:09:25,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140318,3A5B5E1FBB358BFE,classic_bike,2022-02-09 17:06:24,2022-02-09 17:10:52,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140320,133DAEE1F4D658DD,classic_bike,2022-02-10 10:07:01,2022-02-10 10:11:16,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140326,BECFED6EE8C3010A,classic_bike,2022-02-02 14:55:55,2022-02-02 15:00:07,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140327,899C34F78035786B,classic_bike,2022-02-05 10:40:32,2022-02-05 10:44:45,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1140351,0B36BEF941655EBF,electric_bike,2022-02-27 08:07:32,2022-02-27 08:10:07,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140352,677C9A6046D1C07E,electric_bike,2022-02-19 07:08:07,2022-02-19 07:10:37,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140551,19D374669E494338,classic_bike,2022-02-20 11:28:38,2022-02-20 11:31:30,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140552,4C76F718F0A70CC8,classic_bike,2022-02-24 17:35:59,2022-02-24 17:39:55,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140562,2BAD29837628B3AF,electric_bike,2022-02-13 15:57:59,2022-02-13 16:00:28,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140563,39DE15F26E6DEBE3,electric_bike,2022-02-25 07:03:41,2022-02-25 07:06:38,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140564,093E421E1634A262,electric_bike,2022-02-23 15:17:17,2022-02-23 15:19:51,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140565,D44112AF434A71A0,classic_bike,2022-02-10 16:19:24,2022-02-10 16:23:43,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1140759,EE9733074DB79ACC,classic_bike,2022-02-07 16:16:48,2022-02-07 16:22:09,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,member
+1140783,97CC1BDAFAC0842B,classic_bike,2022-02-10 15:23:13,2022-02-10 15:31:21,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,casual
+1140797,346A2158211D1508,electric_bike,2022-02-09 14:14:29,2022-02-09 14:22:26,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,casual
+1140824,A44507BC6CEB275B,electric_bike,2022-02-01 11:26:01,2022-02-01 11:31:11,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,member
+1140825,D884E900D3CC046F,electric_bike,2022-02-15 10:35:32,2022-02-15 10:39:26,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,member
+1140828,C72DAAA1340A8A43,electric_bike,2022-02-18 06:12:25,2022-02-18 06:31:24,Knickerbocker Ave & Hancock St,4663,Milton St & Franklin St,5752,40.69385,-73.90974,40.72906,-73.95779,member
+1141319,FE1328D883AB174A,electric_bike,2022-02-16 15:26:10,2022-02-16 15:28:55,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141320,43CBAC4199598339,electric_bike,2022-02-25 18:27:15,2022-02-25 18:30:51,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141321,0F1D16362BEC1FFD,classic_bike,2022-02-28 08:29:46,2022-02-28 08:32:56,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141322,5F5A9EF05F58FBEB,classic_bike,2022-02-02 16:08:28,2022-02-02 16:13:12,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141328,850A284FBF3304E1,electric_bike,2022-02-23 15:53:54,2022-02-23 15:56:48,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141333,CFCB2BA006B20A66,electric_bike,2022-02-23 15:27:18,2022-02-23 15:29:47,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141334,07E7EBB7688703AF,electric_bike,2022-02-17 09:56:01,2022-02-17 09:58:50,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141335,55671A7878CDB879,electric_bike,2022-02-08 08:53:32,2022-02-08 08:55:47,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141336,1043548052EF5EBC,classic_bike,2022-02-16 08:46:18,2022-02-16 08:50:06,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141834,FA223DD535349F84,classic_bike,2022-02-21 08:14:23,2022-02-21 08:17:41,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141925,5002AAD777F9CAA4,classic_bike,2022-02-24 15:24:19,2022-02-24 15:27:50,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1141934,6C11182D610B11F5,electric_bike,2022-02-05 05:53:31,2022-02-05 05:56:13,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1141935,3AB58B72442953F4,electric_bike,2022-02-23 17:26:54,2022-02-23 17:29:21,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,casual
+1142385,F9B912B2327EB89A,classic_bike,2022-02-17 11:52:54,2022-02-17 11:59:00,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,casual
+1142387,80860411791E1019,classic_bike,2022-02-24 16:17:42,2022-02-24 16:23:24,Knickerbocker Ave & Hancock St,4663,Wyckoff Ave & Gates Ave,4847,40.69385,-73.90974,40.699871408829885,-73.91171872615814,casual
+1143254,A503CF4B17511AF5,electric_bike,2022-02-18 15:22:49,2022-02-18 15:25:01,Putnam Ave & Knickerbocker Ave,4663,Wyckoff Ave & Gates Ave,4847,40.69545,-73.91164,40.699871408829885,-73.91171872615814,member
+1156664,AEE8A21431FDE9F9,electric_bike,2022-02-08 08:29:44,2022-02-08 08:39:22,Knickerbocker Ave & Hancock St,4663,McKibbin St & Bogart St,5059,40.69385,-73.90974,40.706237,-73.933871,member
+1183980,16DE3FA076D2F907,classic_bike,2022-02-07 23:27:26,2022-02-07 23:30:08,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1183992,542E87F882B979DB,electric_bike,2022-02-18 13:23:05,2022-02-18 13:25:26,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1183994,401A2D429336351C,electric_bike,2022-02-28 15:16:18,2022-02-28 15:19:08,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1183995,3D3D81265E07568B,classic_bike,2022-02-20 01:16:47,2022-02-20 01:19:00,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184006,06BBBE5215E446E1,electric_bike,2022-02-04 00:00:16,2022-02-04 00:02:59,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184007,FDA2CCEC56147FB3,classic_bike,2022-02-28 18:29:08,2022-02-28 18:33:11,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184013,49B3A6110868B4A4,classic_bike,2022-02-09 09:30:37,2022-02-09 09:33:26,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184016,91FD5DD7FB2380CB,classic_bike,2022-02-23 00:49:34,2022-02-23 00:52:02,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184017,A1FA766AA1410C02,classic_bike,2022-02-17 01:31:52,2022-02-17 01:34:42,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184020,100328454BF2A956,classic_bike,2022-02-03 09:17:47,2022-02-03 09:21:13,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184021,399F692B77F1DFEB,classic_bike,2022-02-02 09:07:43,2022-02-02 09:11:27,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184022,DA1A61920F0911A2,classic_bike,2022-02-10 09:02:11,2022-02-10 09:05:23,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184027,0798B0A17EE76B05,electric_bike,2022-02-16 17:31:22,2022-02-16 17:34:39,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184028,96DCA6EF6A6B6CF4,electric_bike,2022-02-16 12:24:42,2022-02-16 12:27:08,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184029,4B56E6980EC1606B,electric_bike,2022-02-24 20:36:38,2022-02-24 20:39:30,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184030,A973EC0FF0794889,electric_bike,2022-02-22 12:33:36,2022-02-22 12:36:34,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184031,D8E7F60EDFB98E79,electric_bike,2022-02-23 13:10:29,2022-02-23 13:13:15,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184032,120976EE029E6704,classic_bike,2022-02-17 12:15:27,2022-02-17 12:18:18,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184067,C5A1061E9BC7E91A,classic_bike,2022-02-21 16:18:34,2022-02-21 16:24:49,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184068,A9708C7A1F70E2EE,classic_bike,2022-02-13 22:08:39,2022-02-13 22:11:16,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184078,6ECE26117F95867D,classic_bike,2022-02-01 20:22:45,2022-02-01 20:26:17,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184079,4385D3A09FA7949B,classic_bike,2022-02-08 20:01:25,2022-02-08 20:05:09,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184082,CCC3F0943861D2F1,classic_bike,2022-02-24 21:33:50,2022-02-24 21:37:33,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184085,DE1A4391FC864645,electric_bike,2022-02-22 22:08:25,2022-02-22 22:11:14,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184086,814856C70932F467,classic_bike,2022-02-10 08:44:19,2022-02-10 08:47:20,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184095,DC051F0C9097E20F,electric_bike,2022-02-06 13:15:57,2022-02-06 13:18:43,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184096,84609A1239E144E3,classic_bike,2022-02-08 20:22:18,2022-02-08 20:25:10,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184169,E8635402270E6F1A,classic_bike,2022-02-28 13:32:34,2022-02-28 13:35:11,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184170,326647A62BF32943,classic_bike,2022-02-23 20:14:51,2022-02-23 20:17:41,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1184171,F4891373AE4CE3B5,classic_bike,2022-02-14 18:39:22,2022-02-14 18:45:14,Wyckoff Ave & Gates Ave,4847,Putnam Ave & Knickerbocker Ave,4663,40.699871408829885,-73.91171872615814,40.69545,-73.91164,member
+1197202,C1C7C9C7147D7C46,electric_bike,2022-02-24 18:23:18,2022-02-24 18:27:54,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,member
+1197218,D1F36CDCA48508C6,classic_bike,2022-02-26 08:54:52,2022-02-26 08:59:05,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,member
+1197229,43FE52ABE575A2CF,classic_bike,2022-02-26 09:37:40,2022-02-26 09:43:10,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,casual
+1197238,64484D1D1FBF5EE0,electric_bike,2022-02-18 18:33:13,2022-02-18 18:47:52,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,casual
+1197239,3EDA35A9645C31F4,electric_bike,2022-02-26 13:30:06,2022-02-26 13:34:00,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,casual
+1197245,4358210DB0D8A2ED,classic_bike,2022-02-08 00:53:56,2022-02-08 00:57:43,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,member
+1197457,BAF292022CD1BD81,classic_bike,2022-02-22 16:52:33,2022-02-22 17:04:49,Menahan St & Onderdonk Ave,5034,Knickerbocker Ave & Hancock St,4663,40.70553,-73.9096,40.69385,-73.90974,casual
+1197487,398523F3473423CE,electric_bike,2022-02-08 13:02:15,2022-02-08 13:06:08,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,casual
+1198477,ECECFF8D4B809279,electric_bike,2022-02-18 07:04:17,2022-02-18 07:07:52,Wyckoff Ave & Gates Ave,4847,Knickerbocker Ave & Hancock St,4663,40.699871408829885,-73.91171872615814,40.69385,-73.90974,member

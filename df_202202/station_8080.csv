@@ -1,0 +1,40 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+119874,5F569FB9B2B76ABA,electric_bike,2022-02-23 14:57:54,2022-02-23 15:00:48,Freeman St & Reverend James A Polite Ave,8080,Westchester Ave & Southern Blvd,8004,40.830529,-73.894717,40.824956,-73.891677,member
+234813,A45A30046F7BD726,electric_bike,2022-02-28 17:37:35,2022-02-28 17:55:01,Freeman St & Reverend James A Polite Ave,8080,Featherbed Ln & Jerome Ave,8285,40.830529,-73.894717,40.845505,-73.914311,member
+281848,CD2155320E08DB07,classic_bike,2022-02-07 08:09:47,2022-02-07 08:14:51,Freeman St & Reverend James A Polite Ave,8080,Franklin Ave & E 169 St,8118,40.830529,-73.894717,40.83171,-73.90208,member
+282154,99C708997D86C662,classic_bike,2022-02-08 07:47:46,2022-02-08 07:53:23,Freeman St & Reverend James A Polite Ave,8080,Franklin Ave & E 169 St,8118,40.830529,-73.894717,40.83171,-73.90208,member
+512208,48D7170D6E41C81E,electric_bike,2022-02-01 06:21:18,2022-02-01 06:31:24,Freeman St & Reverend James A Polite Ave,8080,Courtlandt Ave & E 149 St,7840,40.830529,-73.894717,40.816402,-73.919549,member
+526613,B2E544D2FD90331C,electric_bike,2022-02-10 07:41:56,2022-02-10 07:44:48,Freeman St & Reverend James A Polite Ave,8080,Franklin Ave & E 169 St,8118,40.830529,-73.894717,40.83171,-73.90208,casual
+526615,4E1665E8C2AF1EF2,electric_bike,2022-02-27 19:52:23,2022-02-27 19:56:02,Freeman St & Reverend James A Polite Ave,8080,Franklin Ave & E 169 St,8118,40.830529,-73.894717,40.83171,-73.90208,member
+540653,BD192BC9C4C0DB82,electric_bike,2022-02-09 13:11:17,2022-02-09 13:31:01,Freeman St & Reverend James A Polite Ave,8080,Westchester Ave & Southern Blvd,8004,40.830529,-73.894717,40.824956,-73.891677,casual
+659397,ABE2485C21786D6C,electric_bike,2022-02-06 13:18:55,2022-02-06 13:36:47,E 169 St & Fox St,8024,Freeman St & Reverend James A Polite Ave,8080,40.827184,-73.893721,40.830529,-73.894717,casual
+659719,E5987BC691A5964A,electric_bike,2022-02-28 17:31:08,2022-02-28 17:36:06,E 169 St & Fox St,8024,Freeman St & Reverend James A Polite Ave,8080,40.827184,-73.893721,40.830529,-73.894717,member
+659761,CB696E69B1923925,electric_bike,2022-02-27 18:27:10,2022-02-27 18:28:13,Freeman St & Southern Blvd,8060,Freeman St & Reverend James A Polite Ave,8080,40.830051,-73.892103,40.830529,-73.894717,member
+662676,FDA4F38E3EACEFD9,electric_bike,2022-02-28 14:30:08,2022-02-28 14:35:21,E 163 St & Tiffany St,7927,Freeman St & Reverend James A Polite Ave,8080,40.821075,-73.895069,40.830529,-73.894717,member
+663129,7D2651F97FEA13D1,electric_bike,2022-02-23 14:13:10,2022-02-23 14:22:27,Washington Ave & E 163 St,7995,Freeman St & Reverend James A Polite Ave,8080,40.824,-73.91089,40.830529,-73.894717,member
+663382,1751A0A153FAB9E5,electric_bike,2022-02-26 20:25:17,2022-02-26 20:29:59,Southern Blvd & E 175 St,8196,Freeman St & Reverend James A Polite Ave,8080,40.839335,-73.886445,40.830529,-73.894717,member
+663383,BC6D371AEDE46BE1,electric_bike,2022-02-26 23:16:16,2022-02-26 23:20:56,Freeman St & Reverend James A Polite Ave,8080,Southern Blvd & E 175 St,8196,40.830529,-73.894717,40.839335,-73.886445,member
+664305,D93C020F0FCCEC91,electric_bike,2022-02-02 16:55:52,2022-02-02 17:05:49,E 149 St & Jackson Ave,7812,Freeman St & Reverend James A Polite Ave,8080,40.813135,-73.909235,40.830529,-73.894717,member
+664587,0340AADECBE0658C,electric_bike,2022-02-07 07:10:19,2022-02-07 07:27:40,Morris Ave & E Burnside Ave,8441,Freeman St & Reverend James A Polite Ave,8080,40.85322,-73.90546,40.830529,-73.894717,member
+667033,E2F48032940367CB,electric_bike,2022-02-10 11:29:32,2022-02-10 11:42:19,Brook Ave & E 138 St,7707,Freeman St & Reverend James A Polite Ave,8080,40.807408,-73.91924,40.830529,-73.894717,member
+668243,9C203D9BEE92AACE,classic_bike,2022-02-21 08:45:35,2022-02-21 08:52:32,Southern Blvd & Tiffany St,7867,Freeman St & Reverend James A Polite Ave,8080,40.818185,-73.894143,40.830529,-73.894717,casual
+668405,68F667C245E23BC2,electric_bike,2022-02-14 09:47:45,2022-02-14 09:56:01,Southern Blvd & Tiffany St,7867,Freeman St & Reverend James A Polite Ave,8080,40.818185,-73.894143,40.830529,-73.894717,casual
+669423,1620B5DA1B510850,electric_bike,2022-02-17 17:51:47,2022-02-17 17:56:49,Westchester Ave & Southern Blvd,8004,Freeman St & Reverend James A Polite Ave,8080,40.824956,-73.891677,40.830529,-73.894717,member
+670078,3374417248FE85A8,classic_bike,2022-02-26 21:53:42,2022-02-26 22:02:56,Franklin Ave & E 169 St,8118,Freeman St & Reverend James A Polite Ave,8080,40.83171,-73.90208,40.830529,-73.894717,member
+671819,43581C6362EEB1C5,classic_bike,2022-02-04 17:29:08,2022-02-04 17:32:50,Intervale Ave & Kelly St,8044,Freeman St & Reverend James A Polite Ave,8080,40.827301,-73.896372,40.830529,-73.894717,member
+672002,6A170DCEE1680920,electric_bike,2022-02-25 22:54:12,2022-02-25 23:01:13,Westchester Ave & Jackson Ave,7853,Freeman St & Reverend James A Polite Ave,8080,40.816124,-73.908116,40.830529,-73.894717,casual
+672566,02869FD30F1B0E57,electric_bike,2022-02-01 22:28:50,2022-02-01 22:32:40,Intervale Ave & Westchester Ave,7948,Freeman St & Reverend James A Polite Ave,8080,40.821967,-73.896752,40.830529,-73.894717,member
+672831,0635CC1DDA1B8F27,electric_bike,2022-02-08 07:06:00,2022-02-08 07:21:28,Creston Ave & E 181 St,8456,Freeman St & Reverend James A Polite Ave,8080,40.8549,-73.90281,40.830529,-73.894717,member
+672832,48D1C2ABB4771922,electric_bike,2022-02-09 07:06:56,2022-02-09 07:21:22,Creston Ave & E 181 St,8456,Freeman St & Reverend James A Polite Ave,8080,40.8549,-73.90281,40.830529,-73.894717,member
+672960,4943165361D65A57,electric_bike,2022-02-10 07:06:29,2022-02-10 07:20:52,Creston Ave & E 181 St,8456,Freeman St & Reverend James A Polite Ave,8080,40.8549,-73.90281,40.830529,-73.894717,member
+675681,87056BF24B137214,electric_bike,2022-02-18 15:01:20,2022-02-18 15:03:27,Freeman St & Reverend James A Polite Ave,8080,Union Ave & E 169 St,8064,40.830529,-73.894717,40.82995,-73.898802,member
+680330,5FAB75C7A8B45456,electric_bike,2022-02-14 16:43:16,2022-02-14 16:45:56,Freeman St & Reverend James A Polite Ave,8080,Union Ave & E 169 St,8064,40.830529,-73.894717,40.82995,-73.898802,member
+680607,12C3809C27A947A8,electric_bike,2022-02-28 18:57:50,2022-02-28 19:00:28,Freeman St & Reverend James A Polite Ave,8080,Union Ave & E 169 St,8064,40.830529,-73.894717,40.82995,-73.898802,member
+720173,3647DB682B7618F1,electric_bike,2022-02-04 17:34:32,2022-02-04 17:37:35,Freeman St & Reverend James A Polite Ave,8080,Louis Nine Blvd & Intervale Ave,8114,40.830529,-73.894717,40.831998,-73.892686,member
+960578,A243B5117C90395E,electric_bike,2022-02-28 09:29:04,2022-02-28 09:35:38,Freeman St & Reverend James A Polite Ave,8080,E 163 St & Tiffany St,7927,40.830529,-73.894717,40.821075,-73.895069,member
+993107,D31B0B0E357265AD,electric_bike,2022-02-07 15:33:32,2022-02-07 15:52:36,Freeman St & Reverend James A Polite Ave,8080,Creston Ave & E 181 St,8456,40.830529,-73.894717,40.8549,-73.90281,member
+994588,20D275B67169C110,electric_bike,2022-02-08 11:04:38,2022-02-08 11:19:00,Freeman St & Reverend James A Polite Ave,8080,Creston Ave & E 181 St,8456,40.830529,-73.894717,40.8549,-73.90281,member
+1041857,EF0109FD168EB250,electric_bike,2022-02-06 18:31:13,2022-02-06 18:39:50,Freeman St & Reverend James A Polite Ave,8080,Charlotte St & Boston Rd,8167,40.830529,-73.894717,40.8358771,-73.8931428,casual
+1065696,283B9B2D0618A1DE,classic_bike,2022-02-22 21:47:29,2022-02-22 21:48:41,Freeman St & Reverend James A Polite Ave,8080,Freeman St & Southern Blvd,8060,40.830529,-73.894717,40.830051,-73.892103,member
+1157970,5A6460D8758B167A,electric_bike,2022-02-10 11:43:23,2022-02-10 12:33:45,Freeman St & Reverend James A Polite Ave,8080,Tiebout Ave & E Fordham Road,8546,40.830529,-73.894717,40.861915,-73.894831,member
+1172359,1BE43D07FB784FD9,electric_bike,2022-02-03 08:20:41,2022-02-03 08:31:19,Freeman St & Reverend James A Polite Ave,8080,Westchester Ave & Jackson Ave,7853,40.830529,-73.894717,40.816124,-73.908116,member

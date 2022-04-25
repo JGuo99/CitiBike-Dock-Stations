@@ -1,0 +1,6 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+475604,673EB1068BABDEAB,electric_bike,2021-09-30 23:44:43,2021-09-30 23:51:52,Anderson Ave & W 164 St,8096,Nelson Ave & W 172 St,8290,40.832057,-73.927421,40.843965,-73.920999,member
+477177,217D64D2BB1D30E3,electric_bike,2021-09-30 20:02:13,2021-09-30 20:40:12,Macombs Rd & W 175 St,8344,Nelson Ave & W 172 St,8290,40.848177,-73.916082,40.843965,-73.920999,casual
+482007,042FB2F4D4928415,electric_bike,2021-09-30 19:26:52,2021-09-30 20:40:23,W 145 St & Amsterdam Ave,7997,Nelson Ave & W 172 St,8290,40.825244,-73.947257,40.843965,-73.920999,member
+489854,6092BF5884621C48,classic_bike,2021-09-30 10:08:27,2021-09-30 10:13:24,Shakespeare Ave & W 169 St,8198,Nelson Ave & W 172 St,8290,40.839312,-73.922423,40.843965,-73.920999,casual
+2012613,BC8837B8B4CB555A,classic_bike,2021-09-30 12:17:27,2021-09-30 12:19:36,Nelson Ave & W 172 St,8290,Featherbed Ln & Nelson Ave,8327,40.843965,-73.920999,40.846011,-73.919637,casual
