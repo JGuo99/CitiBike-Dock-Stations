@@ -1,0 +1,8 @@
+,ride_id,rideable_type,started_at,ended_at,start_station_name,start_station_id,end_station_name,end_station_id,start_lat,start_lng,end_lat,end_lng,member_casual
+7377,26815AE863B9079B,docked_bike,2021-04-30 16:06:19,2021-04-30 16:33:44,Jerome Ave & Anderson Ave,8061,E Tremont Ave & Jerome Ave,8403,40.830179,-73.928747,40.851747,-73.908964,casual
+122630,89966F18D637C7AD,docked_bike,2021-04-30 22:29:11,2021-04-30 22:48:32,Jerome Ave & W 177 St,8362,E Tremont Ave & Jerome Ave,8403,40.850121,-73.910765,40.851747,-73.908964,casual
+263912,11AF3C9058976879,docked_bike,2021-04-30 17:43:40,2021-04-30 18:10:41,E Tremont Ave & Jerome Ave,8403,E Tremont Ave & Jerome Ave,8403,40.851747,-73.908964,40.851747,-73.908964,member
+757885,CA10AB588D62C3D7,docked_bike,2021-04-30 15:45:25,2021-04-30 16:06:48,2 Ave & E 125 St,7648,E Tremont Ave & Jerome Ave,8403,40.802554,-73.933509,40.851747,-73.908964,casual
+762485,E033FE729DE0782E,docked_bike,2021-04-30 18:47:07,2021-04-30 19:07:13,E Tremont Ave & Jerome Ave,8403,E Tremont Ave & Jerome Ave,8403,40.851747,-73.908964,40.851747,-73.908964,casual
+763603,3014A07D8ED3CF97,docked_bike,2021-04-02 13:00:37,2021-04-03 14:00:32,Clay Ave & Claremont Pkwy,8225,E Tremont Ave & Jerome Ave,8403,40.83999,-73.90549,40.851747,-73.908964,casual
+769299,88CB9E6C65B4A57E,docked_bike,2021-04-30 15:34:51,2021-04-30 16:27:16,Melrose Ave & E 154 St,7918,E Tremont Ave & Jerome Ave,8403,40.819609,-73.916071,40.851747,-73.908964,member
